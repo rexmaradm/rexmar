@@ -5,7 +5,6 @@ default_language = "es"
 
 compile_sass = true
 generate_feeds = true
-build_search_index = true # <-- Activamos la búsqueda interna instantánea
 
 [extra]
 description = "Rexmar - Agua de Mar Perú."
@@ -13,11 +12,10 @@ keywords = "agua de mar, cobre, bienestar"
 
 menu = [
     {url = "/", name = "Inicio"},
-    {url = "/formas-de-uso-y-tips/", name = "Formas de Uso"},
-    {url = "/recetas/", name = "Recetas"},
-    {url = "/preguntas-frecuentes/", name = "Preguntas Frecuentes"},
+    {url = "/home/formas-de-uso-y-tips/", name = "Formas de Uso"},
+    {url = "/home/recetas/", name = "Recetas"},
+    {url = "/home/preguntas-frecuentes/", name = "Preguntas Frecuentes"},
     {url = "/rexcobre-artesanias/", name = "Rexcobre"},
-    {url = "/contacto/", name = "Contacto"}, # <-- ¡Agregado al menú principal!
 ]
 
 [extra.author]
@@ -27,3 +25,4 @@ email = "rexmaradm@gmail.com"
 [extra.author.twitter]
 link = ""
 username = ""
+ 

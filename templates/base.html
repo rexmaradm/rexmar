@@ -22,38 +22,13 @@
         article.preview a:hover { text-decoration: underline; }
         footer { text-align: center; padding: 20px; color: #93c5fd; margin-top: 40px; }
 
-        /* Estilos para el Buscador y el Botón de Audio */
-        .tools-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin: 20px 0;
-            padding: 15px;
-            background-color: #2563eb;
-            border-radius: 8px;
-        }
-        .search-form { display: flex; gap: 5px; }
-        .search-form input[type="text"] {
-            padding: 8px 12px;
-            border: 2px solid #3b82f6;
-            border-radius: 5px;
-            background-color: #ffffff;
-            color: #1e3a8a;
-            font-size: 16px;
-        }
-        .search-form button, .audio-btn {
-            padding: 8px 15px;
-            background-color: #1e40af;
-            color: #ffffff;
-            border: 2px solid #3b82f6;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 16px;
-            font-weight: bold;
-        }
-        .search-form button:hover, .audio-btn:hover { background-color: #3b82f6; }
+        /* Estilos para la búsqueda interna de Zola */
+        .search-box { position: relative; max-width: 400px; margin: 20px auto 0 auto; }
+        #search-input { width: 100%; padding: 10px; border: 2px solid #3b82f6; border-radius: 5px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; }
+        #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 5px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
+        .search-result { padding: 10px; border-bottom: 1px solid #e5e7eb; }
+        .search-result a { color: #1e3a8a; text-decoration: none; display: block; }
+        .search-result a:hover { background-color: #f3f4f6; }
     </style>
 </head>
 <body>
@@ -65,17 +40,10 @@
             {% endfor %}
         </nav>
         
-        <!-- Contenedor de Herramientas: Buscador y Audio -->
-        <div class="tools-container">
-            <!-- Buscador de Google -->
-            <form class="search-form" action="https://www.google.com/search" method="get" target="_blank">
-                <input type="text" name="q" placeholder="Buscar en Rexmar..." required>
-                <input type="hidden" name="sitesearch" value="rexmar.pages.dev">
-                <button type="submit"> Buscar</button>
-            </form>
-
-            <!-- Botón ResponsiveVoice -->
-            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar página</button>
+        <!-- Buscador Interno Instantáneo -->
+        <div class="search-box">
+            <input type="text" id="search-input" placeholder="🔍 Buscar en el sitio...">
+            <div id="search-results"></div>
         </div>
     </header>
     
@@ -87,19 +55,50 @@
         <p>&copy; {{ config.title }} - Todos los derechos reservados.</p>
     </footer>
 
-    <!-- Script de ResponsiveVoice -->
-    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+    <!-- Script de búsqueda de Zola -->
+    {% if config.build_search_index %}
+    <script src="/elasticlunr.min.js"></script>
     <script>
-        function leerPagina() {
-            // Obtiene todo el texto dentro de la etiqueta <main>
-            var texto = document.querySelector('main').innerText;
-            // Lo lee en español latinoamericano femenino
-            responsiveVoice.speak(texto, "Spanish Latin American Female", {
-                rate: 1,
-                pitch: 1,
-                volume: 1
-            });
-        }
+        fetch('/search_index.es.json')
+            .then(response => response.json())
+            .then(data => {
+                const index = elasticlunr.Index.load(data);
+                const input = document.getElementById('search-input');
+                const results = document.getElementById('search-results');
+                
+                input.addEventListener('input', () => {
+                    const query = input.value.trim();
+                    if (query.length < 2) {
+                        results.style.display = 'none';
+                        return;
+                    }
+                    
+                    const searchResults = index.search(query, { 
+                        fields: { title: { boost: 2 }, body: { boost: 1 } }, 
+                        expand: true 
+                    });
+                    
+                    if (searchResults.length > 0) {
+                        results.innerHTML = searchResults.map(result => {
+                            const doc = data.docs[result.ref];
+                            return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
+                        }).join('');
+                        results.style.display = 'block';
+                    } else {
+                        results.innerHTML = '<div class="search-result" style="color: #666;">No se encontraron resultados</div>';
+                        results.style.display = 'block';
+                    }
+                });
+
+                // Ocultar resultados al hacer clic fuera del buscador
+                document.addEventListener('click', (e) => {
+                    if (!e.target.closest('.search-box')) {
+                        results.style.display = 'none';
+                    }
+                });
+            })
+            .catch(err => console.error("Error cargando índice de búsqueda:", err));
     </script>
+    {% endif %}
 </body>
 </html>
