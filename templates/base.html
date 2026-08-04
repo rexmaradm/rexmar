@@ -21,14 +21,17 @@
         article.preview a { color: #ffffff; text-decoration: none; }
         article.preview a:hover { text-decoration: underline; }
         footer { text-align: center; padding: 20px; color: #93c5fd; margin-top: 40px; }
-
-        /* Estilos para la búsqueda interna de Zola */
-        .search-box { position: relative; max-width: 400px; margin: 20px auto 0 auto; }
+        
+        /* Estilos para búsqueda y audio */
+        .tools-container { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 20px 0; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        .search-box { position: relative; max-width: 400px; }
         #search-input { width: 100%; padding: 10px; border: 2px solid #3b82f6; border-radius: 5px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; }
         #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 5px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
         .search-result { padding: 10px; border-bottom: 1px solid #e5e7eb; }
         .search-result a { color: #1e3a8a; text-decoration: none; display: block; }
         .search-result a:hover { background-color: #f3f4f6; }
+        .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 5px; cursor: pointer; font-size: 16px; font-weight: bold; }
+        .audio-btn:hover { background-color: #3b82f6; }
     </style>
 </head>
 <body>
@@ -40,10 +43,16 @@
             {% endfor %}
         </nav>
         
-        <!-- Buscador Interno Instantáneo -->
-        <div class="search-box">
-            <input type="text" id="search-input" placeholder="🔍 Buscar en el sitio...">
-            <div id="search-results"></div>
+        <!-- Contenedor de herramientas: Búsqueda + Audio -->
+        <div class="tools-container">
+            <!-- Campo de búsqueda -->
+            <div class="search-box">
+                <input type="text" id="search-input" placeholder=" Buscar en el sitio...">
+                <div id="search-results"></div>
+            </div>
+            
+            <!-- Botón ResponsiveVoice -->
+            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar página</button>
         </div>
     </header>
     
@@ -55,11 +64,34 @@
         <p>&copy; {{ config.title }} - Todos los derechos reservados.</p>
     </footer>
 
-    <!-- Script de búsqueda de Zola -->
+    <!-- Script de ResponsiveVoice -->
+    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+    <script>
+        function leerPagina() {
+            var texto = document.querySelector('main').innerText;
+            responsiveVoice.speak(texto, "Spanish Latin American Female", {
+                rate: 1,
+                pitch: 1,
+                volume: 1
+            });
+        }
+    </script>
+
+    <!-- Script de búsqueda de Zola (solo si está activada) -->
     {% if config.build_search_index %}
     <script src="/elasticlunr.min.js"></script>
     <script>
-        fetch('/search_index.es.json')
+        // Detectar idioma y cargar el índice correcto
+        var searchIndexUrl = '/search_index.en.json'; // Por defecto inglés
+        
+        fetch(searchIndexUrl)
+            .then(response => {
+                if (!response.ok) {
+                    // Si no existe el índice en inglés, probar con español
+                    return fetch('/search_index.es.json');
+                }
+                return response;
+            })
             .then(response => response.json())
             .then(data => {
                 const index = elasticlunr.Index.load(data);
@@ -90,14 +122,17 @@
                     }
                 });
 
-                // Ocultar resultados al hacer clic fuera del buscador
+                // Ocultar resultados al hacer clic fuera
                 document.addEventListener('click', (e) => {
                     if (!e.target.closest('.search-box')) {
                         results.style.display = 'none';
                     }
                 });
             })
-            .catch(err => console.error("Error cargando índice de búsqueda:", err));
+            .catch(err => {
+                console.error("Error cargando índice de búsqueda:", err);
+                document.getElementById('search-input').placeholder = "🔍 Búsqueda no disponible";
+            });
     </script>
     {% endif %}
 </body>
