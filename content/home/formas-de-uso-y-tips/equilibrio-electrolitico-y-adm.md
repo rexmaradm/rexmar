@@ -1,0 +1,181 @@
+---
+id: 2872
+title: 'Adelgace y mejore su salud &#8211; Equilibrio Hidro-Electrolítico y AdM'
+date: '2025-03-22T16:02:37+00:00'
+author: legar
+excerpt: ''
+layout: page
+guid: 'https://th.org.pe/wp/?page_id=2872'
+classic-editor-remember:
+    - block-editor
+    - block-editor
+footnotes:
+    - ''
+    - ''
+---
+
+## **Adaptación (casera, no oficial) con AdM del sistema Unani del dr. David Duarte**
+
+**Nuestro cuerpo necesita unos 9 gr de sal por litro de agua (incluyendo líquidos y *"solidos"* que comemos).   
+  
+Si no compensamos lo que tomamos y comemos con ese % de sal, que nos pasará ?   
+  
+Desequilibrio electrolítico, el exceso de agua agua se va a introducir por ósmosis a las células y eso provocará edema intracelular, entre muchas otras cosas que nos llevará ese desequilibrio.  
+  
+veamos debajo la explicación del [dr. David Duarte ](https://www.academiaunani.com/).**
+
+<figure class="wp-block-table">| ![](/wp-content/uploads/2025/04/porqueisotonizar.png) | [](/formas-de-uso-y-tips/calculadora-isotonica/)![Calculadora Isotónica gratuita](/wp-content/uploads/2025/03/calculadora-1.png)**Calculadora para saber cuantos ML poner de AdM para isotonizar un líquido:** [/formas-de-uso-y-tips/calculadora-isotonica/](/formas-de-uso-y-tips/calculadora-isotonica/) |
+|---|---|
+
+</figure><iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v74u99m/?pub=1wgpuu" width="640"></iframe>## **Somos agua de mar**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6q8435/?pub=1wgpuu" width="640"></iframe>---
+
+## **Porqué tomar agua de mar isotónica?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6prrgp/?pub=1wgpuu" width="640"></iframe><script>!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src="https://rumble.com/embedJS/u1wgpuu"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, "script", "Rumble");</script><div id="rumble_v6o7ube"></div><script>
+Rumble("play", {"video":"v6o7ube","div":"rumble_v6o7ube"});</script>---
+
+## **Es posible adelgazar siguiendo éste método?**
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="7klw3gfSAbI") }} </div></figure>---
+
+##   
+  
+**Cómo y porqué ir subiendo despacio el % de sal según el dr. David Duarte**  
+
+
+<script>!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src="https://rumble.com/embedJS/u1wgpuu"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, "script", "Rumble");</script><div id="rumble_v6oud1y"></div><script>
+Rumble("play", {"video":"v6oud1y","div":"rumble_v6oud1y"});</script>---
+
+## **A partir de cuántos gramos de sal es terapéutico ?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qna85/?pub=1wgpuu" width="640"></iframe>---
+
+## **Porqué el dr. David Duarte no menciona o recomienda el agua de mar**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6pxxk1/?pub=1wgpuu" width="640"></iframe>---
+
+## **Suero con agua de mar?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6q16bz/?pub=1wgpuu" width="640"></iframe>---
+
+## **Venimos del mar**
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="znSxL3o99JI") }} </div></figure>---
+
+## **Somos 60% de líquido con sal**
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="JPLkocd5-Rk") }} </div></figure>---
+
+## **Cómo y hasta cuánta sal agregar para tratar el edema intracelular?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6q4o0z/?pub=1wgpuu" width="640"></iframe>---
+
+## **Cómo ir subiendo despacio según dr. DD**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qihch/?pub=1wgpuu" width="640"></iframe>---
+
+## **Cuál es el rango de sal terapéutico?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qaomd/?pub=1wgpuu" width="640"></iframe>---
+
+## **Cómo mejorar la flora intestinal?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qhvf1/?pub=1wgpuu" width="640"></iframe>---
+
+## **La sed Regula**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qiiwn/?pub=1wgpuu" width="640"></iframe>---
+
+## **La sal crea piedras en el riñón?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qdjjx/?pub=1wgpuu" width="640"></iframe>---
+
+## **Enf. autoinmunes y flora intestinal**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6q7k1d/?pub=1wgpuu" width="640"></iframe>---
+
+## **Solución al 85% de las enfermedades crónico degenerativas** 
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="lBr_pkwNPJc") }} </div></figure>---
+
+## **Fibromialgia, por falta de sal?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qdu2l/?pub=1wgpuu" width="640"></iframe>---
+
+## **Densidad de nutrientes**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qfgb1/?pub=1wgpuu" width="640"></iframe>---
+
+## **Cómo medir en sólidos el AdM a agregar?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6q1lln/?pub=1wgpuu" width="640"></iframe>---
+
+## **Buscar % de agua en alimentos (abre en otra ventana):**  
+
+
+<form action="https://duckduckgo.com/" id="duckduckgo-form" method="get" target="_blank"> <label for="search">Buscar alimento:</label> <input id="search" name="q" placeholder="Ej: quinoa" required="" type="text"></input> <div id="hcaptcha-container"> [hcaptcha] </div> <button type="submit">Buscar</button></form><script>
+  // Función para limpiar el campo de búsqueda
+  function clearSearchInput() {
+    var searchInput = document.getElementById('search');
+    if (searchInput) {
+      searchInput.value = ''; // Resetea el campo de búsqueda
+    }
+  }
+
+  // Concatenar el texto fijo, limpiar el campo y reiniciar el captcha antes de enviar el formulario
+  document.getElementById('duckduckgo-form').addEventListener('submit', function(event) {
+    var userInput = document.getElementById('search').value.trim();
+    document.getElementById('search').value = userInput + ' que contenido de agua tiene? ';
+
+    // Limpiar el campo y reiniciar el captcha después de enviar
+    setTimeout(function() {
+      clearSearchInput();
+
+      // Reiniciar el hCaptcha
+      try {
+        hcaptcha.reset(); // Restablece el captcha para que el usuario lo complete nuevamente
+      } catch (error) {
+        console.error("Error al reiniciar hCaptcha:", error);
+      }
+    }, 0); // Limpia el campo y reinicia el captcha después de que se procese el envío
+  });
+
+  // Limpiar el campo cuando la página se carga por primera vez
+  document.addEventListener('DOMContentLoaded', function() {
+    clearSearchInput();
+  });
+</script>---
+
+## **Piedras en el riñón?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6psar9/?pub=1wgpuu" width="640"></iframe>---
+
+## **Desde cuándo estamos enfermos?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qfgpz/?pub=1wgpuu" width="640"></iframe>---
+
+## **Cuántos gr de sal toma el dr. David Duarte?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qifrz/?pub=1wgpuu" width="640"></iframe>---
+
+## **Qué es la gripa cetogénica?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6q3akb/?pub=1wgpuu" width="640"></iframe>---
+
+## **Porqué no tomar bebidas "energéticas" ?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6psvwh/?pub=1wgpuu" width="640"></iframe>---
+
+## **Anemia por exceso de agua sin electrolitos**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6ptq3j/?pub=1wgpuu" width="640"></iframe>---
+
+## **Los filtros de piedras aportan electrolitos?**
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6ptqrl/?pub=1wgpuu" width="640"></iframe>---
+
+## **La urinoterapia sirve?** 
+
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qnfij/?pub=1wgpuu" width="640"></iframe>---

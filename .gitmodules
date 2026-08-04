@@ -1,0 +1,3 @@
+[submodule "themes/butler"]
+	path = themes/butler
+	url = https://github.com/shalzz/butler

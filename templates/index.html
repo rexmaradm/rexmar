@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <!-- Contenido principal de la portada -->
+    <div class="home-content">
+        {{ section.content | safe }}
+    </div>
+
+    <!-- Lista de artículos recientes -->
+    <div class="article-list">
+        <h2>Últimos Artículos Publicados</h2>
+        {% for page in section.pages %}
+        <article class="preview">
+            <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+            <time>{{ page.date | date(format="%Y-%m-%d") }}</time>
+        </article>
+        {% endfor %}
+    </div>
+{% endblock content %}

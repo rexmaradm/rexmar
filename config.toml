@@ -1,0 +1,27 @@
+base_url = "https://rexmar.pages.dev"
+title = "Rexmar"
+theme = "butler"
+default_language = "es"
+
+compile_sass = true
+generate_feeds = true
+
+[extra]
+description = "Rexmar - Agua de Mar Perú."
+keywords = "agua de mar, cobre, bienestar"
+
+menu = [
+    {url = "/", name = "Inicio"},
+    {url = "/home/formas-de-uso-y-tips/", name = "Formas de Uso"},
+    {url = "/home/recetas/", name = "Recetas"},
+    {url = "/home/preguntas-frecuentes/", name = "Preguntas Frecuentes"},
+    {url = "/rexcobre-artesanias/", name = "Rexcobre"},
+]
+
+[extra.author]
+name = "Rexmar"
+email = "rexmaradm@gmail.com"
+
+[extra.author.twitter]
+link = ""
+username = ""

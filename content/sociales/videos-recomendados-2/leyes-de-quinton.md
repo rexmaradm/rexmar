@@ -1,0 +1,110 @@
+---
+id: 634
+title: 'Leyes de Quinton'
+date: '2022-03-18T13:39:57+00:00'
+author: legar
+excerpt: ''
+layout: page
+guid: 'https://rexmar.org.pe/?page_id=392'
+ao_post_optimize:
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+    - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
+original_post_id:
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+    - '392'
+classic-editor-remember:
+    - block-editor
+    - block-editor
+    - block-editor
+    - block-editor
+    - block-editor
+    - block-editor
+footnotes:
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+---
+
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1BhCLF0lgI1pSxrmzh2ZwAhd1YjzCgJ-P/preview" width="666"></iframe>**Escuchar toda la página**René Quinton fue un biólogo y fisiólogo francés que descubrió las similitudes entre el agua de mar y el líquido intracelular de los vertebrados. Basado en esta premisa, Quinton desarrolló su terapia marina y formuló varias leyes relacionadas con el uso del agua de mar en la salud y la agricultura. A continuación, se presenta un resumen de las leyes de René Quinton:
+
+1. **Ley de la constancia marina**: Esta ley establece que el agua de mar tiene una composición química muy similar al plasma sanguíneo y al líquido intracelular de los vertebrados. Según Quinton, el agua de mar puede ayudar a reconstruir las células dañadas y promover la salud\[4\].
+2. **Ley de la trascendencia biológica**: Quinton afirmaba que el agua de mar contiene todos los elementos necesarios para la vida y que su uso puede proporcionar energía y nutrientes esenciales para las plantas y los animales\[3\].
+3. **Ley de la homeostasis marina**: Esta ley sostiene que el agua de mar puede ayudar a mantener el equilibrio y la estabilidad en el organismo. Según Quinton, el uso del agua de mar puede contribuir a regular el pH, la hidratación y el funcionamiento de los tejidos\[6\].
+4. **Ley de la simbiosis marina**: Quinton postulaba que existe una relación simbiótica entre el agua de mar y los organismos vivos. Según esta ley, el agua de mar puede interactuar de manera beneficiosa con el cuerpo humano y promover la salud y el bienestar\[4\].
+
+Estas leyes forman la base de la terapia marina de René Quinton y han sido objeto de estudio y aplicación en diversos campos, como la medicina y la agricultura. Sin embargo, es importante tener en cuenta que la terapia marina y las leyes de René Quinton no son ampliamente aceptadas por la comunidad científica y su eficacia no ha sido demostrada de manera concluyente.
+
+Citas:  
+\[1\] https://es.quintonmedical.com/terapia-marina/rene-quinton  
+\[2\] https://www.fundacionrenequinton.org/quinton/  
+\[3\] https://www.academia.edu/67702292/RENE\_QUINTON\_AGUA\_DEL\_MAR\_ENERGIA\_PARA\_LA\_AGRICULTURA\_Maynard\_Murray  
+\[4\] https://quinton.es/sobre-nosotros/rene-quinton  
+\[5\] https://www.paleoforo.com/t1907-agua-de-mar-para-hidratacion-nutricion-sanacion  
+\[6\] https://catedrareyes.org/2018/03/09/la-ley-de-la-constancia-vital-por-alfonso-reyes/
+
+Disclamer: EL agua de mar no es un medicamento, no reemplaza la consulta con su terapeuta, médico o chamán que conozca las propiedades del Agua de Mar. Las opiniones vertidas aquí son en base a experiencias personales, testimonios, artículos o estudios científicos publicados en internet.
+
+Ley de Constancia Lumínica
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="6HpGyMKqYhM") }} </div></figure>Ley de Constancia General
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="sPWJhpL83j8") }} </div></figure>[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)
