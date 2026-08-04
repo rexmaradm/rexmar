@@ -7,6 +7,10 @@ compile_sass = true
 generate_feeds = true
 build_search_index = true
 
+# ¡ESTA ES LA CLAVE! Le dice a Zola que use el formato compatible con Fuse.js
+[search]
+index_format = "fuse_json"
+
 [extra]
 description = "Rexmar - Agua de Mar Perú."
 keywords = "agua de mar, cobre, bienestar"

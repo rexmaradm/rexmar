@@ -22,15 +22,16 @@
         article.preview a:hover { text-decoration: underline; }
         footer { text-align: center; padding: 20px; color: #93c5fd; margin-top: 40px; }
         
-        /* Estilos para búsqueda y audio */
         .tools-container { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 20px 0; padding: 15px; background-color: #2563eb; border-radius: 8px; }
-        .search-box { position: relative; max-width: 400px; }
-        #search-input { width: 100%; padding: 10px; border: 2px solid #3b82f6; border-radius: 5px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; }
-        #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 5px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
-        .search-result { padding: 10px; border-bottom: 1px solid #e5e7eb; }
-        .search-result a { color: #1e3a8a; text-decoration: none; display: block; }
+        .search-box { position: relative; width: 100%; max-width: 400px; }
+        #search-input { width: 100%; padding: 10px 15px; border: 2px solid #3b82f6; border-radius: 25px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; outline: none; }
+        #search-input:focus { border-color: #60a5fa; box-shadow: 0 0 8px rgba(59, 130, 246, 0.5); }
+        #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 8px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
+        .search-result { padding: 10px 15px; border-bottom: 1px solid #e5e7eb; }
+        .search-result:last-child { border-bottom: none; }
+        .search-result a { color: #1e3a8a; text-decoration: none; display: block; font-weight: bold; }
         .search-result a:hover { background-color: #f3f4f6; }
-        .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 5px; cursor: pointer; font-size: 16px; font-weight: bold; }
+        .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; white-space: nowrap; }
         .audio-btn:hover { background-color: #3b82f6; }
     </style>
 </head>
@@ -43,16 +44,12 @@
             {% endfor %}
         </nav>
         
-        <!-- Contenedor de herramientas: Búsqueda + Audio -->
         <div class="tools-container">
-            <!-- Campo de búsqueda -->
             <div class="search-box">
-                <input type="text" id="search-input" placeholder=" Buscar en el sitio...">
+                <input type="search" id="search-input" placeholder="🔍 Buscar en el sitio..." autocomplete="off" enterkeyhint="search">
                 <div id="search-results"></div>
             </div>
-            
-            <!-- Botón ResponsiveVoice -->
-            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar página</button>
+            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar</button>
         </div>
     </header>
     
@@ -64,75 +61,77 @@
         <p>&copy; {{ config.title }} - Todos los derechos reservados.</p>
     </footer>
 
-    <!-- Script de ResponsiveVoice -->
     <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
     <script>
         function leerPagina() {
             var texto = document.querySelector('main').innerText;
-            responsiveVoice.speak(texto, "Spanish Latin American Female", {
-                rate: 1,
-                pitch: 1,
-                volume: 1
-            });
+            responsiveVoice.speak(texto, "Spanish Latin American Female", { rate: 1, pitch: 1, volume: 1 });
         }
     </script>
 
-    <!-- Script de búsqueda de Zola (solo si está activada) -->
     {% if config.build_search_index %}
-    <script src="/elasticlunr.min.js"></script>
+    <!-- Cargamos Fuse.js desde CDN (maneja español perfectamente sin conflictos) -->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    
     <script>
-        // Detectar idioma y cargar el índice correcto
-        var searchIndexUrl = '/search_index.es.js'; // Por defecto inglés
-        
-        fetch(searchIndexUrl)
-            .then(response => {
-                if (!response.ok) {
-                    // Si no existe el índice en inglés, probar con español
-                    return fetch('/search_index.es.js');
-                }
-                return response;
-            })
-            .then(response => response.json())
-            .then(data => {
-                const index = elasticlunr.Index.load(data);
-                const input = document.getElementById('search-input');
-                const results = document.getElementById('search-results');
-                
-                input.addEventListener('input', () => {
-                    const query = input.value.trim();
-                    if (query.length < 2) {
-                        results.style.display = 'none';
-                        return;
-                    }
+        document.addEventListener('DOMContentLoaded', () => {
+            const input = document.getElementById('search-input');
+            const results = document.getElementById('search-results');
+            
+            // Cargamos el índice generado por Zola en formato JSON
+            fetch('/search_index.es.json')
+                .then(response => response.json())
+                .then(data => {
+                    console.log('✅ Índice de búsqueda cargado correctamente con Fuse.js');
                     
-                    const searchResults = index.search(query, { 
-                        fields: { title: { boost: 2 }, body: { boost: 1 } }, 
-                        expand: true 
+                    // Configuramos Fuse.js para buscar en título y cuerpo
+                    const fuse = new Fuse(data, {
+                        keys: ['title', 'body'],
+                        threshold: 0.3, // Sensibilidad de búsqueda (0.0 = exacto, 1.0 = cualquiera)
+                        includeScore: true
                     });
                     
-                    if (searchResults.length > 0) {
-                        results.innerHTML = searchResults.map(result => {
-                            const doc = data.docs[result.ref];
-                            return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
-                        }).join('');
-                        results.style.display = 'block';
-                    } else {
-                        results.innerHTML = '<div class="search-result" style="color: #666;">No se encontraron resultados</div>';
-                        results.style.display = 'block';
+                    function performSearch() {
+                        const query = input.value.trim();
+                        if (query.length < 2) {
+                            results.style.display = 'none';
+                            return;
+                        }
+                        
+                        const searchResults = fuse.search(query);
+                        
+                        if (searchResults.length > 0) {
+                            // Mostramos máximo 10 resultados
+                            results.innerHTML = searchResults.slice(0, 10).map(result => {
+                                const doc = result.item;
+                                return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
+                            }).join('');
+                            results.style.display = 'block';
+                        } else {
+                            results.innerHTML = '<div class="search-result" style="color: #666;">No se encontraron resultados</div>';
+                            results.style.display = 'block';
+                        }
                     }
-                });
 
-                // Ocultar resultados al hacer clic fuera
-                document.addEventListener('click', (e) => {
-                    if (!e.target.closest('.search-box')) {
-                        results.style.display = 'none';
-                    }
+                    input.addEventListener('input', performSearch);
+                    input.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter') {
+                            performSearch();
+                            input.blur(); // Oculta el teclado en móviles
+                        }
+                    });
+
+                    document.addEventListener('click', (e) => {
+                        if (!e.target.closest('.search-box')) {
+                            results.style.display = 'none';
+                        }
+                    });
+                })
+                .catch(err => {
+                    console.error('Error cargando índice de búsqueda:', err);
+                    input.placeholder = "⚠️ Búsqueda no disponible";
                 });
-            })
-            .catch(err => {
-                console.error("Error cargando índice de búsqueda:", err);
-                document.getElementById('search-input').placeholder = "🔍 Búsqueda no disponible";
-            });
+        });
     </script>
     {% endif %}
 </body>
