@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <title>Propiedades inmunomoduladoras del AdM - Rexmar</title>
     <style>
         body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
         header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
@@ -36,11 +36,21 @@
 </head>
 <body>
     <header>
-        <h1><a href="/">{{ config.title }}</a></h1>
+        <h1><a href="/">Rexmar</a></h1>
         <nav>
-            {% for item in config.extra.menu %}
-                <a href="{{ item.url }}">{{ item.name }}</a>
-            {% endfor %}
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
         </nav>
         
         <!-- Contenedor de herramientas: Búsqueda + Audio -->
@@ -57,11 +67,43 @@
     </header>
     
     <main>
-        {% block content %}{% endblock content %}
+        
+<article>
+    <h1>Propiedades inmunomoduladoras del AdM</h1>
+    <time>2025-01-07</time>
+    <div class="content">
+        <p><strong>Las propiedades inmunomoduladoras del agua de mar</strong></p>
+<p>El agua de mar es una solución rica en una gran variedad de minerales y oligoelementos esenciales para el funcionamiento óptimo de nuestro organismo. Estos componentes le confieren propiedades inmunomoduladoras, lo que significa que pueden ayudar a regular y fortalecer nuestro sistema inmunológico.</p>
+<p><strong>¿Cómo actúa el agua de mar en nuestro sistema inmunológico?</strong></p>
+<ul>
+<li><strong>Aporte de minerales esenciales:</strong> El agua de mar proporciona una fuente concentrada de minerales como sodio, magnesio, potasio, calcio y yodo, entre otros. Estos minerales son fundamentales para diversas funciones inmunológicas, como la producción de células inmunitarias y la respuesta inflamatoria.</li>
+<li><strong>Equilibrio electrolítico:</strong> Al aportar electrolitos, el agua de mar ayuda a mantener el equilibrio hídrico y electrolítico del organismo, lo cual es esencial para el correcto funcionamiento de todas las células, incluidas las del sistema inmunológico.</li>
+<li><strong>Efecto detoxificante:</strong> Algunos estudios sugieren que el agua de mar puede ayudar a eliminar toxinas del organismo, lo que podría contribuir a reducir la carga sobre el sistema inmunológico y mejorar su funcionamiento.</li>
+<li><strong>Modulación de la respuesta inflamatoria:</strong> Se cree que el agua de mar puede ayudar a modular la respuesta inflamatoria del organismo, reduciendo la inflamación excesiva que puede estar asociada a diversas enfermedades.</li>
+</ul>
+<p><strong>Beneficios potenciales para la salud</strong></p>
+<ul>
+<li><strong>Fortalecimiento del sistema inmunológico:</strong> Al proporcionar los nutrientes necesarios y ayudar a regular la respuesta inflamatoria, el agua de mar podría contribuir a fortalecer el sistema inmunológico y aumentar la resistencia a infecciones.</li>
+<li><strong>Mejora de la salud respiratoria:</strong> Algunos estudios sugieren que el agua de mar puede ser beneficioso para el tratamiento de afecciones respiratorias, como la sinusitis y la bronquitis.</li>
+<li><strong>Salud de la piel:</strong> El agua de mar se utiliza en tratamientos dermatológicos para diversas afecciones cutáneas, gracias a sus propiedades antiinflamatorias y regeneradoras.</li>
+</ul>
+<p><strong>Consideraciones importantes</strong></p>
+<ul>
+<li><strong>Calidad del agua:</strong> No todo el agua de mar es igual. Es importante consumir agua de mar de alta calidad, libre de contaminantes y procesada de manera adecuada.</li>
+<li><strong>Consumo moderado:</strong> Aunque el agua de mar puede aportar beneficios, es importante consumirla con moderación y bajo supervisión médica, ya que un exceso de sal puede tener efectos adversos en la salud.</li>
+<li><strong>No sustituye una dieta equilibrada:</strong> El agua de mar no debe considerarse un sustituto de una dieta equilibrada y variada.</li>
+</ul>
+<p><strong>En resumen</strong></p>
+<p>El agua de mar, gracias a su rica composición mineral, puede ofrecer beneficios para el sistema inmunológico y la salud en general. Sin embargo, es fundamental consumirla de manera responsable y bajo la orientación de un profesional de la salud.</p>
+<p>Fuente: <a rel="external" href="https://g.co/gemini/share/363ee13cbc0f">https://g.co/gemini/share/363ee13cbc0f</a></p>
+
+    </div>
+</article>
+
     </main>
     
     <footer>
-        <p>&copy; {{ config.title }} - Todos los derechos reservados.</p>
+        <p>&copy; Rexmar - Todos los derechos reservados.</p>
     </footer>
 
     <!-- Script de ResponsiveVoice -->
@@ -78,7 +120,7 @@
     </script>
 
     <!-- Script de búsqueda de Zola (solo si está activada) -->
-    {% if config.build_search_index %}
+    
     <script src="/elasticlunr.min.js"></script>
     <script>
         // Detectar idioma y cargar el índice correcto
@@ -134,6 +176,6 @@
                 document.getElementById('search-input').placeholder = "🔍 Búsqueda no disponible";
             });
     </script>
-    {% endif %}
+    
 </body>
 </html>

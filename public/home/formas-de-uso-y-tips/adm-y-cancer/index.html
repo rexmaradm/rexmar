@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <title>AdM y C.á.ncer *** - Rexmar</title>
     <style>
         body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
         header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
@@ -36,11 +36,21 @@
 </head>
 <body>
     <header>
-        <h1><a href="/">{{ config.title }}</a></h1>
+        <h1><a href="/">Rexmar</a></h1>
         <nav>
-            {% for item in config.extra.menu %}
-                <a href="{{ item.url }}">{{ item.name }}</a>
-            {% endfor %}
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
         </nav>
         
         <!-- Contenedor de herramientas: Búsqueda + Audio -->
@@ -57,11 +67,34 @@
     </header>
     
     <main>
-        {% block content %}{% endblock content %}
+        
+<article>
+    <h1>AdM y C.á.ncer ***</h1>
+    <time>2022-04-02</time>
+    <div class="content">
+        <p>(*)(***) El agua de mar es muy buena contra el C.á.ncer,y muchas cosas más, ademas te alcalinizará el organismo lo que redundará en una mejoria general</p>
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1uceHTGH6psCeoLt0_d_LrKAQ6kYTRX3p/preview" width="666"></iframe>**Escuchar toda la páginas**se ha constatado que los glóbulos blancos colocados en agua de mar isotónica aumentan la secreción de Interleucina 2, del Factor de Necrosis Tumoral Alfa y de Interferón gamma; en otras palabras, los glóbulos blancos humanos en agua de mar isotónica **¡desarrollan sustancias antitumorales!**
+<p>Fuente:<a rel="external" href="http://www.aquamaris.org/la-sangre-se-puede-sustituir-por-agua-de-mar-discovery-salud-no161/">http://www.aquamaris.org/la-sangre-se-puede-sustituir-por-agua-de-mar-discovery-salud-no161/</a></p>
+<p>Otros experimentos en fase inicial sugieren que el agua de mar puede detener el crecimiento de células de c.á.ncer de mama. En una investigación publicada en la revista ‘International Journal of Oncology’, los científicos de Corea del Sur han añadido agua de mar a una colección de células de c.á.ncer en un tubo de ensayo, demostrando que el agua de mar <strong>impidió que las células ca.ncer.ígenas se multipliquen.</strong></p>
+<p>Fuente:<a rel="external" href="https://www.spandidos-publications.com/10.3892/ijo.2013.2089">https://www.spandidos-publications.com/10.3892/ijo.2013.2089</a></p>
+<h2 id="otros-papers-cientificos">Otros papers científicos:</h2>
+<p><a rel="external" href="https://www.jcpjournal.org/journal/view.html?spage=60&amp;volume=14&amp;number=1">https://www.jcpjournal.org/journal/view.html?spage=60&amp;volume=14&amp;number=1</a></p>
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1YT0LPsOsj2Jp2AcFpcwaMDmC6gl1udTh/preview" width="666"></iframe>**Escuchar toda la páginas**  
+<https://www.liebertpub.com/doi/abs/10.1089/jmf.2020.4836>
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1BPzZ8nYcMiqY2U37o2tQ2XUZmXVpVpeu/preview" width="666"></iframe>**Escuchar toda la páginas**  
+<https://www.mdpi.com/831470>  
+<https://link.springer.com/article/10.1007/s12257-014-0210-6>
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1pFieJnKT9AVfWygqk8VAKur9ccPj_gqn/preview" width="666"></iframe>**Escuchar toda la páginas**(\**)Cualquier duda, recomendamos consultar a un Médico/homeópata/Chamán que conozca sobre los beneficios del agua de mar.​*
+<p><em>(</em>**) Disclamer: EL agua de mar no es un medicamento, no reemplaza la consulta con su terapeuta, médico o chamán que conozca las propiedades del Agua de Mar. Las opiniones vertidas aquí son en base a experiencias personales, testimonios o estudios publicados en internet.</p>
+<p><a href="/sociales/disclamer-descargo-de-responsabilidad/">*** Disclaimer</a><div hidden="">cancer, cáncer</div></p>
+
+    </div>
+</article>
+
     </main>
     
     <footer>
-        <p>&copy; {{ config.title }} - Todos los derechos reservados.</p>
+        <p>&copy; Rexmar - Todos los derechos reservados.</p>
     </footer>
 
     <!-- Script de ResponsiveVoice -->
@@ -78,7 +111,7 @@
     </script>
 
     <!-- Script de búsqueda de Zola (solo si está activada) -->
-    {% if config.build_search_index %}
+    
     <script src="/elasticlunr.min.js"></script>
     <script>
         // Detectar idioma y cargar el índice correcto
@@ -134,6 +167,6 @@
                 document.getElementById('search-input').placeholder = "🔍 Búsqueda no disponible";
             });
     </script>
-    {% endif %}
+    
 </body>
 </html>

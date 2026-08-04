@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <title>Lavado Nasal con Agua de Mar *** - Rexmar</title>
     <style>
         body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
         header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
@@ -36,11 +36,21 @@
 </head>
 <body>
     <header>
-        <h1><a href="/">{{ config.title }}</a></h1>
+        <h1><a href="/">Rexmar</a></h1>
         <nav>
-            {% for item in config.extra.menu %}
-                <a href="{{ item.url }}">{{ item.name }}</a>
-            {% endfor %}
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
         </nav>
         
         <!-- Contenedor de herramientas: Búsqueda + Audio -->
@@ -57,11 +67,26 @@
     </header>
     
     <main>
-        {% block content %}{% endblock content %}
+        
+<article>
+    <h1>Lavado Nasal con Agua de Mar ***</h1>
+    <time>2023-01-18</time>
+    <div class="content">
+        <p>Técnica de lavado nasal con agua de mar (AdM)</p>
+<p>El AdM es muy buena para el Lavado Nasal</p>
+<h3 id="simple-tecnica-para-hacerlo">Simple técnica para hacerlo:</h3>
+<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v3n13ng-lavado-nasal-con-agua-de-mar.html?mref=1wgpuu&amp;mc=1as4y </div></figure>## **Papers cientificos:**
+<p>https://journals.sagepub.com/doi/abs/10.1177/1753465809358190</p>
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1wvjk3vTAT3seEAxff5iKvhWGMgD9LMDT/preview" width="666"></iframe>**Escuchar el link de arriba**  
+https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/221846
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/18P8MYjMvUf_PZC7XofeXR0JXE21EAc5i/preview" width="666"></iframe>**Escuchar el link de arriba**[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)
+    </div>
+</article>
+
     </main>
     
     <footer>
-        <p>&copy; {{ config.title }} - Todos los derechos reservados.</p>
+        <p>&copy; Rexmar - Todos los derechos reservados.</p>
     </footer>
 
     <!-- Script de ResponsiveVoice -->
@@ -78,7 +103,7 @@
     </script>
 
     <!-- Script de búsqueda de Zola (solo si está activada) -->
-    {% if config.build_search_index %}
+    
     <script src="/elasticlunr.min.js"></script>
     <script>
         // Detectar idioma y cargar el índice correcto
@@ -134,6 +159,6 @@
                 document.getElementById('search-input').placeholder = "🔍 Búsqueda no disponible";
             });
     </script>
-    {% endif %}
+    
 </body>
 </html>

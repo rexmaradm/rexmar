@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <title>Apôptôsis Significado - Rexmar</title>
     <style>
         body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
         header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
@@ -36,11 +36,21 @@
 </head>
 <body>
     <header>
-        <h1><a href="/">{{ config.title }}</a></h1>
+        <h1><a href="/">Rexmar</a></h1>
         <nav>
-            {% for item in config.extra.menu %}
-                <a href="{{ item.url }}">{{ item.name }}</a>
-            {% endfor %}
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
         </nav>
         
         <!-- Contenedor de herramientas: Búsqueda + Audio -->
@@ -57,11 +67,27 @@
     </header>
     
     <main>
-        {% block content %}{% endblock content %}
+        
+<article>
+    <h1>Apôptôsis Significado</h1>
+    <time>2023-06-24</time>
+    <div class="content">
+        <p>La apôptôsis celular es un proceso natural de muerte celular programada que tiene lugar durante las primeras etapas de desarrollo para eliminar las células innecesarias, por ejemplo, las que se encuentran entre los dedos cuando se desarrolla una mano[1]. También se utiliza en adultos para deshacerse de las células que han sido dañadas irreversiblemente[1]. La apôptôsis es diferente de la necrosis, en la cual las células mueren debido a lesiones[2]. En general, la apôptôsis celular es buena porque es necesaria para el desarrollo y el mantenimiento de un sistema inmunitario sano[2]. Además, la apôptôsis es importante en la prevención del cáncer[1]. Cuando las células están dañadas o infectadas, la apôptôsis las elimina, lo que elimina las células precancerosas o cancerosas[3]. La apôptôsis también ofrece posibilidades terapéuticas en el campo de la Medicina Intensiva[4]. Sin embargo, en algunos casos, la inhibición de la apôptôsis celular puede producir una división celular incontrolada y, por consiguiente, el crecimiento de un tumor[1]. En resumen, la apôptôsis celular es buena porque es necesaria para el desarrollo y el mantenimiento de un sistema inmunitario sano y para prevenir el cáncer.</p>
+<p>Citations:<br />
+[1] https://www.genome.gov/es/genetics-glossary/Apoptosis<br />
+[2] https://es.khanacademy.org/science/biology/developmental-biology/apoptosis-in-development/a/apoptosis<br />
+[3] https://www.eldiario.es/tumejoryo/estar_bien/verdadera-limpieza-deja-celulas-suiciden_1_1160210.html<br />
+[4] https://www.medintensiva.org/es-apoptosis-implicaciones-medicina-intensiva-articulo-13065473</p>
+<p>By Perplexity at https://www.perplexity.ai/search/1e115bc0-e60a-4feb-bf85-aab38a216826</p>
+<p><a href="/sociales/disclamer-descargo-de-responsabilidad/">*** Disclaimer</a></p>
+
+    </div>
+</article>
+
     </main>
     
     <footer>
-        <p>&copy; {{ config.title }} - Todos los derechos reservados.</p>
+        <p>&copy; Rexmar - Todos los derechos reservados.</p>
     </footer>
 
     <!-- Script de ResponsiveVoice -->
@@ -78,7 +104,7 @@
     </script>
 
     <!-- Script de búsqueda de Zola (solo si está activada) -->
-    {% if config.build_search_index %}
+    
     <script src="/elasticlunr.min.js"></script>
     <script>
         // Detectar idioma y cargar el índice correcto
@@ -134,6 +160,6 @@
                 document.getElementById('search-input').placeholder = "🔍 Búsqueda no disponible";
             });
     </script>
-    {% endif %}
+    
 </body>
 </html>

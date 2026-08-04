@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <title>Estreñimiento y el agua de mar:*** - Rexmar</title>
     <style>
         body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
         header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
@@ -36,11 +36,21 @@
 </head>
 <body>
     <header>
-        <h1><a href="/">{{ config.title }}</a></h1>
+        <h1><a href="/">Rexmar</a></h1>
         <nav>
-            {% for item in config.extra.menu %}
-                <a href="{{ item.url }}">{{ item.name }}</a>
-            {% endfor %}
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
         </nav>
         
         <!-- Contenedor de herramientas: Búsqueda + Audio -->
@@ -57,11 +67,32 @@
     </header>
     
     <main>
-        {% block content %}{% endblock content %}
+        
+<article>
+    <h1>Estreñimiento y el agua de mar:***</h1>
+    <time>2022-12-12</time>
+    <div class="content">
+        <iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1qgwGLt0QzsM6KzRvR0Ihid6eyi0M611a/preview" width="666"></iframe>**Escuchar Toda la esta página**El agua de mar (AdM) es muy buena contra el Estreñimiento y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría en general.
+<p>Normalmente para el Estreñimiento se recomienda beber, sorbo a sorbo, un vasito (shot 20 ml a 30 ml ) de AdM con unas gotas de limón en ayunas. Si a los 5 minutos no hizo efecto puedes repetir, hasta no superar los 250 ml de AdM, en general con menos se logra la evacuación. A algunos le resulta mejor tomar una cantidad a la noche, antes de dormir para que trabaje durante el sueño, es cuestión de probar, cada organismo es distinto.</p>
+<p>Las sales del de AdM hacen un efecto osmótico, atrayendo el agua del organismo al intestino, lubricando las heces y favoreciendo el movimiento intestinal.</p>
+<p>Si no has logrado evacuar por estar muy estreñida/o, puedes hacer el enema casero con agua de mar, aquí explicado: <a href="/formas-de-uso-y-tips/como-auto-aplicarse-un-enema-casero-con-agua-de-mar/">/formas-de-uso-y-tips/como-auto-aplicarse-un-enema-casero-con-agua-de-mar/</a> .</p>
+<p>Es muy importante evacuar todos los días para que no se forme una costra en el colon y todo el organismo funcione mejor.</p>
+<p>Papers cientificos:</p>
+<p>https://www.mdpi.com/812812</p>
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1xE6lDcfALqpGEsNbfiTi5yeFOaOfkPFI/preview" width="666"></iframe>**Escuchar el link de arriba**https://www.mdpi.com/2072-6643/14/3/581
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1OeXcoshW5_85r8qx4uFcI_3yGxNEq0iI/preview" width="666"></iframe>**Escuchar el link de arriba**<https://pubmed.ncbi.nlm.nih.gov/32878045/>
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1FrKLVagHUpGokvUh_FEWHId9YENNPEfM/preview" width="666"></iframe>**Escuchar el link de arriba**  
+bacterias buenas: https://www.mdpi.com/812812
+<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1VP3aed1jMQtqOQu2VKIN9SsRv6zX4qM-/preview" width="666"></iframe>**Escuchar el link de arriba**Disclamer: EL agua de mar no es un medicamento, no reemplaza la consulta con su terapeuta, médico o chamán que conozca las propiedades del Agua de Mar. Las opiniones vertidas aquí son en base a experiencias personales, testimonios o estudios científicos publicados en internet.
+<p><a href="/sociales/disclamer-descargo-de-responsabilidad/">*** Disclaimer</a></p>
+
+    </div>
+</article>
+
     </main>
     
     <footer>
-        <p>&copy; {{ config.title }} - Todos los derechos reservados.</p>
+        <p>&copy; Rexmar - Todos los derechos reservados.</p>
     </footer>
 
     <!-- Script de ResponsiveVoice -->
@@ -78,7 +109,7 @@
     </script>
 
     <!-- Script de búsqueda de Zola (solo si está activada) -->
-    {% if config.build_search_index %}
+    
     <script src="/elasticlunr.min.js"></script>
     <script>
         // Detectar idioma y cargar el índice correcto
@@ -134,6 +165,6 @@
                 document.getElementById('search-input').placeholder = "🔍 Búsqueda no disponible";
             });
     </script>
-    {% endif %}
+    
 </body>
 </html>

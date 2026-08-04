@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <title>Maestro José Arazaire - Rexmar</title>
     <style>
         body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
         header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
@@ -36,11 +36,21 @@
 </head>
 <body>
     <header>
-        <h1><a href="/">{{ config.title }}</a></h1>
+        <h1><a href="/">Rexmar</a></h1>
         <nav>
-            {% for item in config.extra.menu %}
-                <a href="{{ item.url }}">{{ item.name }}</a>
-            {% endfor %}
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
         </nav>
         
         <!-- Contenedor de herramientas: Búsqueda + Audio -->
@@ -57,11 +67,20 @@
     </header>
     
     <main>
-        {% block content %}{% endblock content %}
+        
+<article>
+    <h1>Maestro José Arazaire</h1>
+    <time>2022-06-07</time>
+    <div class="content">
+        <p>Maestro Curandero/<span class="wmf-wp-with-preview" data-wikipedia-preview="" data-wp-lang="es" data-wp-title="Ayahuasca">Ayahuasquero</span>, vegetalista y conferenciante internacional.</p>
+<figure class="wp-block-image aligncenter size-full">![](/wp-content/uploads/2022/06/MaestroJoseArazaire.jpg)</figure><figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-full">![ceremonias](/wp-content/uploads/2022/06/87388367_8680nyYoqO2EU5eGb0-1ct7wTb3vrQpzHqutBj-EppQ.jpg)<figcaption class="wp-element-caption">**ceremonias**</figcaption></figure><figure class="wp-block-image size-full">![](/wp-content/uploads/2022/06/87388367_A_75aVsitqZrKE-xaqcN91gVaICtJt_M2EZjVB3jUII.png)</figure><figure class="wp-block-image size-full">![ceremonias](/wp-content/uploads/2022/06/87388367_D8De_g02aU3EEDAn8NU8o1i-7QbKiR_6pSXQH8hL4Wc.jpg)<figcaption class="wp-element-caption">**ceremonias**</figcaption></figure><figure class="wp-block-image size-full">![Conferenciante Internacional](/wp-content/uploads/2022/06/87388367_x-Pbd27vhLnTukeHVahliROCNJfGxZvMZ-RVcTKqBUI.jpg)<figcaption class="wp-element-caption">**Conferenciante Internacional**</figcaption></figure><figure class="wp-block-image size-full">![Cortando Liana de Ayahuasca](/wp-content/uploads/2022/06/lianaAya.jpg)<figcaption class="wp-element-caption">**Cortando Liana de Ayahuasca**</figcaption></figure><figure class="wp-block-image size-full">![Sembrando semillas de Ayahuasca](/wp-content/uploads/2022/06/semillasAya.jpeg)<figcaption class="wp-element-caption">**Sembrando semillas de Ayahuasca**</figcaption></figure><figure class="wp-block-image size-large">![Icarando la medicina para una paciente](/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-07-at-10.52.58-AM-569x1024.jpg)<figcaption class="wp-element-caption">**Icarando la medicina para una paciente**</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-07-at-10.58.07-AM.jpg)</figure><figure class="wp-block-image size-large">![Ceremonia de Ayahuasca](/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-07-at-12.15.21-PM.jpg)<figcaption class="wp-element-caption">**Ceremonia de Ayahuasca**</figcaption></figure></figure>
+    </div>
+</article>
+
     </main>
     
     <footer>
-        <p>&copy; {{ config.title }} - Todos los derechos reservados.</p>
+        <p>&copy; Rexmar - Todos los derechos reservados.</p>
     </footer>
 
     <!-- Script de ResponsiveVoice -->
@@ -78,7 +97,7 @@
     </script>
 
     <!-- Script de búsqueda de Zola (solo si está activada) -->
-    {% if config.build_search_index %}
+    
     <script src="/elasticlunr.min.js"></script>
     <script>
         // Detectar idioma y cargar el índice correcto
@@ -134,6 +153,6 @@
                 document.getElementById('search-input').placeholder = "🔍 Búsqueda no disponible";
             });
     </script>
-    {% endif %}
+    
 </body>
 </html>
