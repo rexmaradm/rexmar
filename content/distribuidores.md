@@ -4,7 +4,9 @@ date = "2024-01-01"
 aliases = ["/distribuidores/"]
 +++
 
-![Agua de Mar a domicilio 1905 Mar del Plata](/images/admdomicilio1905.jpg)
+<div align="center">
+<img src="/images/admdomicilio1905.jpg" alt="AdM a domicilio Mar del Plata, Argentina año 1905">)
+</div>
 
 <h1>Si quiere ser ditribuidor, comuníquese <a href="/contacto/">con nosotros</a>
 <hr>
