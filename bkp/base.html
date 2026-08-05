@@ -11,16 +11,7 @@
         nav { margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; }
         nav a { color: #ffffff; text-decoration: none; margin: 5px 10px; padding: 8px 15px; background-color: #2563eb; border-radius: 5px; }
         nav a:hover { background-color: #3b82f6; }
-main {
-    max-width: 1200px;
-    margin: 40px auto;
-    padding: 20px;
-    background-color: #1e40af;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
-    min-height: 60vh;
-    overflow: visible;   /* ← agregar esto */
-}
+        main { max-width: 1200px; margin: 40px auto; padding: 20px; background-color: #1e40af; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); min-height: 60vh; }
         a { color: #93c5fd; }
         .article-list { margin-top: 40px; }
         .article-list h2 { border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #bfdbfe; }
@@ -40,22 +31,23 @@ main {
         .search-result a:hover { background-color: #f3f4f6; }
         .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; white-space: nowrap; }
         .audio-btn:hover { background-color: #3b82f6; }
-	.site-footer {
-    text-align: center;
-    padding: 30px 20px;
-    color: #bfdbfe;
-    margin-top: 40px;
-    border-top: 2px solid #3b82f6;
-    background-color: #1e40af;   /* ← distinto al body */
-    font-size: 0.9em;
-	}
-	.site-footer a {
-    color: #93c5fd;
-    text-decoration: underline;
-	}
-	.site-footer a:hover {
-    color: #ffffff;
-	}
+
+        .site-footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #93c5fd;
+            margin-top: 60px;
+            border-top: 1px solid #3b82f6;
+            background-color: #1e3a8a;
+            font-size: 0.9em;
+        }
+        .site-footer a {
+            color: #bfdbfe;
+            text-decoration: underline;
+        }
+        .site-footer a:hover {
+            color: #ffffff;
+        }
     </style>
 </head>
 <body>
@@ -80,19 +72,13 @@ main {
         {% block content %}{% endblock content %}
     </main>
     
-<footer class="site-footer">
-    <p>&copy; {{ now() | date(format="%Y") }} {{ config.title }} - Todos los derechos reservados.</p>
+    <footer class="site-footer">
+        <p>&copy; {{ now() | date(format="%Y") }} {{ config.title }} - Todos los derechos reservados.</p>
+        <p style="margin-top: 10px;">
+            <a href="/sociales/disclamer-descargo-de-responsabilidad/">*** Disclaimer / Descargo de Responsabilidad</a>
+        </p>
+    </footer>
 
-    <div class="disclaimer-box">
-        <p><strong>Disclaimer / Descargo de responsabilidad</strong></p>
-        <p>El Agua de Mar (AdM) de extracción artesanal RexMar para uso culinario, el cobre, los mensajes CPMSS, PNL Subliminales y Subliminales Silent, y cualquier otra cosa publicada en este sitio, no son medicamentos ni reemplazan la consulta con un profesional de la salud, Terapeuta o Chamán que esté familiarizado con ellos.</p>
-        <p>Las publicaciones, artículos científicos, notas, audios, videos, testimonios o cualquier otro contenido reflejados en el sitio, son de responsabilidad de sus autores. RexMar AdM Perú no incita a otro uso distinto al culinario el cual es responsabilidad del que lo realizó.</p>
-        <p><strong>Nota importante:</strong> Puede ser que al AdM le salgan algas, esto no invalida su consumo, y no corresponde devolución por este motivo. El AdM es un ser Vivo, es normal que siga multiplicándose.</p>
-        <p>En RexMar AdM Perú NO somos profesionales de la salud, Terapeutas o Chamánes. Nuestra respuesta, si la hubiera, es sólo una referencia a cosas publicadas por profesionales autorizados y experiencia personal, para orientación no profesional y que los usuarios no hagan mal uso por desconocimiento.</p>
-        <p>Es deber del usuario investigar y llegar a sus propias conclusiones experimentando. Cualquier duda no deje de consultar a su Profesional de la salud o chamán de confianza.</p>
-        <p><strong>Autorización:</strong> No necesita Registro Sanitario debido a que está acogido al <a rel="external" href="https://www.gob.pe/institucion/minsa/normas-legales/256030-004-2000-sa">D.S.: 004-2000-SA Art- 70</a></p>
-    </div>
-</footer>
     <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
     <script>
         function leerPagina() {

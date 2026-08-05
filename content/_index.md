@@ -46,9 +46,4 @@ Es deber del usuario investigar y llegar a sus propias conclusiones experimentan
 **Autorización:** No necesita Registro Sanitario debido a que está acogido al decreto supremo [D.S.: 004-2000-SA Art- 70](https://www.gob.pe/institucion/minsa/normas-legales/256030-004-2000-sa)
 
 <hr style="border-color: #3b82f6; margin: 40px 0;">
-<footer style="text-align: center; padding: 30px 20px; color: #93c5fd; border-top: 1px solid #3b82f6; font-size: 0.9em;">
-    <p>&copy; 2024 Rexmar - Todos los derechos reservados.</p>
-    <p style="margin-top: 10px;">
-        <a href="/sociales/disclamer-descargo-de-responsabilidad/" style="color: #bfdbfe; text-decoration: underline;">*** Disclaimer / Descargo de Responsabilidad</a>
-    </p>
-</footer>
+
