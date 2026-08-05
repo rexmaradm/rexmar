@@ -99,6 +99,7 @@ rank_math_internal_links_processed:
     - '1'
     - '1'
     - '1'
+aliases: ["tienda-holistica-chamanica__trashed/resenas-informacion/etnia-arazaire/"]
 ---
 
 ***la comunidad nativa de Arazaire, pueblo que se integra en el grupo indígena <span class="wmf-wp-with-preview" data-wikipedia-preview="" data-wp-lang="es" data-wp-title="Harákmbut">Harakbut</span>, en <span class="wmf-wp-with-preview" data-wikipedia-preview="" data-wp-lang="es" data-wp-title="Puerto Maldonado">Puerto Maldonado</span>, Provincia de Tambopata, Capital del Departamento de Madre de Dios***, es un pueblo originario de la zona amazónica la cual hoy dia se encuentra dentro de <span class="wmf-wp-with-preview" data-wikipedia-preview="" data-wp-lang="es" data-wp-title="Perú">Perú</span>

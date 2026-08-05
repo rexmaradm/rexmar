@@ -189,6 +189,7 @@ footnotes:
     - ''
     - ''
     - ''
+aliases: ["home/formas-de-uso-y-tips/agua-de-mar-para-proteccion-contra-energias-y-entidades-negativas/"]
 ---
 
 <div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span>![](/wp-content/uploads/2023/07/dream_background_entidades8.jpg)<div class="wp-block-cover__inner-container"></div></div>**Si, el agua de mar también ayuda en la Protección contra energías y entidades negativas parásitas. En el siguiente video podes ver a Fran Pareja del sitio Un Salto Cuántico explicándonos.**

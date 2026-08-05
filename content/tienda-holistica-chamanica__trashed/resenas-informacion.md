@@ -68,6 +68,7 @@ rank_math_internal_links_processed:
     - '1'
     - '1'
     - '1'
+aliases: ["tienda-holistica-chamanica__trashed/resenas-informacion/"]
 ---
 
 En este submenú caerán las reseñas e información pertinentes sobre los artículos y culturas donde se originaron

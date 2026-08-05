@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '595'
     - '595'
+aliases: ["home/formas-de-uso-y-tips/medu/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Médula Espinal: Evidencia Científica sobre Neuroprotección y Recuperación Nerviosa

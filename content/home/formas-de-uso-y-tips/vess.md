@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '612'
     - '612'
+aliases: ["home/formas-de-uso-y-tips/vess/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y las Vesículas Seminales: Evidencia Científica sobre Salud Reproductiva y Líquido Seminal

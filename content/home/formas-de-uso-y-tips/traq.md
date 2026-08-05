@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '585'
     - '585'
+aliases: ["home/formas-de-uso-y-tips/traq/"]
 ---
 
 ## Agua de Mar Isotónica y la Tráquea: Evidencia Científica sobre la Salud del Epitelio Respiratorio

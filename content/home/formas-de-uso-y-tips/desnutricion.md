@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3609'
 wp_statistics_words_count:
     - '1657'
     - '1657'
+aliases: ["home/formas-de-uso-y-tips/desnutricion/"]
 ---
 
 La desnutrición requiere aporte de **calorías, proteínas y macronutrientes** que el agua de mar no contiene en cantidades significativas. Sin embargo, **SÍ existe evidencia científica sólida** sobre el uso del agua de mar como **complemento** en el tratamiento de la desnutrición, especialmente para corregir déficits de micronutrientes y minerales.

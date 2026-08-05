@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '497'
     - '497'
+aliases: ["home/formas-de-uso-y-tips/de/"]
 ---
 
 ## Agua de Mar Isotónica y Salud Vascular: La Base Científica de la Función Eréctil

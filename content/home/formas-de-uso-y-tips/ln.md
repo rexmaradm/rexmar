@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '3588'
     - '3588'
+aliases: ["home/formas-de-uso-y-tips/ln/"]
 ---
 
 Descubrí los estudios científicos que demuestran cómo el lavado nasal con agua de mar reduce la duración de síntomas en 3-5 días, disminuye la carga viral de SARS-CoV-2 en 2 días, y reduce la transmisión a contactos domiciliarios. {{ youtube(id="NCvJ8C2b6iA") }} {{ youtube(id="LC7VIXvQfag") }} {{ youtube(id="QZVmG4tPL1M") }}

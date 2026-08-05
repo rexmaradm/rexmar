@@ -13,6 +13,7 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/como-y-porque-mineralizar-el-agua-que-bebemos/"]
 ---
 
 En este video el dr. ALejandro Zaleta nos explica el cómo y el porqué. yo le modifiqué el audio original porque estaba muy bajo en algunos tramos. video original: "<{{ youtube(id="4DkHdENDVjQ") }}>"

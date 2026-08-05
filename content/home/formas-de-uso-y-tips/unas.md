@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '615'
     - '615'
+aliases: ["home/formas-de-uso-y-tips/unas/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y las Uñas: Evidencia Científica sobre Fortalecimiento, Salud Ungueal y Onicomicosis

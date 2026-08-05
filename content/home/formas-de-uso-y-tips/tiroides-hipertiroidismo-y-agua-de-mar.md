@@ -11,6 +11,7 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/tiroides-hipertiroidismo-y-agua-de-mar/"]
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="Q06boG9zPw4") }} </div></figure>Testimonios recogidos por la Tta. Griselda Donatucci

@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '4548'
     - '4548'
+aliases: ["home/formas-de-uso-y-tips/pulmon/"]
 ---
 
 Descubrí los estudios científicos que demuestran cómo los aerosoles de agua de marina contienen surfactante pulmonar, el magnesio marino es broncodilatador, y la estancia en el Mar Muerto mejora la función pulmonar en asma. Debajo de los video testimonios, los papers científicos. {{ youtube(id="WWv8hPZ5XQI") }} {{ youtube(id="7gk4M2pxBhE") }} https://www.youtube.com/watch?v=Tty4E8\_ImmU

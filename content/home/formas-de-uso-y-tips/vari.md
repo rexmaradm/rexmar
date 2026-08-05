@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '523'
     - '523'
+aliases: ["home/formas-de-uso-y-tips/vari/"]
 ---
 
 ## Agua de Mar Isotónica y Várices: Evidencia Científica sobre Microcirculación y Retorno Venoso

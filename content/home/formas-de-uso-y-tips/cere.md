@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '598'
     - '598'
+aliases: ["home/formas-de-uso-y-tips/cere/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y el Cerebro: Evidencia Científica sobre Neuroprotección y Función Cognitiva

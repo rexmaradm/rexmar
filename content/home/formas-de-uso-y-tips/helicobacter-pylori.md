@@ -154,9 +154,10 @@ footnotes:
     - ''
     - ''
     - ''
+aliases: ["home/formas-de-uso-y-tips/helicobacter-pylori/"]
 ---
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1l8wNqCY86fmWUKYiwibmPYxj7ULqjcRF/preview" width="666"></iframe>**Escuchar toda la página**(\*)(\*\*\*) El agua de mar es muy buena contra la Helicobacter Pylori, y muchas cosas más, ademas te alcalinizará el organismo lo que redundará en una mejoría general
+(\*)(\*\*\*) El agua de mar es muy buena contra la Helicobacter Pylori, y muchas cosas más, ademas te alcalinizará el organismo lo que redundará en una mejoría general
 
 Se ha estudiado que el agua de mar, por su condición alcalina y rica en magnesio, tiene efectos bactericidas y ayuda a eliminar la bacteria ‘Helicobacter Pylori’,
 
@@ -174,20 +175,20 @@ Fuente: [https://www.fundacionrenequinton.org/blog/helicobacter-pylori-dieta-que
 
 <https://www.mdpi.com/812812>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1NIhJp_Je7Pwu9k5OErKEiTqHC79Rk13Z/preview" width="666"></iframe>**Escuchar el link de arriba**<https://www.mdpi.com/2072-6643/14/3/581>
+<https://www.mdpi.com/2072-6643/14/3/581>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1_lEypJDuUYSMSWwwcFEjuCxRux5ypknC/preview" width="666"></iframe>**Escuchar el link de arriba**  
+  
 <https://www.mdpi.com/781838>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1gYCXRbEFZRKwDX_ez-Bz9sA1sqIiI-bi/preview" width="666"></iframe>**Escuchar el link de arriba**  
+  
 <https://pdfs.semanticscholar.org/5e3a/f784036f7f7c5b73ecd750eef1605838e8f8.pdf>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1iKO6aq2nc_Cu5Cgjp-ESHiYGkAvTlQra/preview" width="666"></iframe>**Escuchar el link de arriba**  
+  
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4112882/>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1viN8VIVPHwvTQLOndiWkgPsFFQMZlEB0/preview" width="666"></iframe>**Escuchar el link de arriba**<https://pubmed.ncbi.nlm.nih.gov/32878045/>
+<https://pubmed.ncbi.nlm.nih.gov/32878045/>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1FrKLVagHUpGokvUh_FEWHId9YENNPEfM/preview" width="666"></iframe>**Escuchar el link de arriba**(\**)Cualquier duda, recomendamos consultar a un Médico/homeópata/Chamán que conozca sobre los beneficios del agua de mar.​*   
+(\**)Cualquier duda, recomendamos consultar a un Médico/homeópata/Chamán que conozca sobre los beneficios del agua de mar.​*   
 *(*\*\*\*) Disclaimer: EL agua de mar no es un medicamento, no reemplaza la consulta con su terapeuta, médico o chamán que conozca las propiedades del Agua de Mar. Las opiniones vertidas aquí son en base a experiencias personales, testimonios o estudios publicados en internet.
 
 [\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

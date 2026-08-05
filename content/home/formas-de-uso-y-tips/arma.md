@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '558'
     - '558'
+aliases: ["home/formas-de-uso-y-tips/arma/"]
 ---
 
 ## Agua de Mar Isotónica y Salud Reproductiva Masculina: Evidencia Científica sobre Vitalidad y Función Endocrina

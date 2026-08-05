@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '573'
     - '573'
+aliases: ["home/formas-de-uso-y-tips/ano/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Salud Anal: Evidencia Científica sobre Cicatrización, Hemorroides y Fisuras

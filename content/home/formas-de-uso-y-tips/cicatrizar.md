@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '5027'
     - '5027'
+aliases: ["home/formas-de-uso-y-tips/cicatrizar/"]
 ---
 
 Descubrí los estudios científicos sobre las propiedades cicatrizantes del agua de mar, incluyendo su uso tópico en heridas, consumo oral para regeneración interna, y el papel del Plasma de Quinton en la reparación celular. Debajo de los testimonios, la explicación y papers científicos. {{ youtube(id="xbGvvMcaROQ") }} {{ youtube(id="fzoCmg6QMYc") }} {{ youtube(id="mRpNcLCupWU") }} {{ youtube(id="MvKGfSnHWm4") }}

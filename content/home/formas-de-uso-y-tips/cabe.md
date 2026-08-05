@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '614'
     - '614'
+aliases: ["home/formas-de-uso-y-tips/cabe/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y el Cabello: Evidencia Científica sobre Salud Capilar, Cuero Cabelludo y Folículos

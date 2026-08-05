@@ -13,6 +13,7 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["tienda-holistica-chamanica__trashed/resenas-informacion/etnia-arazaire/icarado-que-es/"]
 ---
 
 El icarado es un canto sagrado que utilizan los chamanes amazónicos en sus rituales. Es un canto complejo y poderoso que tiene como objetivo conectar al chamán con los espíritus de la naturaleza y del mundo espiritual. El icarado se suele acompañar de música de tambores y flautas, y el chamán suele entrar en un estado de trance durante el canto.

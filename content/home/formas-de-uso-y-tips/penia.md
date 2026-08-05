@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '3698'
     - '3698'
+aliases: ["home/formas-de-uso-y-tips/penia/"]
 ---
 
  Descubrí los estudios científicos que demuestran cómo el agua de mar profunda estimula los osteoblastos, mejora la densidad ósea y previene la osteopenia, con los mecanismos moleculares identificados. Debajo de los testimoniso, los papers científicos. {{ youtube(id="ZzAuzarIjao") }} https://www.youtube.com/watch?v=Sp5BLGdkw\_U {{ youtube(id="mfJkO9LTR9g") }}

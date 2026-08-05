@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '4522'
     - '4522'
+aliases: ["home/formas-de-uso-y-tips/tbc/"]
 ---
 
 Descubrí la fascinante historia de los sanatorios marinos para tuberculosis, el uso del Plasma de Quinton por René Quinton, y los estudios científicos modernos sobre compuestos marinos contra Mycobacterium tuberculosis. Debajo de los testimonios, los papers científicos. {{ youtube(id="8wRFD8d-WD8") }} {{ youtube(id="ryeu23i77k0") }}

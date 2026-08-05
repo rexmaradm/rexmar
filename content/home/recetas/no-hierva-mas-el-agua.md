@@ -75,9 +75,10 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["home/recetas/no-hierva-mas-el-agua/"]
 ---
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1Ws6hLPpm3oofDBU0qB0WbRVsG9iqfUmW/preview" width="666"></iframe>**Escuchar toda la página**No, hervir el agua no elimina los metales pesados y otros contaminantes. La ebullición es un método eficaz para eliminar los microorganismos patógenos del agua, como bacterias, virus y parásitos. Sin embargo, no es eficaz para eliminar otros contaminantes, como los metales pesados, el cloro, el plomo, el arsénico y las sustancias químicas.
+No, hervir el agua no elimina los metales pesados y otros contaminantes. La ebullición es un método eficaz para eliminar los microorganismos patógenos del agua, como bacterias, virus y parásitos. Sin embargo, no es eficaz para eliminar otros contaminantes, como los metales pesados, el cloro, el plomo, el arsénico y las sustancias químicas.
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="CeMaKLyHCoA") }} </div></figure>Los metales pesados se encuentran naturalmente en el agua, pero también pueden ser liberados al medio ambiente por la actividad humana, como la minería, la agricultura y la industria. Los metales pesados pueden causar problemas de salud a largo plazo, como cáncer, problemas renales y problemas neurológicos.
 

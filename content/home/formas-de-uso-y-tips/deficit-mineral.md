@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3606'
 wp_statistics_words_count:
     - '1240'
     - '1240'
+aliases: ["home/formas-de-uso-y-tips/deficit-mineral/"]
 ---
 
 **Existe evidencia científica sólida** sobre el uso de agua de mar, agua de mar profunda (Deep Sea Water - DSW) y derivados marinos como suplementos minerales. El agua de mar contiene más de 78 minerales y oligoelementos en forma iónica biodisponible

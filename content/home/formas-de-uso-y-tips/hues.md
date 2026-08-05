@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '599'
     - '599'
+aliases: ["home/formas-de-uso-y-tips/hues/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y los Huesos: Evidencia Científica sobre Regeneración Ósea y Densidad Mineral

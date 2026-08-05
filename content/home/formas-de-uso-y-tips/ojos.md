@@ -6,6 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3619'
+aliases: ["home/formas-de-uso-y-tips/ojos/"]
 ---
 
 Existen varios ensayos clínicos y estudios científicos que demuestran los beneficios del **agua de mar** (específicamente en soluciones oftálmicas estériles) para tratar afecciones como el ojo seco, la conjuntivitis alérgica y la inflamación de la superficie ocular. Debajo de los testimonios, los papers cientificos

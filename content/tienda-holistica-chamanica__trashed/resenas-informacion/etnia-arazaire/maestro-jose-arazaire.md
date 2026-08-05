@@ -76,6 +76,7 @@ footnotes:
     - ''
     - ''
 image: /wp-content/uploads/2022/06/87388367_x-Pbd27vhLnTukeHVahliROCNJfGxZvMZ-RVcTKqBUI.jpg
+aliases: ["tienda-holistica-chamanica__trashed/resenas-informacion/etnia-arazaire/maestro-jose-arazaire/"]
 ---
 
 Maestro Curandero/<span class="wmf-wp-with-preview" data-wikipedia-preview="" data-wp-lang="es" data-wp-title="Ayahuasca">Ayahuasquero</span>, vegetalista y conferenciante internacional.

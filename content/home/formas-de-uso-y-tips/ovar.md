@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '576'
     - '576'
+aliases: ["home/formas-de-uso-y-tips/ovar/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y los Ovarios: Evidencia Científica sobre Salud Ovárica, Fertilidad y Equilibrio Hormonal

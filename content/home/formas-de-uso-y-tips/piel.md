@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '567'
     - '567'
+aliases: ["home/formas-de-uso-y-tips/piel/"]
 ---
 
 ## Agua de Mar Isotónica y la Piel: Evidencia Científica sobre Hidratación, Regeneración y Salud Cutánea

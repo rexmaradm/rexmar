@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '579'
     - '579'
+aliases: ["home/formas-de-uso-y-tips/mioc/"]
 ---
 
 ## Agua de Mar Isotónica, Miocarditis y Pericarditis: Evidencia Científica y Recuperación Cardíaca

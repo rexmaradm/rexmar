@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '583'
     - '583'
+aliases: ["home/formas-de-uso-y-tips/celi/"]
 ---
 
 ## Agua de Mar Isotónica y la Enfermedad Celíaca: Evidencia Científica sobre la Reparación de la Barrera Intestinal

@@ -13,6 +13,7 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/alternativa-casera-economica-a-la-transfusion-intravenosa-iv/"]
 ---
 
  La Tta. Griselda Donatucci (<https://www.youtube.com/channel/UCcKSF49mH1edPUpsYmBVR0w/>) entrevista al dr. Wilmer Soler donde éste habla sobre la posibilidad de hacer un reemplazo casero, económico y más seguro de la transfusión intravenosa IV con agua de mar isotónica.

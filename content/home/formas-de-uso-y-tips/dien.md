@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '603'
     - '603'
+aliases: ["home/formas-de-uso-y-tips/dien/"]
 ---
 
 ## Agua de Mar Isotónica y Salud Dental: Evidencia Científica sobre Dientes, Esmalte y Tejidos de Soporte

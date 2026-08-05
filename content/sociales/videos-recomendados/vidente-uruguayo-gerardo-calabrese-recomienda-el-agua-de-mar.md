@@ -13,6 +13,7 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["sociales/videos-recomendados/vidente-uruguayo-gerardo-calabrese-recomienda-el-agua-de-mar/"]
 ---
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/embed/v4c96l0/?pub=1wgpuu </div></figure>Video completo "{{ youtube(id="WiaXNL3fF7s") }}"

@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '3451'
     - '3451'
+aliases: ["home/formas-de-uso-y-tips/prostata/"]
 ---
 
 Descubrí la conexión científica entre los minerales del agua de mar (especialmente el zinc) y la salud prostática, incluyendo estudios sobre agua de mar profunda y prevención del cáncer de próstata. debajo de los testimonios, los estudios científicos. {{ youtube(id="vqeq8ZcAM9A") }} {{ youtube(id="2JSnlsifIII") }} {{ youtube(id="v8lSZYOPrMI") }} https://www.youtube.com/watch?v=V\_70uOGIrWo

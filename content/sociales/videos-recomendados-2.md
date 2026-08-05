@@ -205,6 +205,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '53'
     - '53'
+aliases: ["sociales/videos-recomendados-2/"]
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="Jqf8cCg3Tlc") }} </div></figure>## AdM en Animales

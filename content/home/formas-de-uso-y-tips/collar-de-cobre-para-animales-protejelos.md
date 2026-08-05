@@ -192,9 +192,10 @@ footnotes:
 wp_statistics_words_count:
     - '352'
     - '352'
+aliases: ["home/formas-de-uso-y-tips/collar-de-cobre-para-animales-protejelos/"]
 ---
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/10LuLyo1cr0M3eX9j3F7LrbqWhU0RrSp4/preview" width="666"></iframe>**Escuchar Propiedades**### **Utiliza las propiedades **[biocidas](https://rexcobre.wordpress.com/referencias/)**** **del cobre para mantener a tu consentido animal más libre y protegido de** 
+### **Utiliza las propiedades **[biocidas](https://rexcobre.wordpress.com/referencias/)**** **del cobre para mantener a tu consentido animal más libre y protegido de** 
 
 ## Propiedades del Cobre en Animales
 

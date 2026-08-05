@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '4460'
     - '4460'
+aliases: ["home/formas-de-uso-y-tips/reuma/"]
 ---
 
 Descubrí los estudios científicos que demuestran cómo el agua de mar y los baños salados reducen el dolor articular, la inflamación y la fatiga en reumatismo, con los mecanismos moleculares identificados (vías NF-κB, MAPK y NLRP3). Debajo de los video testimonios, los papers científicos. https://www.youtube.com/watch?v=wkgAVGeN\_gU {{ youtube(id="1Okl9Ee1V30") }} {{ youtube(id="gb6xKiOUU30") }}

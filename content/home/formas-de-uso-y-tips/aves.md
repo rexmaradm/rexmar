@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3655'
 wp_statistics_words_count:
     - '2805'
     - '2805'
+aliases: ["home/formas-de-uso-y-tips/aves/"]
 ---
 
 **Las aves NO deben beber agua de mar *pura* directamente** (excepto las aves marinas que tienen glándulas especiales) porque puede causar deshidratación y toxicidad por sal

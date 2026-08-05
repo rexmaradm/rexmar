@@ -6,6 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3101'
+aliases: ["home/formas-de-uso-y-tips/instructivo-a-beneficio-del-refugio-de-gatos-de-solange/"]
 ---
 
 **Éste instructivo explica detalladamente y con videos cómo hacer un bebedero para mascotas por menos de 9 U$S, con cosas de su casa (además de la bomba pequeña de agua)**

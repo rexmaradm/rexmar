@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '542'
     - '542'
+aliases: ["home/formas-de-uso-y-tips/armf/"]
 ---
 
 ## Agua de Mar Isotónica y el Aparato Reproductor Femenino: Evidencia Científica sobre Fertilidad, Menopausia y Salud Hormonal

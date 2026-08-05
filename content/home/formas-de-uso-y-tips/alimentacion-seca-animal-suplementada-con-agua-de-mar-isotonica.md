@@ -189,9 +189,10 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/alimentacion-seca-animal-suplementada-con-agua-de-mar-isotonica/"]
 ---
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1wrAJkMBYG5OP8xR5MgcH29lzhhPBhVOT/preview" width="666"></iframe>**Escuchar toda la página**  
+  
 Le preguntamos a la IA Bard de Google si agregar agua de mar isotónica a la comida seca de los animales, los beneficiaría.
 
 Sí, agregar agua de mar isotónica al alimento seco de los perros/gatos también puede ser beneficioso. Los perros, al igual que los gatos, necesitan electrolitos para mantener su salud. Los electrolitos ayudan a mantener el equilibrio de fluidos del cuerpo, la función muscular y la función nerviosa.

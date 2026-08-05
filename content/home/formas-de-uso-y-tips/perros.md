@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3653'
 wp_statistics_words_count:
     - '2377'
     - '2377'
+aliases: ["home/formas-de-uso-y-tips/perros/"]
 ---
 
 **Encontré aplicaciones terapéuticas fascinantes:**

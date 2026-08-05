@@ -250,9 +250,10 @@ footnotes:
     - ''
     - ''
     - ''
+aliases: ["home/formas-de-uso-y-tips/enema/"]
 ---
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1y6UGvfT7LKGqrndgbkq-EtZ9wHrgBV7Y/preview" width="666"></iframe>**Escuchar toda la página**Si Ud. no va **todos** los días al baño al menos 1 vez, debe entender la importancia de tener el cólon limpio, en el siguiente vídeo el dr. Martí Bosch nos explica.
+Si Ud. no va **todos** los días al baño al menos 1 vez, debe entender la importancia de tener el cólon limpio, en el siguiente vídeo el dr. Martí Bosch nos explica.
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v2zptbk-colon-limpio-dr.-marti-bosch.html?mref=1wgpuu&amp;mc=1as4y </div></figure>El enema consiste en la introducción de una sustancia líquida Isotónica o Hipertónica con Agua de Mar RexMar, en la parte baja del colon a través del recto. Antes de aplicarte el enema, consulta con tu médico/terapeuta/chamán para determinar si es una buena alternativa para ti y si es el tipo de enema que debes utilizar. Es muy útil en casos de estreñimiento crónico y también en caso que la persona no pueda asimilar los minerales y oligoelementos del agua de mar RexMar por otra vía.
 
@@ -301,8 +302,8 @@ Referencias:
   
 <https://www.nutriwhitesalud.com/blog/beneficios-del-plasma-marino>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1WHF43UoT-9S22qSu57Rp5C_DvHhtT-q4/preview" width="666"></iframe>**Escuchar el link de arriba**https://jamanetwork.com/journals/jama/article-abstract/300071
+https://jamanetwork.com/journals/jama/article-abstract/300071
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1I_nyn-EUETbGv7yteA_Flc-kNmoS26X3/preview" width="666"></iframe>**Escuchar el link de arriba**<https://www.studocu.com/es-mx/document/universidad-privada-del-bajio/fisioterapia/los-beneficios-del-plasma-marino/48963855>
+<https://www.studocu.com/es-mx/document/universidad-privada-del-bajio/fisioterapia/los-beneficios-del-plasma-marino/48963855>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1l-8uZMKwAyErb9Xth-VYtyMJkRjT-fbl/preview" width="666"></iframe>**Escuchar el link de arriba**[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)
+[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

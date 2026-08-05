@@ -128,12 +128,13 @@ footnotes:
     - ''
     - ''
     - ''
+aliases: ["home/formas-de-uso-y-tips/alzheimer-y-agua-de-mar/"]
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="4Fkri0Yvg_k") }} </div></figure>Papers Científicos
 
 http://hidromed.org/hm/images/pdf/0378.BSEHM%202015\_30(1)37-55\_Flores-Calle\_Agua.pdf
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1odkgBE3xTzLex1d2L1g2L2U69VpiYGC7/preview" width="666"></iframe>**Escuchar el link de arriba**[https://books.google.com.ar/books?hl=es&amp;lr=&amp;id=1vHNDwAAQBAJ&amp;oi=fnd&amp;pg=PT4&amp;dq=Alzheimer+y+Agua+de+Mar+seawater&amp;ots=x7wl92Pzjb&amp;sig=KKbCiEL\_y0FjCDwFaL9p6\_HnhxI#v=onepage&amp;q=alzheimer&amp;f=false](https://books.google.com.ar/books?hl=es&lr=&id=1vHNDwAAQBAJ&oi=fnd&pg=PT4&dq=Alzheimer+y+Agua+de+Mar+seawater&ots=x7wl92Pzjb&sig=KKbCiEL_y0FjCDwFaL9p6_HnhxI#v=onepage&q=alzheimer&f=false)
+[https://books.google.com.ar/books?hl=es&amp;lr=&amp;id=1vHNDwAAQBAJ&amp;oi=fnd&amp;pg=PT4&amp;dq=Alzheimer+y+Agua+de+Mar+seawater&amp;ots=x7wl92Pzjb&amp;sig=KKbCiEL\_y0FjCDwFaL9p6\_HnhxI#v=onepage&amp;q=alzheimer&amp;f=false](https://books.google.com.ar/books?hl=es&lr=&id=1vHNDwAAQBAJ&oi=fnd&pg=PT4&dq=Alzheimer+y+Agua+de+Mar+seawater&ots=x7wl92Pzjb&sig=KKbCiEL_y0FjCDwFaL9p6_HnhxI#v=onepage&q=alzheimer&f=false)
 
 [\*\*\* Disclaimer](/disclaimer/)[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

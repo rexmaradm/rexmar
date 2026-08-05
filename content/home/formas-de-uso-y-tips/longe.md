@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '407'
     - '407'
+aliases: ["home/formas-de-uso-y-tips/longe/"]
 ---
 
 ## Escuche 👆toda ésta página  

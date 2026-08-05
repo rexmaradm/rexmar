@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '3602'
     - '3602'
+aliases: ["home/formas-de-uso-y-tips/tiroides2/"]
 ---
 
 Descubrí los estudios científicos sobre la relación entre el agua de mar y la tiroides, incluyendo el contenido de yodo. Debajo de los testimonios, la info y papers científicos. {{ youtube(id="kIVRurYejlY") }} {{ youtube(id="I5vJOsvFreg") }}

@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '526'
     - '526'
+aliases: ["home/formas-de-uso-y-tips/dialisis/"]
 ---
 
 ## Agua de Mar Isotónica y Diálisis: Perspectiva Científica y Testimonial

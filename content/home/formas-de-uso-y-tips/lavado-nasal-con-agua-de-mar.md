@@ -93,6 +93,7 @@ footnotes:
     - ''
     - ''
     - ''
+aliases: ["home/formas-de-uso-y-tips/lavado-nasal-con-agua-de-mar/"]
 ---
 
 Técnica de lavado nasal con agua de mar (AdM)
@@ -105,7 +106,7 @@ El AdM es muy buena para el Lavado Nasal
 
 https://journals.sagepub.com/doi/abs/10.1177/1753465809358190
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1wvjk3vTAT3seEAxff5iKvhWGMgD9LMDT/preview" width="666"></iframe>**Escuchar el link de arriba**  
+  
 https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/221846
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/18P8MYjMvUf_PZC7XofeXR0JXE21EAc5i/preview" width="666"></iframe>**Escuchar el link de arriba**[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)
+[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

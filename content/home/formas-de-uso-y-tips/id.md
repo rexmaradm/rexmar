@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '570'
     - '570'
+aliases: ["home/formas-de-uso-y-tips/id/"]
 ---
 
 ## Agua de Mar Isotónica y el Intestino Delgado: Evidencia Científica sobre la Barrera Intestinal y la Mucosa

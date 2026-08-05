@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '767'
     - '767'
+aliases: ["home/formas-de-uso-y-tips/digestion/"]
 ---
 
 Descubrí cómo el agua de mar influye en la digestión, sus beneficios para el estreñimiento y la microbiota, y las contraindicaciones médicas que debés conocer antes de consumirla. Debajo de los testimonios, los papers científicos. {{ youtube(id="d2poFmJhUT4") }} {{ youtube(id="iTFtGWO3iDM") }} {{ youtube(id="6SmteiC48A0") }}

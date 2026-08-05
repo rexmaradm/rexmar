@@ -12,6 +12,7 @@ wp_statistics_words_count:
 classic-editor-remember:
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/animales/"]
 ---
 
 **La mayoría de los animales terrestres NO deben beber agua de mar pura directamente** porque puede causar deshidratación y toxicidad por sal. Sin embargo, encontré aplicaciones terapéuticas fascinantes para múltiples especies:

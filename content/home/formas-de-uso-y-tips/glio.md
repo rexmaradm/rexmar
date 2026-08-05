@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '542'
     - '542'
+aliases: ["home/formas-de-uso-y-tips/glio/"]
 ---
 
 ## Agua de Mar Isotónica y Glioblastoma: Evidencia Científica y Apoyo Celular

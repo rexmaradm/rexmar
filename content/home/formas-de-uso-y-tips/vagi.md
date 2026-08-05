@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '614'
     - '614'
+aliases: ["home/formas-de-uso-y-tips/vagi/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Salud Vaginal: Evidencia Científica sobre el Microbioma y la Mucosa

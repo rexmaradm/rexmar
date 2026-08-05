@@ -6,6 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3410'
+aliases: ["sociales/referencias/instala-linux/"]
 ---
 
 <figure class="wp-block-image aligncenter size-full is-resized">![](/wp-content/uploads/2026/01/PinguinoWin2.png)</figure>## Te cansaste de las actualizaciones con fallos, de la pantalla azul, de reiniciar cada vez que se cuelga, de tener que estar pendiente de los virus, de que te pida hardware más moderno -si el tuyo anda perfecto-, de......., de......... **Pasáte a Linux**   

@@ -40,6 +40,7 @@ rank_math_internal_links_processed:
 wp_statistics_words_count:
     - '1'
     - '1'
+aliases: ["sociales/tienda-3/carrito/"]
 ---
 
 \[woocommerce\_cart\]

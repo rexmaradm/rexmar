@@ -6,6 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3438'
+aliases: ["home/formas-de-uso-y-tips/insuficiencia-renal-y-adm/"]
 ---
 
 nos explica la dra. Teresa Ilari

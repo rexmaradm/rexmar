@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '587'
     - '587'
+aliases: ["home/formas-de-uso-y-tips/bact/"]
 ---
 
 ## Agua de Mar Isotónica y Salud Intestinal: Evidencia Científica frente a Bacterias Patógenas

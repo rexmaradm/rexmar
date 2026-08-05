@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '566'
     - '566'
+aliases: ["home/formas-de-uso-y-tips/veji/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Vejiga: Evidencia Científica sobre Salud Vesical y Tracto Urinario

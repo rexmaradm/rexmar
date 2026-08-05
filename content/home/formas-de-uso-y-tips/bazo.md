@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '560'
     - '560'
+aliases: ["home/formas-de-uso-y-tips/bazo/"]
 ---
 
 ## Agua de Mar Isotónica y el Bazo: Evidencia Científica sobre el Sistema Reticuloendotelial

@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '3502'
     - '3502'
+aliases: ["home/formas-de-uso-y-tips/desinfeccion/"]
 ---
 
 Descubrí los estudios científicos sobre las propiedades desinfectantes y antimicrobianas del agua de mar, incluyendo su uso tópico en heridas y su consumo oral para combatir patógenos intestinales.Debajo de los testimonios, los papers científicos. {{ youtube(id="Lj6tyddjZ5Y") }}

@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '599'
     - '599'
+aliases: ["home/formas-de-uso-y-tips/leng/"]
 ---
 
 ## Agua de Mar Isotónica y la Lengua: Evidencia Científica sobre la Salud de la Mucosa Lingual y las Papilas Gustativas

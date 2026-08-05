@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '537'
     - '537'
+aliases: ["home/formas-de-uso-y-tips/esto/"]
 ---
 
 ## Agua de Mar Isotónica y el Estómago: Evidencia Científica sobre la Protección de la Mucosa Gástrica

@@ -189,6 +189,7 @@ footnotes:
     - ''
     - ''
     - ''
+aliases: ["home/formas-de-uso-y-tips/agua-de-mar-y-silicio-para-antiparasitacion-y-varias-cosas-mas/"]
 ---
 
 **Ver debajo Método oral, económico y práctico alternativo al método IntraVenoso IV**

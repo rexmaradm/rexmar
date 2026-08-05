@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '620'
     - '620'
+aliases: ["home/formas-de-uso-y-tips/bleb/"]
 ---
 
 ## Agua de Mar Isotónica y Actividad Antimicrobiana: Evidencia Científica frente a Klebsiella pneumoniae

@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '1009'
     - '1009'
+aliases: ["home/formas-de-uso-y-tips/acidez-y-adm/"]
 ---
 
 ¿El agua de mar cura la acidez? Analizamos estudios científicos sobre el efecto del agua de mar profunda y el Plasma de Quinton en el pH gástrico, la gastritis y el reflujo. Debajo de los testimonios, los papers científicos {{ youtube(id="UYHy3yHY-5c") }} {{ youtube(id="GELINm6Jgyo") }} https://www.youtube.com/watch?v=wIX6\_WQnCPI {{ youtube(id="81lDpR9GypQ") }}

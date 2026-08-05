@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '4363'
     - '4363'
+aliases: ["home/formas-de-uso-y-tips/ldl/"]
 ---
 
 Descubrí los estudios científicos que demuestran cómo el agua de mar profunda reduce el colesterol total y LDL, los mecanismos moleculares (vía AMPK-ACC), el papel del magnesio y calcio marinos, y la excreción de ácidos biliares. Debajo de los testimonios los importantes papers científicos. https://www.youtube.com/watch?v=sFn\_ymq7FKI {{ youtube(id="rD4reJ8JgSY") }}

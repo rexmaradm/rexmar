@@ -6,6 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3040'
+aliases: ["home/formas-de-uso-y-tips/que-produce-y-para-que-sirve-el-filtrado/"]
 ---
 
 ### es necesario?

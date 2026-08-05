@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3651'
 wp_statistics_words_count:
     - '1378'
     - '1378'
+aliases: ["home/formas-de-uso-y-tips/gatos/"]
 ---
 
 ## **Aplicaciones terapéuticas fascinantes para gatos:**

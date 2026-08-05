@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '585'
     - '585'
+aliases: ["home/formas-de-uso-y-tips/arti/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y las Articulaciones: Evidencia Científica sobre Salud del Cartílago y Movilidad

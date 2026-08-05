@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '555'
     - '555'
+aliases: ["home/formas-de-uso-y-tips/canc/"]
 ---
 
 ## Agua de Mar Isotónica y Cáncer: Evidencia Científica sobre Modulación Celular e Inmunológica

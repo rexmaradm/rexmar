@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=2836'
 classic-editor-remember:
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/cocinar/"]
 ---
 
 ### **Técnicas alternativas para cocinar con agua de mar**

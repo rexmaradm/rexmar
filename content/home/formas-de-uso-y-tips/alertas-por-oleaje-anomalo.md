@@ -83,6 +83,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '8'
     - '8'
+aliases: ["home/formas-de-uso-y-tips/alertas-por-oleaje-anomalo/"]
 ---
 
 Último comunicado Oficial de la Marina de Guerra:

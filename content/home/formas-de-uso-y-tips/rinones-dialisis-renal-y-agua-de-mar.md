@@ -11,6 +11,7 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/rinones-dialisis-renal-y-agua-de-mar/"]
 ---
 
 Explicación simple:  

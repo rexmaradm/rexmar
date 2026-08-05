@@ -12,6 +12,7 @@ wp_statistics_words_count:
 classic-editor-remember:
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/linfa/"]
 ---
 
 ## La Ciencia del Agua de Mar y el Sistema Linfático: El Legado de René Quinton

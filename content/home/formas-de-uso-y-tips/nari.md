@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '757'
     - '757'
+aliases: ["home/formas-de-uso-y-tips/nari/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Salud Nasal: Evidencia Científica sobre Mucosa, Cilios y Sinusitis

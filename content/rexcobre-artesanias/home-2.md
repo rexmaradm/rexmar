@@ -144,5 +144,6 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '0'
     - '0'
+aliases: ["rexcobre-artesanias/home-2/"]
 ---
 

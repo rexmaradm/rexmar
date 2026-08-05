@@ -83,6 +83,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '168'
     - '168'
+aliases: ["sociales/referencias/"]
 ---
 
 **Cobre y cólera** (y otras pandemias) = [https://www.ldospandemicedition.org/episodios/metales-poderosos ](https://www.ldospandemicedition.org/episodios/metales-poderosos) [ Haga click aqui para escuchar el audio de este articulo](/void(0);)[ ](https://drive.google.com/file/d/1Jco9z_lYvVgwh6FmXnG8A77p26YSxvuZ/view?usp=sharing)[https://drive.google.com/file/d/1Jco9z\_lYvVgwh6FmXnG8A77p26YSxvuZ/view?usp=sharing](https://drive.google.com/file/d/1Jco9z_lYvVgwh6FmXnG8A77p26YSxvuZ/view?usp=sharing)

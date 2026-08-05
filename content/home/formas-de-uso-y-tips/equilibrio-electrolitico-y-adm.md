@@ -12,6 +12,7 @@ classic-editor-remember:
 footnotes:
     - ''
     - ''
+aliases: ["home/formas-de-uso-y-tips/equilibrio-electrolitico-y-adm/"]
 ---
 
 ## **Adaptación (casera, no oficial) con AdM del sistema Unani del dr. David Duarte**

@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '530'
     - '530'
+aliases: ["home/formas-de-uso-y-tips/panc/"]
 ---
 
 ## Agua de Mar Isotónica y Salud Pancreática: Evidencia Científica sobre la Regeneración de Células Beta

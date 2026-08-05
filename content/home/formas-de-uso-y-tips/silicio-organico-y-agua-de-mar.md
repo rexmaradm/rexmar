@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=2825'
 classic-editor-remember:
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/silicio-organico-y-agua-de-mar/"]
 ---
 
 **Resúmen: el silicio orgánico beneficia al organismo en muchos aspectos, huesos, tejidos, Esclerosis Multiples, hepatitis y un largo etc.   

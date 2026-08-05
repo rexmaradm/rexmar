@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '551'
     - '551'
+aliases: ["home/formas-de-uso-y-tips/troe/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y el Tronco Encefálico: Evidencia Científica sobre Neuroprotección y Función Autonómica

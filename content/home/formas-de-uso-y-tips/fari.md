@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '548'
     - '548'
+aliases: ["home/formas-de-uso-y-tips/fari/"]
 ---
 
 ## Agua de Mar Isotónica y la Faringe: Evidencia Científica sobre la Protección de la Mucosa y la Faringitis

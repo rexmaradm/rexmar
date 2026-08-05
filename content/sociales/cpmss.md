@@ -83,6 +83,7 @@ footnotes:
 wp_statistics_words_count:
     - '9699'
     - '9699'
+aliases: ["sociales/cpmss/"]
 ---
 
 ## **Retoma el Control de tu vida. Hackea la Matrix y moldeala para ti**. **Cambia tu vida.** **Protégete de ataques e implantes físicos y etéricos**. **Auto-mejora tu salud.**
@@ -915,15 +916,15 @@ Fuente: <https://g.co/gemini/share/0ba76e2cba4a>
 
 ## **1**- **S*****e comienza con el audio suministrado por el usuario*** 
 
-<iframe allow="autoplay" height="66" src="https://drive.google.com/file/d/1xJRYj_pXryofu6g1FlE0nLzVHPmqveQd/preview" width="666"></iframe>**Escuchar ejemplo**## ***2 - Se convierte el audio a Subliminal Silent***
+## ***2 - Se convierte el audio a Subliminal Silent***
 
-<iframe allow="autoplay" height="66" src="https://drive.google.com/file/d/1wCk4M10joZYclpU3m8NuuIHLBliD4YhD/preview" width="666"></iframe>**Escuchar ejemplo del mismo audio de arriba, convertido a Subliminal Silent de 17000 Hz (No oirá nada Conscientemente el link/audio está bien :-) )**## **3** - ***Se compila la música relajante con los dos audios anteriores, intercalados.***
+## **3** - ***Se compila la música relajante con los dos audios anteriores, intercalados.***
 
 el audio normal, convertido a Subliminal está en los minutos/segundos 0:15, 1:20 y 2:24
 
 el audio normal, convertido a Subliminal Silent está en los minutos/segundos: 0:48, 1:55 y 2:57
 
-<iframe allow="autoplay" height="66" src="https://drive.google.com/file/d/17ZvXk2qwCM7QcYsiHu0kJxhYtUYxNEfZ/preview" width="666"></iframe>**Escuchar ejemplo del mismo audio de arriba, convertido a Subliminal Silent de 17000 Hz y mezclado con música relajante y el audio normal, convertido a subliminal**La música relajante es la siguiente: Solfeggio 174, modulado en 4 Hz + melodía Aguas Celestiales en 432 Hz.  
+La música relajante es la siguiente: Solfeggio 174, modulado en 4 Hz + melodía Aguas Celestiales en 432 Hz.  
 Existe un apartado en los conocimientos Complementarios para la Salud que se ocupa de estudiar los efectos de determinadas frecuencias. Este audio contiene varios de esos elementos, a saber…  
 **a)** Melodía en afinación 432 Hz, la cual estaría en mayor concordancia con las armonías planetarias.  
 b) También se ha agregado el Solfeggio de 174 Hz que según estudios ayudaría a disminuir los dolores físicos, y…  

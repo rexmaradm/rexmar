@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '570'
     - '570'
+aliases: ["home/formas-de-uso-y-tips/epid/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y el Epidídimo: Evidencia Científica sobre Maduración Espermática y Salud Reproductiva

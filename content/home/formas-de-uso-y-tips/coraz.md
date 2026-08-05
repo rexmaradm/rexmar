@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '595'
     - '595'
+aliases: ["home/formas-de-uso-y-tips/coraz/"]
 ---
 
 ## Agua de Mar Isotónica y Salud Cardiovascular: Evidencia Científica y Protección del Corazón

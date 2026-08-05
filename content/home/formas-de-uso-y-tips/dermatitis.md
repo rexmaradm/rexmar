@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '2823'
     - '2823'
+aliases: ["home/formas-de-uso-y-tips/dermatitis/"]
 ---
 
 Descubrí los estudios científicos sobre cómo el agua de mar (tópica y bebida) puede ayudar en el tratamiento de la dermatitis atópica, eccema y otras condiciones inflamatorias de la piel. {{ youtube(id="Tx3TLUcDg3w") }} {{ youtube(id="CUXZ4rOqMj0") }} {{ youtube(id="VBBGiKTIqHw") }}

@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3544'
 wp_statistics_words_count:
     - '148'
     - '148'
+aliases: ["home/formas-de-uso-y-tips/ayuno/"]
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="d8wngd4uRmQ") }} </div></figure>El consumo de **agua de mar** durante el ayuno es considerado seguro y beneficioso por muchos expertos, ya que **no rompe el ayuno** al no aportar macronutrientes ni calorías significativas, permitiendo mantener la cetosis y la quema de grasa.

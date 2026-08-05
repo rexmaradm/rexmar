@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '578'
     - '578'
+aliases: ["home/formas-de-uso-y-tips/sali/"]
 ---
 
 ## Agua de Mar Isotónica y las Glándulas Salivales: Evidencia Científica sobre la Producción de Saliva y la Hidratación Oral

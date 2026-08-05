@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=2931'
 classic-editor-remember:
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/prueba-1/"]
 ---
 
 prueba 1

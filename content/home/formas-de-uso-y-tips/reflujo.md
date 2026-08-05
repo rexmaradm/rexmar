@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '481'
     - '481'
+aliases: ["home/formas-de-uso-y-tips/reflujo/"]
 ---
 
 ## Agua de Mar Isotónica y Reflujo: Evidencia Científica y Beneficios Digestivos

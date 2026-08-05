@@ -54,6 +54,7 @@ footnotes:
 wp_statistics_words_count:
     - '2'
     - '2'
+aliases: ["sociales/videos-recomendados/"]
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="Jqf8cCg3Tlc") }} </div></figure><figure class="wp-block-embed is-type-rich is-provider-gestor-del-servicio wp-block-embed-gestor-del-servicio wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">https://www.youtube.com/embed/h7tr0GyKmo0 </div></figure>[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

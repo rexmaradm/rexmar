@@ -11,7 +11,7 @@
         nav { margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; }
         nav a { color: #ffffff; text-decoration: none; margin: 5px 10px; padding: 8px 15px; background-color: #2563eb; border-radius: 5px; }
         nav a:hover { background-color: #3b82f6; }
-        main { max-width: 1200px; margin: 40px auto; padding: 20px; background-color: #1e40af; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
+        main { max-width: 1200px; margin: 40px auto; padding: 20px; background-color: #1e40af; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); min-height: 60vh; }
         a { color: #93c5fd; }
         .home-content { margin-bottom: 40px; border-bottom: 1px solid #3b82f6; padding-bottom: 20px; }
         .article-list { margin-top: 40px; }
@@ -20,7 +20,6 @@
         article.preview h3 { margin: 0 0 5px 0; }
         article.preview a { color: #ffffff; text-decoration: none; }
         article.preview a:hover { text-decoration: underline; }
-        footer { text-align: center; padding: 20px; color: #93c5fd; margin-top: 40px; }
         
         .tools-container { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 20px 0; padding: 15px; background-color: #2563eb; border-radius: 8px; }
         .search-box { position: relative; width: 100%; max-width: 400px; }
@@ -33,6 +32,23 @@
         .search-result a:hover { background-color: #f3f4f6; }
         .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; white-space: nowrap; }
         .audio-btn:hover { background-color: #3b82f6; }
+
+        .site-footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #93c5fd;
+            margin-top: 60px;
+            border-top: 1px solid #3b82f6;
+            background-color: #1e3a8a;
+            font-size: 0.9em;
+        }
+        .site-footer a {
+            color: #bfdbfe;
+            text-decoration: underline;
+        }
+        .site-footer a:hover {
+            color: #ffffff;
+        }
     </style>
 </head>
 <body>
@@ -57,8 +73,11 @@
         {% block content %}{% endblock content %}
     </main>
     
-    <footer>
-        <p>&copy; {{ config.title }} - Todos los derechos reservados.</p>
+    <footer class="site-footer">
+        <p>&copy; {{ now() | date(format="%Y") }} {{ config.title }} - Todos los derechos reservados.</p>
+        <p style="margin-top: 10px;">
+            <a href="/sociales/disclamer-descargo-de-responsabilidad/">*** Disclaimer / Descargo de Responsabilidad</a>
+        </p>
     </footer>
 
     <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
@@ -70,7 +89,7 @@
     </script>
 
     {% if config.build_search_index %}
-    <!-- Cargamos Fuse.js desde CDN (maneja español perfectamente sin conflictos) -->
+    <!-- Cargamos Fuse.js (compatible con el formato fuse_json de Zola) -->
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
     
     <script>
@@ -78,16 +97,15 @@
             const input = document.getElementById('search-input');
             const results = document.getElementById('search-results');
             
-            // Cargamos el índice generado por Zola en formato JSON
+            // Cargamos el índice JSON que Zola generó exitosamente
             fetch('/search_index.es.json')
                 .then(response => response.json())
                 .then(data => {
                     console.log('✅ Índice de búsqueda cargado correctamente con Fuse.js');
                     
-                    // Configuramos Fuse.js para buscar en título y cuerpo
                     const fuse = new Fuse(data, {
                         keys: ['title', 'body'],
-                        threshold: 0.3, // Sensibilidad de búsqueda (0.0 = exacto, 1.0 = cualquiera)
+                        threshold: 0.3,
                         includeScore: true
                     });
                     
@@ -101,7 +119,6 @@
                         const searchResults = fuse.search(query);
                         
                         if (searchResults.length > 0) {
-                            // Mostramos máximo 10 resultados
                             results.innerHTML = searchResults.slice(0, 10).map(result => {
                                 const doc = result.item;
                                 return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
@@ -117,7 +134,7 @@
                     input.addEventListener('keydown', (e) => {
                         if (e.key === 'Enter') {
                             performSearch();
-                            input.blur(); // Oculta el teclado en móviles
+                            input.blur();
                         }
                     });
 

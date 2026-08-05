@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=2833'
 classic-editor-remember:
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/permeabilidad-intestinal/"]
 ---
 
 La permeabilidad intestinal ‘aumentada’ es un trastorno intestinal que permite la entrada de toxinas o microbios patógenos en el torrente sanguíneo, pudiendo provocar enfermedades. La permeabilidad intestinal se puede ver como un síntoma o como la causa de otras patologías.

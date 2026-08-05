@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '565'
     - '565'
+aliases: ["home/formas-de-uso-y-tips/emf/"]
 ---
 
 ## Agua de Mar Isotónica y Campos Electromagnéticos (EMF): Evidencia Científica sobre Resiliencia Celular

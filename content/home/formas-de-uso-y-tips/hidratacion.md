@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '1083'
     - '1083'
+aliases: ["home/formas-de-uso-y-tips/hidratacion/"]
 ---
 
 <div class="qwen-markdown-hr">---

@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '3688'
     - '3688'
+aliases: ["home/formas-de-uso-y-tips/cs/"]
 ---
 
 Descubrí los estudios científicos que demuestran cómo el agua de mar profunda modula la presión arterial, mejora la función endotelial y beneficia la circulación sanguínea, con los mecanismos moleculares identificados. Debajo de los testimonios, los papers científicos. {{ youtube(id="idYgF0omc0E") }} https://www.youtube.com/watch?v=p\_UK\_\_zDUic

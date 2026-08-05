@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3546'
 wp_statistics_words_count:
     - '1'
     - '1'
+aliases: ["home/formas-de-uso-y-tips/ca/"]
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="z6iBknpjibI") }} </div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="BoY6fycPkzg") }} </div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="XCh_LdZMcv4") }} </div></figure>

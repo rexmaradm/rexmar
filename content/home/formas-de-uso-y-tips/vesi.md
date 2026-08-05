@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '579'
     - '579'
+aliases: ["home/formas-de-uso-y-tips/vesi/"]
 ---
 
 ## Agua de Mar Isotónica y la Vesícula Biliar: Evidencia Científica sobre el Metabolismo Biliar y la Salud Hepato-Biliar

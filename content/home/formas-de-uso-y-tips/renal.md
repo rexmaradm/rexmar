@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '500'
     - '500'
+aliases: ["home/formas-de-uso-y-tips/renal/"]
 ---
 
 ## Agua de Mar Isotónica y Salud Renal: Evidencia Científica

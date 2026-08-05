@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '587'
     - '587'
+aliases: ["home/formas-de-uso-y-tips/liga/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y los Ligamentos: Evidencia Científica sobre Regeneración del Tejido Conectivo y Síntesis de Colágeno

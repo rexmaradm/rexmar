@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '700'
     - '700'
+aliases: ["home/formas-de-uso-y-tips/uret1/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Uretra: Evidencia Científica sobre Salud Uretral y del Tracto Urinario

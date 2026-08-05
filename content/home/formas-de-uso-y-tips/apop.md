@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '703'
     - '703'
+aliases: ["home/formas-de-uso-y-tips/apop/"]
 ---
 
 ## Agua de Mar Isotónica y Apoptosis: Evidencia Científica sobre la Regulación Celular

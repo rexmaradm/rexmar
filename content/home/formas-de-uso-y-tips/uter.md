@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '576'
     - '576'
+aliases: ["home/formas-de-uso-y-tips/uter/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y el Útero: Evidencia Científica sobre Salud Uterina, Endometrio y Equilibrio Hormonal

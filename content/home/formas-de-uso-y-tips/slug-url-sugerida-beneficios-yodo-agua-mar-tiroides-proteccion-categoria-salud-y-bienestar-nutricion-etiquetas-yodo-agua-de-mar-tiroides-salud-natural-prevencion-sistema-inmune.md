@@ -6,6 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3458'
+aliases: ["home/formas-de-uso-y-tips/slug-url-sugerida-beneficios-yodo-agua-mar-tiroides-proteccion-categoria-salud-y-bienestar-nutricion-etiquetas-yodo-agua-de-mar-tiroides-salud-natural-prevencion-sistema-inmune/"]
 ---
 
 ---
@@ -102,4 +103,4 @@ Cuida tu tiroides, nutre tus células y deja que la sabiduría del mar fluya en 
 
 *Este artículo tiene fines meramente informativos y educativos. No sustituye el consejo, diagnóstico o tratamiento médico profesional. En caso de emergencia nuclear o radiológica, siga estrictamente las instrucciones de las autoridades sanitarias y de protección civil de su país. No utilice el agua de mar como sustituto de las pastillas de yoduro potásico prescritas en emergencias.*
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1a531cPtQFOcZdKpNZ2JZPK_3TXeDR4nP/preview" width="666"></iframe>**Escuchar toda la investigación debajo**<div class="wp-block-file"><object aria-label="Yodo en el Agua de Mar vs. Alimentos_RexMar" class="wp-block-file__embed" data="/wp-content/uploads/2026/03/Yodo-en-el-Agua-de-Mar-vs.-Alimentos_RexMar.pdf" style="width:100%;height:600px" type="application/pdf"></object>[Yodo en el Agua de Mar vs. Alimentos\_RexMar](/wp-content/uploads/2026/03/Yodo-en-el-Agua-de-Mar-vs.-Alimentos_RexMar.pdf)[Descarga](/wp-content/uploads/2026/03/Yodo-en-el-Agua-de-Mar-vs.-Alimentos_RexMar.pdf)</div>
+<div class="wp-block-file"><object aria-label="Yodo en el Agua de Mar vs. Alimentos_RexMar" class="wp-block-file__embed" data="/wp-content/uploads/2026/03/Yodo-en-el-Agua-de-Mar-vs.-Alimentos_RexMar.pdf" style="width:100%;height:600px" type="application/pdf"></object>[Yodo en el Agua de Mar vs. Alimentos\_RexMar](/wp-content/uploads/2026/03/Yodo-en-el-Agua-de-Mar-vs.-Alimentos_RexMar.pdf)[Descarga](/wp-content/uploads/2026/03/Yodo-en-el-Agua-de-Mar-vs.-Alimentos_RexMar.pdf)</div>

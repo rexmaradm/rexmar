@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '3975'
     - '3975'
+aliases: ["home/formas-de-uso-y-tips/higadog/"]
 ---
 
 - <span class="qwen-markdown-text">Descubrí los estudios científicos sobre cómo el agua de mar profunda (bebida) puede reducir la acumulación de grasa hepática, el papel del magnesio y calcio marinos en el metabolismo del hígado, y las contraindicaciones de la talasoterapia para enfermedades hepáticas.</span>

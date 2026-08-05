@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '453'
     - '453'
+aliases: ["home/formas-de-uso-y-tips/alerg/"]
 ---
 
 ## Agua de Mar Isotónica y Alergias: Evidencia Científica y Aplicación

@@ -93,6 +93,7 @@ footnotes:
     - ''
     - ''
     - ''
+aliases: ["home/formas-de-uso-y-tips/gastritis/"]
 ---
 
 El agua de mar es muy buena para la Gastritis, el reflujo, la acidez, la hernia de hiato, ulceras, colitis, hígado graso, hemorroides y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría en general.
@@ -105,14 +106,14 @@ Fuente: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.00960
 
 <https://www.koreascience.or.kr/article/JAKO200615643931121.page>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1UvNMJq_mGdev2KrrCp5aI3XTriK-DmWb/preview" width="666"></iframe>**Escuchar el link de arriba**  
+  
 bacterias buenas: <https://www.mdpi.com/812812>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1VP3aed1jMQtqOQu2VKIN9SsRv6zX4qM-/preview" width="666"></iframe>**Escuchar el link de arriba**  
+  
 <https://www.nature.com/articles/s41598-020-60462-z>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1UNg3IXRYxmw0TcDax4rgOHyQQyj7Bsp-/preview" width="666"></iframe>**Escuchar el link de arriba**<https://www.infobae.com/salud/2019/02/12/las-propiedades-del-agua-de-mar-beberla-hace-bien-a-la-salud/>
+<https://www.infobae.com/salud/2019/02/12/las-propiedades-del-agua-de-mar-beberla-hace-bien-a-la-salud/>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1xnPPMitXvVwTlWCgctNtIapmCb2WqRMX/preview" width="666"></iframe>**Escuchar el link de arriba**<https://pubmed.ncbi.nlm.nih.gov/32878045/>
+<https://pubmed.ncbi.nlm.nih.gov/32878045/>
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1FrKLVagHUpGokvUh_FEWHId9YENNPEfM/preview" width="666"></iframe>**Escuchar el link de arriba**[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)
+[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

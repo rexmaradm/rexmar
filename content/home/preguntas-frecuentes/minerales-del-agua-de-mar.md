@@ -44,9 +44,10 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["home/preguntas-frecuentes/minerales-del-agua-de-mar/"]
 ---
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1P_oKlWTBZEFeHWaxzt5M9IE6kNH-z1Zf/preview" width="666"></iframe>**Escuchar toda la página**El agua de mar es salada por la concentración de sales minerales disueltas que contiene, un 3.5 %; es decir, en cada litro de agua (1000 gramos) hay 35 gramos de sales disueltas como media. La composición química del agua de mar incluye compuestos químicos como el cloro, sodio, magnesio, calcio, potasio, bromo, estroncio, boro y flúor principalmente. También contiene oligoelementos en concentraciones infinitesimales como hierro, manganeso, cobre, iodo, silicio, fósforo, entre otros. Además, el agua de mar contiene zooplacton y fitoplacton. La sal proveniente del agua de mar tiene más de 80 de los 118 elementos de la tabla periódica, lo que la convierte en un excelente recurso mineral para el funcionamiento del cuerpo
+El agua de mar es salada por la concentración de sales minerales disueltas que contiene, un 3.5 %; es decir, en cada litro de agua (1000 gramos) hay 35 gramos de sales disueltas como media. La composición química del agua de mar incluye compuestos químicos como el cloro, sodio, magnesio, calcio, potasio, bromo, estroncio, boro y flúor principalmente. También contiene oligoelementos en concentraciones infinitesimales como hierro, manganeso, cobre, iodo, silicio, fósforo, entre otros. Además, el agua de mar contiene zooplacton y fitoplacton. La sal proveniente del agua de mar tiene más de 80 de los 118 elementos de la tabla periódica, lo que la convierte en un excelente recurso mineral para el funcionamiento del cuerpo
 
 A continuación, se presenta una lista de los elementos más comunes que se encuentran en el agua de mar, según los resultados de la búsqueda:
 

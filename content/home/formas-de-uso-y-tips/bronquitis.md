@@ -12,6 +12,7 @@ wp_statistics_words_count:
 classic-editor-remember:
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/bronquitis/"]
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="WWv8hPZ5XQI") }} </div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="Tty4E8_ImmU") }} </div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">{{ youtube(id="nbwZJORo3yw") }} </div></figure>---

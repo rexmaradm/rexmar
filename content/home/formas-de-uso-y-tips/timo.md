@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '587'
     - '587'
+aliases: ["home/formas-de-uso-y-tips/timo/"]
 ---
 
 ## Agua de Mar Isotónica y el Timo: Evidencia Científica sobre la Inmunidad Celular y los Linfocitos T

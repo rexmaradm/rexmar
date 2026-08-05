@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '564'
     - '564'
+aliases: ["home/formas-de-uso-y-tips/isquemia/"]
 ---
 
 ## Agua de Mar Isotónica, Isquemia Cerebral y Recuperación Neurológica

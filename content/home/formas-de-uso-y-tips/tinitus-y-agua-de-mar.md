@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=2894'
 classic-editor-remember:
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/tinitus-y-agua-de-mar/"]
 ---
 
 <iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6peutn/?pub=1wgpuu" width="640"></iframe>  

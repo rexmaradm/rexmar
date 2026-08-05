@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3613'
 wp_statistics_words_count:
     - '1699'
     - '1699'
+aliases: ["home/formas-de-uso-y-tips/rosacea/"]
 ---
 
 **Existe evidencia emergente** sobre los beneficios de los minerales del Mar Muerto y la haloterapia (terapia con sal) para esta condición. Debajo de los video testimonios, los papers científicos

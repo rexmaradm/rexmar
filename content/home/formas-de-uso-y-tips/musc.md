@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '555'
     - '555'
+aliases: ["home/formas-de-uso-y-tips/musc/"]
 ---
 
 ## Agua de Mar Isotónica y los Músculos: Evidencia Científica sobre Recuperación, Rendimiento y Prevención de Calambres

@@ -35,9 +35,10 @@ footnotes:
 wp_statistics_words_count:
     - '400'
     - '400'
+aliases: ["rexcobre-artesanias/proteccion-emf-emr-frec-y-rad-electromagneticas-protejase/"]
 ---
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1jur_XhF3B_A7xvKOXtnM4TfTBiu6cLSg/preview" width="666"></iframe>**Escuchar toda la página**Colgante Cuántico de Cristal de Cuarzo y Alambre de cobre. Protección contra Frecuencias y Radiaciones Electro Magnéticas EMF EMR, muy útil para personas hipersensibles a las mismas.
+Colgante Cuántico de Cristal de Cuarzo y Alambre de cobre. Protección contra Frecuencias y Radiaciones Electro Magnéticas EMF EMR, muy útil para personas hipersensibles a las mismas.
 
 Los tamaños de los cuarzos varían según disponibilidad, el tamaño mínimo de largo es 3 cm y el ancho/diámetro mínimo es 1 cm. Las fotos son de Colgantes Cuánticos hechos por mi, no son importados de países asiáticos. es cuarzo en bruto, natural (ralla el vidrio) y cobre puro sin esmaltar/barnizar. El cordel o cola de "rata" es de seda de 2mm de espesor.
 

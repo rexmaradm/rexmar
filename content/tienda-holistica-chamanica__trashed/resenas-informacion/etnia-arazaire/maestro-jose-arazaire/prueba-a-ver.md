@@ -13,6 +13,7 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["tienda-holistica-chamanica__trashed/resenas-informacion/etnia-arazaire/maestro-jose-arazaire/prueba-a-ver/"]
 ---
 
 pprueba a ver donde escribe

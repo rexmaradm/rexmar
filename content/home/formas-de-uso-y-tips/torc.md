@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '559'
     - '559'
+aliases: ["home/formas-de-uso-y-tips/torc/"]
 ---
 
 ## Agua de Mar Isotónica y Recuperación de Torceduras (Esguinces): Evidencia Científica

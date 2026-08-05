@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '3461'
     - '3461'
+aliases: ["home/formas-de-uso-y-tips/quema/"]
 ---
 
 Descubrí los estudios científicos que demuestran cómo el agua de mar profunda acelera la cicatrización de quemaduras, los mecanismos moleculares identificados, el papel del magnesio y zinc marinos, y los protocolos de tratamiento con Plasma de Quinton. Debajo de los video testimonios, los papers científicos. {{ youtube(id="MvKGfSnHWm4") }} {{ youtube(id="Omk65Af0lkQ") }}

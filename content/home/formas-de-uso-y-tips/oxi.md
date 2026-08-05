@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '505'
     - '505'
+aliases: ["home/formas-de-uso-y-tips/oxi/"]
 ---
 
 ## Agua de Mar Isotónica y Oxigenación Celular: Evidencia Científica y Vitalidad

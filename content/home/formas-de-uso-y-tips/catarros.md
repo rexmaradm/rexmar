@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3593'
 wp_statistics_words_count:
     - '1153'
     - '1153'
+aliases: ["home/formas-de-uso-y-tips/catarros/"]
 ---
 
 El **catarro** (resfriado común o infección viral del tracto respiratorio superior) es un área donde **SÍ existe sólida evidencia científica** sobre el uso exclusivo de agua de mar como tratamiento efectivo.

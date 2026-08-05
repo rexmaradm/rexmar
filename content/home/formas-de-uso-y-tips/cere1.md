@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '574'
     - '574'
+aliases: ["home/formas-de-uso-y-tips/cere1/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y el Cerebelo: Evidencia Científica sobre Coordinación Motora y Neuroprotección

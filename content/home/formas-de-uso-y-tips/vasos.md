@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '566'
     - '566'
+aliases: ["home/formas-de-uso-y-tips/vasos/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y los Vasos Sanguíneos: Evidencia Científica sobre Salud Vascular y Función Endotelial

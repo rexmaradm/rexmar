@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '723'
     - '723'
+aliases: ["home/formas-de-uso-y-tips/cond/"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y los Conductos Deferentes: Evidencia Científica sobre Transporte Espermático y Músculo Liso

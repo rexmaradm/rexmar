@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '553'
     - '553'
+aliases: ["home/formas-de-uso-y-tips/boca/"]
 ---
 
 ## Agua de Mar Isotónica y Salud Bucal: Evidencia Científica sobre Encías, Mucosa y Microbioma Oral

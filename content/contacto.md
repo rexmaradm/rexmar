@@ -1,6 +1,7 @@
 +++
 title = "Contacto"
 date = "2024-01-01"
+aliases = ["/contacto/"]
 +++
 
 # Contacto
@@ -36,8 +37,8 @@ Completá el formulario y te responderemos a la brevedad.
 ## Otras formas de contacto
 
 - **Email directo:** rexmaradm@gmail.com
-- **WhatsApp:** [Chateá con nosotros](https://wa.me/51904743809) *(Recordá cambiar el 51999999999 por tu número real)*
-- **Redes sociales:** Seguinos en nuestras redes (ver pie de página)
+- **WhatsApp:** [Chateá con nosotros](https://wa.me/51904743809)
+- **Redes sociales:** Seguinos en nuestras redes (ver pie de página pricipal)
 
 ---
 

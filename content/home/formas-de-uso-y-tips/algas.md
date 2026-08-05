@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=2817'
 classic-editor-remember:
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/algas/"]
 ---
 
 <figure class="wp-block-audio"><audio controls="" src="/wp-content/uploads/2025/11/nuevaExplicacionAlgas_PP.mp3"></audio></figure>### Resúmen: 

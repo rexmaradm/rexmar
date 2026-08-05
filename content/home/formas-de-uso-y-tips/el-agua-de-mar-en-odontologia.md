@@ -128,9 +128,10 @@ classic-editor-remember:
     - block-editor
     - block-editor
     - block-editor
+aliases: ["home/formas-de-uso-y-tips/el-agua-de-mar-en-odontologia/"]
 ---
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1VOv8he7QxrWBi4FDnKoSO4NA0YKXjw4w/preview" width="666"></iframe>**Escuchar toda la página**- 
+- 
 
 El **agua de mar en odontología** es un nuevo enfoque donde el agua de mar aporta sus minerales con el fin de favorecer la restauración del equilibrio, pudiendo emplearse tanto para tratamiento de base como por su efecto local.
 

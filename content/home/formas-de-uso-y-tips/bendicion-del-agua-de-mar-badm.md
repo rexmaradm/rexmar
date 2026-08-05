@@ -6,6 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3113'
+aliases: ["home/formas-de-uso-y-tips/bendicion-del-agua-de-mar-badm/"]
 ---
 
 Escuchar ésta página: [Click aqui](https://ody.sh/GmDHUnNSFA)

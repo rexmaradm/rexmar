@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3621'
 wp_statistics_words_count:
     - '818'
     - '818'
+aliases: ["home/formas-de-uso-y-tips/nebulizaciones2/"]
 ---
 
 En la literatura médica científica, cuando se trata de nebulizaciones para el tracto respiratorio inferior (pulmones, bronquios, asma, EPOC), los estudios suelen utilizar el término **"Solución Salina Hipertónica" (SSH)** en concentraciones del 3% al 7%. ¿Por qué? Porque el agua de mar natural tiene una concentración de sal de aproximadamente un 3.5%. Por lo tanto, **nebulizar solución salina hipertónica es, a todos efectos prácticos, nebulizar agua de mar estéril**.

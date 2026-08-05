@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '591'
     - '591'
+aliases: ["home/formas-de-uso-y-tips/lari/"]
 ---
 
 ## Agua de Mar Isotónica y la Laringe: Evidencia Científica sobre Salud Vocal y Mucosa Laríngea

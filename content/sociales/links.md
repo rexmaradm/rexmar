@@ -218,6 +218,7 @@ footnotes:
 wp_statistics_words_count:
     - '35'
     - '35'
+aliases: ["sociales/links/"]
 ---
 
 ## Links Recomendados por RexMar 

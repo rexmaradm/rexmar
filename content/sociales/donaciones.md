@@ -20,6 +20,7 @@ footnotes:
     - ''
     - ''
     - ''
+aliases: ["sociales/donaciones/"]
 ---
 
 <figure class="wp-block-image size-full is-resized">![](/wp-content/uploads/2023/12/compraanimales.png)</figure>Dono un pequeño porcentaje de mis ganancias netas con la venta de [Agua de Mar](https://th.org.pe), las [pulseras de cobre ](https://th.org.pe)y los [CPMSS (Cortes PsicoMentales SUbliminal Silent)](https://th.org.pe/subliminal) a ONG Animalistas, debajo iré poniendo los yapeos/transferencias.   

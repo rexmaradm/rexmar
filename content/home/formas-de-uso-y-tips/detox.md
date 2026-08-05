@@ -12,6 +12,7 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '409'
     - '409'
+aliases: ["home/formas-de-uso-y-tips/detox/"]
 ---
 
 ## Agua de Mar Isotónica y Desintoxicación: Evidencia Científica y Mecanismos Celulares

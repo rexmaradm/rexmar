@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3597'
 wp_statistics_words_count:
     - '1957'
     - '1957'
+aliases: ["home/formas-de-uso-y-tips/artrosis/"]
 ---
 
 La artrosis tiene una **base de evidencia científica sólida y específica** sobre el uso de agua de mar y sales marinas como tratamiento exclusivo.

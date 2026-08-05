@@ -9,6 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3574'
 wp_statistics_words_count:
     - '473'
     - '473'
+aliases: ["home/formas-de-uso-y-tips/eccemas/"]
 ---
 
 Existe evidencia científica que evalúa el uso de agua de mar, sales del Mar Muerto o soluciones salinas como **monoterapia** (es decir, baños exclusivos sin radiación UVB, clima ni corticoides tópicos).

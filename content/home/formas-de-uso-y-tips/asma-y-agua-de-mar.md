@@ -12,9 +12,10 @@ classic-editor-remember:
 wp_statistics_words_count:
     - '1268'
     - '1268'
+aliases: ["home/formas-de-uso-y-tips/asma-y-agua-de-mar/"]
 ---
 
-<iframe allow="autoplay" height="69" src="https://drive.google.com/file/d/1xuqwvpHv9fiSbakPvI0jbl4z7mSNHenw/preview" width="666"></iframe>**Escuchar toda la página**  
+  
   
 Agua de mar y soluciones salinas en las afecciones de las vías respiratorias superiores
 
