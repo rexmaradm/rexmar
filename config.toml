@@ -20,6 +20,7 @@ menu = [
     {url = "/home/recetas/", name = "Recetas"},
     {url = "/home/preguntas-frecuentes/", name = "Preguntas Frecuentes"},
     {url = "/rexcobre-artesanias/", name = "Rexcobre"},
+    {url = "/distribuidores/", name = "Distribuidores"},
     {url = "/contacto/", name = "Contacto"},
 ]
 
