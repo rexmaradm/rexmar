@@ -25,8 +25,15 @@ Desequilibrio electrolítico, el exceso de agua agua se va a introducir por ósm
   
 veamos debajo la explicación del [dr. David Duarte ](https://www.academiaunani.com/).**
 
-<figure class="wp-block-table">| ![](/wp-content/uploads/2025/04/porqueisotonizar.png) | [](/formas-de-uso-y-tips/calculadora-isotonica/)![Calculadora Isotónica gratuita](/wp-content/uploads/2025/03/calculadora-1.png)**Calculadora para saber cuantos ML poner de AdM para isotonizar un líquido:** [/formas-de-uso-y-tips/calculadora-isotonica/](/formas-de-uso-y-tips/calculadora-isotonica/) |
-|---|---|
+<table class="has-fixed-layout">
+<tbody>
+<tr>
+
+<td><a href="/home/formas-de-uso-y-tips/calculadora-isotonica/"><img decoding="async" width="140" height="84" src="/images/calculadora.png" alt="Calculadora Isotónica gratuita" /></a></td>
+
+</tr>
+</tbody>
+</table>
 
 </figure><iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v74u99m/?pub=1wgpuu" width="640"></iframe>## **Somos agua de mar**
 

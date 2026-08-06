@@ -8,10 +8,13 @@ aliases = ["/wp/home/formas-de-uso-y-tips/de/"]
 <table class="has-fixed-layout">
 <tbody>
 <tr>
-<td><a href="https://th.org.pe/wp/sociales/donaciones/"><img decoding="async" width="140" height="84" class="wp-image-2285" style="width: 140px;" src="https://th.org.pe/wp/wp-content/uploads/2023/12/compraanimales.png" alt="" srcset="https://th.org.pe/wp/wp-content/uploads/2023/12/compraanimales.png 636w, https://th.org.pe/wp/wp-content/uploads/2023/12/compraanimales-600x359.png 600w, https://th.org.pe/wp/wp-content/uploads/2023/12/compraanimales-300x180.png 300w" sizes="(max-width: 140px) 100vw, 140px" /></a></td>
-<td><a href="https://th.org.pe/ci"><img decoding="async" width="160" height="91" class="wp-image-2862" style="width: 160px;" src="https://th.org.pe/wp/wp-content/uploads/2025/03/calculadora-1.png" alt="Calculadora Isotónica gratuita" srcset="https://th.org.pe/wp/wp-content/uploads/2025/03/calculadora-1.png 350w, https://th.org.pe/wp/wp-content/uploads/2025/03/calculadora-1-300x171.png 300w" sizes="(max-width: 160px) 100vw, 160px" /></a></td>
-<td><a href="https://th.org.pe/wp/formas-de-uso-y-tips/equilibrio-electrolitico-y-adm/"><img decoding="async" width="150" height="86" class="wp-image-2890" style="width: 150px;" src="https://th.org.pe/wp/wp-content/uploads/2025/04/porqueisotonizar.png" alt="" srcset="https://th.org.pe/wp/wp-content/uploads/2025/04/porqueisotonizar.png 350w, https://th.org.pe/wp/wp-content/uploads/2025/04/porqueisotonizar-300x171.png 300w" sizes="(max-width: 150px) 100vw, 150px" /></a></td>
-<td><a href="https://go.th.org.pe/info" target="blank"> <img decoding="async" class="wp-image-2890" style="width: 150px;" src="https://th.org.pe/wp/wp-content/uploads/2026/06/bajarinforme.png" alt="" /></a></td>
+<td><a href="/sociales/donaciones/"><img decoding="async" width="140" height="84" style="width: 140px;" src="/images/compraanimales.png" alt="Donaciones" /></a></td>
+
+<td><a href="/home/formas-de-uso-y-tips/calculadora-isotonica/"><img decoding="async" width="140" height="84" src="/images/calculadora.png" alt="Calculadora Isotónica gratuita" /></a></td>
+
+<td><a href="/home/formas-de-uso-y-tips/equilibrio-electrolitico-y-adm/"><img decoding="async" width="150" height="86" style="width: 150px;" src="/images/porqueisotonizar.png" alt="Por qué isotonizar" /></a></td>
+
+<td><a href="/bajarinf/" target="_blank"><img decoding="async" width="150" style="width: 150px;" src="/images/bajarinforme.png" alt="Bajar informe" /></a></td>
 </tr>
 </tbody>
 </table>
