@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rexmar</title>
+    <style>
+        body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+        header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
+        header h1 a { color: #ffffff; text-decoration: none; font-size: 2em; }
+        nav { margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; }
+        nav a { color: #ffffff; text-decoration: none; margin: 5px 10px; padding: 8px 15px; background-color: #2563eb; border-radius: 5px; }
+        nav a:hover { background-color: #3b82f6; }
+main {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e40af;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    min-height: 60vh;
+    overflow: visible;   /* ← agregar esto */
+}
+        a { color: #93c5fd; }
+        .article-list { margin-top: 40px; }
+        .article-list h2 { border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #bfdbfe; }
+        article.preview { margin-bottom: 15px; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        article.preview h3 { margin: 0 0 5px 0; }
+        article.preview a { color: #ffffff; text-decoration: none; }
+        article.preview a:hover { text-decoration: underline; }
+        
+        .tools-container { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 20px 0; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        .search-box { position: relative; width: 100%; max-width: 400px; }
+        #search-input { width: 100%; padding: 10px 15px; border: 2px solid #3b82f6; border-radius: 25px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; outline: none; }
+        #search-input:focus { border-color: #60a5fa; box-shadow: 0 0 8px rgba(59, 130, 246, 0.5); }
+        #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 8px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
+        .search-result { padding: 10px 15px; border-bottom: 1px solid #e5e7eb; }
+        .search-result:last-child { border-bottom: none; }
+        .search-result a { color: #1e3a8a; text-decoration: none; display: block; font-weight: bold; }
+        .search-result a:hover { background-color: #f3f4f6; }
+        .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; white-space: nowrap; }
+        .audio-btn:hover { background-color: #3b82f6; }
+	.site-footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: #bfdbfe;
+    margin-top: 40px;
+    border-top: 2px solid #3b82f6;
+    background-color: #1e40af;   /* ← distinto al body */
+    font-size: 0.9em;
+	}
+	.site-footer a {
+    color: #93c5fd;
+    text-decoration: underline;
+	}
+	.site-footer a:hover {
+    color: #ffffff;
+	}
+    </style>
+</head>
+<body>
+    <header>
+        <h1><a href="/">Rexmar</a></h1>
+        <nav>
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;home&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;home&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;distribuidores&#x2F;">Distribuidores</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
+        </nav>
+        
+        <div class="tools-container">
+            <div class="search-box">
+                <input type="search" id="search-input" placeholder="🔍 Buscar en el sitio..." autocomplete="off" enterkeyhint="search">
+                <div id="search-results"></div>
+            </div>
+            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar</button>
+        </div>
+    </header>
+    
+    <main>
+        
+    <p>La permeabilidad intestinal ‘aumentada’ es un trastorno intestinal que permite la entrada de toxinas o microbios patógenos en el torrente sanguíneo, pudiendo provocar enfermedades. La permeabilidad intestinal se puede ver como un síntoma o como la causa de otras patologías.</p>
+<p>En este artículo explicamos qué es exactamente la permeabilidad intestinal y qué ocurre cuando aumenta demasiado. ¿Cómo saber si un paciente padece síndrome del intestino permeable? Abordamos los diferentes test y pruebas diagnósticas que puedes emplear. Sigue leyendo el artículo para descubrir más sobre las causas de la permeabilidad intestinal y cómo emplear el agua de mar para restaurar la mucosa intestinal.</p>
+<h2 id="que-es-la-permeabilidad-intestinal">¿Qué es la permeabilidad intestinal?</h2>
+<p>La permeabilidad intestinal es la capacidad de las membranas del intestino para dejar pasar moléculas. El problema ocurre cuando esa permeabilidad aumenta y permite el paso de macromoléculas que pueden resultar tóxicas.</p>
+<p><em>“Se define como una característica funcional de la barrera intestinal en lugares determinados, medible mediante el análisis de las tasas de flujo a través de la pared intestinal en su totalidad o a través de los componentes de la pared de las moléculas definidas, que son en gran medida inertes durante el proceso y que pueden medirse adecuadamente en estas configuraciones”.</em></p>
+<p>El intestino está tapizado por un epitelio cilíndrico simple, siendo las membranas celulares de este epitelio las que están en contacto con el lumen intestinal y por tanto con su contenido. Por lo tanto, las características de la membrana son fundamentales para determinar el grado de <strong>permeabilidad del intestino</strong>.</p>
+<p><em>En un intestino demasiado permeable, las “toxinas” de los intestinos pueden filtrarse al torrente sanguíneo y provocar una respuesta inflamatoria, precursora del desarrollo de numerosas patologías.</em></p>
+<p>Todos los intestinos son semipermeables. El revestimiento mucoso de nuestros intestinos está diseñado para absorber el agua y los nutrientes de los alimentos en el torrente sanguíneo. Sin embargo, algunas personas tienen una mayor <strong>permeabilidad intestinal</strong> o hiperpermeabilidad. Esto significa que sus intestinos dejan pasar algo más que agua y nutrientes.</p>
+<p>Diversas investigaciones han demostrado que las personas que padecen algunas enfermedades gastrointestinales crónicas como la enfermedad de Crohn o la enfermedad celíaca, así como en el caso de numerosas enfermedades sistémicas (diabetes tipo 1, artritis reumatoide, esclerosis múltiple, asma, patologías dermatológicas crónicas…), presentan una permeabilidad intestinal aumentada, dejando pasar al torrente sanguíneo moléculas más grandes, potencialmente tóxicas. Una de las funciones del revestimiento intestinal es actuar como barrera frente a las bacterias y otros agentes infecciosos dentro del intestino y esta barrera es muy importante para el sistema inmunitario.</p>
+<h3 id="permeabilidad-de-las-membranas">Permeabilidad de las membranas</h3>
+<p>Todas las membranas celulares tienen un elevado grado de selectividad para las sustancias, lo que dependerá de:</p>
+<ul>
+<li>Tamaño de la molécula</li>
+<li>Carga y solubilidad de esta en la membrana</li>
+<li>Gradientes de concentración de las sustancias.</li>
+</ul>
+<p>Estas características físico-químicas determinan la <strong>permeabilidad de la membrana celular</strong> y son las que definen su <em>semipermeabilidad</em>.</p>
+<p><a rel="external" href="https://www.fundacionrenequinton.org/blog/intestino-permeable-tratamiento-suplementos/"><em>➡️</em> <em><strong>Tratamiento integrativo para la permeabilidad intestinal</strong></em> <em>– Estos son los</em> <em><strong>4 suplementos recomendados</strong></em> </a></p>
+<h2 id="causas-de-la-permeabilidad-intestinal">Causas de la permeabilidad intestinal</h2>
+<p>Todas las <strong>causas de la permeabilidad intestinal</strong> están asociadas a la <strong>lesión e inflamación de la mucosa intestinal</strong>. También, pueden existir casos en los que se favorezca la permeabilidad por alteraciones funcionales u orgánicas, pero son menos comunes.</p>
+<p>Estos son los <strong>factores que pueden contribuir al aumento de la permeabilidad intestinal</strong>:</p>
+<ul>
+<li><a rel="external" href="https://www.fundacionrenequinton.org/blog/estres-oxidativo-que-es-y-por-que-se-debe-controlar/"><strong>Estrés oxidativo</strong></a>: Produce mediadores inflamatorios que favorecen la permeabilidad a los intersticios.</li>
+<li><strong>Disbiosis</strong>: La modificación de <a rel="external" href="https://www.fundacionrenequinton.org/blog/inmunidad-y-microbiota/">microbioma</a> incrementa la presión y el desequilibrio de nuestro sistema inmune, modificando la regulación inmune.</li>
+<li><strong>Infecciones</strong>: Estimulan la producción de mediadores de la inflamación y alteran la permeabilidad.</li>
+<li><strong>Enfermedad inflamatoria intestinal</strong> (<strong>EII</strong>): Aunque no se conoce su etiología, los pacientes que padecen EII presentan una permeabilidad intestinal mayor.</li>
+<li><strong>Fármacos:</strong> Puedenalterar el microbioma y la permeabilidad, sobre todo los antibióticos empleados de forma recurrente, o un uso frecuente de ibuprofeno o aspirina.</li>
+<li><strong>Celiaquía</strong>: Es una enfermedad digestiva y autoinmune crónica que causa daños en el intestino delgado, aumentando también su permeabilidad.</li>
+<li><strong>Alimentación desnaturalizada</strong>: Son todos aquellos alimentos a los que se les ha agregado algún aditivo artificial que ha modificado su composición o alguna de sus características.</li>
+<li><strong>Alergias alimentarias.</strong></li>
+<li><a rel="external" href="https://www.fundacionrenequinton.org/blog/colon-irritable-sintomas-tipos-tratamiento/"><strong>Síndrome de intestino irritable</strong></a>.</li>
+<li>Consumo excesivo de <strong>productos irritantes</strong> como el picante, café, alcohol, drogas, aditivos alimentarios…</li>
+<li><strong>Estreñimiento:</strong> puede favorecer la disbiosis e incrementar la permeabilidad intestinal.</li>
+</ul>
+<h2 id="4-suplementos-para-acabar-con-la-permeabilidad-intestinal">4 suplementos para acabar con la permeabilidad intestinal</h2>
+<ul>
+<li><strong>Probióticos:</strong> Son los microbios ‘buenos’ que viven en el intestino. Forman una capa gruesa sobre la membrana mucosa del intestino que sirve como primera línea de defensa.</li>
+</ul>
+<ol>
+<li></li>
+</ol>
+<p>En casos de disbiosis, una de las causas más comunes del intestino permeable, los niveles de probióticos son inferiores a los óptimos, por lo que se crea una oportunidad para que los «malos» crezcan en exceso y liberen endotoxinas inflamatorias que causan daño a la pared intestinal y ‘roban’ nutrientes.</p>
+<p>Tomar un suplemento probiótico de buena calidad puede ayudar mucho a proteger el intestino de los daños causados por el crecimiento excesivo de microbios patógenos nocivos.</p>
+<ul>
+<li><strong>Enzimas digestivas:</strong> Ayuda a digerir los alimentos evitando que las partículas pasen al torrente sanguíneo, ya que esto puede ocasionar el desarrollo de muchas de las alergias y sensibilidades alimentarias actuales.</li>
+</ul>
+<ol start="2">
+<li></li>
+</ol>
+<p>Además de asegurarte de masticar los alimentos lo suficiente, las enzimas digestivas te ayudarán a descomponer correctamente los tipos de nutrientes que tu intestino procesa con mayor dificultad.</p>
+<ul>
+<li><strong>L-carnosina de zinc:</strong> Es un nuevo nutracéutico que combina zinc con L-carnitina. Diversos estudios han descubierto que esta combinación promueve la reparación intestinal cuando se toma en dosis de 75mg dos veces al día, durante al menos 8 semanas, o idealmente durante 3-4 meses.</li>
+</ul>
+<ol start="3">
+<li></li>
+</ol>
+<p>Contraindicado en casos de producción excesiva de moco, como ocurre con la fibrosis quística o la colitis colagenosa.</p>
+<ul>
+<li><strong>L-Glutamina:</strong> Es un aminoácido (uno de los 20 tipos de componentes básicos de las proteínas) que las células intestinales metabolizan como fuente primaria de combustible. Este suplemento es uno de los más investigados en el mercado. Algunos de los beneficios respaldados por la investigación de la l-glutamina para el intestino incluyen:</li>
+</ul>
+<ol start="4">
+<li></li>
+</ol>
+<p>a) Nutrición y fortalecimiento de la barrera intestinal.</p>
+<p>b)Antiinflamatorio y reconstituyente.</p>
+<ul>
+<li></li>
+</ul>
+<p>Este aminoácido está presente de forma natural en el caldo de huesos y en los péptidos de colágeno.</p>
+<h3 id="como-saber-si-tengo-el-intestino-permeable">¿Cómo saber si tengo el intestino permeable?</h3>
+<p>Para saber si un paciente tiene un intestino permeable se recomienda:</p>
+<ul>
+<li>Analizar sus síntomas.</li>
+<li>Anamnesis sobre otras patologías que padezca.</li>
+<li>Otras pruebas o tests.</li>
+</ul>
+<p><a rel="external" href="https://www.fundacionrenequinton.org/blog/sintomas-intestino-permeable/"><em>➡️</em> <em><strong>Síntomas para identificar la permeabilidad intestinal</strong></em> <em>– Estos son los más comunes.</em></a></p>
+<h3 id="test-permeabilidad-intestinal">Test permeabilidad intestinal</h3>
+<p>Se trata de un test de lactulosa y manitol. Es una prueba mínimamente invasiva realizada en <strong>orina</strong> tras la <strong>ingesta de lactulosa y manitol por vía oral</strong>.</p>
+<p><strong>¿Cómo se realiza el test? Paso a paso</strong></p>
+<ol>
+<li>Ayuno toda la noche.</li>
+<li>Tomar una solución de agua con manitol y lactulosa.</li>
+<li>Recoger muestra de orina en las siguientes 5 horas.</li>
+</ol>
+<h3 id="que-es-la-zonulina-en-heces">¿Qué es la zonulina en heces?</h3>
+<p>Es una prueba no invasiva en la que se analiza la <strong>cantidad de la proteína zonulina en el organismo a través de una muestra de heces.</strong></p>
+<p>La <strong>zonulina</strong> se encarga de regular la permeabilidad del intestino. Determinar la cantidad de esta proteína nos permite valorar el grado de permeabilidad.</p>
+<h3 id="otras-pruebas">Otras pruebas</h3>
+<p><strong>Análisis de sangre</strong></p>
+<p>Puede mostrar marcadores relacionados con la respuesta inmunitaria, con la inflamación o con los niveles de anticuerpos. Además puede indicar la presencia de una enfermedad asociada a una mayor permeabilidad intestinal.</p>
+<h2 id="caracteristicas-de-la-mucosa-intestinal">Características de la mucosa intestinal</h2>
+<p>La <a rel="external" href="https://www.fundacionrenequinton.org/blog/mucosa-intestinal-funciones/">mucosa intestinal</a> está constituida por una fina monocapa de células columnares o cilíndricas, donde sus núcleos no se encuentran al mismo nivel. De ahí su nombre de epitelio seudoestratificado.</p>
+<p>Por encima del epitelio encontramos el glicocálix y una capa de moco que podemos dividir en dos zonas:</p>
+<ul>
+<li>La que se encuentra en el lado luminal constituido por moco espeso donde está el microbioma</li>
+<li>Otra zona donde está el moco que se encuentra en contacto con el epitelio, constituido por una capa fluida/móvil con elevado contenido en <strong>Ig A</strong>. Esta capa es la que se va desplazando gracias al movimiento de las microvilli.</li>
+</ul>
+<p>Por debajo del epitelio tenemos las <strong>placas de Peyer,</strong> tejido conectivo y glándulas que son fundamentales para evitar el paso de sustancias tóxicas o microorganismos a nuestra circulación.</p>
+<p>Además, encontramos más células en el epitelio intestinal, que interviene tanto en el proceso digestivo, como en el inmune y de barrera.</p>
+<p><em><strong>La mucosa es un sistema complejo que se encarga de regular el tráfico de sustancias, neutralizar toxinas e intervenir en la defensa del organismo.</strong></em></p>
+<p>Debemos tener en cuenta que es nuestra principal barrera con el medio externo junto con la piel, solo que, al tener una función absortiva, sus sistemas de protección son más complejos. En la piel producimos múltiples capas celulares y además está queratinizada, y con este tipo de epitelio cornificado obtenemos una elevada resistencia. Sin embargo, a través de la piel no se pueden absorber moléculas de gran tamaño, con carga, etc.</p>
+<h2 id="permeabilidad-intestinal-y-agua-de-mar">Permeabilidad intestinal y agua de mar</h2>
+<p>El <strong>agua de mar</strong>  es un producto natural no sometido a ningún proceso químico ni térmico, de forma que no se ven alterados los elementos que contiene.</p>
+<p>El <a rel="external" href="https://www.fundacionrenequinton.org/blog/beneficios-beber-agua-mar/"><strong>agua de mar</strong></a> ha demostrado tener poder cicatrizante y antiinflamatorio para la piel y las mucosas, por lo que puede resultar útil para la <strong>mucosa gastrointestinal</strong>. Además, <strong>aporta elementos fundamentales para la correcta función de la inmunidad intestinal</strong>.</p>
+<p>Se recomienda tomar agua de mar en ayunas, para favorecer la entrada en contacto con la mucosa digestiva sin la necesidad del vertido de los jugos gástricos, que podría interferir en sus funciones locales.</p>
+<h4 id="bibliografia"><strong>Bibliografía:</strong></h4>
+<ol>
+<li></li>
+</ol>
+<figure class="wp-block-image">![](https://secure.gravatar.com/avatar/39e2d9dd6a24d216a382ba317340ecf9?s=96&d=mm&r=g)</figure>### [Begoña Basterrechea Davo](https://www.fundacionrenequinton.org/begona-basterrechea/)
+<p><a rel="external" href="https://www.linkedin.com/in/begonabasterretxea/"></a></p>
+<p>Especialista en 👩‍⚕️ Biomedicina, Nutrición clínica y Medicina integrativa. Mi experiencia y formación me permiten abordar una perspectiva funcional de ver la salud. Una nueva forma de entender la salud del individuo. Salud digestiva, hormonal, metabólica, fertilidad y sistema inmune. El objetivo es encontrar el origen y la causa del problema para determinar el tratamiento óptimo para el paciente. Mi experiencia se basa en unir la ciencia 🧬 y la nutrición para prevenir patologías y promover la salud global. Compagino la consulta con pacientes con mi actividad como docente universitaria en el área 🔬 Pharma y Biotech y mi trabajo en Quinton Biotech Labs. Mi labor de divulgación se centra en la redacción de artículos 📚 especializados en el ámbito de la salud, la nutrición y el estilo de vida saludable. La perspectiva más 'creativa' me lleva al mundo de la formulación de nutracéuticos de alta calidad. Mi meta es ofrecer el conocimiento 💡 necesario para que el mayor número de personas posible pueda tomar las riendas de su salud y bienestar. - Compartir es crecer.</p>
+<p>fuente: <a rel="external" href="https://www.fundacionrenequinton.org/blog/intestino-permeable-tratamiento-suplementos/">https://www.fundacionrenequinton.org/blog/intestino-permeable-tratamiento-suplementos/</a></p>
+
+
+    </main>
+    
+<footer class="site-footer">
+    <p>&copy; 2026 Rexmar - Todos los derechos reservados.</p>
+
+    <div class="disclaimer-box">
+        <p><strong>Disclaimer / Descargo de responsabilidad</strong></p>
+        <p>El Agua de Mar (AdM) de extracción artesanal RexMar para uso culinario, el cobre, los mensajes CPMSS, PNL Subliminales y Subliminales Silent, y cualquier otra cosa publicada en este sitio, no son medicamentos ni reemplazan la consulta con un profesional de la salud, Terapeuta o Chamán que esté familiarizado con ellos.</p>
+        <p>Las publicaciones, artículos científicos, notas, audios, videos, testimonios o cualquier otro contenido reflejados en el sitio, son de responsabilidad de sus autores. RexMar AdM Perú no incita a otro uso distinto al culinario el cual es responsabilidad del que lo realizó.</p>
+        <p><strong>Nota importante:</strong> Puede ser que al AdM le salgan algas, esto no invalida su consumo, y no corresponde devolución por este motivo. El AdM es un ser Vivo, es normal que siga multiplicándose.</p>
+        <p>En RexMar AdM Perú NO somos profesionales de la salud, Terapeutas o Chamánes. Nuestra respuesta, si la hubiera, es sólo una referencia a cosas publicadas por profesionales autorizados y experiencia personal, para orientación no profesional y que los usuarios no hagan mal uso por desconocimiento.</p>
+        <p>Es deber del usuario investigar y llegar a sus propias conclusiones experimentando. Cualquier duda no deje de consultar a su Profesional de la salud o chamán de confianza.</p>
+        <p><strong>Autorización:</strong> No necesita Registro Sanitario debido a que está acogido al <a rel="external" href="https://www.gob.pe/institucion/minsa/normas-legales/256030-004-2000-sa">D.S.: 004-2000-SA Art- 70</a></p>
+    </div>
+</footer>
+    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+    <script>
+        function leerPagina() {
+            var texto = document.querySelector('main').innerText;
+            responsiveVoice.speak(texto, "Spanish Latin American Female", { rate: 1, pitch: 1, volume: 1 });
+        }
+    </script>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const input = document.getElementById('search-input');
+            const results = document.getElementById('search-results');
+            
+            fetch('/search_index.es.json')
+                .then(response => response.json())
+                .then(data => {
+                    const fuse = new Fuse(data, {
+                        keys: ['title', 'body'],
+                        threshold: 0.3,
+                        includeScore: true
+                    });
+                    
+                    function performSearch() {
+                        const query = input.value.trim();
+                        if (query.length < 2) {
+                            results.style.display = 'none';
+                            return;
+                        }
+                        
+                        const searchResults = fuse.search(query);
+                        
+                        if (searchResults.length > 0) {
+                            results.innerHTML = searchResults.slice(0, 10).map(result => {
+                                const doc = result.item;
+                                return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
+                            }).join('');
+                            results.style.display = 'block';
+                        } else {
+                            results.innerHTML = '<div class="search-result" style="color: #666;">No se encontraron resultados</div>';
+                            results.style.display = 'block';
+                        }
+                    }
+
+                    input.addEventListener('input', performSearch);
+                    input.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter') {
+                            performSearch();
+                            input.blur();
+                        }
+                    });
+
+                    document.addEventListener('click', (e) => {
+                        if (!e.target.closest('.search-box')) {
+                            results.style.display = 'none';
+                        }
+                    });
+                })
+                .catch(err => {
+                    console.error('Error cargando índice de búsqueda:', err);
+                    input.placeholder = " Búsqueda no disponible";
+                });
+        });
+    </script>
+    
+</body>
+</html>

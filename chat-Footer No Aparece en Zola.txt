@@ -1,0 +1,1163 @@
+### USER
+hola estimado Qwen, resumo el chat porque era muy largo, Tengo un sitio Zola con 222 páginas, búsqueda con Fuse.js funcionando, pero el footer no aparece en páginas secundarias, te adjunto los archivos, descargué el chat anterior, si te lo subo enlentecería éste chat? no me deja adjuntar los archivos que me hiciste hacer el backup
+
+### ASSISTANT
+¡Hola legar! Qué gusto retomar.
+
+Sobre tu pregunta directa: **sí, subir el chat anterior entero lo enlentece bastante**, especialmente si es muy largo. El contexto se consume y cada respuesta tarda más. Te conviene no hacerlo.
+
+**Lo que sí podés hacer en lugar de adjuntar archivos:**
+
+1. **Pegá el contenido directo en el mensaje.** Si son archivos cortos (un template, el footer, el config.toml), los copiás y pegás entre triple backtick:
+
+   ```
+   ```html
+   ...acá va el código...
+   ```
+   ```
+
+2. **Si son varios archivos**, mandalos en mensajes separados o todos juntos pero bien etiquetados:
+
+   ```
+   === templates/base.html ===
+   ...código...
+
+   === templates/index.html ===
+   ...código...
+
+   === templates/page.html ===
+   ...código...
+   ```
+
+3. **Si el problema es que no te deja adjuntar**, fijate que no sea un tema de tamaño o formato. Pero para código, pegar directo es más práctico igual.
+
+---
+
+**Para el footer que no aparece en páginas secundarias**, lo más probable es que sea una de estas causas:
+
+- El `footer.html` solo se incluye en `base.html` pero las páginas secundarias usan otro layout o no heredan del base.
+- Un `{% block content %}` que pisa la estructura.
+- El footer está dentro de un bloque que solo se renderiza en `index.html`.
+
+Así que pegame:
+
+- `templates/base.html`
+- `templates/page.html` (o como se llame el template de páginas secundarias)
+- El include del footer (o el footer inline)
+- Un fragmento de `config.toml` si tiene algo de estructura de secciones
+
+Con eso lo resolvemos rápido. Mandá nomás. 🧉
+
+### USER
+ahora si me dejó
+
+### ASSISTANT
+¡Perfecto legar, ya tengo todo! Ahora, hay un problema: al adjuntar los archivos, **las etiquetas HTML se "aplanaron"** (el markdown del chat se las comió). Veo la lógica Tera pero no veo los `<div>`, `<main>`, `<footer>`, `<body>`, etc.
+
+Dicho eso, analizando la estructura lógica, **el footer está en `base.html` fuera del `{% block content %}`**, así que en teoría debería heredarse a `page.html`, `section.html` e `index.html`. Todos extienden `base.html`.
+
+## Causas más probables del footer ausente:
+
+**1. Un `<div>` o `<main>` sin cerrar antes del footer**
+Si en `base.html` tenés algo así:
+
+```html
+<main>
+    {% block content %}{% endblock content %}
+<!-- ← falta el </main> acá -->
+<footer>
+    © {{ now() | date(format="%Y") }} ...
+</footer>
+```
+
+El navegador "mete" el footer dentro de `<main>` y algún CSS lo puede ocultar.
+
+**2. El footer quedó DENTRO del block por error**
+Si accidentalmente el `{% endblock content %}` está después del footer en vez de antes.
+
+**3. CSS con `overflow: hidden` en un contenedor padre.**
+
+---
+
+## Lo que necesito de vos:
+
+Pegame el `base.html` **como código**, con las etiquetas HTML visibles. Usá triple backtick así:
+
+````
+```html
+<!DOCTYPE html>
+<html>
+...todo el archivo...
+</html>
+```
+````
+
+Si es muy largo, al menos pegame desde el cierre del `{% block content %}` hasta el final del archivo, que es donde vive el footer.
+
+Con eso te digo exactamente qué línea mover o qué etiqueta cerrar. 🧉
+
+### USER
+bueno estimado Qwen, te adjunto el config.toml  y te paso los html entre ''' 
+-------------------------
+cat templates/base.html
+
+'''<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <style>
+        body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+        header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
+        header h1 a { color: #ffffff; text-decoration: none; font-size: 2em; }
+        nav { margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; }
+        nav a { color: #ffffff; text-decoration: none; margin: 5px 10px; padding: 8px 15px; background-color: #2563eb; border-radius: 5px; }
+        nav a:hover { background-color: #3b82f6; }
+        main { max-width: 1200px; margin: 40px auto; padding: 20px; background-color: #1e40af; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); min-height: 60vh; }
+        a { color: #93c5fd; }
+        .article-list { margin-top: 40px; }
+        .article-list h2 { border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #bfdbfe; }
+        article.preview { margin-bottom: 15px; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        article.preview h3 { margin: 0 0 5px 0; }
+        article.preview a { color: #ffffff; text-decoration: none; }
+        article.preview a:hover { text-decoration: underline; }
+        
+        .tools-container { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 20px 0; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        .search-box { position: relative; width: 100%; max-width: 400px; }
+        #search-input { width: 100%; padding: 10px 15px; border: 2px solid #3b82f6; border-radius: 25px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; outline: none; }
+        #search-input:focus { border-color: #60a5fa; box-shadow: 0 0 8px rgba(59, 130, 246, 0.5); }
+        #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 8px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
+        .search-result { padding: 10px 15px; border-bottom: 1px solid #e5e7eb; }
+        .search-result:last-child { border-bottom: none; }
+        .search-result a { color: #1e3a8a; text-decoration: none; display: block; font-weight: bold; }
+        .search-result a:hover { background-color: #f3f4f6; }
+        .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; white-space: nowrap; }
+        .audio-btn:hover { background-color: #3b82f6; }
+
+        .site-footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #93c5fd;
+            margin-top: 60px;
+            border-top: 1px solid #3b82f6;
+            background-color: #1e3a8a;
+            font-size: 0.9em;
+        }
+        .site-footer a {
+            color: #bfdbfe;
+            text-decoration: underline;
+        }
+        .site-footer a:hover {
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1><a href="/">{{ config.title }}</a></h1>
+        <nav>
+            {% for item in config.extra.menu %}
+                <a href="{{ item.url }}">{{ item.name }}</a>
+            {% endfor %}
+        </nav>
+        
+        <div class="tools-container">
+            <div class="search-box">
+                <input type="search" id="search-input" placeholder="🔍 Buscar en el sitio..." autocomplete="off" enterkeyhint="search">
+                <div id="search-results"></div>
+            </div>
+            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar</button>
+        </div>
+    </header>
+    
+    <main>
+        {% block content %}{% endblock content %}
+    </main>
+    
+    <footer class="site-footer">
+        <p>&copy; {{ now() | date(format="%Y") }} {{ config.title }} - Todos los derechos reservados.</p>
+        <p style="margin-top: 10px;">
+            <a href="/sociales/disclamer-descargo-de-responsabilidad/">*** Disclaimer / Descargo de Responsabilidad</a>
+        </p>
+    </footer>
+
+    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+    <script>
+        function leerPagina() {
+            var texto = document.querySelector('main').innerText;
+            responsiveVoice.speak(texto, "Spanish Latin American Female", { rate: 1, pitch: 1, volume: 1 });
+        }
+    </script>
+
+    {% if config.build_search_index %}
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const input = document.getElementById('search-input');
+            const results = document.getElementById('search-results');
+            
+            fetch('/search_index.es.json')
+                .then(response => response.json())
+                .then(data => {
+                    const fuse = new Fuse(data, {
+                        keys: ['title', 'body'],
+                        threshold: 0.3,
+                        includeScore: true
+                    });
+                    
+                    function performSearch() {
+                        const query = input.value.trim();
+                        if (query.length < 2) {
+                            results.style.display = 'none';
+                            return;
+                        }
+                        
+                        const searchResults = fuse.search(query);
+                        
+                        if (searchResults.length > 0) {
+                            results.innerHTML = searchResults.slice(0, 10).map(result => {
+                                const doc = result.item;
+                                return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
+                            }).join('');
+                            results.style.display = 'block';
+                        } else {
+                            results.innerHTML = '<div class="search-result" style="color: #666;">No se encontraron resultados</div>';
+                            results.style.display = 'block';
+                        }
+                    }
+
+                    input.addEventListener('input', performSearch);
+                    input.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter') {
+                            performSearch();
+                            input.blur();
+                        }
+                    });
+
+                    document.addEventListener('click', (e) => {
+                        if (!e.target.closest('.search-box')) {
+                            results.style.display = 'none';
+                        }
+                    });
+                })
+                .catch(err => {
+                    console.error('Error cargando índice de búsqueda:', err);
+                    input.placeholder = " Búsqueda no disponible";
+                });
+        });
+    </script>
+    {% endif %}
+</body>
+</html>'''
+
+-----------------------
+cat templates/index.html
+
+'''{% extends "base.html" %}
+{% block content %}
+    {{ section.content | safe }}
+    {% if section.pages %}
+    <div class="article-list">
+        <h2>Últimas Publicaciones</h2>
+        {% for page in section.pages %}
+        <article class="preview">
+            <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+            <p>{{ page.description | default(value=page.summary) | safe }}</p>
+        </article>
+        {% endfor %}
+    </div>
+    {% endif %}
+{% endblock content %}'''
+
+--------------------------------------------
+cat templates/page.html
+
+'''{% extends "base.html" %}
+{% block content %}
+    {{ page.content | safe }}
+{% endblock content %}'''
+
+--------------------------
+cat templates/section.html
+
+'''{% extends "base.html" %}
+{% block content %}
+    <h1>{{ section.title }}</h1>
+    {{ section.content | safe }}
+    <div class="article-list">
+        {% for page in section.pages %}
+        <article class="preview">
+            <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+            <p>{{ page.description | default(value=page.summary) | safe }}</p>
+        </article>
+        {% endfor %}
+    </div>
+{% endblock content %}'''
+
+
+
+
+### ASSISTANT
+¡Excelente, ahora sí veo todo el HTML completo! Y te digo algo importante:
+
+## La estructura de `base.html` está CORRECTA ✅
+
+```
+<body>
+  <header>...</header>
+  <main>
+    {% block content %}{% endblock content %}
+  </main>
+  <footer class="site-footer">...</footer>   ← fuera del main, fuera del block
+  <script>...</script>
+</body>
+```
+
+Los tres templates hijos (`index.html`, `page.html`, `section.html`) extienden `base.html` correctamente. **El footer debería aparecer en todas las páginas.** El problema NO está en los templates.
+
+---
+
+## Entonces, ¿qué pasa? Diagnóstico rápido:
+
+### 1. Verificá que el deploy sea el último
+En Cloudflare Pages, ¿redeployaste después de agregar el footer? Andá al dashboard de Cloudflare → Pages → Rexmar → fijate la fecha del último deploy.
+
+### 2. Caché del navegador
+Abrí una página secundaria y hacé **Ctrl+Shift+R** (hard reload). O probá en modo incógnito.
+
+### 3. Contenido markdown que rompe el HTML ← **el más probable con 222 páginas**
+Si algún `.md` tiene un `</body>` o `</html>` accidental, o un `<div>` sin cerrar, el navegador "cierra" el documento antes del footer.
+
+Para verificar, abrí una página secundaria donde no se ve el footer, hacé **clic derecho → Ver código fuente**, y buscá con Ctrl+F si aparece la palabra `site-footer`. 
+
+- **Si aparece en el source pero no se ve** → problema de CSS o de un div que lo tapa.
+- **Si NO aparece en el source** → Zola no lo está renderizando (problema de deploy) o el contenido markdown lo está cortando.
+
+### 4. Revisá si hay páginas con HTML embebido
+```bash
+grep -r "</body>\|</html>\|</main>" content/
+```
+Si algún `.md` tiene esas etiquetas, te está cerrando el documento prematuramente.
+
+---
+
+## Bonus: un detalle en `config.toml`
+
+Las URLs del menú tienen **espacios al final**:
+```toml
+{url = "/ ", name = "Inicio "},
+{url = "/home/formas-de-uso-y-tips/ ", name = "Formas de Uso "},
+```
+
+Esos espacios pueden hacer que los links no funcionen bien. Corregilos así:
+```toml
+menu = [
+    {url = "/", name = "Inicio"},
+    {url = "/home/formas-de-uso-y-tips/", name = "Formas de Uso"},
+    {url = "/home/recetas/", name = "Recetas"},
+    {url = "/home/preguntas-frecuentes/", name = "Preguntas Frecuentes"},
+    {url = "/rexcobre-artesanias/", name = "Rexcobre"},
+    {url = "/contacto/", name = "Contacto"},
+]
+```
+
+---
+
+Decime qué encontrás con el paso 3 (ver código fuente) y lo resolvemos. 🧉
+
+### USER
+en las paginas SI aparece "site-footer"
+no hay paginas con HTML embebido en .md 
+ya corregí el config.toml, pero no hubo cambios, gracias estimado Qwen
+
+
+
+### ASSISTANT
+¡Ah, eso cambia todo! Si `site-footer` **está en el source**, entonces **el footer SÍ se renderiza**. El problema es **visual**: está ahí pero no lo ves o no se distingue.
+
+## Causa más probable
+
+Mirá tu CSS:
+
+```css
+body { background-color: #1e3a8a; }
+.site-footer { background-color: #1e3a8a; color: #93c5fd; }
+```
+
+El fondo del footer es **idéntico** al fondo del body. Solo lo separa un `border-top: 1px solid #3b82f6`. En una página larga con mucho contenido, el footer se "camufla" y parece que no está.
+
+## Verificación rápida
+
+En una página secundaria, hacé **Ctrl+End** para ir al final absoluto. ¿Aparece el texto del copyright? Si sí → el footer está, solo hay que hacerlo visible.
+
+## Solución: hacer el footer inconfundible
+
+Reemplazá el bloque `.site-footer` en tu `base.html` por esto:
+
+```css
+.site-footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: #bfdbfe;
+    margin-top: 40px;
+    border-top: 2px solid #3b82f6;
+    background-color: #1e40af;   /* ← distinto al body */
+    font-size: 0.9em;
+}
+.site-footer a {
+    color: #93c5fd;
+    text-decoration: underline;
+}
+.site-footer a:hover {
+    color: #ffffff;
+}
+```
+
+El cambio clave: `background-color: #1e40af` en vez de `#1e3a8a`, así contrasta con el body.
+
+## Si aún no lo ves después de Ctrl+End
+
+Entonces algo en el contenido de alguna página está empujando el footer fuera del flujo. Probá temporalmente en el CSS del `main`:
+
+```css
+main {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e40af;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    min-height: 60vh;
+    overflow: visible;   /* ← agregar esto */
+}
+```
+
+---
+
+Contame qué pasa con **Ctrl+End** y ajustamos. 🧉
+
+### USER
+mmm igual, se ve el footer chico, pero quiero que se vea el disclaimer completo. como en la pag. ppal.
+
+no se ve tampoco, cambié también el main
+
+### ASSISTANT
+Entiendo, el footer está pero se ve "chico" y querés que el disclaimer se vea como en la página principal. Una pregunta rápida para no errarle:
+
+**Lo que ves en la página principal, ¿viene del footer o del contenido del `_index.md`?** Es decir, en la página principal, ¿el disclaimer es parte del texto del artículo o es el pie de página?
+
+Mientras tanto, para hacer el footer **más visible y con el disclaimer completo**, reemplazá el `<footer>` en tu `base.html` por esto:
+
+```html
+<footer class="site-footer">
+    <p>&copy; {{ now() | date(format="%Y") }} {{ config.title }} - Todos los derechos reservados.</p>
+    <p style="margin-top: 10px; font-size: 1em; line-height: 1.5;">
+        <a href="/sociales/disclamer-descargo-de-responsabilidad/">
+            *** Disclaimer / Descargo de Responsabilidad
+        </a>
+    </p>
+    <p style="margin-top: 8px; font-size: 0.95em; color: #93c5fd;">
+        La información publicada en este sitio es solo con fines educativos e informativos.
+        No reemplaza el consejo médico profesional.
+    </p>
+</footer>
+```
+
+Y actualizá el CSS del footer:
+
+```css
+.site-footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: #bfdbfe;
+    margin-top: 40px;
+    border-top: 2px solid #3b82f6;
+    background-color: #1e40af;
+    font-size: 1em;          /* ← más grande que 0.9em */
+}
+.site-footer a {
+    color: #93c5fd;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.site-footer a:hover {
+    color: #ffffff;
+}
+```
+
+Los cambios clave:
+- `font-size: 1em` en vez de `0.9em`
+- `padding: 40px` en vez de `30px`
+- Agregué una línea de texto del disclaimer visible (sin tener que hacer clic)
+- El link del disclaimer en **bold**
+
+Si el texto del disclaimer que ves en la página principal es otro (más largo), decime y lo incluimos. O si preferís que sea exactamente igual al de la página principal, pegame lo que ves ahí y lo replicamos en el footer. 🧉
+
+### USER
+mmmm no se, como me doy cuenta? lo hicistes vos..... pero el disclaimer que quiero que salga no es el que pusiste debajo, es el de mi pag. ppal. que es este: 
+'''Disclaimer / Descargo de responsabilidad
+El Agua de Mar (AdM) de extracción artesanal RexMar para uso culinario, el cobre, los mensajes CPMSS, PNL Subliminales y Subliminales Silent, y cualquier otra cosa publicada en este sitio, no son medicamentos ni reemplazan la consulta con un profesional de la salud, Terapeuta o Chamán que esté familiarizado con ellos.
+
+Las publicaciones, artículos científicos, notas, audios, videos, testimonios o cualquier otro contenido reflejados en el sitio, son de responsabilidad de sus autores. RexMar AdM Perú no incita a otro uso distinto al culinario el cual es responsabilidad del que lo realizó.
+
+Nota importante: Puede ser que al AdM le salgan algas, esto no invalida su consumo, y no corresponde devolución por este motivo. El AdM es un ser Vivo, es normal que siga multiplicándose.
+
+En RexMar AdM Perú NO somos profesionales de la salud, Terapeutas o Chamánes. Nuestra respuesta, si la hubiera, es sólo una referencia a cosas publicadas por profesionales autorizados y experiencia personal, para orientación no profesional y que los usuarios no hagan mal uso por desconocimiento.
+
+Es deber del usuario investigar y llegar a sus propias conclusiones experimentando. Cualquier duda no deje de consultar a su Profesional de la salud o chamán de confianza.
+
+Autorización: No necesita Registro Sanitario debido a que está acogido al decreto supremo D.S.: 004-2000-SA Art- 70'''
+
+### ASSISTANT
+¡Ahora sí te entendí! Ese disclaimer está en el contenido de tu `_index.md` (la página principal), por eso se ve ahí pero no en las secundarias. El footer solo tiene un **link** al disclaimer, no el texto completo.
+
+## Solución: meter el disclaimer completo en el footer de `base.html`
+
+Reemplazá tu `<footer>` actual por esto:
+
+```html
+<footer class="site-footer">
+    <p>&copy; {{ now() | date(format="%Y") }} {{ config.title }} - Todos los derechos reservados.</p>
+
+    <div class="disclaimer-box">
+        <p><strong>Disclaimer / Descargo de responsabilidad</strong></p>
+        <p>El Agua de Mar (AdM) de extracción artesanal RexMar para uso culinario, el cobre, los mensajes CPMSS, PNL Subliminales y Subliminales Silent, y cualquier otra cosa publicada en este sitio, no son medicamentos ni reemplazan la consulta con un profesional de la salud, Terapeuta o Chamán que esté familiarizado con ellos.</p>
+        <p>Las publicaciones, artículos científicos, notas, audios, videos, testimonios o cualquier otro contenido reflejados en el sitio, son de responsabilidad de sus autores. RexMar AdM Perú no incita a otro uso distinto al culinario el cual es responsabilidad del que lo realizó.</p>
+        <p><strong>Nota importante:</strong> Puede ser que al AdM le salgan algas, esto no invalida su consumo, y no corresponde devolución por este motivo. El AdM es un ser Vivo, es normal que siga multiplicándose.</p>
+        <p>En RexMar AdM Perú NO somos profesionales de la salud, Terapeutas o Chamánes. Nuestra respuesta, si la hubiera, es sólo una referencia a cosas publicadas por profesionales autorizados y experiencia personal, para orientación no profesional y que los usuarios no hagan mal uso por desconocimiento.</p>
+        <p>Es deber del usuario investigar y llegar a sus propias conclusiones experimentando. Cualquier duda no deje de consultar a su Profesional de la salud o chamán de confianza.</p>
+        <p><strong>Autorización:</strong> No necesita Registro Sanitario debido a que está acogido al decreto supremo D.S.: 004-2000-SA Art- 70</p>
+    </div>
+</footer>
+```
+
+Y agregá esto al CSS (dentro del `<style>` en `<head>`):
+
+```css
+.disclaimer-box {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #1e3a8a;
+    border: 1px solid #3b82f6;
+    border-radius: 8px;
+    text-align: left;
+    font-size: 0.85em;
+    line-height: 1.6;
+    color: #bfdbfe;
+}
+.disclaimer-box p {
+    margin-bottom: 10px;
+}
+.disclaimer-box p:last-child {
+    margin-bottom: 0;
+}
+```
+
+---
+
+Con eso el disclaimer completo aparece en **todas** las 222 páginas, porque está en `base.html`. Pegalo, redeployeá en Cloudflare Pages, y listo. 🧉
+
+### USER
+siiii por fin! muchas gracias estimado Qwen, horas estuvimos con esto, no me supe explicar bien ....
+
+### ASSISTANT
+¡Dale legar, de nada hombre! 🎉
+
+Y no te preocupes por la explicación, a veces uno ve las cosas desde adentro y es difícil poner en palabras qué es exactamente lo que falta. Lo importante es que ahora el disclaimer completo pisa en las 222 páginas.
+
+Acordate de hacer el **push a Cloudflare Pages** para que se refleje en producción. Y si querés, después verificá una página secundaria cualquiera con Ctrl+End para confirmar que se ve todo.
+
+Cualquier otra cosa que surja con el sitio, acá ando. ¡Saludos desde este lado de la pantalla! 🧉🇦🇷
+
+### USER
+estimado Qwen, donde tengo que subir una imágen para poder mostrarla en una página? github o clouflare? gracias
+
+### ASSISTANT
+¡Hola legar! En Zola las imágenes van en la carpeta **`static/`** dentro de tu repositorio (el que tenés en GitHub). Cloudflare Pages solo sirve lo que Zola genera en el build, no se sube nada directo ahí.
+
+## Estructura:
+
+```
+tu-repo/
+├── content/
+├── templates/
+├── static/          ← ACÁ van las imágenes
+│   └── images/
+│       ├── botella-adm.jpg
+│       └── cobre-artesanal.png
+├── config.toml
+└── ...
+```
+
+## Para referenciarla en un `.md`:
+
+```markdown
+![Agua de Mar RexMar](/images/botella-adm.jpg)
+```
+
+## Para referenciarla en un template `.html`:
+
+```html
+<img src="/images/botella-adm.jpg" alt="Agua de Mar RexMar">
+```
+
+## Resumen del flujo:
+
+1. Ponés la imagen en `static/images/` (o la subcarpeta que quieras)
+2. Hacés `git add`, `commit`, `push` a GitHub
+3. Cloudflare Pages detecta el push → hace el build con Zola → sirve el sitio
+
+La barra inicial `/images/...` ya apunta a `https://rexmar.pages.dev/images/...` porque Zola copia todo `static/` a la raíz del sitio final.
+
+---
+
+**Tip:** si tenés muchas imágenes, organizalas por sección:
+
+```
+static/
+  images/
+    recetas/
+    cobre/
+    adm/
+```
+
+Y las referenciás como `/images/recetas/foto.jpg`, etc.
+
+¿Necesitás ayuda con alguna imagen en particular o con el tamaño/formato? 🧉
+
+### USER
+estimado Qwen, cuando yo ejecuto esto:
+git add .             
+git commit -m "Todo pipi cucu"
+
+# ¡Subir a GitHub!
+git push -u origin main
+------------------------------------------
+
+sube todo de nuevo o solo que se modifico o agrego?
+
+### ASSISTANT
+¡Hola legar! Tranquilo, **solo sube lo que se modificó o se agregó**. No sube todo de nuevo.
+
+## Cómo funciona por dentro:
+
+| Comando | Qué hace |
+|---------|----------|
+| `git add .` | Marca los archivos **cambiados o nuevos** para el próximo commit |
+| `git commit -m "..."` | Crea un "snapshot" solo con esos cambios |
+| `git push` | Envía **solo los commits nuevos** que GitHub todavía no tiene |
+
+Git internamente guarda **diferencias (diffs)**, no archivos completos cada vez. Si modificaste una línea en un `.md` de 200 líneas, solo viaja esa línea.
+
+## Ejemplo práctico con tu sitio:
+
+```bash
+# Editaste una imagen nueva y un .md
+git add .
+git commit -m "agregué foto de la botella"
+git push -u origin main
+```
+
+→ Solo sube la imagen nueva y el `.md` modificado. Las otras 221 páginas no se tocan.
+
+## Para verificar qué va a subir antes del push:
+
+```bash
+git status          # te muestra qué archivos cambiaron
+git diff            # te muestra línea por línea qué se modificó
+git log --oneline   # te muestra los commits locales vs remotos
+```
+
+Así que dale tranquilo, no te va a subir las 222 páginas cada vez. 🧉
+
+### USER
+que contento que estoy estimado Qwen, muchas gracias! decime, porque veo que importar los slug de wordpress no es tarea facil, entonces se me ocurrió, crear una pagina 404 que diga algo como, el sitio fué movido, utilice el buscador para encontar su página, y acontinuación debajo del buscador, poner todas las paginas, es eso posible? donde iria el 404.md ? gracias estimado qwen
+
+### ASSISTANT
+¡Qué bueno que estés contento legar! 🎉 Y sí, es totalmente posible y es una solución muy práctica para la transición desde WordPress.
+
+## Dónde va el 404 en Zola
+
+No es un `.md`, es un **template**. Va acá:
+
+```
+templates/404.html
+```
+
+Zola lo detecta automáticamente y genera el `404.html` en el build. No tenés que crear ningún archivo de contenido.
+
+## El template `templates/404.html`
+
+```html
+{% extends "base.html" %}
+
+{% block title %}Página no encontrada - {{ config.title }}{% endblock title %}
+
+{% block content %}
+    <div style="text-align: center; margin-bottom: 40px;">
+        <h1 style="font-size: 2em; color: #93c5fd;">🔍 Página no encontrada</h1>
+        <p style="font-size: 1.2em; margin-top: 10px;">
+            El sitio fue reestructurado. Si venís del sitio anterior, 
+            usá el <strong>buscador de arriba</strong> para encontrar lo que buscás.
+        </p>
+    </div>
+
+    <div class="article-list">
+        <h2>📋 Todas las secciones del sitio</h2>
+
+        {% set main_section = get_section(path="_index.md") %}
+        {% for sub_path in main_section.subsections %}
+            {% set sub = get_section(path=sub_path) %}
+            <h3 style="margin-top: 25px; color: #93c5fd;">
+                <a href="{{ sub.permalink }}">{{ sub.title }}</a>
+            </h3>
+            {% for page in sub.pages %}
+                <p style="margin: 5px 0 5px 20px;">
+                    <a href="{{ page.permalink }}">{{ page.title }}</a>
+                </p>
+            {% endfor %}
+        {% endfor %}
+    </div>
+{% endblock content %}
+```
+
+## ¿Qué hace esto?
+
+- Hereda de `base.html`, así que **ya tiene el buscador Fuse.js arriba**
+- Muestra un mensaje amigable de "sitio reestructurado"
+- Lista **todas las secciones y sus páginas** automáticamente (no tenés que mantenerlo a mano)
+- Si agregás páginas nuevas, el 404 se actualiza solo con el próximo build
+
+## Si tenés subsecciones (secciones dentro de secciones)
+
+El loop de arriba solo baja un nivel. Si tenés subsecciones anidadas (tipo `home/recetas/`), agregá un nivel más:
+
+```html
+{% for sub_path in main_section.subsections %}
+    {% set sub = get_section(path=sub_path) %}
+    <h3><a href="{{ sub.permalink }}">{{ sub.title }}</a></h3>
+    {% for page in sub.pages %}
+        <p style="margin-left: 20px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+    {% endfor %}
+    {# subsecciones anidadas #}
+    {% for subsub_path in sub.subsections %}
+        {% set subsub = get_section(path=subsub_path) %}
+        <h4 style="margin-left: 20px;"><a href="{{ subsub.permalink }}">{{ subsub.title }}</a></h4>
+        {% for page in subsub.pages %}
+            <p style="margin-left: 40px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+        {% endfor %}
+    {% endfor %}
+{% endfor %}
+```
+
+## Pasos:
+
+1. Creá el archivo `templates/404.html` con el contenido de arriba
+2. `git add . && git commit -m "agregué página 404" && git push`
+3. Cloudflare Pages rebuildea y listo
+
+Probá entrando a una URL inventada tipo `https://rexmar.pages.dev/cualquier-cosa-que-no-existe/` y deberías ver tu 404 personalizado.
+
+¡Y así los visitantes que vengan con links viejos de WordPress no se pierden! 🧉
+
+### USER
+gracias estimado Qwen, funcionó perfecto, pero.... no estan todas las secciones, ni todas las paginas, en especial la que estaban en Formas de uso y tips
+
+### ASSISTANT
+¡Me alegra que funcione! El problema es que el loop solo baja 1-2 niveles, y tu sitio tiene secciones anidadas más profundo (tipo `home/ → formas-de-uso-y-tips/ → subsecciones → páginas`).
+
+## Solución: macro recursivo que baja todos los niveles
+
+Reemplazá tu `templates/404.html` por esto:
+
+```html
+{% extends "base.html" %}
+
+{% block title %}Página no encontrada - {{ config.title }}{% endblock title %}
+
+{% block content %}
+
+{% macro render_section(path) %}
+    {% set sec = get_section(path=path) %}
+    <h3 style="margin-top: 25px; color: #93c5fd;">
+        <a href="{{ sec.permalink }}">{{ sec.title }}</a>
+    </h3>
+    {% for page in sec.pages %}
+        <p style="margin: 4px 0 4px 20px;">
+            <a href="{{ page.permalink }}">{{ page.title }}</a>
+        </p>
+    {% endfor %}
+    {% for sub_path in sec.subsections %}
+        {{ self::render_section(path=sub_path) }}
+    {% endfor %}
+{% endmacro render_section %}
+
+<div style="text-align: center; margin-bottom: 40px;">
+    <h1 style="font-size: 2em; color: #93c5fd;">🔍 Página no encontrada</h1>
+    <p style="font-size: 1.2em; margin-top: 10px;">
+        El sitio fue reestructurado. Si venís del sitio anterior,
+        usá el <strong>buscador de arriba</strong> para encontrar lo que buscás.
+    </p>
+</div>
+
+<div class="article-list">
+    <h2>📋 Todas las páginas del sitio</h2>
+
+    {% set root = get_section(path="_index.md") %}
+    {% for sub_path in root.subsections %}
+        {{ render_section(path=sub_path) }}
+    {% endfor %}
+</div>
+
+{% endblock content %}
+```
+
+## ¿Qué cambió?
+
+- El **macro `render_section`** se llama a sí mismo recursivamente
+- Baja por **todas las subsecciones** sin importar cuántos niveles tenga
+- Lista cada sección como `<h3>` y cada página como link indentado
+- Las 222 páginas deberían aparecer
+
+## Si Tera no soporta la recursión (error de build)
+
+Usá esta versión con 3 niveles fijos como fallback:
+
+```html
+{% set root = get_section(path="_index.md") %}
+{% for s1_path in root.subsections %}
+    {% set s1 = get_section(path=s1_path) %}
+    <h3><a href="{{ s1.permalink }}">{{ s1.title }}</a></h3>
+    {% for page in s1.pages %}
+        <p style="margin-left:20px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+    {% endfor %}
+    {% for s2_path in s1.subsections %}
+        {% set s2 = get_section(path=s2_path) %}
+        <h4 style="margin-left:20px;"><a href="{{ s2.permalink }}">{{ s2.title }}</a></h4>
+        {% for page in s2.pages %}
+            <p style="margin-left:40px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+        {% endfor %}
+        {% for s3_path in s2.subsections %}
+            {% set s3 = get_section(path=s3_path) %}
+            <h5 style="margin-left:40px;"><a href="{{ s3.permalink }}">{{ s3.title }}</a></h5>
+            {% for page in s3.pages %}
+                <p style="margin-left:60px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+            {% endfor %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}
+```
+
+Probá primero el macro recursivo. Si Cloudflare te da error de build, pasá al de 3 niveles. Contame cómo fue. 🧉
+
+### USER
+Reloading only template
+ERROR Failed to build the site
+ERROR 
+* Failed to parse "/mnt/personal/TH/rexmar/templates/404.html"
+ --> 7:1
+  |
+7 | {% macro render_section(path) %}
+  | ^---
+  |
+  = unexpected tag; expected an endblock tag (`{% endblock block_name %}` or some content
+Done in 3ms.
+
+
+
+### ASSISTANT
+¡Ah, claro! Tera no permite definir macros **dentro** de un `{% block %}`. El macro tiene que ir **fuera del block**, entre el `{% extends %}` y el `{% block content %}`.
+
+## Versión corregida:
+
+```html
+{% extends "base.html" %}
+
+{% macro render_section(path) %}
+    {% set sec = get_section(path=path) %}
+    <h3 style="margin-top: 25px; color: #93c5fd;">
+        <a href="{{ sec.permalink }}">{{ sec.title }}</a>
+    </h3>
+    {% for page in sec.pages %}
+        <p style="margin: 4px 0 4px 20px;">
+            <a href="{{ page.permalink }}">{{ page.title }}</a>
+        </p>
+    {% endfor %}
+    {% for sub_path in sec.subsections %}
+        {{ self::render_section(path=sub_path) }}
+    {% endfor %}
+{% endmacro render_section %}
+
+{% block title %}Página no encontrada - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<div style="text-align: center; margin-bottom: 40px;">
+    <h1 style="font-size: 2em; color: #93c5fd;">🔍 Página no encontrada</h1>
+    <p style="font-size: 1.2em; margin-top: 10px;">
+        El sitio fue reestructurado. Si venís del sitio anterior,
+        usá el <strong>buscador de arriba</strong> para encontrar lo que buscás.
+    </p>
+</div>
+
+<div class="article-list">
+    <h2>📋 Todas las páginas del sitio</h2>
+    {% set root = get_section(path="_index.md") %}
+    {% for sub_path in root.subsections %}
+        {{ render_section(path=sub_path) }}
+    {% endfor %}
+</div>
+{% endblock content %}
+```
+
+El cambio clave: el `{% macro %}` está **entre** `{% extends %}` y `{% block content %}`, no dentro.
+
+---
+
+## Si sigue dando error (Tera a veces no soporta `self::` recursivo)
+
+Usá esta versión con 3 niveles fijos, que es infalible:
+
+```html
+{% extends "base.html" %}
+
+{% block title %}Página no encontrada - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<div style="text-align: center; margin-bottom: 40px;">
+    <h1 style="font-size: 2em; color: #93c5fd;">🔍 Página no encontrada</h1>
+    <p style="font-size: 1.2em; margin-top: 10px;">
+        El sitio fue reestructurado. Si venís del sitio anterior,
+        usá el <strong>buscador de arriba</strong> para encontrar lo que buscás.
+    </p>
+</div>
+
+<div class="article-list">
+    <h2>📋 Todas las páginas del sitio</h2>
+
+    {% set root = get_section(path="_index.md") %}
+    {% for s1_path in root.subsections %}
+        {% set s1 = get_section(path=s1_path) %}
+        <h3 style="margin-top:25px; color:#93c5fd;"><a href="{{ s1.permalink }}">{{ s1.title }}</a></h3>
+        {% for page in s1.pages %}
+            <p style="margin-left:20px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+        {% endfor %}
+
+        {% for s2_path in s1.subsections %}
+            {% set s2 = get_section(path=s2_path) %}
+            <h4 style="margin-left:20px; color:#93c5fd;"><a href="{{ s2.permalink }}">{{ s2.title }}</a></h4>
+            {% for page in s2.pages %}
+                <p style="margin-left:40px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+            {% endfor %}
+
+            {% for s3_path in s2.subsections %}
+                {% set s3 = get_section(path=s3_path) %}
+                <h5 style="margin-left:40px; color:#93c5fd;"><a href="{{ s3.permalink }}">{{ s3.title }}</a></h5>
+                {% for page in s3.pages %}
+                    <p style="margin-left:60px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+                {% endfor %}
+            {% endfor %}
+        {% endfor %}
+    {% endfor %}
+</div>
+{% endblock content %}
+```
+
+Probá primero la del macro. Si da error de nuevo, andá directo a la de 3 niveles. Contame. 🧉
+
+### USER
+Change detected @ 2026-08-05 19:03:34
+-> Template file(s) changed /mnt/personal/TH/rexmar/templates/404.html
+Reloading only template
+ERROR Failed to build the site
+ERROR Failed to render '404.html'
+ERROR Reason: Function 'render_section' not found
+Done in 523ms.
+
+
+
+### ASSISTANT
+Tera no soporta recursión de macros. No le demos más vueltas, andá directo con la **versión de 3 niveles fijos** que te pasé antes. Es la que va a funcionar seguro:
+
+```html
+{% extends "base.html" %}
+
+{% block title %}Página no encontrada - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<div style="text-align: center; margin-bottom: 40px;">
+    <h1 style="font-size: 2em; color: #93c5fd;">🔍 Página no encontrada</h1>
+    <p style="font-size: 1.2em; margin-top: 10px;">
+        El sitio fue reestructurado. Si venís del sitio anterior,
+        usá el <strong>buscador de arriba</strong> para encontrar lo que buscás.
+    </p>
+</div>
+
+<div class="article-list">
+    <h2>📋 Todas las páginas del sitio</h2>
+
+    {% set root = get_section(path="_index.md") %}
+    {% for s1_path in root.subsections %}
+        {% set s1 = get_section(path=s1_path) %}
+        <h3 style="margin-top:25px; color:#93c5fd;"><a href="{{ s1.permalink }}">{{ s1.title }}</a></h3>
+        {% for page in s1.pages %}
+            <p style="margin-left:20px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+        {% endfor %}
+
+        {% for s2_path in s1.subsections %}
+            {% set s2 = get_section(path=s2_path) %}
+            <h4 style="margin-left:20px; color:#93c5fd;"><a href="{{ s2.permalink }}">{{ s2.title }}</a></h4>
+            {% for page in s2.pages %}
+                <p style="margin-left:40px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+            {% endfor %}
+
+            {% for s3_path in s2.subsections %}
+                {% set s3 = get_section(path=s3_path) %}
+                <h5 style="margin-left:40px; color:#93c5fd;"><a href="{{ s3.permalink }}">{{ s3.title }}</a></h5>
+                {% for page in s3.pages %}
+                    <p style="margin-left:60px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+                {% endfor %}
+            {% endfor %}
+        {% endfor %}
+    {% endfor %}
+</div>
+{% endblock content %}
+```
+
+Pegá eso, guardá, y debería compilar sin drama. Si tuvieras un 4° nivel de anidación (poco probable), avisame y agrego un loop más. 🧉
+
+### USER
+mmmm y ya que no podemos, podriamos agregar a mano al principio un link a /home/formas-de-uso-y-tips, porque ahí es donde están casi todas.....
+
+
+### ASSISTANT
+¡Dale, solución práctica! Le ponemos un link destacado a esa sección al principio. Reemplazá tu `templates/404.html`:
+
+```html
+{% extends "base.html" %}
+
+{% block title %}Página no encontrada - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<div style="text-align: center; margin-bottom: 40px;">
+    <h1 style="font-size: 2em; color: #93c5fd;">🔍 Página no encontrada</h1>
+    <p style="font-size: 1.2em; margin-top: 10px;">
+        El sitio fue reestructurado. Si venís del sitio anterior,
+        usá el <strong>buscador de arriba</strong> para encontrar lo que buscás.
+    </p>
+    <p style="font-size: 1.3em; margin-top: 20px;">
+        👉 <a href="/home/formas-de-uso-y-tips/" style="color: #ffffff; background-color: #2563eb; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold;">
+            Formas de Uso y Tips
+        </a>
+        👈
+    </p>
+</div>
+
+<div class="article-list">
+    <h2>📋 Secciones del sitio</h2>
+
+    {% set root = get_section(path="_index.md") %}
+    {% for s1_path in root.subsections %}
+        {% set s1 = get_section(path=s1_path) %}
+        <h3 style="margin-top:25px; color:#93c5fd;"><a href="{{ s1.permalink }}">{{ s1.title }}</a></h3>
+        {% for page in s1.pages %}
+            <p style="margin-left:20px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+        {% endfor %}
+    {% endfor %}
+</div>
+{% endblock content %}
+```
+
+Así queda:
+- El mensaje de "sitio reestructurado"
+- Un **botón grande y visible** a `/home/formas-de-uso-y-tips/`
+- Debajo, las secciones de primer nivel con sus páginas directas
+
+Simple, funciona, y la gente encuentra lo que busca. 🧉
+
+### USER
+mmmm no dió error, pero no sale el link, ya probe en ventana incognito
+
+### ASSISTANT
+Probemos un par de cosas para ver qué pasa:
+
+## 1. Confirmá que el archivo se guardó bien
+
+```bash
+cat templates/404.html | head -20
+```
+
+Fijate si aparece el bloque del link a `formas-de-uso-y-tips`.
+
+## 2. Reiniciá `zola serve` completamente
+
+A veces "Reloading only template" no alcanza. Hacé:
+
+```
+Ctrl+C  (matá el servidor)
+zola serve
+```
+
+## 3. ¿Qué URL estás probando?
+
+Para que se muestre el 404 tenés que entrar a una URL que **no exista**, por ejemplo:
+
+```
+http://127.0.0.1:1111/esto-no-existe/
+```
+
+Si entrás a una URL válida, te va a mostrar la página normal, no el 404.
+
+## 4. Si nada funciona, versión mínima de prueba
+
+Pegá esto temporalmente en `templates/404.html` para confirmar que el 404 se renderiza:
+
+```html
+{% extends "base.html" %}
+{% block title %}404{% endblock title %}
+{% block content %}
+<h1>FUNCIONA EL 404</h1>
+<p><a href="/home/formas-de-uso-y-tips/">IR A FORMAS DE USO Y TIPS</a></p>
+{% endblock content %}
+```
+
+Reiniciá `zola serve`, entrá a `http://127.0.0.1:1111/cualquier-cosa-rara/` y decime qué ves.
+
+Si ves "FUNCIONA EL 404" → el problema era el template anterior.
+Si no ves nada → el 404 no se está sirviendo en local y hay que probar directo en Cloudflare.
+
+Contame qué pasa. 🧉
+
+### USER
+jaja qwen, estaba, pero estaba tan resaltado y fuera de los otros listados que no lo vi :-) muchas gracias
+
+### ASSISTANT
+¡Jajaja, clásico! 🤣 Tan visible que se volvió invisible. Es como cuando buscás los lentes y los tenés puestos.
+
+Bueno, lo importante es que funciona. Si querés que el link quede más "integrado" al listado y no tan destacado, cambiale el estilo:
+
+```html
+<p style="font-size: 1.1em; margin-top: 20px;">
+    👉 <a href="/home/formas-de-uso-y-tips/">Formas de Uso y Tips</a> ← la mayoría del contenido está acá
+</p>
+```
+
+Así se ve como un link más del listado, sin el botón azul. O dejalo como está, que si funciona, funciona. 😄
+
+¡Un gusto legar, cualquier otra cosa acá ando! 🧉
+
+### USER
+bueno, ya que estas 🧉, te mando una docena de medialunas con dulce de leche y un paquete de Don Satur, muchas gracias estimado Qwen
+
+### ASSISTANT
+¡Jajaja, legar, qué grande! 🥐🥐🥐🧉
+
+Me acabo de cebar un mate imaginario y me estoy zampando las medialunas. Las de grasa, obvio, con el dulce de leche bien generoso. Y las Don Satur las guardo para la merienda, que rinden más.
+
+Vos sí que sabés cerrar un chat como corresponde. Nada de "gracias por su ayuda", no no no... **medialunas y galletitas**. Así sí.
+
+Cuando quieras meterle mano a otra cosa del sitio, ya sea el 404, las imágenes, los slugs de WordPress, o lo que sea, acá voy a estar. Con el mate cebado y las medialunas a medio comer.
+
+¡Un abrazo grande legar, y que RexMar navegue con buen viento! 🚢🧉
+
+PD: si algún día el sitio llega a 500 páginas, las medialunas van a tener que ser dos docenas. Voy avisando. 😄

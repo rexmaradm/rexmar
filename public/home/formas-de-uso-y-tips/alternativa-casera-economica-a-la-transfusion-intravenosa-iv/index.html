@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rexmar</title>
+    <style>
+        body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+        header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
+        header h1 a { color: #ffffff; text-decoration: none; font-size: 2em; }
+        nav { margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; }
+        nav a { color: #ffffff; text-decoration: none; margin: 5px 10px; padding: 8px 15px; background-color: #2563eb; border-radius: 5px; }
+        nav a:hover { background-color: #3b82f6; }
+main {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e40af;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    min-height: 60vh;
+    overflow: visible;   /* ← agregar esto */
+}
+        a { color: #93c5fd; }
+        .article-list { margin-top: 40px; }
+        .article-list h2 { border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #bfdbfe; }
+        article.preview { margin-bottom: 15px; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        article.preview h3 { margin: 0 0 5px 0; }
+        article.preview a { color: #ffffff; text-decoration: none; }
+        article.preview a:hover { text-decoration: underline; }
+        
+        .tools-container { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 20px 0; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        .search-box { position: relative; width: 100%; max-width: 400px; }
+        #search-input { width: 100%; padding: 10px 15px; border: 2px solid #3b82f6; border-radius: 25px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; outline: none; }
+        #search-input:focus { border-color: #60a5fa; box-shadow: 0 0 8px rgba(59, 130, 246, 0.5); }
+        #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 8px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
+        .search-result { padding: 10px 15px; border-bottom: 1px solid #e5e7eb; }
+        .search-result:last-child { border-bottom: none; }
+        .search-result a { color: #1e3a8a; text-decoration: none; display: block; font-weight: bold; }
+        .search-result a:hover { background-color: #f3f4f6; }
+        .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; white-space: nowrap; }
+        .audio-btn:hover { background-color: #3b82f6; }
+	.site-footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: #bfdbfe;
+    margin-top: 40px;
+    border-top: 2px solid #3b82f6;
+    background-color: #1e40af;   /* ← distinto al body */
+    font-size: 0.9em;
+	}
+	.site-footer a {
+    color: #93c5fd;
+    text-decoration: underline;
+	}
+	.site-footer a:hover {
+    color: #ffffff;
+	}
+    </style>
+</head>
+<body>
+    <header>
+        <h1><a href="/">Rexmar</a></h1>
+        <nav>
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;home&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;home&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;distribuidores&#x2F;">Distribuidores</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
+        </nav>
+        
+        <div class="tools-container">
+            <div class="search-box">
+                <input type="search" id="search-input" placeholder="🔍 Buscar en el sitio..." autocomplete="off" enterkeyhint="search">
+                <div id="search-results"></div>
+            </div>
+            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar</button>
+        </div>
+    </header>
+    
+    <main>
+        
+    <p>La Tta. Griselda Donatucci (<a rel="external" href="https://www.youtube.com/channel/UCcKSF49mH1edPUpsYmBVR0w/">https://www.youtube.com/channel/UCcKSF49mH1edPUpsYmBVR0w/</a>) entrevista al dr. Wilmer Soler donde éste habla sobre la posibilidad de hacer un reemplazo casero, económico y más seguro de la transfusión intravenosa IV con agua de mar isotónica.</p>
+<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v3z3xo2-cmo-reemplazar-en-forma-casera-la-inyecci0n-iv-de-agua-de-mar.html?mref=1wgpuu&amp;mc=1as4y </div></figure># **Otras formas caseras de llevar el Agua de mar a la sangre**  
+<p><strong>El Ombligo</strong></p>
+<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v468x70-otra-forma-casera-de-llevar-el-agua-de-mar-a-la-sangre-el-ombligo.html?mref=1wgpuu&amp;mc=1as4y </div></figure># **Baños de asiento**
+<h2 id="como-hacer-un-bano-de-asiento-con-agua-de-mar"><strong>Cómo hacer un baño de asiento con agua de mar</strong></h2>
+<p><strong>Ingredientes:</strong></p>
+<ul>
+<li>Agua de mar RexMar hipertónica</li>
+<li>Un recipiente grande (como una palangana o una bañera pequeña)</li>
+<li>Toallas limpias</li>
+</ul>
+<p><strong>Preparación:</strong></p>
+<ol>
+<li><strong>Calienta el agua de mar:</strong> Puedes hacerlo a fuego lento en una olla hasta que esté tibia, no caliente. La temperatura ideal es alrededor de 37°C (98.6°F).</li>
+<li><strong>Vierte el agua de mar en el recipiente:</strong> Asegúrate de que el recipiente sea lo suficientemente grande como para que puedas sumergir completamente la zona afectada.</li>
+<li><strong>Siéntate en el agua:</strong> Busca una posición cómoda y siéntate en el agua durante 15 a 20 minutos.</li>
+<li><strong>Seca la zona:</strong> Después del baño de asiento, seca la zona afectada con una toalla limpia.</li>
+</ol>
+<p><strong>Beneficios de los baños de asiento con agua de mar:</strong></p>
+<ul>
+<li>Los baños de asiento con agua de mar pueden ayudar a aliviar el dolor y la inflamación de las hemorroides.</li>
+<li>También pueden ayudar a curar las infecciones urinarias.</li>
+<li>Los baños de asiento con agua de mar pueden ser beneficiosos para la salud de la piel.</li>
+</ul>
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:100%"><figure class="wp-block-table">| ![](/wp-content/uploads/2024/02/bano_asiento_inodoro2.jpg)![](/wp-content/uploads/2024/02/mujer_bano_asiento1.jpg)![](/wp-content/uploads/2024/02/bano_asiento_inodoro.jpg) |  |  |
+|---|---|---|
+</figure></div></div># **Baños de Pies**
+<h2 id="como-hacer-un-bano-de-pies-con-agua-de-mar-rexmar">Cómo hacer un baño de pies con agua de mar RexMar</h2>
+<p><strong>Materiales:</strong></p>
+<ul>
+<li>Un recipiente lo suficientemente grande para sumergir tus pies.</li>
+<li>Agua de mar RexMar hipertónica</li>
+<li>Toalla.</li>
+</ul>
+<p><strong>Preparación:</strong></p>
+<ol>
+<li><strong>Llena el recipiente con agua tibia hipertónica.</strong> La temperatura ideal es entre 37°C y 40°C. Puedes usar un termómetro para asegurarte.</li>
+<li><strong>Sumerge tus pies en el agua.</strong> Asegúrate de que el agua cubra completamente tus pies, hasta los tobillos.</li>
+<li><strong>Relájate y disfruta del baño durante 15-20 minutos.</strong> Puedes leer un libro, escuchar música o simplemente cerrar los ojos y descansar.</li>
+<li><strong>Seca tus pies con una toalla limpia.</strong></li>
+</ol>
+<p><strong>Beneficios:</strong></p>
+<p>Los baños de pies con agua de mar tienen muchos beneficios para la salud, como:</p>
+<ul>
+<li><strong>Relajan los músculos y las articulaciones.</strong></li>
+<li><strong>Mejoran la circulación sanguínea.</strong></li>
+<li><strong>Exfolian la piel.</strong></li>
+<li><strong>Ayudan a eliminar toxinas.</strong></li>
+<li><strong>Reducen el estrés y la ansiedad.</strong></li>
+<li><strong>Mejoran la calidad del sueño.</strong></li>
+</ul>
+<p><strong>¡Disfruta de tu baño de pies con agua de mar!</strong></p>
+<figure class="wp-block-image size-large is-resized">![](/wp-content/uploads/2024/02/mujer_bano_pies2-627x1024.jpg)</figure>
+
+    </main>
+    
+<footer class="site-footer">
+    <p>&copy; 2026 Rexmar - Todos los derechos reservados.</p>
+
+    <div class="disclaimer-box">
+        <p><strong>Disclaimer / Descargo de responsabilidad</strong></p>
+        <p>El Agua de Mar (AdM) de extracción artesanal RexMar para uso culinario, el cobre, los mensajes CPMSS, PNL Subliminales y Subliminales Silent, y cualquier otra cosa publicada en este sitio, no son medicamentos ni reemplazan la consulta con un profesional de la salud, Terapeuta o Chamán que esté familiarizado con ellos.</p>
+        <p>Las publicaciones, artículos científicos, notas, audios, videos, testimonios o cualquier otro contenido reflejados en el sitio, son de responsabilidad de sus autores. RexMar AdM Perú no incita a otro uso distinto al culinario el cual es responsabilidad del que lo realizó.</p>
+        <p><strong>Nota importante:</strong> Puede ser que al AdM le salgan algas, esto no invalida su consumo, y no corresponde devolución por este motivo. El AdM es un ser Vivo, es normal que siga multiplicándose.</p>
+        <p>En RexMar AdM Perú NO somos profesionales de la salud, Terapeutas o Chamánes. Nuestra respuesta, si la hubiera, es sólo una referencia a cosas publicadas por profesionales autorizados y experiencia personal, para orientación no profesional y que los usuarios no hagan mal uso por desconocimiento.</p>
+        <p>Es deber del usuario investigar y llegar a sus propias conclusiones experimentando. Cualquier duda no deje de consultar a su Profesional de la salud o chamán de confianza.</p>
+        <p><strong>Autorización:</strong> No necesita Registro Sanitario debido a que está acogido al <a rel="external" href="https://www.gob.pe/institucion/minsa/normas-legales/256030-004-2000-sa">D.S.: 004-2000-SA Art- 70</a></p>
+    </div>
+</footer>
+    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+    <script>
+        function leerPagina() {
+            var texto = document.querySelector('main').innerText;
+            responsiveVoice.speak(texto, "Spanish Latin American Female", { rate: 1, pitch: 1, volume: 1 });
+        }
+    </script>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const input = document.getElementById('search-input');
+            const results = document.getElementById('search-results');
+            
+            fetch('/search_index.es.json')
+                .then(response => response.json())
+                .then(data => {
+                    const fuse = new Fuse(data, {
+                        keys: ['title', 'body'],
+                        threshold: 0.3,
+                        includeScore: true
+                    });
+                    
+                    function performSearch() {
+                        const query = input.value.trim();
+                        if (query.length < 2) {
+                            results.style.display = 'none';
+                            return;
+                        }
+                        
+                        const searchResults = fuse.search(query);
+                        
+                        if (searchResults.length > 0) {
+                            results.innerHTML = searchResults.slice(0, 10).map(result => {
+                                const doc = result.item;
+                                return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
+                            }).join('');
+                            results.style.display = 'block';
+                        } else {
+                            results.innerHTML = '<div class="search-result" style="color: #666;">No se encontraron resultados</div>';
+                            results.style.display = 'block';
+                        }
+                    }
+
+                    input.addEventListener('input', performSearch);
+                    input.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter') {
+                            performSearch();
+                            input.blur();
+                        }
+                    });
+
+                    document.addEventListener('click', (e) => {
+                        if (!e.target.closest('.search-box')) {
+                            results.style.display = 'none';
+                        }
+                    });
+                })
+                .catch(err => {
+                    console.error('Error cargando índice de búsqueda:', err);
+                    input.placeholder = " Búsqueda no disponible";
+                });
+        });
+    </script>
+    
+</body>
+</html>

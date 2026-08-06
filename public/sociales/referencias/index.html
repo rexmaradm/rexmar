@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rexmar</title>
+    <style>
+        body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+        header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
+        header h1 a { color: #ffffff; text-decoration: none; font-size: 2em; }
+        nav { margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; }
+        nav a { color: #ffffff; text-decoration: none; margin: 5px 10px; padding: 8px 15px; background-color: #2563eb; border-radius: 5px; }
+        nav a:hover { background-color: #3b82f6; }
+main {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e40af;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    min-height: 60vh;
+    overflow: visible;   /* ← agregar esto */
+}
+        a { color: #93c5fd; }
+        .article-list { margin-top: 40px; }
+        .article-list h2 { border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #bfdbfe; }
+        article.preview { margin-bottom: 15px; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        article.preview h3 { margin: 0 0 5px 0; }
+        article.preview a { color: #ffffff; text-decoration: none; }
+        article.preview a:hover { text-decoration: underline; }
+        
+        .tools-container { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 20px 0; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        .search-box { position: relative; width: 100%; max-width: 400px; }
+        #search-input { width: 100%; padding: 10px 15px; border: 2px solid #3b82f6; border-radius: 25px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; outline: none; }
+        #search-input:focus { border-color: #60a5fa; box-shadow: 0 0 8px rgba(59, 130, 246, 0.5); }
+        #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 8px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
+        .search-result { padding: 10px 15px; border-bottom: 1px solid #e5e7eb; }
+        .search-result:last-child { border-bottom: none; }
+        .search-result a { color: #1e3a8a; text-decoration: none; display: block; font-weight: bold; }
+        .search-result a:hover { background-color: #f3f4f6; }
+        .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; white-space: nowrap; }
+        .audio-btn:hover { background-color: #3b82f6; }
+	.site-footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: #bfdbfe;
+    margin-top: 40px;
+    border-top: 2px solid #3b82f6;
+    background-color: #1e40af;   /* ← distinto al body */
+    font-size: 0.9em;
+	}
+	.site-footer a {
+    color: #93c5fd;
+    text-decoration: underline;
+	}
+	.site-footer a:hover {
+    color: #ffffff;
+	}
+    </style>
+</head>
+<body>
+    <header>
+        <h1><a href="/">Rexmar</a></h1>
+        <nav>
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;home&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;home&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;distribuidores&#x2F;">Distribuidores</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
+        </nav>
+        
+        <div class="tools-container">
+            <div class="search-box">
+                <input type="search" id="search-input" placeholder="🔍 Buscar en el sitio..." autocomplete="off" enterkeyhint="search">
+                <div id="search-results"></div>
+            </div>
+            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar</button>
+        </div>
+    </header>
+    
+    <main>
+        
+    <p><strong>Cobre y cólera</strong> (y otras pandemias) = <a rel="external" href="https://www.ldospandemicedition.org/episodios/metales-poderosos">https://www.ldospandemicedition.org/episodios/metales-poderosos </a> <a href="/void(0);"> Haga click aqui para escuchar el audio de este articulo</a><a rel="external" href="https://drive.google.com/file/d/1Jco9z_lYvVgwh6FmXnG8A77p26YSxvuZ/view?usp=sharing"> </a><a rel="external" href="https://drive.google.com/file/d/1Jco9z_lYvVgwh6FmXnG8A77p26YSxvuZ/view?usp=sharing">https://drive.google.com/file/d/1Jco9z_lYvVgwh6FmXnG8A77p26YSxvuZ/view?usp=sharing</a></p>
+<p><strong>Cobre para Adelgazar</strong> = <a rel="external" href="https://www.telemundo.com/shows/un-nuevo-dia/salud/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-quemar-grasa-y-perder-peso-tmna1092746">https://www.telemundo.com/shows/un-nuevo-dia/salud/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-quemar-grasa-y-perder-peso-tmna1092746</a></p>
+<p><strong>Prop.Antiviricas</strong> = <a rel="external" href="https://www.elconfidencial.com/mundo/2020-04-26/israel-uso-mascarillas-cobre-mata-coronavirus_2553852/">https://www.elconfidencial.com/mundo/2020-04-26/israel-uso-mascarillas-cobre-mata-coronavirus_2553852/</a></p>
+<p><strong>Cobre y Microbios</strong> = <a rel="external" href="https://jcm.asm.org/content/50/7/2217">https://jcm.asm.org/content/50/7/2217</a></p>
+<p><strong>Cobre y pandemias</strong> = <a rel="external" href="https://www.larazon.es/ciencia/20200326/dj5e25tcx5d7lj5icx7cyr2imy.html">https://www.larazon.es/ciencia/20200326/dj5e25tcx5d7lj5icx7cyr2imy.html</a></p>
+<p><strong>Cobre y pandemias</strong> = <a rel="external" href="https://www.swissinfo.ch/spa/el-cobre-apunta-contra-el-covid-19-con-recubrimientos-que-matan-diversos-virus/45747766">https://www.swissinfo.ch/spa/el-cobre-apunta-contra-el-covid-19-con-recubrimientos-que-matan-diversos-virus/45747766</a></p>
+<p><strong>Cobre , Virus y Bacterias</strong> = <a rel="external" href="https://www.vice.com/en_us/article/xgqkyw/copper-destroys-viruses-and-bacteria-why-isnt-it-everywhere">https://www.vice.com/en_us/article/xgqkyw/copper-destroys-viruses-and-bacteria-why-isnt-it-everywhere</a></p>
+<p><strong>Cobre en pulseras</strong> = <a rel="external" href="https://pubmed.ncbi.nlm.nih.gov/961545/">https://pubmed.ncbi.nlm.nih.gov/961545/</a></p>
+<p><strong>Cobre en pulseras para Artritis</strong> =<a rel="external" href="https://pubmed.ncbi.nlm.nih.gov/7008557/"> https://pubmed.ncbi.nlm.nih.gov/7008557/</a></p>
+<p><strong>Cobre como biocida</strong> = <a rel="external" href="https://pubmed.ncbi.nlm.nih.gov/16101497/">https://pubmed.ncbi.nlm.nih.gov/16101497/</a></p>
+<p>Apuntando al <strong>cobre en la terapia del cáncer</strong>: ‘Cobre ese cáncer’ = <a rel="external" href="https://pubmed.ncbi.nlm.nih.gov/26313539/">https://pubmed.ncbi.nlm.nih.gov/26313539/</a></p>
+<p><strong>Cobre e inmunidad</strong> = <a rel="external" href="https://pubmed.ncbi.nlm.nih.gov/9587153/">https://pubmed.ncbi.nlm.nih.gov/9587153/</a></p>
+<p><strong>Cobre en el cerebro</strong> = <a rel="external" href="https://www.nature.com/articles/s41589-018-0089-1">https://www.nature.com/articles/s41589-018-0089-1</a></p>
+<p>uso en <strong>Artritis reumatoidea</strong> = <a rel="external" href="https://pubmed.ncbi.nlm.nih.gov/6669870/">https://pubmed.ncbi.nlm.nih.gov/6669870/</a></p>
+<p><strong>Elimina Bacterias</strong></p>
+<p>Sirve contra: Vancomycin-resistant Enterococcus (VRE), Staphylococcus aureus, Enterobacter aerogenes, Escherichia coli O157:H7 (E. coli O157:H7), Pseudomonas aeruginosa and Methicillin-resistant Staphylococcus aureus (MRSA), entre otras.</p>
+<p>Referencias: *https://www.grinnell.edu/academics/majors-concentrations/biology/research/copper/faq</p>
+<ul>
+<li><a rel="external" href="https://www.scielo.cl/scielo.php?script=sci_arttext&amp;pid=S0034-98872012001000014">https://www.scielo.cl/scielo.php?script=sci_arttext&amp;pid=S0034-98872012001000014</a></li>
+<li><a rel="external" href="https://es.wikipedia.org/wiki/Propiedades_antimicrobianas_del_cobre">https://es.wikipedia.org/wiki/Propiedades_antimicrobianas_del_cobre</a></li>
+<li><a rel="external" href="https://blogs.upn.edu.pe/ingenieria/2020/06/10/el-cobre-y-sus-propiedades-bactericidas-en-tiempos-del-covid-19/">https://blogs.upn.edu.pe/ingenieria/2020/06/10/el-cobre-y-sus-propiedades-bactericidas-en-tiempos-del-covid-19/</a></li>
+<li><a rel="external" href="http://www.scielo.org.pe/scielo.php?script=sci_arttext&amp;pid=S1025-55832015000200002">http://www.scielo.org.pe/scielo.php?script=sci_arttext&amp;pid=S1025-55832015000200002</a></li>
+<li><a rel="external" href="http://repositorio.unsa.edu.pe/handle/UNSA/5725">http://repositorio.unsa.edu.pe/handle/UNSA/5725</a></li>
+<li><a rel="external" href="https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/una-nueva-era-para-el-alzhimer-803/metal-bactericida-18725">https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/una-nueva-era-para-el-alzhimer-803/metal-bactericida-18725</a></li>
+<li><a rel="external" href="https://www.medialog.com.mx/m.asp?id=F5C30E45-27BE-4E13-AF08-92672A5BBA54&amp;l=l">https://www.medialog.com.mx/m.asp?id=F5C30E45-27BE-4E13-AF08-92672A5BBA54&amp;l=l</a></li>
+<li><a rel="external" href="https://medivaric.com.co/blog/sabes-cobre-elimina-las-bacterias/">https://medivaric.com.co/blog/sabes-cobre-elimina-las-bacterias/</a></li>
+<li><a rel="external" href="https://peru.angloamerican.com/es-es/sustentabilidad/mineria-en-la-vida-diaria/el-gran-poder-antiseptico-del-cobre-que-produciremos#">https://peru.angloamerican.com/es-es/sustentabilidad/mineria-en-la-vida-diaria/el-gran-poder-antiseptico-del-cobre-que-produciremos#</a></li>
+<li><a rel="external" href="https://www.bbc.com/mundo/noticias-53394256">https://www.bbc.com/mundo/noticias-53394256</a></li>
+<li><strong>Elimina Hongos</strong></li>
+</ul>
+<p>Elimina hongos gracias a las partículas de cobre.</p>
+<p>Elimina Microsporum canis, asociado como el principal patógeno implicado en problemas dermatológicos por hongos en perros y gatos.</p>
+<ul>
+<li><strong>Elimina ácaros del polvo</strong> que estén en contacto</li>
+<li>Favorece/acelera la <strong>cicatrización</strong></li>
+</ul>
+<p>Cicatrización: &lt;<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/nQFHMVcneuk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+&gt;</p>
+<h2 id="referencias-esotericas-si-esta-viendo-x-ml-las-podra-ver-en-mi-sitio-web">Referencias Esotéricas (si esta viendo x ML las podra ver en mi sitio web)</h2>
+<p><a rel="external" href="https://www.tarotvidenciaelisedefer.com/cobre-elemento-de-proteccion/">https://www.tarotvidenciaelisedefer.com/cobre-elemento-de-proteccion/</a></p>
+<p><a rel="external" href="https://preciooro.net/simbologia-tradicional-y-alquimica-del-cobre/">https://preciooro.net/simbologia-tradicional-y-alquimica-del-cobre/</a></p>
+<p><a rel="external" href="https://www.wemystic.com/es/cobre/">https://www.wemystic.com/es/cobre/</a></p>
+<p><a rel="external" href="https://orfebrealejandroglade.blogspot.com/2015/10/el-cobre-remedio-para-las-tormentas.html">https://orfebrealejandroglade.blogspot.com/2015/10/el-cobre-remedio-para-las-tormentas.html</a></p>
+<p><a rel="external" href="http://lallavedelamagiamigrimoriopersonal.blogspot.com/2016/06/cobre-propiedades-espirituales-y.html">http://lallavedelamagiamigrimoriopersonal.blogspot.com/2016/06/cobre-propiedades-espirituales-y.html</a></p>
+<p><a rel="external" href="https://www.cristalljoia.com/PROPIEDADES-DE-LOS-MINERALES-1/COBRE">https://www.cristalljoia.com/PROPIEDADES-DE-LOS-MINERALES-1/COBRE</a></p>
+<p><a rel="external" href="https://pijamasurf.com/2020/03/el_cobre_mata_el_covid-19_confirmando_lo_que_ensena_el_ayurveda/">https://pijamasurf.com/2020/03/el_cobre_mata_el_covid-19_confirmando_lo_que_ensena_el_ayurveda/</a></p>
+<p>Cobre y Cólera <a rel="external" href="https://www.vice.com/en/article/xgqkyw/copper-destroys-viruses-and-bacteria-why-isnt-it-everywhere">https://www.vice.com/en/article/xgqkyw/copper-destroys-viruses-and-bacteria-why-isnt-it-everywhere</a></p>
+<p>Cobre en Hospitales <a rel="external" href="https://journals.asm.org/doi/10.1128/jcm.01032-12?permanently=true">https://journals.asm.org/doi/10.1128/jcm.01032-12?permanently=true</a></p>
+<p>Earthing/Grounding Puesta a tierra: <a rel="external" href="https://www.zapatillasminimalistas.net/actualidad/earthing/">https://www.zapatillasminimalistas.net/actualidad/earthing/</a></p>
+<p><a href="/sociales/disclamer-descargo-de-responsabilidad/">*** Disclaimer</a></p>
+
+
+    </main>
+    
+<footer class="site-footer">
+    <p>&copy; 2026 Rexmar - Todos los derechos reservados.</p>
+
+    <div class="disclaimer-box">
+        <p><strong>Disclaimer / Descargo de responsabilidad</strong></p>
+        <p>El Agua de Mar (AdM) de extracción artesanal RexMar para uso culinario, el cobre, los mensajes CPMSS, PNL Subliminales y Subliminales Silent, y cualquier otra cosa publicada en este sitio, no son medicamentos ni reemplazan la consulta con un profesional de la salud, Terapeuta o Chamán que esté familiarizado con ellos.</p>
+        <p>Las publicaciones, artículos científicos, notas, audios, videos, testimonios o cualquier otro contenido reflejados en el sitio, son de responsabilidad de sus autores. RexMar AdM Perú no incita a otro uso distinto al culinario el cual es responsabilidad del que lo realizó.</p>
+        <p><strong>Nota importante:</strong> Puede ser que al AdM le salgan algas, esto no invalida su consumo, y no corresponde devolución por este motivo. El AdM es un ser Vivo, es normal que siga multiplicándose.</p>
+        <p>En RexMar AdM Perú NO somos profesionales de la salud, Terapeutas o Chamánes. Nuestra respuesta, si la hubiera, es sólo una referencia a cosas publicadas por profesionales autorizados y experiencia personal, para orientación no profesional y que los usuarios no hagan mal uso por desconocimiento.</p>
+        <p>Es deber del usuario investigar y llegar a sus propias conclusiones experimentando. Cualquier duda no deje de consultar a su Profesional de la salud o chamán de confianza.</p>
+        <p><strong>Autorización:</strong> No necesita Registro Sanitario debido a que está acogido al <a rel="external" href="https://www.gob.pe/institucion/minsa/normas-legales/256030-004-2000-sa">D.S.: 004-2000-SA Art- 70</a></p>
+    </div>
+</footer>
+    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+    <script>
+        function leerPagina() {
+            var texto = document.querySelector('main').innerText;
+            responsiveVoice.speak(texto, "Spanish Latin American Female", { rate: 1, pitch: 1, volume: 1 });
+        }
+    </script>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const input = document.getElementById('search-input');
+            const results = document.getElementById('search-results');
+            
+            fetch('/search_index.es.json')
+                .then(response => response.json())
+                .then(data => {
+                    const fuse = new Fuse(data, {
+                        keys: ['title', 'body'],
+                        threshold: 0.3,
+                        includeScore: true
+                    });
+                    
+                    function performSearch() {
+                        const query = input.value.trim();
+                        if (query.length < 2) {
+                            results.style.display = 'none';
+                            return;
+                        }
+                        
+                        const searchResults = fuse.search(query);
+                        
+                        if (searchResults.length > 0) {
+                            results.innerHTML = searchResults.slice(0, 10).map(result => {
+                                const doc = result.item;
+                                return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
+                            }).join('');
+                            results.style.display = 'block';
+                        } else {
+                            results.innerHTML = '<div class="search-result" style="color: #666;">No se encontraron resultados</div>';
+                            results.style.display = 'block';
+                        }
+                    }
+
+                    input.addEventListener('input', performSearch);
+                    input.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter') {
+                            performSearch();
+                            input.blur();
+                        }
+                    });
+
+                    document.addEventListener('click', (e) => {
+                        if (!e.target.closest('.search-box')) {
+                            results.style.display = 'none';
+                        }
+                    });
+                })
+                .catch(err => {
+                    console.error('Error cargando índice de búsqueda:', err);
+                    input.placeholder = " Búsqueda no disponible";
+                });
+        });
+    </script>
+    
+</body>
+</html>

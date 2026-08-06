@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rexmar</title>
+    <style>
+        body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+        header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
+        header h1 a { color: #ffffff; text-decoration: none; font-size: 2em; }
+        nav { margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; }
+        nav a { color: #ffffff; text-decoration: none; margin: 5px 10px; padding: 8px 15px; background-color: #2563eb; border-radius: 5px; }
+        nav a:hover { background-color: #3b82f6; }
+main {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e40af;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    min-height: 60vh;
+    overflow: visible;   /* ← agregar esto */
+}
+        a { color: #93c5fd; }
+        .article-list { margin-top: 40px; }
+        .article-list h2 { border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #bfdbfe; }
+        article.preview { margin-bottom: 15px; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        article.preview h3 { margin: 0 0 5px 0; }
+        article.preview a { color: #ffffff; text-decoration: none; }
+        article.preview a:hover { text-decoration: underline; }
+        
+        .tools-container { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 20px 0; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        .search-box { position: relative; width: 100%; max-width: 400px; }
+        #search-input { width: 100%; padding: 10px 15px; border: 2px solid #3b82f6; border-radius: 25px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; outline: none; }
+        #search-input:focus { border-color: #60a5fa; box-shadow: 0 0 8px rgba(59, 130, 246, 0.5); }
+        #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 8px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
+        .search-result { padding: 10px 15px; border-bottom: 1px solid #e5e7eb; }
+        .search-result:last-child { border-bottom: none; }
+        .search-result a { color: #1e3a8a; text-decoration: none; display: block; font-weight: bold; }
+        .search-result a:hover { background-color: #f3f4f6; }
+        .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; white-space: nowrap; }
+        .audio-btn:hover { background-color: #3b82f6; }
+	.site-footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: #bfdbfe;
+    margin-top: 40px;
+    border-top: 2px solid #3b82f6;
+    background-color: #1e40af;   /* ← distinto al body */
+    font-size: 0.9em;
+	}
+	.site-footer a {
+    color: #93c5fd;
+    text-decoration: underline;
+	}
+	.site-footer a:hover {
+    color: #ffffff;
+	}
+    </style>
+</head>
+<body>
+    <header>
+        <h1><a href="/">Rexmar</a></h1>
+        <nav>
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;home&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;home&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;distribuidores&#x2F;">Distribuidores</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
+        </nav>
+        
+        <div class="tools-container">
+            <div class="search-box">
+                <input type="search" id="search-input" placeholder="🔍 Buscar en el sitio..." autocomplete="off" enterkeyhint="search">
+                <div id="search-results"></div>
+            </div>
+            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar</button>
+        </div>
+    </header>
+    
+    <main>
+        
+    <h3 id="tecnicas-alternativas-para-cocinar-con-agua-de-mar"><strong>Técnicas alternativas para cocinar con agua de mar</strong></h3>
+<h4 id="1-coccion-de-mariscos-y-pescados"><strong>1. Cocción de mariscos y pescados</strong></h4>
+<p>El agua de mar es ideal para cocinar productos del mar, ya que refuerza su sabor natural sin necesidad de añadir sal adicional. Algunas técnicas incluyen:</p>
+<figure class="wp-block-image aligncenter size-full is-resized">![](/wp-content/uploads/2025/03/camarones-1.png)</figure>- **Cocción al vapor** : Coloca mariscos (como mejillones, almejas o langostinos) en una olla con agua de mar filtrada y cocina al vapor hasta que las conchas se abran. Esto evita el uso de sal y crea un caldo rico y sabroso.
+    - *Consejo* : Si el agua de mar está demasiado salada, dilúyela con agua dulce en una proporción de 1:1 antes de cocinar.
+- **Hervido de pescado** : Cocina pescados enteros o filetes en agua de mar para obtener un sabor más intenso y jugoso. Añade hierbas frescas como eneldo, laurel o tomillo para complementar el perfil salino.
+    - *Ejemplo* : En algunas regiones costeras de España y Portugal, se hierve bacalao fresco en agua de mar para preparar platos tradicionales.
+- **Salmuera natural** : Usa agua de mar como salmuera para marinar pescados antes de asarlos o freírlos. Esto no solo sazona el pescado, sino que también ayuda a mantenerlo húmedo durante la cocción.
+<hr />
+<h4 id="2-pasta-cereales-y-legumbres"><strong>2. Pasta, cereales y legumbres</strong></h4>
+<p>El agua de mar puede reemplazar el agua y la sal en la cocción de alimentos básicos como pasta, arroz o legumbres. Aquí hay algunas ideas:</p>
+<ul>
+<li><strong>Pasta</strong> : Cocina la pasta en agua de mar diluida (1 parte de agua de mar por 2 partes de agua dulce). Esto aporta un sabor salado equilibrado sin necesidad de añadir sal extra.
+<ul>
+<li><em>Consejo</em> : Usa este método especialmente para pastas frescas o artesanales, que absorben mejor los sabores del agua.</li>
+<li><img src="/wp-content/uploads/2025/03/pasta.png" alt="" /></li>
+</ul>
+</li>
+<li><strong>Arroz y quinoa</strong> : Cocina arroz o quinoa en <strong>agua de mar</strong> diluida para darle un toque mineral único. Esto funciona especialmente bien en platos mediterráneos o asiáticos donde el sabor salado complementa otros ingredientes.
+<ul>
+<li><em>Ejemplo</em> : Prepara un risotto usando agua de mar diluida y termina con mantequilla y parmesano para un plato excepcionalmente sabroso.</li>
+<li><img src="/wp-content/uploads/2025/03/quinoa.png" alt="" /></li>
+</ul>
+</li>
+<li><strong>Legumbres</strong> : Hierve lentejas, garbanzos o frijoles en agua de mar diluida para realzar su sabor natural. Esto es ideal para sopas o guisos marineros.</li>
+<li><img src="/wp-content/uploads/2025/03/lentejas.png" alt="" /></li>
+</ul>
+<hr />
+<h4 id="3-sopas-y-caldos"><strong>3. Sopas y caldos</strong></h4>
+<p>El agua de mar es perfecta para preparar sopas y caldos, especialmente aquellos basados en mariscos o pescados. Aquí hay algunas ideas creativas:</p>
+<ul>
+<li><strong>Caldo de pescado</strong> : Usa agua de mar como base para un caldo de pescado tradicional. Añade cabezas y espinas de pescado, verduras como apio y zanahoria, y hierbas aromáticas. Cocina a fuego lento para obtener un caldo concentrado y lleno de sabor.
+<ul>
+<li><em>Consejo</em> : Si el agua de mar es demasiado salada, dilúyela con agua dulce o ajusta el sabor al final con un poco de limón o vino blanco.</li>
+</ul>
+</li>
+<li><strong>Sopa de mariscos</strong> : Prepara una sopa de mariscos usando agua de mar como líquido principal. Añade almejas, mejillones, camarones y trozos de pescado, junto con tomates frescos, ajo y perejil. Este método realza el sabor del mar sin necesidad de añadir sal.</li>
+<li><strong>Sopas vegetales</strong> : Incluso puedes usar agua de mar diluida para sopas vegetales, especialmente aquellas que combinan ingredientes como algas, espárragos o champiñones. El sabor salado del agua de mar complementa perfectamente estos ingredientes.</li>
+</ul>
+<hr />
+<h4 id="4-verduras-y-tuberculos"><strong>4. Verduras y tubérculos</strong></h4>
+<p>Algunas verduras y tubérculos se benefician del uso de agua de mar en su cocción:</p>
+<ul>
+<li><strong>Papas y batatas</strong> : Hierve papas o batatas en agua de mar diluida para obtener un sabor salado sutil. Esto es ideal para acompañar platos marineros o ensaladas.
+<ul>
+<li><em>Ejemplo</em> : En algunas islas griegas, las papas se hierven en agua de mar y luego se asan con aceite de oliva y romero.</li>
+</ul>
+</li>
+<li><strong>Verduras al vapor</strong> : Cocina verduras como brócoli, coliflor o espárragos al vapor usando agua de mar como base. Esto aporta un sabor mineral único que complementa sus notas naturales.</li>
+</ul>
+<hr />
+<h3 id="consejos-practicos-para-cocinar-con-agua-de-mar"><strong>Consejos prácticos para cocinar con agua de mar</strong></h3>
+<ol>
+<li><strong>Dilución adecuada</strong> : Siempre diluye el agua de mar antes de usarla para cocinar. Una proporción común es <strong>1 parte de agua de mar por 2 partes de agua dulce</strong> , pero puedes ajustar según el nivel de salinidad deseado.</li>
+<li><strong>Prueba gradual</strong> : Si es tu primera vez cocinando con agua de mar, prueba con pequeñas cantidades para ajustar el equilibrio salino. Recuerda que siempre puedes agregar más sal, pero no puedes quitarla.</li>
+<li><strong>Experimenta con proporciones</strong> : No todas las recetas requieren la misma cantidad de salinidad. Por ejemplo, los mariscos toleran más sal que los cereales o las legumbres.</li>
+</ol>
+<hr />
+<h3 id="ejemplo-practico-pasta-con-agua-de-mar"><strong>Ejemplo práctico: Pasta con agua de mar</strong></h3>
+<figure class="wp-block-image aligncenter size-full is-resized">![](/wp-content/uploads/2025/03/tallarines.png)</figure>**Ingredientes** :
+<ul>
+<li>200 g de pasta fresca</li>
+<li>500 ml de agua de mar RexMar</li>
+<li>500 ml de agua dulce</li>
+<li>Aceite de oliva virgen extra</li>
+<li>Ajo picado</li>
+<li>Guindilla (opcional)</li>
+<li>Alcaparras y anchoas (opcional)</li>
+</ul>
+<p><strong>Instrucciones</strong> :</p>
+<ol>
+<li>Mezcla el agua de mar y el agua dulce en una olla grande y lleva a ebullición.</li>
+<li>Cocina la pasta en el agua hasta que esté al dente.</li>
+<li>Mientras tanto, calienta un poco de aceite de oliva en una sartén y sofríe el ajo y la guindilla.</li>
+<li>Escurre la pasta y añádela a la sartén. Saltea brevemente y termina con alcaparras y anchoas si lo deseas.</li>
+<li>Sirve inmediatamente con un chorrito de aceite de oliva fresco.</li>
+</ol>
+<h3 id="conservacion-de-alimentos"><strong>Conservación de alimentos</strong></h3>
+<p>El agua de mar ha sido utilizada históricamente como conservante natural:</p>
+<ul>
+<li><strong>Salazón</strong> : Sumerge pescados o carnes en agua de mar concentrada durante varias horas antes de secarlos al sol o ahumarlos.</li>
+<li><strong>Encurtidos</strong> : Usa agua de mar diluida como líquido de conservación para pepinillos, rábanos o zanahorias.</li>
+</ul>
+<h3 id="fermentacion-con-agua-de-mar"><strong>Fermentación con agua de mar</strong></h3>
+<p>El agua de mar es un medio ideal para fermentaciones debido a su contenido salino natural, que inhibe el crecimiento de bacterias nocivas mientras favorece el desarrollo de microorganismos beneficiosos. Ejemplos alternativos incluyen:</p>
+<ul>
+<li><strong>Kimchi o chucrut</strong> : Usa agua de mar diluida (1:1 con agua dulce) para preparar el líquido de fermentación de vegetales. Esto aporta minerales adicionales y un sabor único. <a href="/recetas/chucrut-rexmar-en-breve-jugo-de-col-fermentada-chucrut-sauerkraut-con-agua-de-mar/">Aquí puede pedir nuestro chucrut hecho con agua de mar</a><img src="/wp-content/uploads/2024/11/photo_2024-11-10_18-40-57.jpg" alt="" /></li>
+<li><strong>Fermentación de pescado</strong> : En algunas culturas asiáticas y nórdicas, el agua de mar se usa para fermentar pescado o mariscos, como en el caso del <em>garum</em> romano o el <em>budu</em> malayo.</li>
+</ul>
+<h3 id="agua-de-mar-como-sustituto-de-sal"><strong>Agua de mar como sustituto de sal</strong></h3>
+<p>Si prefieres evitar el uso de sal refinada, puedes usar agua de mar como condimento líquido. Algunas técnicas alternativas son:</p>
+<ul>
+<li><strong>Rociado sobre alimentos</strong> : úsala hipertónica (pura) como spray para sazonar ensaladas, carnes o verduras antes de asarlas y sobre todo, luego al servirlas.<img src="/wp-content/uploads/2025/03/atomizador.png" alt="" /></li>
+<li><strong>Marinado</strong> : Usa agua de mar diluida para marinar carnes, aves o pescados. Esto no solo los sazona, sino que también tiende a ablandarlos ligeramente.</li>
+</ul>
+
+
+    </main>
+    
+<footer class="site-footer">
+    <p>&copy; 2026 Rexmar - Todos los derechos reservados.</p>
+
+    <div class="disclaimer-box">
+        <p><strong>Disclaimer / Descargo de responsabilidad</strong></p>
+        <p>El Agua de Mar (AdM) de extracción artesanal RexMar para uso culinario, el cobre, los mensajes CPMSS, PNL Subliminales y Subliminales Silent, y cualquier otra cosa publicada en este sitio, no son medicamentos ni reemplazan la consulta con un profesional de la salud, Terapeuta o Chamán que esté familiarizado con ellos.</p>
+        <p>Las publicaciones, artículos científicos, notas, audios, videos, testimonios o cualquier otro contenido reflejados en el sitio, son de responsabilidad de sus autores. RexMar AdM Perú no incita a otro uso distinto al culinario el cual es responsabilidad del que lo realizó.</p>
+        <p><strong>Nota importante:</strong> Puede ser que al AdM le salgan algas, esto no invalida su consumo, y no corresponde devolución por este motivo. El AdM es un ser Vivo, es normal que siga multiplicándose.</p>
+        <p>En RexMar AdM Perú NO somos profesionales de la salud, Terapeutas o Chamánes. Nuestra respuesta, si la hubiera, es sólo una referencia a cosas publicadas por profesionales autorizados y experiencia personal, para orientación no profesional y que los usuarios no hagan mal uso por desconocimiento.</p>
+        <p>Es deber del usuario investigar y llegar a sus propias conclusiones experimentando. Cualquier duda no deje de consultar a su Profesional de la salud o chamán de confianza.</p>
+        <p><strong>Autorización:</strong> No necesita Registro Sanitario debido a que está acogido al <a rel="external" href="https://www.gob.pe/institucion/minsa/normas-legales/256030-004-2000-sa">D.S.: 004-2000-SA Art- 70</a></p>
+    </div>
+</footer>
+    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+    <script>
+        function leerPagina() {
+            var texto = document.querySelector('main').innerText;
+            responsiveVoice.speak(texto, "Spanish Latin American Female", { rate: 1, pitch: 1, volume: 1 });
+        }
+    </script>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const input = document.getElementById('search-input');
+            const results = document.getElementById('search-results');
+            
+            fetch('/search_index.es.json')
+                .then(response => response.json())
+                .then(data => {
+                    const fuse = new Fuse(data, {
+                        keys: ['title', 'body'],
+                        threshold: 0.3,
+                        includeScore: true
+                    });
+                    
+                    function performSearch() {
+                        const query = input.value.trim();
+                        if (query.length < 2) {
+                            results.style.display = 'none';
+                            return;
+                        }
+                        
+                        const searchResults = fuse.search(query);
+                        
+                        if (searchResults.length > 0) {
+                            results.innerHTML = searchResults.slice(0, 10).map(result => {
+                                const doc = result.item;
+                                return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
+                            }).join('');
+                            results.style.display = 'block';
+                        } else {
+                            results.innerHTML = '<div class="search-result" style="color: #666;">No se encontraron resultados</div>';
+                            results.style.display = 'block';
+                        }
+                    }
+
+                    input.addEventListener('input', performSearch);
+                    input.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter') {
+                            performSearch();
+                            input.blur();
+                        }
+                    });
+
+                    document.addEventListener('click', (e) => {
+                        if (!e.target.closest('.search-box')) {
+                            results.style.display = 'none';
+                        }
+                    });
+                })
+                .catch(err => {
+                    console.error('Error cargando índice de búsqueda:', err);
+                    input.placeholder = " Búsqueda no disponible";
+                });
+        });
+    </script>
+    
+</body>
+</html>

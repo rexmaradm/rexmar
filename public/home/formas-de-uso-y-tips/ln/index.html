@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rexmar</title>
+    <style>
+        body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+        header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
+        header h1 a { color: #ffffff; text-decoration: none; font-size: 2em; }
+        nav { margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; }
+        nav a { color: #ffffff; text-decoration: none; margin: 5px 10px; padding: 8px 15px; background-color: #2563eb; border-radius: 5px; }
+        nav a:hover { background-color: #3b82f6; }
+main {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e40af;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    min-height: 60vh;
+    overflow: visible;   /* ← agregar esto */
+}
+        a { color: #93c5fd; }
+        .article-list { margin-top: 40px; }
+        .article-list h2 { border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #bfdbfe; }
+        article.preview { margin-bottom: 15px; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        article.preview h3 { margin: 0 0 5px 0; }
+        article.preview a { color: #ffffff; text-decoration: none; }
+        article.preview a:hover { text-decoration: underline; }
+        
+        .tools-container { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 20px 0; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        .search-box { position: relative; width: 100%; max-width: 400px; }
+        #search-input { width: 100%; padding: 10px 15px; border: 2px solid #3b82f6; border-radius: 25px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; outline: none; }
+        #search-input:focus { border-color: #60a5fa; box-shadow: 0 0 8px rgba(59, 130, 246, 0.5); }
+        #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 8px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
+        .search-result { padding: 10px 15px; border-bottom: 1px solid #e5e7eb; }
+        .search-result:last-child { border-bottom: none; }
+        .search-result a { color: #1e3a8a; text-decoration: none; display: block; font-weight: bold; }
+        .search-result a:hover { background-color: #f3f4f6; }
+        .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; white-space: nowrap; }
+        .audio-btn:hover { background-color: #3b82f6; }
+	.site-footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: #bfdbfe;
+    margin-top: 40px;
+    border-top: 2px solid #3b82f6;
+    background-color: #1e40af;   /* ← distinto al body */
+    font-size: 0.9em;
+	}
+	.site-footer a {
+    color: #93c5fd;
+    text-decoration: underline;
+	}
+	.site-footer a:hover {
+    color: #ffffff;
+	}
+    </style>
+</head>
+<body>
+    <header>
+        <h1><a href="/">Rexmar</a></h1>
+        <nav>
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;home&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;home&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;distribuidores&#x2F;">Distribuidores</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
+        </nav>
+        
+        <div class="tools-container">
+            <div class="search-box">
+                <input type="search" id="search-input" placeholder="🔍 Buscar en el sitio..." autocomplete="off" enterkeyhint="search">
+                <div id="search-results"></div>
+            </div>
+            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar</button>
+        </div>
+    </header>
+    
+    <main>
+        
+    <p>Descubrí los estudios científicos que demuestran cómo el lavado nasal con agua de mar reduce la duración de síntomas en 3-5 días, disminuye la carga viral de SARS-CoV-2 en 2 días, y reduce la transmisión a contactos domiciliarios. <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/NCvJ8C2b6iA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+ <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/LC7VIXvQfag" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+ <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/QZVmG4tPL1M" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+</p>
+<h1 id="agua-de-mar-y-lavado-nasal-estudios-cientificos-sobre-eficacia-carga-viral-y-duracion-de-sintomas"><span class="qwen-markdown-text" data-spm-anchor-id="a2ty_o01.29997173.0.i55.721555fbhi8LEn">Agua de Mar y Lavado Nasal: Estudios Científicos sobre Eficacia, Carga Viral y Duración de Síntomas</span></h1>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">El lavado nasal con agua de mar es una práctica milenaria que ha demostrado su eficacia en numerosos estudios científicos modernos. Pero, ¿sabías que </span>**<span class="qwen-markdown-text">ensayos clínicos controlados han demostrado que el lavado nasal con agua de mar sin diluir puede acelerar la recuperación de síntomas respiratorios en 3-5 días y reducir la carga viral de SARS-CoV-2 en 2 días</span>**<span class="qwen-markdown-text">?</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">En este artículo, exploramos la evidencia científica sobre el uso del agua de mar para lavado nasal, incluyendo </span>**<span class="qwen-markdown-text">estudios clínicos en COVID-19</span>**<span class="qwen-markdown-text">, </span>**<span class="qwen-markdown-text">rinosinusitis</span>**<span class="qwen-markdown-text">, </span>**<span class="qwen-markdown-text">infecciones del tracto respiratorio superior</span>**<span class="qwen-markdown-text">, y los </span>**<span class="qwen-markdown-text">mecanismos de acción</span>**<span class="qwen-markdown-text"> perfectamente identificados por la investigación.</span></div><div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">1. Estudio clave: Lavado nasal con agua de mar en COVID-19 y URTIs (2024)</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Uno de los estudios más importantes y recientes fue publicado en </span>**<span class="qwen-markdown-text">PMC/NIH</span>**<span class="qwen-markdown-text"> (2024) por de Gabory et al., titulado "Seawater nasal wash to reduce symptom duration and viral load in COVID-19 and upper respiratory tract infections: a randomized controlled trial" </span><div aria-describedby="_r_43d_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div><span class="qwen-markdown-text">, </span><div aria-describedby="_r_43f_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pubmed.ncbi.nlm.nih.gov</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">1.1. Metodología del estudio</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Diseño experimental:</span>**</div>- **<span class="qwen-markdown-text">Tipo:</span>**<span class="qwen-markdown-text"> Ensayo controlado aleatorizado</span>
+- **<span class="qwen-markdown-text">Población:</span>**<span class="qwen-markdown-text"> Pacientes con COVID-19 leve a moderado e infecciones del tracto respiratorio superior (URTIs)</span>
+- **<span class="qwen-markdown-text">Intervención:</span>**<span class="qwen-markdown-text"> Lavado nasal con agua de mar sin diluir</span>
+- **<span class="qwen-markdown-text">Comparador:</span>**<span class="qwen-markdown-text"> Grupo control sin lavado nasal específico</span>
+- **<span class="qwen-markdown-text">Duración:</span>**<span class="qwen-markdown-text"> Seguimiento hasta 21 días</span>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">1.2. Resultados científicos extraordinarios</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Reducción de duración de síntomas:</span>**</div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Para todos los sujetos:</span>**</div>- **<span class="qwen-markdown-text">Trastornos del gusto:</span>**<span class="qwen-markdown-text"> Resolvieron 3 días antes (p = 0.0305) </span><div aria-describedby="_r_43h_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Dificultad para respirar:</span>**<span class="qwen-markdown-text"> Reducción de 0.6 días (p = 0.0323) </span><div aria-describedby="_r_43j_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Mejora inicial de olfato:</span>**<span class="qwen-markdown-text"> 2.2 días antes (p = 0.0170) </span><div aria-describedby="_r_43l_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Mejora inicial del gusto:</span>**<span class="qwen-markdown-text"> 2.1 días antes (p = 0.0071) </span><div aria-describedby="_r_43n_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+<div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">En pacientes con COVID-19:</span>**</div>- **<span class="qwen-markdown-text">Capacidad para actividades diarias:</span>**<span class="qwen-markdown-text"> Recuperación 1.6 días antes (p = 0.0487) </span><div aria-describedby="_r_43p_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Recuperación del olfato:</span>**<span class="qwen-markdown-text"> 5.2 días antes en pacientes con síntomas nasales severos (p = 0.0281) </span><div aria-describedby="_r_43r_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Goteo postnasal:</span>**<span class="qwen-markdown-text"> 4.1 días antes (p = 0.0102) </span><div aria-describedby="_r_43t_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Dolor/pesadez facial:</span>**<span class="qwen-markdown-text"> 4.5 días antes (p = 0.0078) </span><div aria-describedby="_r_43v_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Dolor de cabeza:</span>**<span class="qwen-markdown-text"> 3.1 días antes (p = 0.0195) </span><div aria-describedby="_r_441_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Dolor de garganta:</span>**<span class="qwen-markdown-text"> 3.3 días antes (p = 0.0319) </span><div aria-describedby="_r_443_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Dificultad para respirar:</span>**<span class="qwen-markdown-text"> 3.1 días antes (p = 0.0195) </span><div aria-describedby="_r_445_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Congestión torácica:</span>**<span class="qwen-markdown-text"> 2.8 días antes (p = 0.0386) </span><div aria-describedby="_r_447_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Pérdida de apetito:</span>**<span class="qwen-markdown-text"> 4.5 días antes (p = 0.0186) </span><div aria-describedby="_r_449_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+<div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">En pacientes con URTIs:</span>**</div>- **<span class="qwen-markdown-text">Rinorrea:</span>**<span class="qwen-markdown-text"> 3.5 días antes (p = 0.0370) </span><div aria-describedby="_r_44b_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Goteo postnasal:</span>**<span class="qwen-markdown-text"> 3.7 días antes (p = 0.0378) </span><div aria-describedby="_r_44d_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Enfermedad general:</span>**<span class="qwen-markdown-text"> 4.3 días antes (p = 0.0248) </span><div aria-describedby="_r_44f_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">1.3. Reducción de carga viral</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Resultados virológicos:</span>**</div>- **<span class="qwen-markdown-text">Reducción temprana de carga viral:</span>**<span class="qwen-markdown-text"> Desde el día 3 en el grupo de lavado nasal </span><div aria-describedby="_r_44h_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Sujetos jóvenes (18-30 años):</span>**
+    - <span class="qwen-markdown-text">Mayor reducción de carga viral al día 5: ≥1.5 log10 copias en 88.9% vs 62.5% (p = 0.0456) </span><div aria-describedby="_r_44j_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+    - <span class="qwen-markdown-text">≥1 log10 copias en 96.3% vs 75.0% (p = 0.0420) </span><div aria-describedby="_r_44l_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Variante Delta:</span>**<span class="qwen-markdown-text"> Menor porcentaje de contactos domiciliarios positivos en grupo activo (0-10.7%) vs controles (3.2-16.1%) (p = 0.0413) </span><div aria-describedby="_r_44n_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">1.4. Conclusión del estudio</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">"Este ensayo mostró la eficacia y seguridad del lavado nasal con agua de mar en COVID-19 y URTIs. El lavado nasal con agua de mar sin diluir puede promover un alivio, mejora y resolución más tempranos de los síntomas relacionados con el tracto respiratorio superior, limitar la transmisión domiciliaria y disminuir la carga viral en sujetos con COVID-19 leve a moderado e infecciones por URTIs" </span><div aria-describedby="_r_44p_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">2. Estudio RENAISSANCE: Negativización temprana de SARS-CoV-2 (2022)</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Un estudio publicado en </span>**<span class="qwen-markdown-text">MDPI Pharmaceutics</span>**<span class="qwen-markdown-text"> (2022) por Cegolon et al. tituló "Early Negativization of SARS-CoV-2 Infection by Nasal Spray of Seawater plus Additives: The RENAISSANCE Open-Label Controlled Clinical Trial" </span><div aria-describedby="_r_44r_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div><span class="qwen-markdown-text">, </span><div aria-describedby="_r_44t_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">research.unipd.it</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">2.1. Metodología del estudio</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Diseño experimental:</span>**</div>- **<span class="qwen-markdown-text">Tipo:</span>**<span class="qwen-markdown-text"> Estudio prospectivo abierto controlado</span>
+- **<span class="qwen-markdown-text">Intervención:</span>**<span class="qwen-markdown-text"> Spray nasal con Tonimer Lab Panthexyl 800 (solución hipertónica estéril conteniendo agua de mar, xilitol, pantenol y ácido láctico)</span>
+- **<span class="qwen-markdown-text">Objetivo:</span>**<span class="qwen-markdown-text"> Reducir el tiempo de shedding viral en pacientes con COVID-19 asintomático o leve</span>
+- **<span class="qwen-markdown-text">Comparador:</span>**<span class="qwen-markdown-text"> Cuidado estándar solo</span>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">2.2. Resultados científicos extraordinarios</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Negativización del test nasal:</span>**</div>- **<span class="qwen-markdown-text">Dos días antes:</span>**<span class="qwen-markdown-text"> Los pacientes tratados con Tonimer Lab Panthexyl 800 se negativizaron aproximadamente 2 días antes que los controles </span><div aria-describedby="_r_44v_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+- **<span class="qwen-markdown-text">Tasa de negativización:</span>**<span class="qwen-markdown-text"> Significativamente mayor en el grupo tratado (OR = 7.39, IC 95%: 1.83-29.8; HR = 6.12, IC 95%: 1.76-21.32) </span><div aria-describedby="_r_451_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+- **<span class="qwen-markdown-text">NNT (Número necesario a tratar):</span>**<span class="qwen-markdown-text"> 4 sujetos debían ser tratados durante 5 días para lograr el endpoint del estudio en un individuo </span><div aria-describedby="_r_453_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+- **<span class="qwen-markdown-text">Sin efectos adversos:</span>**<span class="qwen-markdown-text"> No se encontró evidencia de efectos secundarios </span><div aria-describedby="_r_455_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">2.3. Mecanismos de acción propuestos</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Los autores identificaron los siguientes mecanismos farmacológicos del agua de mar hipertónica contra SARS-CoV-2 </span><div aria-describedby="_r_457_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div><span class="qwen-markdown-text">:</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">1. Inhibición de la replicación viral:</span>**</div>- <span class="qwen-markdown-text">Las soluciones salinas (0.8-1.7% NaCl) inhiben la replicación de SARS-CoV-2 de manera dependiente de la dosis </span><div aria-describedby="_r_459_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+- <span class="qwen-markdown-text">Mecanismo: Despolarización de membrana y privación de energía intracelular estimulada por soluciones hipertónicas </span><div aria-describedby="_r_45b_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+<div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">2. Actividad de mieloperoxidasa (MPO):</span>**</div>- <span class="qwen-markdown-text">Esta vía metabólica produce ácido hipocloroso (HOCl) </span><div aria-describedby="_r_45d_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+- <span class="qwen-markdown-text">El HOCl tiene actividad virucida conocida, efectiva contra todos los virus </span><div aria-describedby="_r_45f_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+<div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">3. Mejora del aclaramiento mucociliar:</span>**</div>- <span class="qwen-markdown-text">El agua de mar hipertónica (800 mOsm/kg de osmolalidad) reduce el edema de la mucosa local </span><div aria-describedby="_r_45h_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+- <span class="qwen-markdown-text">Aumenta la hidratación de la capa de moco, mejorando el aclaramiento mucociliar </span><div aria-describedby="_r_45j_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">2.4. Conclusión del estudio</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">"El spray nasal con Tonimer Lab Panthexyl 800 fue efectivo contra SARS-CoV-2, deteniendo el shedding viral en el brazo de tratamiento dos días antes que los controles. No se encontró evidencia de efectos adversos. El tratamiento debe continuarse durante al menos cinco días, ya que no hay contraindicación para extenderlo más allá" </span><div aria-describedby="_r_45l_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">3. Revisión sistemática: Agua de mar y soluciones salinas en infecciones respiratorias (2022)</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Una revisión publicada en </span>**<span class="qwen-markdown-text">MDPI Marine Drugs</span>**<span class="qwen-markdown-text"> (2022) analizó "The Role of Seawater and Saline Solutions in Treatment of Upper Respiratory Tract Infections" </span><div aria-describedby="_r_45n_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div><span class="qwen-markdown-text">, </span><div aria-describedby="_r_45p_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">3.1. Eficacia en coronavirus</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Estudio Ramalingam, 2020:</span>**</div>- **<span class="qwen-markdown-text">Población:</span>**<span class="qwen-markdown-text"> 66 adultos con infección del tracto respiratorio superior </span><div aria-describedby="_r_45r_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+- **<span class="qwen-markdown-text">Intervención:</span>**<span class="qwen-markdown-text"> Solución salina hipertónica en casa con irrigación nasal y gárgaras hasta 12 veces/día </span><div aria-describedby="_r_45t_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+- **<span class="qwen-markdown-text">Resultados en pacientes con coronavirus:</span>**
+    - **<span class="qwen-markdown-text">Duración de enfermedad:</span>**<span class="qwen-markdown-text"> 5.6 días vs 8.1 días en grupo control (reducción de 2.5 días) </span><div aria-describedby="_r_45v_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+    - **<span class="qwen-markdown-text">Nariz tapada:</span>**<span class="qwen-markdown-text"> Reducción de 3.1 días </span><div aria-describedby="_r_461_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+    - **<span class="qwen-markdown-text">Tos:</span>**<span class="qwen-markdown-text"> Reducción de 3.3 días </span><div aria-describedby="_r_463_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+    - **<span class="qwen-markdown-text">Ronquera:</span>**<span class="qwen-markdown-text"> Reducción de 2.9 días </span><div aria-describedby="_r_465_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">3.2. Otras indicaciones con efectos positivos</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">La revisión documentó efectos positivos en </span><div aria-describedby="_r_467_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div><span class="qwen-markdown-text">:</span></div>- <span class="qwen-markdown-text">Bronquiolitis viral en pacientes pediátricos</span>
+- <span class="qwen-markdown-text">Bronquiolitis en unidad de cuidados intensivos</span>
+- <span class="qwen-markdown-text">Sinusitis aguda</span>
+- <span class="qwen-markdown-text">Infecciones agudas del tracto respiratorio superior</span>
+- <span class="qwen-markdown-text">Amigdalitis crónica</span>
+- <span class="qwen-markdown-text">Resfriado y gripe</span>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">3.3. Conclusión de la revisión</span>
+<div class="qwen-markdown-paragraph" data-spm-anchor-id="a2ty_o01.29997173.0.i53.721555fbhi8LEn"><span class="qwen-markdown-text">"Si se usa temprano y como terapia complementaria, las soluciones de irrigación nasal aplicadas localmente pueden representar un remedio interesante y prometedor para todas las infecciones virales, incluyendo SARS-CoV-2" </span><div aria-describedby="_r_469_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">4. Mecanismos de acción del agua de mar en el tracto respiratorio</span>
+<h3 id="4-1-efecto-osmotico-y-aclaramiento-mucociliar"><span class="qwen-markdown-text">4.1. Efecto osmótico y aclaramiento mucociliar</span></h3>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">El agua de mar hipertónica ejerce múltiples efectos beneficiosos:</span></div><div class="qwen-markdown-space"></div>- **<span class="qwen-markdown-text">Reducción del edema:</span>**<span class="qwen-markdown-text" data-spm-anchor-id="a2ty_o01.29997173.0.i52.721555fbhi8LEn"> Al extraer agua de las células mucosas de la cavidad nasal, reduce el edema de la mucosa local </span><div aria-describedby="_r_46b_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+- **<span class="qwen-markdown-text">Hidratación del moco:</span>**<span class="qwen-markdown-text"> Aumenta la hidratación de la capa de moco, mejorando el aclaramiento mucociliar </span><div aria-describedby="_r_46d_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div>
+- **<span class="qwen-markdown-text">Eliminación de patógenos:</span>**<span class="qwen-markdown-text"> El lavado mecánico elimina virus, bacterias y alérgenos de la cavidad nasal</span>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">4.2. Inhibición de la replicación viral</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Estudios han demostrado que </span><div aria-describedby="_r_46f_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div><span class="qwen-markdown-text">:</span></div>- <span class="qwen-markdown-text">Las soluciones salinas (0.8-1.7% NaCl) inhiben la replicación de SARS-CoV-2 de manera dependiente de la dosis</span>
+- <span class="qwen-markdown-text">El mecanismo involucra despolarización de membrana y privación de energía intracelular</span>
+- <span class="qwen-markdown-text">La sal no tiene efecto directo sobre el virus, sino sobre las células huésped</span>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">4.3. Actividad virucida del ácido hipocloroso</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">El agua de mar estimula la producción de ácido hipocloroso (HOCl) </span><div aria-describedby="_r_46h_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div><span class="qwen-markdown-text">:</span></div>- <span class="qwen-markdown-text">La mieloperoxidasa (MPO) en células epiteliales o fagocíticas produce HOCl</span>
+- <span class="qwen-markdown-text">El HOCl tiene actividad virucida conocida, efectiva contra todos los virus</span>
+- <span class="qwen-markdown-text">Este mecanismo es similar al de la lejía (bleach)</span>
+<div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text" data-spm-anchor-id="a2ty_o01.29997173.0.i51.721555fbhi8LEn">5. Estudios sobre irrigación nasal en rinosinusitis crónica</span>
+<h3 id="5-1-guia-de-practica-clinica-2021"><span class="qwen-markdown-text">5.1. Guía de práctica clínica (2021)</span></h3>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Una guía publicada en </span>**<span class="qwen-markdown-text">PMC/NIH</span>**<span class="qwen-markdown-text"> (2021) tituló "Clinical Practice Guideline: Nasal Irrigation for Chronic Rhinosinusitis" </span><div aria-describedby="_r_46j_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Recomendación fuerte:</span>**</div>- <span class="qwen-markdown-text">"Los clínicos deben recomendar irrigación salina nasal a pacientes con sinusitis crónica o aquellos que se han sometido a cirugía endoscópica de senos paranasales" </span><div aria-describedby="_r_46l_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Nivel de evidencia:</span>**<span class="qwen-markdown-text"> Fuerte recomendación basada en evidencia sólida</span>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">5.2. Estudio comparativo: Irrigación vs spray nasal</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Un estudio registrado en </span>**<span class="qwen-markdown-text">ClinicalTrials.gov</span>**<span class="qwen-markdown-text"> (NCT00318006) comparó irrigación nasal vs spray nasal para síntomas nasales y sinusales crónicos </span><div aria-describedby="_r_46n_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">clinicaltrials.gov</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">5.3. Revisión: De empirismo a medicina basada en evidencia</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Una revisión publicada en </span>**<span class="qwen-markdown-text">ScienceDirect</span>**<span class="qwen-markdown-text"> analizó "Nasal irrigation: From empiricism to evidence-based medicine" </span><div aria-describedby="_r_46p_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.sciencedirect.com</div></div><span class="qwen-markdown-text">, </span><div aria-describedby="_r_46r_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.sciencedirect.com</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Conclusión clave:</span>**</div>- <span class="qwen-markdown-text">"La irrigación nasal de gran volumen y baja presión usando agua de mar sin diluir parece, en el presente estado del conocimiento, ser el protocolo más efectivo" </span><div aria-describedby="_r_46t_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.sciencedirect.com</div></div>
+<div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">6. Agua de mar hipertónica vs isotónica: Evidencia comparativa</span>
+<h3 id="6-1-meta-analisis-solucion-hipertonica-vs-isotonica-2024"><span class="qwen-markdown-text">6.1. Meta-análisis: Solución hipertónica vs isotónica (2024)</span></h3>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Un meta-análisis publicado en </span>**<span class="qwen-markdown-text">Journal of Global Health</span>**<span class="qwen-markdown-text"> (2024) analizó "Hypertonic saline nasal irrigation and gargling for suspected or confirmed COVID-19" </span><div aria-describedby="_r_46v_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">jogh.org</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Hallazgos:</span>**</div>- <span class="qwen-markdown-text">"Un meta-análisis mostró que la irrigación con solución salina hipertónica es más efectiva que la irrigación con solución salina isotónica en el tratamiento de condiciones sino-nasales" </span><div aria-describedby="_r_471_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">jogh.org</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">6.2. Estudio piloto: Solución hipertónica al 2.3% (2024)</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Un estudio publicado en </span>**<span class="qwen-markdown-text">PMC/NIH</span>**<span class="qwen-markdown-text"> (2024) evaluó "Real-World Evaluation of the Safety and Effectiveness of 2.3% Hypertonic Saline Nasal Spray" </span><div aria-describedby="_r_473_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Resultados:</span>**</div>- <span class="qwen-markdown-text">"Este estudio piloto concluyó que el uso regular de solución salina nasal hipertónica en pacientes con rinitis alérgica durante cuatro semanas es seguro y tiene eficacia superior a la solución al 0.9%" </span><div aria-describedby="_r_475_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">6.3. Estudio controlado aleatorizado: Solución hipertónica con algas (2025)</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Un estudio publicado en </span>**<span class="qwen-markdown-text">Springer</span>**<span class="qwen-markdown-text"> (2025) analizó "Efficacy of hypertonic nasal spray with algae in rhinosinusitis" </span><div aria-describedby="_r_477_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">link.springer.com</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Resultados:</span>**</div>- <span class="qwen-markdown-text">"Encontramos que en comparación con los sprays nasales hipertónicos y salinos, el spray hipertónico que contiene algas redujo las puntuaciones totales de síntomas más que los otros sprays" </span><div aria-describedby="_r_479_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">link.springer.com</div></div>
+<div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">7. Estudios sobre agua de mar del Mar Muerto</span>
+<h3 id="7-1-estudio-sal-del-mar-muerto-para-rinitis-y-rinosinusitis-cronica"><span class="qwen-markdown-text">7.1. Estudio: Sal del Mar Muerto para rinitis y rinosinusitis crónica</span></h3>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Un estudio publicado en </span>**<span class="qwen-markdown-text">ScienceDirect</span>**<span class="qwen-markdown-text"> analizó "Use of Dead Sea salt solution for chronic rhinitis and rhinosinusitis" </span><div aria-describedby="_r_47b_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.sciencedirect.com</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Resultados:</span>**</div>- <span class="qwen-markdown-text">"La sal del Mar Muerto es una irrigación y spray efectivo en el tratamiento de rinosinusitis purulenta, mejorando la calidad de vida y los síntomas de rinosinusitis" </span><div aria-describedby="_r_47d_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.sciencedirect.com</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">7.2. Productos de Quinton Medical</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Según </span>**<span class="qwen-markdown-text">Quinton Medical</span>**<div aria-describedby="_r_47f_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">quintonmedical.com</div></div><span class="qwen-markdown-text">, </span><div aria-describedby="_r_47h_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">quintonmedical.com</div></div><span class="qwen-markdown-text">, </span><div aria-describedby="_r_47j_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">quintonmedical.com</div></div><span class="qwen-markdown-text">:</span></div><div class="qwen-markdown-space"></div>- **<span class="qwen-markdown-text">Gama de salud nasal:</span>**<span class="qwen-markdown-text"> "La gama de salud nasal de Quinton Medical de sprays de agua de mar actúan como tratamiento auxiliar para la congestión nasal, resfriados, rinitis alérgica, sinusitis" </span><div aria-describedby="_r_47l_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">quintonmedical.com</div></div>
+- **<span class="qwen-markdown-text">Efecto osmótico:</span>**<span class="qwen-markdown-text"> "Es más efectivo para limpiar la nariz gracias a su mayor efecto osmótico, ya que su contenido de sal es más alto" </span><div aria-describedby="_r_47n_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">quintonmedical.com</div></div>
+- **<span class="qwen-markdown-text">Productos naturales:</span>**<span class="qwen-markdown-text"> "Los sprays de agua de mar de Quinton Medical son productos 100% naturales que contienen todas las propiedades del agua de mar" </span><div aria-describedby="_r_47p_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">quintonmedical.com</div></div>
+<div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">8. Estudios sobre prevención y transmisión viral</span>
+<h3 id="8-1-estudio-prevencion-de-transmision-en-covid-19"><span class="qwen-markdown-text">8.1. Estudio: Prevención de transmisión en COVID-19</span></h3>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">El estudio de de Gabory et al. (2024) demostró efectos preventivos </span><div aria-describedby="_r_47r_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div><span class="qwen-markdown-text">:</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Transmisión a contactos domiciliarios:</span>**</div>- **<span class="qwen-markdown-text">Pacientes con alta carga viral basal (≥5 log10 copias/µL):</span>**<span class="qwen-markdown-text"> Porcentaje significativamente menor de casos positivos en contactos domiciliarios del grupo activo (0-23.8%) vs controles (0-36.4%) (D10: p = 0.0168; D11: p = 0.0168) </span><div aria-describedby="_r_47t_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+- **<span class="qwen-markdown-text">Variante Delta:</span>**<span class="qwen-markdown-text"> Menor proporción de contactos domiciliarios positivos en grupo activo (0-10.7%) vs controles (3.2-16.1%) (p = 0.0413) </span><div aria-describedby="_r_47v_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">8.2. Revisión: Irrigación nasal salina y gárgaras en COVID-19</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Un estudio publicado en </span>**<span class="qwen-markdown-text">Frontiers in Public Health</span>**<span class="qwen-markdown-text"> (2025) analizó "Saline nasal irrigation and gargling in COVID-19" </span><div aria-describedby="_r_481_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.frontiersin.org</div></div><span class="qwen-markdown-text">.</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Hallazgos:</span>**</div>- <span class="qwen-markdown-text">"La irrigación salina nasal (SNI) combinada con gárgaras previno el desarrollo de trastornos del olfato/gusto, si se inició antes de su aparición" </span><div aria-describedby="_r_483_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.frontiersin.org</div></div>
+- <span class="qwen-markdown-text">"La mejora de síntomas también fue observada" </span><div aria-describedby="_r_485_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.frontiersin.org</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">8.3. Estudio: Reducción de transmisión en pacientes hospitalizados</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Una publicación en </span>**<span class="qwen-markdown-text">The Conversation</span>**<span class="qwen-markdown-text"> mencionó estudios sobre prevención </span><div aria-describedby="_r_487_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">theconversation.com</div></div><span class="qwen-markdown-text">, </span><div aria-describedby="_r_489_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">theconversation.com</div></div><span class="qwen-markdown-text">:</span></div><div class="qwen-markdown-space"></div>- <span class="qwen-markdown-text">"La investigación también ha demostrado que la irrigación nasal salina puede ayudar a prevenir la propagación de la enfermedad. Un estudio en pacientes hospitalizados mostró que..." </span><div aria-describedby="_r_48b_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">theconversation.com</div></div>
+- <span class="qwen-markdown-text">"No solo la irrigación nasal salina disminuye la duración de la enfermedad, también reduce la transmisión viral a otras personas, minimiza la necesidad de medicación" </span><div aria-describedby="_r_48d_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">theconversation.com</div></div>
+<div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">9. Protocolo recomendado para lavado nasal con agua de mar</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Basado en la evidencia científica, los expertos recomiendan el siguiente protocolo:</span></div><div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">9.1. Para infecciones agudas (COVID-19, URTIs, resfriado)</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Inicio temprano:</span>**</div>1. **<span class="qwen-markdown-text">Iniciar dentro de las 48 horas:</span>**<span class="qwen-markdown-text"> Comenzar el lavado nasal dentro de las 48 horas del inicio de síntomas para máxima eficacia </span>
+2. **<span class="qwen-markdown-text">Frecuencia:</span>**<span class="qwen-markdown-text"> Realizar lavado nasal 3-6 veces al día durante la fase aguda</span>
+3. **<span class="qwen-markdown-text">Tipo de solución:</span>**<span class="qwen-markdown-text"> Agua de mar sin diluir o solución hipertónica (2.3-3% NaCl)</span>
+4. **<span class="qwen-markdown-text">Duración:</span>**<span class="qwen-markdown-text"> Continuar durante al menos 5-7 días o hasta resolución de síntomas</span>
+5. **<span class="qwen-markdown-text">Volumen:</span>**<span class="qwen-markdown-text"> Usar gran volumen (200-240 ml por fosa nasal) con baja presión</span>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">9.2. Para rinosinusitis crónica</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Uso regular:</span>**</div>1. **<span class="qwen-markdown-text">Frecuencia:</span>**<span class="qwen-markdown-text"> 1-2 veces al día de forma regular</span>
+2. **<span class="qwen-markdown-text">Tipo de solución:</span>**<span class="qwen-markdown-text"> Agua de mar isotónica o ligeramente hipertónica</span>
+3. **<span class="qwen-markdown-text">Duración:</span>**<span class="qwen-markdown-text"> Uso continuo a largo plazo</span>
+4. **<span class="qwen-markdown-text">Recomendación médica:</span>**<span class="qwen-markdown-text"> Siempre bajo recomendación del médico </span><div aria-describedby="_r_48f_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">9.3. Para prevención en temporada de resfriados/gripe</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Uso preventivo:</span>**</div>1. **<span class="qwen-markdown-text">Frecuencia:</span>**<span class="qwen-markdown-text"> 1 vez al día o después de exposición a personas enfermas</span>
+2. **<span class="qwen-markdown-text">Tipo de solución:</span>**<span class="qwen-markdown-text"> Agua de mar isotónica</span>
+3. **<span class="qwen-markdown-text">Combinar con gárgaras:</span>**<span class="qwen-markdown-text"> Para máxima protección del tracto respiratorio superior</span>
+4. **<span class="qwen-markdown-text">Higiene nasal diaria:</span>**<span class="qwen-markdown-text"> Como parte de la rutina de higiene personal</span>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">9.4. Técnica adecuada de lavado nasal</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Pasos recomendados:</span>**</div>1. **<span class="qwen-markdown-text">Preparación:</span>**<span class="qwen-markdown-text"> Usar agua de mar estéril o solución salina preparada correctamente</span>
+2. **<span class="qwen-markdown-text">Temperatura:</span>**<span class="qwen-markdown-text"> Tibia (temperatura corporal) para mayor comodidad</span>
+3. **<span class="qwen-markdown-text">Posición:</span>**<span class="qwen-markdown-text"> Inclinar la cabeza hacia adelante sobre el lavabo</span>
+4. **<span class="qwen-markdown-text">Aplicación:</span>**<span class="qwen-markdown-text"> Verter la solución en una fosa nasal, dejando que salga por la otra</span>
+5. **<span class="qwen-markdown-text">Respiración:</span>**<span class="qwen-markdown-text"> Respirar por la boca durante el lavado</span>
+6. **<span class="qwen-markdown-text">Secado:</span>**<span class="qwen-markdown-text"> Sonarse suavemente después del lavado</span>
+7. **<span class="qwen-markdown-text">Limpieza del dispositivo:</span>**<span class="qwen-markdown-text"> Limpiar y secar el dispositivo después de cada uso</span>
+<div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">10. Precauciones y advertencias importantes</span>
+<h3 id="10-1-seguridad-del-agua-de-mar"><span class="qwen-markdown-text">10.1. Seguridad del agua de mar</span></h3>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Importante:</span>**</div>- **<span class="qwen-markdown-text">Usar solo agua de mar estéril:</span>**<span class="qwen-markdown-text"> Nunca usar agua de mar directamente del océano, ya que puede contener bacterias patógenas y contaminantes</span>
+- **<span class="qwen-markdown-text">Productos certificados:</span>**<span class="qwen-markdown-text"> Usar solo productos comerciales certificados o solución salina preparada con agua estéril</span>
+- **<span class="qwen-markdown-text">Temperatura adecuada:</span>**<span class="qwen-markdown-text"> No usar agua muy fría, especialmente después de cirugía de sinusitis crónica, ya que puede aumentar el riesgo de desarrollar crecimientos óseos en la nariz </span><div aria-describedby="_r_48h_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.uclahealth.org</div></div>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">10.2. Contraindicaciones</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">NO usar lavado nasal sin consultar al médico si:</span>**</div>- **<span class="qwen-markdown-text">Cirugía nasal reciente:</span>**<span class="qwen-markdown-text"> Especialmente si es reciente</span>
+- **<span class="qwen-markdown-text">Perforación del tímpano:</span>**<span class="qwen-markdown-text"> Problemas de oído</span>
+- **<span class="qwen-markdown-text">Epistaxis frecuente:</span>**<span class="qwen-markdown-text"> Sangrados nasales frecuentes</span>
+- **<span class="qwen-markdown-text">Obstrucción nasal completa:</span>**<span class="qwen-markdown-text"> Que impida el paso de la solución</span>
+- **<span class="qwen-markdown-text">Alergia a componentes:</span>**<span class="qwen-markdown-text"> Alergia a minerales marinos o aditivos</span>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">10.3. Efectos secundarios posibles</span>
+<div class="qwen-markdown-paragraph" data-spm-anchor-id="a2ty_o01.29997173.0.i50.721555fbhi8LEn">**<span class="qwen-markdown-text">Efectos leves y temporales:</span>**</div>- **<span class="qwen-markdown-text">Ardor leve:</span>**<span class="qwen-markdown-text"> Especialmente con soluciones hipertónicas al inicio</span>
+- **<span class="qwen-markdown-text">Sangrado nasal menor:</span>**<span class="qwen-markdown-text"> En casos de mucosa muy irritada</span>
+- **<span class="qwen-markdown-text">Congestión temporal:</span>**<span class="qwen-markdown-text"> Que se resuelve rápidamente</span>
+<div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Consultar al médico si:</span>**</div>- <span class="qwen-markdown-text">Sangrado nasal persistente</span>
+- <span class="qwen-markdown-text">Dolor severo</span>
+- <span class="qwen-markdown-text">Empeoramiento de síntomas</span>
+- <span class="qwen-markdown-text">Fiebre alta</span>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">10.4. Limitaciones de la evidencia</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Es importante notar que:</span></div>- <span class="qwen-markdown-text">La mayoría de los estudios muestran beneficios, pero algunos estudios no encontraron diferencias significativas</span>
+- <span class="qwen-markdown-text">La eficacia puede variar según la frecuencia de uso, tipo de solución y gravedad de la condición</span>
+- <span class="qwen-markdown-text">El lavado nasal es un tratamiento complementario, no un reemplazo de otros tratamientos médicos</span>
+- <span class="qwen-markdown-text">Se necesita más investigación para optimizar los protocolos de tratamiento</span>
+<div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">11. Conclusión: Un enfoque seguro y efectivo para la salud nasal</span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">La ciencia ha demostrado que el lavado nasal con agua de mar es una intervención segura y efectiva para múltiples condiciones respiratorias, respaldada por múltiples estudios clínicos controlados. Los estudios científicos han confirmado que:</span></div><div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">11.1. Hallazgos clave</span>
+<ol>
+<li><strong><span class="qwen-markdown-text">El lavado nasal con agua de mar reduce la duración de síntomas:</span></strong><span class="qwen-markdown-text"> "El lavado nasal con agua de mar sin diluir puede promover un alivio, mejora y resolución más tempranos de los síntomas relacionados con el tracto respiratorio superior" </span><div aria-describedby="_r_48j_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div></li>
+<li><strong><span class="qwen-markdown-text">Reducción de 3-5 días en síntomas:</span></strong><span class="qwen-markdown-text"> Los síntomas como rinorrea, goteo postnasal, dolor de cabeza y dificultad para respirar se resolvieron 3-5 días antes con lavado nasal </span><div aria-describedby="_r_48l_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div></li>
+<li><strong><span class="qwen-markdown-text">Reducción de carga viral de SARS-CoV-2:</span></strong><span class="qwen-markdown-text"> "Una mayor proporción de sujetos en el grupo activo logró caídas de carga viral ≥1.5 Log10 copias (88.9% vs 62.5%) en sujetos jóvenes" </span><div aria-describedby="_r_48n_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div></li>
+<li><strong><span class="qwen-markdown-text">Negativización 2 días antes:</span></strong><span class="qwen-markdown-text"> "Los pacientes tratados con Tonimer Lab Panthexyl 800 se negativizaron aproximadamente 2 días antes que los controles" </span><div aria-describedby="_r_48p_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div></li>
+<li><strong><span class="qwen-markdown-text">Reducción de transmisión domiciliaria:</span></strong><span class="qwen-markdown-text"> "Menor porcentaje de contactos domiciliarios positivos en grupo activo (0-10.7%) vs controles (3.2-16.1%) para variante Delta" </span><div aria-describedby="_r_48r_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div></li>
+<li><strong><span class="qwen-markdown-text">Duración de enfermedad por coronavirus reducida:</span></strong><span class="qwen-markdown-text"> "La duración de la enfermedad fue más corta en el brazo de intervención en el subconjunto de pacientes infectados con coronavirus (media 5.6 vs 8.1 días)" </span><div aria-describedby="_r_48t_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div></li>
+<li><strong><span class="qwen-markdown-text">La irrigación de gran volumen con agua de mar sin diluir es más efectiva:</span></strong><span class="qwen-markdown-text"> "La irrigación nasal de gran volumen y baja presión usando agua de mar sin diluir parece ser el protocolo más efectivo" </span><div aria-describedby="_r_48v_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.sciencedirect.com</div></div></li>
+<li><strong><span class="qwen-markdown-text">Recomendación fuerte en rinosinusitis crónica:</span></strong><span class="qwen-markdown-text"> "Los clínicos deben recomendar irrigación salina nasal a pacientes con sinusitis crónica" </span><div aria-describedby="_r_491_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">pmc.ncbi.nlm.nih.gov</div></div></li>
+<li><strong><span class="qwen-markdown-text">Mecanismos múltiples de acción:</span></strong><span class="qwen-markdown-text"> Inhibición de replicación viral, mejora del aclaramiento mucociliar, actividad virucida del ácido hipocloroso, reducción del edema </span><div aria-describedby="_r_493_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div></li>
+<li><strong><span class="qwen-markdown-text">Seguridad comprobada:</span></strong><span class="qwen-markdown-text"> "No se encontró evidencia de efectos adversos" en múltiples estudios </span><div aria-describedby="_r_495_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.mdpi.com</div></div></li>
+</ol>
+<div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">11.2. Recomendaciones finales</span>
+<div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Para personas con síntomas respiratorios agudos:</span>**</div>- **<span class="qwen-markdown-text">Iniciar temprano:</span>**<span class="qwen-markdown-text"> Comenzar el lavado nasal dentro de las 48 horas del inicio de síntomas </span>
+- **<span class="qwen-markdown-text">Frecuencia adecuada:</span>**<span class="qwen-markdown-text"> 3-6 veces al día durante la fase aguda</span>
+- **<span class="qwen-markdown-text">Agua de mar sin diluir:</span>**<span class="qwen-markdown-text"> Usar agua de mar sin diluir o solución hipertónica</span>
+- **<span class="qwen-markdown-text">Continuar 5-7 días:</span>**<span class="qwen-markdown-text"> O hasta resolución completa de síntomas</span>
+<div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Para personas con rinosinusitis crónica:</span>**</div>- **<span class="qwen-markdown-text">Uso regular:</span>**<span class="qwen-markdown-text"> 1-2 veces al día de forma continua</span>
+- **<span class="qwen-markdown-text">Recomendación médica:</span>**<span class="qwen-markdown-text"> Siempre bajo supervisión del médico</span>
+- **<span class="qwen-markdown-text">Combinar con tratamiento:</span>**<span class="qwen-markdown-text"> Como complemento al tratamiento médico convencional</span>
+<div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Para prevención:</span>**</div>- **<span class="qwen-markdown-text">Uso preventivo:</span>**<span class="qwen-markdown-text"> 1 vez al día en temporada de resfriados/gripe</span>
+- **<span class="qwen-markdown-text">Después de exposición:</span>**<span class="qwen-markdown-text"> Después de contacto con personas enfermas</span>
+- **<span class="qwen-markdown-text">Combinar con gárgaras:</span>**<span class="qwen-markdown-text"> Para protección completa del tracto respiratorio superior</span>
+<div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Para todos:</span>**</div>- **<span class="qwen-markdown-text">Usar productos estériles:</span>**<span class="qwen-markdown-text"> Solo agua de mar estéril o solución salina preparada correctamente</span>
+- **<span class="qwen-markdown-text">Técnica adecuada:</span>**<span class="qwen-markdown-text"> Seguir las instrucciones de uso correctamente</span>
+- **<span class="qwen-markdown-text">Consulta médica:</span>**<span class="qwen-markdown-text"> Consultar al médico si los síntomas persisten o empeoran</span>
+- **<span class="qwen-markdown-text">No reemplazar tratamiento:</span>**<span class="qwen-markdown-text"> El lavado nasal es un complemento, no un reemplazo del tratamiento médico</span>
+<div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">La ciencia respalda el uso del lavado nasal con agua de mar como una herramienta segura, efectiva y económica para el tratamiento y prevención de infecciones respiratorias, con mecanismos de acción perfectamente identificados (reducción de carga viral, mejora del aclaramiento mucociliar, inhibición de replicación viral). Los estudios clínicos demuestran beneficios significativos en la reducción de duración de síntomas, carga viral y transmisión a contactos, haciendo del lavado nasal con agua de mar una intervención valiosa en el manejo de la salud respiratoria.</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-hr">---
+</div><div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">📚 Referencias Científicas y Estudios</span>
+<ul>
+<li><strong><span class="qwen-markdown-text">[1] ScienceDirect:</span></strong> <em><span class="qwen-markdown-text">Nasal irrigation: From empiricism to evidence-based medicine</span></em><span class="qwen-markdown-text"> - Revisión que concluye que la irrigación nasal de gran volumen y baja presión usando agua de mar sin diluir es el protocolo más efectivo. </span><a rel="external" href="https://www.sciencedirect.com/science/article/pii/S1879729615001003"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[3] MDPI Marine Drugs:</span></strong> <em><span class="qwen-markdown-text">The Role of Seawater and Saline Solutions in Treatment of Upper Respiratory Tract Infections</span></em><span class="qwen-markdown-text"> - Revisión sobre eficacia de soluciones de irrigación nasal en infecciones del tracto respiratorio superior incluyendo coronavirus (2022). </span><a rel="external" href="https://www.mdpi.com/1660-3397/20/5/330"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[4] The Conversation:</span></strong> <em><span class="qwen-markdown-text">Recent studies prove the ancient practice of nasal irrigation is effective</span></em><span class="qwen-markdown-text"> - Artículo sobre cómo la irrigación nasal salina reduce la duración de enfermedad y transmisión viral. </span><a rel="external" href="https://theconversation.com/recent-studies-prove-the-ancient-practice-of-nasal-irrigation-is-effective-at-fighting-the-common-cold-266659"><span class="qwen-markdown-text">Leer más</span></a></li>
+<li><strong><span class="qwen-markdown-text">[8] ClinicalTrials.gov:</span></strong> <em><span class="qwen-markdown-text">Study of Nasal Irrigation Versus Nasal Spray for Chronic Nasal and Sinus Symptoms</span></em><span class="qwen-markdown-text"> - Estudio comparativo entre irrigación nasal y spray nasal (NCT00318006). </span><a rel="external" href="https://clinicaltrials.gov/study/NCT00318006"><span class="qwen-markdown-text">Leer más</span></a></li>
+<li><strong><span class="qwen-markdown-text">[9] Quinton Medical:</span></strong> <em><span class="qwen-markdown-text">Nasal Irrigation with Seawater</span></em><span class="qwen-markdown-text"> - Información sobre sprays de agua de mar de Quinton Medical para congestión nasal, resfriados, rinitis alérgica y sinusitis. </span><a rel="external" href="https://quintonmedical.com/marine-therapy/nasal-irrigration"><span class="qwen-markdown-text">Leer más</span></a></li>
+<li><strong><span class="qwen-markdown-text">[10] PMC/NIH:</span></strong> <em><span class="qwen-markdown-text">Real-World Evaluation of the Safety and Effectiveness of 2.3% Hypertonic Saline Nasal Spray</span></em><span class="qwen-markdown-text"> - Estudio piloto sobre seguridad y eficacia de solución salina hipertónica al 2.3% en rinitis alérgica (2024). </span><a rel="external" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10981789/"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[13] Journal of Global Health:</span></strong> <em><span class="qwen-markdown-text">Hypertonic saline nasal irrigation and gargling for suspected or confirmed COVID-19</span></em><span class="qwen-markdown-text"> - Meta-análisis sobre irrigación salina hipertónica vs isotónica (2024). </span><a rel="external" href="https://jogh.org/2024/jogh-14-05027/"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[18] Springer:</span></strong> <em><span class="qwen-markdown-text">Efficacy of hypertonic nasal spray with algae in rhinosinusitis</span></em><span class="qwen-markdown-text"> - Estudio sobre spray hipertónico con algas que reduce síntomas más que otros sprays (2025). </span><a rel="external" href="https://link.springer.com/article/10.1007/s00405-025-09266-3"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[19] COPD Journal:</span></strong> <em><span class="qwen-markdown-text">A review of halotherapy for chronic obstructive pulmonary disease</span></em><span class="qwen-markdown-text"> - Revisión sobre haloterapia para EPOC, asma y fibrosis quística (2014). </span><a rel="external" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3937102/"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[20] PMC/NIH:</span></strong> <em><span class="qwen-markdown-text">Clinical Practice Guideline: Nasal Irrigation for Chronic Rhinosinusitis</span></em><span class="qwen-markdown-text"> - Guía de práctica clínica con recomendación fuerte para irrigación salina nasal en sinusitis crónica (2021). </span><a rel="external" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8901942/"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[22] UCLA Health:</span></strong> <em><span class="qwen-markdown-text">Risks and rewards of nasal rinses: What you need to know</span></em><span class="qwen-markdown-text"> - Artículo sobre riesgos y beneficios de enjuagues nasales. </span><a rel="external" href="https://www.uclahealth.org/news/article/risks-and-rewards-of-nasal-rinses-what-you-need-to-know"><span class="qwen-markdown-text">Leer más</span></a></li>
+<li><strong><span class="qwen-markdown-text">[24] ScienceDirect:</span></strong> <em><span class="qwen-markdown-text">Use of Dead Sea salt solution for chronic rhinitis and rhinosinusitis</span></em><span class="qwen-markdown-text"> - Estudio sobre sal del Mar Muerto como irrigación efectiva en rinosinusitis purulenta. </span><a rel="external" href="https://www.sciencedirect.com/science/article/abs/pii/S1043181006000510"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[25] Quinton Medical:</span></strong> <em><span class="qwen-markdown-text">Nasal Irrigation with Seawater</span></em><span class="qwen-markdown-text"> - Información sobre gama de salud nasal de Quinton Medical como tratamiento auxiliar. </span><a rel="external" href="https://quintonmedical.com/marine-therapy/nasal-irrigration"><span class="qwen-markdown-text">Leer más</span></a></li>
+<li><strong><span class="qwen-markdown-text">[27] PubMed:</span></strong> <em><span class="qwen-markdown-text">Magnesium in the management of asthma at the Dead Sea</span></em><span class="qwen-markdown-text"> - Estudio clásico sobre mejora de función pulmonar en asma después de 4 semanas en el Mar Muerto (1999). </span><a rel="external" href="https://pubmed.ncbi.nlm.nih.gov/9777879/"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[33] The Conversation:</span></strong> <em><span class="qwen-markdown-text">Nasal irrigation reduces illness duration and viral transmission</span></em><span class="qwen-markdown-text"> - Artículo sobre cómo la irrigación nasal salina reduce duración de enfermedad y transmisión viral. </span><a rel="external" href="https://theconversation.com/recent-studies-prove-the-ancient-practice-of-nasal-irrigation-is-effective-at-fighting-the-common-cold-266659"><span class="qwen-markdown-text">Leer más</span></a></li>
+<li><strong><span class="qwen-markdown-text">[34] MDPI Marine Drugs:</span></strong> <em><span class="qwen-markdown-text">The Role of Seawater and Saline Solutions in Treatment</span></em><span class="qwen-markdown-text"> - Revisión sobre eficacia probada en numerosos ensayos clínicos (2022). </span><a rel="external" href="https://www.mdpi.com/1660-3397/20/5/330"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[36] Quinton Medical:</span></strong> <em><span class="qwen-markdown-text">Nasal Health Range</span></em><span class="qwen-markdown-text"> - Información sobre mayor efecto osmótico de sprays de agua de mar. </span><a rel="external" href="https://quintonmedical.com/marine-therapy/nasal-irrigration"><span class="qwen-markdown-text">Leer más</span></a></li>
+<li><strong><span class="qwen-markdown-text">[37] PMC/NIH:</span></strong> <em><span class="qwen-markdown-text">Seawater nasal wash to reduce symptom duration and viral load in COVID-19 and URTIs</span></em><span class="qwen-markdown-text"> - Ensayo controlado aleatorizado que muestra reducción de síntomas en 3-5 días y carga viral en COVID-19 (2024). </span><a rel="external" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11211132/"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[39] Frontiers in Public Health:</span></strong> <em><span class="qwen-markdown-text">Saline nasal irrigation and gargling in COVID-19</span></em><span class="qwen-markdown-text"> - Estudio sobre prevención de trastornos de olfato/gusto con irrigación salina nasal (2025). </span><a rel="external" href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1462286/full"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[40] MDPI Pharmaceutics:</span></strong> <em><span class="qwen-markdown-text">Early Negativization of SARS-CoV-2 Infection by Nasal Spray of Seawater</span></em><span class="qwen-markdown-text"> - Estudio RENAISSANCE sobre negativización 2 días antes de SARS-CoV-2 con spray nasal de agua de mar (2022). </span><a rel="external" href="https://www.mdpi.com/1999-4923/14/11/2502"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+<li><strong><span class="qwen-markdown-text">[44] Research.unipd.it:</span></strong> <em><span class="qwen-markdown-text">Early Negativization of SARS-CoV-2 Infection by Nasal Spray</span></em><span class="qwen-markdown-text"> - Estudio sobre efectividad de spray nasal Tonimer Lab Panthexyl 800 contra SARS-CoV-2. </span><a rel="external" href="https://research.unipd.it/handle/11577/3512010"><span class="qwen-markdown-text">Leer más</span></a></li>
+<li><strong><span class="qwen-markdown-text">[45] PubMed:</span></strong> <em><span class="qwen-markdown-text">Seawater nasal wash to reduce symptom duration and viral load</span></em><span class="qwen-markdown-text"> - Publicación sobre lavado nasal con agua de mar para reducir duración de síntomas y carga viral (2024). </span><a rel="external" href="https://pubmed.ncbi.nlm.nih.gov/38376591/"><span class="qwen-markdown-text">Leer estudio</span></a></li>
+</ul>
+
+
+    </main>
+    
+<footer class="site-footer">
+    <p>&copy; 2026 Rexmar - Todos los derechos reservados.</p>
+
+    <div class="disclaimer-box">
+        <p><strong>Disclaimer / Descargo de responsabilidad</strong></p>
+        <p>El Agua de Mar (AdM) de extracción artesanal RexMar para uso culinario, el cobre, los mensajes CPMSS, PNL Subliminales y Subliminales Silent, y cualquier otra cosa publicada en este sitio, no son medicamentos ni reemplazan la consulta con un profesional de la salud, Terapeuta o Chamán que esté familiarizado con ellos.</p>
+        <p>Las publicaciones, artículos científicos, notas, audios, videos, testimonios o cualquier otro contenido reflejados en el sitio, son de responsabilidad de sus autores. RexMar AdM Perú no incita a otro uso distinto al culinario el cual es responsabilidad del que lo realizó.</p>
+        <p><strong>Nota importante:</strong> Puede ser que al AdM le salgan algas, esto no invalida su consumo, y no corresponde devolución por este motivo. El AdM es un ser Vivo, es normal que siga multiplicándose.</p>
+        <p>En RexMar AdM Perú NO somos profesionales de la salud, Terapeutas o Chamánes. Nuestra respuesta, si la hubiera, es sólo una referencia a cosas publicadas por profesionales autorizados y experiencia personal, para orientación no profesional y que los usuarios no hagan mal uso por desconocimiento.</p>
+        <p>Es deber del usuario investigar y llegar a sus propias conclusiones experimentando. Cualquier duda no deje de consultar a su Profesional de la salud o chamán de confianza.</p>
+        <p><strong>Autorización:</strong> No necesita Registro Sanitario debido a que está acogido al <a rel="external" href="https://www.gob.pe/institucion/minsa/normas-legales/256030-004-2000-sa">D.S.: 004-2000-SA Art- 70</a></p>
+    </div>
+</footer>
+    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+    <script>
+        function leerPagina() {
+            var texto = document.querySelector('main').innerText;
+            responsiveVoice.speak(texto, "Spanish Latin American Female", { rate: 1, pitch: 1, volume: 1 });
+        }
+    </script>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const input = document.getElementById('search-input');
+            const results = document.getElementById('search-results');
+            
+            fetch('/search_index.es.json')
+                .then(response => response.json())
+                .then(data => {
+                    const fuse = new Fuse(data, {
+                        keys: ['title', 'body'],
+                        threshold: 0.3,
+                        includeScore: true
+                    });
+                    
+                    function performSearch() {
+                        const query = input.value.trim();
+                        if (query.length < 2) {
+                            results.style.display = 'none';
+                            return;
+                        }
+                        
+                        const searchResults = fuse.search(query);
+                        
+                        if (searchResults.length > 0) {
+                            results.innerHTML = searchResults.slice(0, 10).map(result => {
+                                const doc = result.item;
+                                return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
+                            }).join('');
+                            results.style.display = 'block';
+                        } else {
+                            results.innerHTML = '<div class="search-result" style="color: #666;">No se encontraron resultados</div>';
+                            results.style.display = 'block';
+                        }
+                    }
+
+                    input.addEventListener('input', performSearch);
+                    input.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter') {
+                            performSearch();
+                            input.blur();
+                        }
+                    });
+
+                    document.addEventListener('click', (e) => {
+                        if (!e.target.closest('.search-box')) {
+                            results.style.display = 'none';
+                        }
+                    });
+                })
+                .catch(err => {
+                    console.error('Error cargando índice de búsqueda:', err);
+                    input.placeholder = " Búsqueda no disponible";
+                });
+        });
+    </script>
+    
+</body>
+</html>

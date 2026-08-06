@@ -1,0 +1,1126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rexmar</title>
+    <style>
+        body { background-color: #1e3a8a; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+        header { background-color: #1e40af; padding: 20px; text-align: center; border-bottom: 3px solid #3b82f6; }
+        header h1 a { color: #ffffff; text-decoration: none; font-size: 2em; }
+        nav { margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; }
+        nav a { color: #ffffff; text-decoration: none; margin: 5px 10px; padding: 8px 15px; background-color: #2563eb; border-radius: 5px; }
+        nav a:hover { background-color: #3b82f6; }
+main {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e40af;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    min-height: 60vh;
+    overflow: visible;   /* ← agregar esto */
+}
+        a { color: #93c5fd; }
+        .article-list { margin-top: 40px; }
+        .article-list h2 { border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #bfdbfe; }
+        article.preview { margin-bottom: 15px; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        article.preview h3 { margin: 0 0 5px 0; }
+        article.preview a { color: #ffffff; text-decoration: none; }
+        article.preview a:hover { text-decoration: underline; }
+        
+        .tools-container { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 20px 0; padding: 15px; background-color: #2563eb; border-radius: 8px; }
+        .search-box { position: relative; width: 100%; max-width: 400px; }
+        #search-input { width: 100%; padding: 10px 15px; border: 2px solid #3b82f6; border-radius: 25px; background-color: #ffffff; color: #1e3a8a; font-size: 16px; box-sizing: border-box; outline: none; }
+        #search-input:focus { border-color: #60a5fa; box-shadow: 0 0 8px rgba(59, 130, 246, 0.5); }
+        #search-results { position: absolute; top: 100%; left: 0; right: 0; background-color: #ffffff; border: 2px solid #3b82f6; border-radius: 8px; max-height: 300px; overflow-y: auto; z-index: 100; display: none; margin-top: 5px; }
+        .search-result { padding: 10px 15px; border-bottom: 1px solid #e5e7eb; }
+        .search-result:last-child { border-bottom: none; }
+        .search-result a { color: #1e3a8a; text-decoration: none; display: block; font-weight: bold; }
+        .search-result a:hover { background-color: #f3f4f6; }
+        .audio-btn { padding: 10px 20px; background-color: #1e40af; color: #ffffff; border: 2px solid #3b82f6; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; white-space: nowrap; }
+        .audio-btn:hover { background-color: #3b82f6; }
+	.site-footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: #bfdbfe;
+    margin-top: 40px;
+    border-top: 2px solid #3b82f6;
+    background-color: #1e40af;   /* ← distinto al body */
+    font-size: 0.9em;
+	}
+	.site-footer a {
+    color: #93c5fd;
+    text-decoration: underline;
+	}
+	.site-footer a:hover {
+    color: #ffffff;
+	}
+    </style>
+</head>
+<body>
+    <header>
+        <h1><a href="/">Rexmar</a></h1>
+        <nav>
+            
+                <a href="&#x2F;">Inicio</a>
+            
+                <a href="&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;">Formas de Uso</a>
+            
+                <a href="&#x2F;home&#x2F;recetas&#x2F;">Recetas</a>
+            
+                <a href="&#x2F;home&#x2F;preguntas-frecuentes&#x2F;">Preguntas Frecuentes</a>
+            
+                <a href="&#x2F;rexcobre-artesanias&#x2F;">Rexcobre</a>
+            
+                <a href="&#x2F;distribuidores&#x2F;">Distribuidores</a>
+            
+                <a href="&#x2F;contacto&#x2F;">Contacto</a>
+            
+        </nav>
+        
+        <div class="tools-container">
+            <div class="search-box">
+                <input type="search" id="search-input" placeholder="🔍 Buscar en el sitio..." autocomplete="off" enterkeyhint="search">
+                <div id="search-results"></div>
+            </div>
+            <button class="audio-btn" onclick="leerPagina()">🔊 Escuchar</button>
+        </div>
+    </header>
+    
+    <main>
+        
+    <h1>Sección</h1>
+    
+    <div class="article-list">
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;perm&#x2F;">Permeabilidad intestinal y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;boch&#x2F;">Bochornos y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;unas&#x2F;">Uñas y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;cabe&#x2F;">Cabello y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;piel-2&#x2F;">Piel y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;pene&#x2F;">el Pene y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;vess&#x2F;">Vesículas seminales y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;cond&#x2F;">Conductos deferentes y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;epid&#x2F;">Epidídimo y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;test&#x2F;">Testículos y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;vulv&#x2F;">Vulva y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;vagi&#x2F;">Vagina y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;uter&#x2F;">Útero y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;trom&#x2F;">Trompas de Falopio y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;ovar&#x2F;">Ovarios y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;cart&#x2F;">Cartílagos y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;arti&#x2F;">Articulaciones y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;liga&#x2F;">Ligamentos y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;tend&#x2F;">Tendones y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;musc&#x2F;">Músculos y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;hues&#x2F;">Huesos y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;vasos&#x2F;">Vasos sanguíneos y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;medu&#x2F;">Médula espinal y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;troe&#x2F;">Tronco encefálico  y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;cere1&#x2F;">Cerebelo y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;cere&#x2F;">Cerebro y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;uret1&#x2F;">Uretra y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;veji&#x2F;">Vejiga y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;uret&#x2F;">Uréteres  y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;celi&#x2F;">Celiaquía y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;bron&#x2F;">Bronquios y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;lari&#x2F;">Laringe y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;nari&#x2F;">Nariz&#x2F;Fosas nasales y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;ano&#x2F;">el Ano y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;rect&#x2F;">El recto y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;vesi&#x2F;">Vesícula biliar y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;sali&#x2F;">Glándulas salivales y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;leng&#x2F;">Lengua y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;dien&#x2F;">Dientes y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;boca&#x2F;">Boca y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;fari&#x2F;">Faringe y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;armf&#x2F;">Aparato reproductor femenino y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;arma&#x2F;">Aparato reproductor masculino</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;timo&#x2F;">Timo (órgano y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;piel&#x2F;">Piel AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;esto&#x2F;">Estómago y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;traq&#x2F;">Tráquea y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;esof&#x2F;">Esófago y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;id&#x2F;">Intestino delgado y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;bazo&#x2F;">Bazo (órgano) y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;torc&#x2F;">Torceduras (de manos y pies) y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;vari&#x2F;">Várices y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;panc&#x2F;">Páncreas y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;emf&#x2F;">EMF y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;canc&#x2F;">Cáncer y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;apop&#x2F;">Apoptosis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;glio&#x2F;">Glioblastomas y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;bactp&#x2F;">Bacterias patógenas en colon y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;bact&#x2F;">Bacterias Patógenas en el colon y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;mioc&#x2F;">Miocarditis, pericarditis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;bleb&#x2F;">Klebsiella pneumoniae, artritis reumatoide, espondilitis anquilosante y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;coraz&#x2F;">Corazón, ataques cardíacos y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;isquemia&#x2F;">Isquemia Cerebral y secuelas (disartría etc) y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;oxi&#x2F;">Oxigenación y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;detox&#x2F;">Desintoxicación y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;de&#x2F;">Disfunción eréctil y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;reflujo&#x2F;">Reflujo y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;diabetes1&#x2F;">Diabetes y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;alerg&#x2F;">Alergias y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;dialisis&#x2F;">Diálisis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;renal&#x2F;">Riñones y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;longe&#x2F;">Longevidad y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;unnamed-file-pdf&#x2F;">Visor Charla</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;ci&#x2F;">Calculadora Isotónica</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;ln&#x2F;">Lavado Nasal y ADM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;pulmon&#x2F;">Pulmones y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;reuma&#x2F;">Reumatismo y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;penia&#x2F;">Osteopenia y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;quema&#x2F;">Quemaduras y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;cs&#x2F;">Circulación Sanguínea y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;ldl&#x2F;">Colesterol malo (LDL) y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;migra&#x2F;">Migrañas y dolores de cabeza y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;tbc&#x2F;">Tuberculosis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;colon&#x2F;">Colon (Int. Grueso) y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;higadog&#x2F;">Hígado graso y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;tiroides2&#x2F;">Tiroides y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;menopausia&#x2F;">Menopausia y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;colutorio&#x2F;">Colutorio y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;dentifrico&#x2F;">Dentífrico y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;cicatrizar&#x2F;">Cicatrización y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;desinfeccion&#x2F;">Desinfección y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;prostata&#x2F;">Próstata y ADM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;dermatitis&#x2F;">Dermatitis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;raquitismo&#x2F;">Raquitismo y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;hidratacion&#x2F;">Hidratación y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;acidez-y-adm&#x2F;">Acidez y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;digestion&#x2F;">Digestión y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;animales&#x2F;">Animales y Adm</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;aves&#x2F;">Aves y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;perros&#x2F;">Perros y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;gatos&#x2F;">Gatos y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;iv&#x2F;">Inyección intravenosa y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;lipomas&#x2F;">Lipomas y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;linfa&#x2F;">Linfa Sistema linfático y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;cabello&#x2F;">Cabello y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;nebulizaciones2&#x2F;">Nebulizaciones y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;ojos&#x2F;">Ojos y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;osteoporosis&#x2F;">Osteoporósis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;rosacea&#x2F;">Rosácea y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;hipertension&#x2F;">Hipertensión y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;desnutricion&#x2F;">Desnutrición y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;deficit-mineral&#x2F;">Déficit mineral y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;insomnio&#x2F;">Insomnio y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;estres&#x2F;">Estrés, Ansiedad y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;artrosis&#x2F;">Artrosis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;artritis&#x2F;">Artritis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;catarros&#x2F;">Catarros (resfrío común) y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;bronquitis&#x2F;">Bronquitis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;asma&#x2F;">Asma y Adm</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;rinitis&#x2F;">Rinitis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;sinusitis&#x2F;">Sinusitis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;eccemas&#x2F;">Eccemas &#x2F; Dermatítis atópica y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;psoriasis&#x2F;">Psoriasis y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;adelgace&#x2F;">Adelgazar sin esfuerzo con Agua de Mar RexMar ?</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;em&#x2F;">Esclerosis múltiple y agua de mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;ca&#x2F;">Canc€r y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;ayuno&#x2F;">Ayuno y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;snc&#x2F;">Reconecta con tu «Mar Interior»: Cómo el Agua de Mar Beneficia a tu Sistema Nervioso Central</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;fito&#x2F;">Propiedades anti-canc€rígenas del fitoplancton</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;porque-no-ozonizamos-nuestra-agua-de-mar-rexmar&#x2F;">Porqué no ozonizamos nuestra Agua de mar RexMar ?</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;slug-url-sugerida-beneficios-yodo-agua-mar-tiroides-proteccion-categoria-salud-y-bienestar-nutricion-etiquetas-yodo-agua-de-mar-tiroides-salud-natural-prevencion-sistema-inmune&#x2F;">El Yodo y el Agua de Mar (Contexto Nuclear): Fortaleciendo la Tiroides y la Resiliencia Humana</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;insuficiencia-renal-y-adm&#x2F;">Insuficiencia renal y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;bano-sauna-individual-con-agua-de-mar&#x2F;">Baño sauna individual con agua de mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;bendicion-del-agua-de-mar-badm&#x2F;">Bendición del Agua de Mar (BAdM)</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;instructivo-a-beneficio-del-refugio-de-gatos-de-solange&#x2F;">Instructivo a beneficio del Refugio de gatos de Solange</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;porque-salar-los-huevos-duros-al-cocerlos&#x2F;">Porqué salar los huevos duros al cocerlos?</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;ondas-schumann-y-adm&#x2F;">Ondas Schumann y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;que-produce-y-para-que-sirve-el-filtrado&#x2F;">Qué produce y para qué sirve el filtrado?</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;prueba-1&#x2F;">prueba 1</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;tinitus-y-agua-de-mar&#x2F;">Tinitus y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;equilibrio-electrolitico-y-adm&#x2F;">Adelgace y mejore su salud &amp;#8211; Equilibrio Hidro-Electrolítico y AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;prueba&#x2F;">prueba</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;calculadora-isotonica&#x2F;">Calculadora isotónica</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;cocinar&#x2F;">Cocinar con agua de mar RexMar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;permeabilidad-intestinal&#x2F;">Permeabilidad intestinal</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;silicio-organico-y-agua-de-mar&#x2F;">Silicio orgánico y agua de mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;algas&#x2F;">Al tiempo le salieron unas algas la puedo seguir consumiendo?</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;propiedades-inmunomoduladoras-del-adm&#x2F;">Propiedades inmunomoduladoras del AdM</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;bomba-de-sodio-potasio-y-agua-de-mar&#x2F;">Bomba de sodio potasio y agua de mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;cocina-y-agua-de-mar&#x2F;">Cocina y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;inyecciones-intravenoso-y-agua-de-mar&#x2F;">Inyecciones Intravenoso y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;canc3r-y-agua-de-mar&#x2F;">Cánc3r y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;diabetes-y-agua-de-mar&#x2F;">Diabetes y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;hipertension-y-agua-de-mar&#x2F;">Hipertensión y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;artrosis-artritis-osteoporosis-fibromialgia-y-agua-de-mar&#x2F;">Artrosis, Artritis, Osteoporosis, fibromialgia y agua de mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;tiroides-hipertiroidismo-y-agua-de-mar&#x2F;">Tiroides Hipertiroidismo y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;animales-y-agua-de-mar&#x2F;">Animales y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;nebulizaciones-con-agua-de-mar&#x2F;">Nebulizaciones con Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;recomendaciones-de-medicos-doctores-terapeutas-del-agua-de-mar&#x2F;">Recomendaciones de médicos, doctores, terapeutas del Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;pulmones-asma-sistema-respiratorio-y-agua-de-mar&#x2F;">Pulmones, Asma, Sistema respiratorio y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;limpieza-hepatica-enemas-desparasitacion-con-agua-de-mar&#x2F;">Limpieza hepática Enemas Desparasitación con Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;rinones-dialisis-renal-y-agua-de-mar&#x2F;">Riñones Diálisis Renal y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;bebida-isotonica-casera-con-electrolitos-para-deportistas&#x2F;">Bebida Isotónica Casera con Electrolitos para deportistas &amp;#8230;. AHORRATE mucho dinero !!!</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;asma-y-agua-de-mar&#x2F;">Asma y Agua de mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;como-y-porque-mineralizar-el-agua-que-bebemos&#x2F;">Cómo y Porqué mineralizar el agua que bebemos</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;deporte-y-agua-de-mar-rexmar&#x2F;">Deporte  y Agua de Mar RexMar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;somos-75-de-agua-de-mar-isotonica&#x2F;">Somos 75% de Agua de Mar isotónica</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;alternativa-casera-economica-a-la-transfusion-intravenosa-iv&#x2F;">Alternativa casera económica a la transfusión intravenosa IV</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;alimentacion-seca-animal-suplementada-con-agua-de-mar-isotonica&#x2F;">Alimentación seca animal suplementada con Agua de Mar isotónica</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;agua-de-mar-para-proteccion-contra-energias-y-entidades-negativas&#x2F;">Agua de Mar para Protección contra energías y entidades negativas</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;agua-de-mar-y-silicio-para-antiparasitacion-y-varias-cosas-mas&#x2F;">Agua de Mar y Silicio para antiparasitación y varias cosas más</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;apoptosis-y-agua-de-mar&#x2F;">Ap0pt0sis y Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;la-trombosis-y-el-agua-de-mar&#x2F;">La Trømbøsis y el Agua de Mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;higado-y-agua-de-mar&#x2F;">El Hígado y el agua de mar</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;alertas-por-oleaje-anomalo&#x2F;">Alertas por oleaje anómalo</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;colitis-ulcerosa-crohn&#x2F;">Colitis ulcerosa &#x2F; Crohn &#x2F; Síndrome de  Intestino Irritado **</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;lavado-nasal-con-agua-de-mar&#x2F;">Lavado Nasal con Agua de Mar ***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;el-agua-de-mar-en-odontologia&#x2F;">El agua de mar en odontología ***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;collar-de-cobre-para-animales-protejelos&#x2F;">Collar de Cobre para Animales. Protéjelos !</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;estrenimiento-y-el-agua-de-mar&#x2F;">Estreñimiento y el agua de mar:***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;anemia-y-agua-de-mar&#x2F;">Anemia y Agua de mar ***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;alzheimer-y-agua-de-mar&#x2F;">Alzheimer y Agua de Mar ***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;colon-y-agua-de-mar&#x2F;">Côlon y Agua de Mar ***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;gastritis&#x2F;">Gastritis ***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;obesidad&#x2F;">Obesidad ***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;diabetes&#x2F;">Diabetes y Obesidad ***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;helicobacter-pylori&#x2F;">Helicobacter Pylori ***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;adm-y-cancer&#x2F;">AdM y C.á.ncer ***</a></h3>
+            <p></p>
+        </article>
+        
+        <article class="preview">
+            <h3><a href="https:&#x2F;&#x2F;rexmar.pages.dev&#x2F;home&#x2F;formas-de-uso-y-tips&#x2F;enema&#x2F;">Cómo auto aplicarse un Enema casero con Agua de Mar (*)(***)</a></h3>
+            <p></p>
+        </article>
+        
+    </div>
+
+    </main>
+    
+<footer class="site-footer">
+    <p>&copy; 2026 Rexmar - Todos los derechos reservados.</p>
+
+    <div class="disclaimer-box">
+        <p><strong>Disclaimer / Descargo de responsabilidad</strong></p>
+        <p>El Agua de Mar (AdM) de extracción artesanal RexMar para uso culinario, el cobre, los mensajes CPMSS, PNL Subliminales y Subliminales Silent, y cualquier otra cosa publicada en este sitio, no son medicamentos ni reemplazan la consulta con un profesional de la salud, Terapeuta o Chamán que esté familiarizado con ellos.</p>
+        <p>Las publicaciones, artículos científicos, notas, audios, videos, testimonios o cualquier otro contenido reflejados en el sitio, son de responsabilidad de sus autores. RexMar AdM Perú no incita a otro uso distinto al culinario el cual es responsabilidad del que lo realizó.</p>
+        <p><strong>Nota importante:</strong> Puede ser que al AdM le salgan algas, esto no invalida su consumo, y no corresponde devolución por este motivo. El AdM es un ser Vivo, es normal que siga multiplicándose.</p>
+        <p>En RexMar AdM Perú NO somos profesionales de la salud, Terapeutas o Chamánes. Nuestra respuesta, si la hubiera, es sólo una referencia a cosas publicadas por profesionales autorizados y experiencia personal, para orientación no profesional y que los usuarios no hagan mal uso por desconocimiento.</p>
+        <p>Es deber del usuario investigar y llegar a sus propias conclusiones experimentando. Cualquier duda no deje de consultar a su Profesional de la salud o chamán de confianza.</p>
+        <p><strong>Autorización:</strong> No necesita Registro Sanitario debido a que está acogido al <a rel="external" href="https://www.gob.pe/institucion/minsa/normas-legales/256030-004-2000-sa">D.S.: 004-2000-SA Art- 70</a></p>
+    </div>
+</footer>
+    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+    <script>
+        function leerPagina() {
+            var texto = document.querySelector('main').innerText;
+            responsiveVoice.speak(texto, "Spanish Latin American Female", { rate: 1, pitch: 1, volume: 1 });
+        }
+    </script>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const input = document.getElementById('search-input');
+            const results = document.getElementById('search-results');
+            
+            fetch('/search_index.es.json')
+                .then(response => response.json())
+                .then(data => {
+                    const fuse = new Fuse(data, {
+                        keys: ['title', 'body'],
+                        threshold: 0.3,
+                        includeScore: true
+                    });
+                    
+                    function performSearch() {
+                        const query = input.value.trim();
+                        if (query.length < 2) {
+                            results.style.display = 'none';
+                            return;
+                        }
+                        
+                        const searchResults = fuse.search(query);
+                        
+                        if (searchResults.length > 0) {
+                            results.innerHTML = searchResults.slice(0, 10).map(result => {
+                                const doc = result.item;
+                                return `<div class="search-result"><a href="${doc.url}">${doc.title}</a></div>`;
+                            }).join('');
+                            results.style.display = 'block';
+                        } else {
+                            results.innerHTML = '<div class="search-result" style="color: #666;">No se encontraron resultados</div>';
+                            results.style.display = 'block';
+                        }
+                    }
+
+                    input.addEventListener('input', performSearch);
+                    input.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter') {
+                            performSearch();
+                            input.blur();
+                        }
+                    });
+
+                    document.addEventListener('click', (e) => {
+                        if (!e.target.closest('.search-box')) {
+                            results.style.display = 'none';
+                        }
+                    });
+                })
+                .catch(err => {
+                    console.error('Error cargando índice de búsqueda:', err);
+                    input.placeholder = " Búsqueda no disponible";
+                });
+        });
+    </script>
+    
+</body>
+</html>
