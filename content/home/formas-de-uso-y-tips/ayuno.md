@@ -12,7 +12,7 @@ wp_statistics_words_count:
 aliases: ["home/formas-de-uso-y-tips/ayuno/"]
 ---
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="d8wngd4uRmQ") }} </div></figure>El consumo de **agua de mar** durante el ayuno es considerado seguro y beneficioso por muchos expertos, ya que **no rompe el ayuno** al no aportar macronutrientes ni calorías significativas, permitiendo mantener la cetosis y la quema de grasa.
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/d8wngd4uRmQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>El consumo de **agua de mar** durante el ayuno es considerado seguro y beneficioso por muchos expertos, ya que **no rompe el ayuno** al no aportar macronutrientes ni calorías significativas, permitiendo mantener la cetosis y la quema de grasa.
 
 - **Hidratación y Electrolitos:** Es vital para reponer sodio, magnesio, potasio y calcio perdidos durante el ayuno, evitando efectos secundarios como fatiga, mareos o desequilibrios electrolíticos.
 - **Momento de consumo:** Se recomienda tomarla **en ayunas** al levantarse para optimizar la absorción y reactivar el metabolismo, o diluida a lo largo del día o según indicación del especialista.

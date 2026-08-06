@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/mioc/"]
 
 Existe un sólido respaldo en la literatura científica sobre el uso de compuestos marinos y agua de mar profunda (DSW) como coadyuvantes en la protección y rehabilitación del tejido cardíaco. En condiciones inflamatorias como la miocarditis y la pericarditis, el agua de mar isotónica (Plasma de Quinton) actúa como un potente modulador inmunológico y un proveedor de minerales iónicos esenciales para la reparación celular del corazón. ---
 
-{{ youtube(id="oX9bvsnvnMg") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/oX9bvsnvnMg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Protección Miocárdica y Reducción de la Inflamación
 
 - **Rehabilitación cardíaca en modelos de miocarditis:** Estudios sobre productos naturales marinos han demostrado que ciertos compuestos derivados del océano promueven activamente la rehabilitación del corazón en modelos de miocarditis, reduciendo el daño tisular y acelerando la recuperación funcional \[\[33\]\].

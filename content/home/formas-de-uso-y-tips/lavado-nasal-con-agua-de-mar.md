@@ -102,7 +102,7 @@ El AdM es muy buena para el Lavado Nasal
 
 ### Simple técnica para hacerlo:
 
-<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v3n13ng-lavado-nasal-con-agua-de-mar.html?mref=1wgpuu&amp;mc=1as4y </div></figure>## **Papers cientificos:**
+<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v3n13ng-lavado-nasal-con-agua-de-mar.html?mref=1wgpuu&amp;mc=1as4y## **Papers cientificos:**
 
 https://journals.sagepub.com/doi/abs/10.1177/1753465809358190
 

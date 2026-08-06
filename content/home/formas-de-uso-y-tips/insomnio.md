@@ -16,7 +16,7 @@ El insomnio es un trastorno del sueño complejo con múltiples causas (psicológ
 
 Sin embargo, **SÍ existe evidencia científica sólida** sobre los efectos beneficiosos de los minerales marinos (especialmente el magnesio), los baños termales/minerales y la talasoterapia en la calidad del sueño.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="TwIKB40K0tQ") }} </div></figure>## Papers científicos sobre insomnio y agua de mar: evidencia científica
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/TwIKB40K0tQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre insomnio y agua de mar: evidencia científica
 
 El **insomnio** es un trastorno del sueño complejo con múltiples causas. Aunque **no existen papers científicos que evalúen el agua de mar como tratamiento exclusivo** para el insomnio, sí hay evidencia sólida sobre los beneficios de los **minerales marinos** (especialmente magnesio), los **baños termales/minerales** y la **talasoterapia** en la calidad del sueño.
 

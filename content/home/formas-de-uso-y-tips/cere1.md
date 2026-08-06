@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/cere1/"]
 
 El cerebelo es la estructura cerebral fundamental encargada de la coordinación motora, el equilibrio, el tono muscular y el aprendizaje de movimientos precisos. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes moduladores de la función locomotora y la neuroprotección, ofreciendo un apoyo mineral esencial para la salud de este órgano vital. ---
 
-{{ youtube(id="2u0FhMRdgOk") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/2u0FhMRdgOk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Mejora de la Capacidad Motora y la Función Locomotora
 
 - **Optimización de la actividad motora:** Estudios recientes han demostrado que la suplementación con agua derivada de agua de mar profunda mejora significativamente la capacidad motora y la actividad locomotora en modelos de estudio, gracias a su rico perfil de minerales como el magnesio y el calcio \[\[29\]\].

@@ -80,7 +80,7 @@ aliases: ["home/recetas/no-hierva-mas-el-agua/"]
 
 No, hervir el agua no elimina los metales pesados y otros contaminantes. La ebullición es un método eficaz para eliminar los microorganismos patógenos del agua, como bacterias, virus y parásitos. Sin embargo, no es eficaz para eliminar otros contaminantes, como los metales pesados, el cloro, el plomo, el arsénico y las sustancias químicas.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="CeMaKLyHCoA") }} </div></figure>Los metales pesados se encuentran naturalmente en el agua, pero también pueden ser liberados al medio ambiente por la actividad humana, como la minería, la agricultura y la industria. Los metales pesados pueden causar problemas de salud a largo plazo, como cáncer, problemas renales y problemas neurológicos.
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/CeMaKLyHCoA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Los metales pesados se encuentran naturalmente en el agua, pero también pueden ser liberados al medio ambiente por la actividad humana, como la minería, la agricultura y la industria. Los metales pesados pueden causar problemas de salud a largo plazo, como cáncer, problemas renales y problemas neurológicos.
 
 El cloro es un desinfectante que se agrega al agua del grifo para matar los microorganismos patógenos. Sin embargo, el cloro también puede reaccionar con otros compuestos en el agua para formar sustancias químicas que pueden ser dañinas para la salud.
 

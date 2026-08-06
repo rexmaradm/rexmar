@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/reflujo/"]
 
 Existe un consenso creciente tanto en la experiencia clínica integrativa como en la literatura científica sobre el papel del agua de mar isotónica (Plasma de Quinton) en el alivio de afecciones digestivas, incluyendo el reflujo gastroesofágico (ERGE), la gastritis y el desequilibrio del pH gástrico \[\[15\]\], \[\[17\]\]. Al ser una solución microfiltrada en frío y diluida hasta igualar la osmolaridad del plasma humano, actúa como un regulador natural del medio interno. ---
 
-{{ youtube(id="hW33-dUltIs") }} {{ youtube(id="jS64aJG9mbw") }} {{ youtube(id="KRWcn6MM5qA") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/hW33-dUltIs" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/jS64aJG9mbw" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/KRWcn6MM5qA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Regulación del pH y Equilibrio Ácido-Base
 
 - **Efecto buffer natural:** Las formulaciones de plasma marino isotónico están diseñadas para favorecer un buen equilibrio ácido-base, actuando como un regulador natural del pH gástrico e intestinal \[\[2\]\].

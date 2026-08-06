@@ -104,9 +104,9 @@ Fuente: <https://g.co/bard/share/21c25e333dee>
 
 ## **Ejemplo de CPM mejorado por el dr. Alejandro Zaleta**
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="9RC7yFswcQM") }} </div></figure>## **Ejemplo de CPM mejorado por** ***Monor***
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/9RC7yFswcQM" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## **Ejemplo de CPM mejorado por** ***Monor***
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="FHBVguScYnY") }} </div></figure># **Cómo es Corte PsicoMental Subliminal Silent (CPMSS)**
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/FHBVguScYnY" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div># **Cómo es Corte PsicoMental Subliminal Silent (CPMSS)**
 
 El Corte PsicoMental Subliminal Silent (CPMSS) se basa en el método de **Corte PsicoMental** (**CP**M) mejorado por el [dr. Alejandro Zaleta](https://www.youtube.com/@alejandrozaleta6148) y agrega la técnica Subliminal y Subliminal Silent  **en Audio** al mismo **Corte PsicoMental** (**CP**M) formando la nueva técnica de apoyo al **CP**M , la técnica de **Corte PsicoMental Subliminal Silent (CPMSS)**
 
@@ -126,7 +126,7 @@ Por el Maestro Daniel Fumega Music Canal YT: <https://www.youtube.com/channel/UC
 
 ## **Cómo agregar cortes estilo Eduardo Coletto?**
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><script src="//mowplayer.com/watch/js/v-ywI1fQP6VKA.js"></script></div></figure>## **Cómo la Palabra puede cambiarnos y hasta reparar nuestro ADN?**  
+<script src="//mowplayer.com/watch/js/v-ywI1fQP6VKA.js"></script></div></figure>## **Cómo la Palabra puede cambiarnos y hasta reparar nuestro ADN?**  
 
 
 <iframe allow="autoplay" height="480" src="https://drive.google.com/file/d/1sPeJlYevI8ujQvZjDUdVCNrExK_HTdqy/preview" width="640"></iframe>## **Servicio de creación de audios subliminales y subliminales Silenciosos (Silent Subliminals) para Desparasitación Etérica**

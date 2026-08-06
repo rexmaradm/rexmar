@@ -112,7 +112,7 @@ Fuente: <https://www.mdpi.com/2075-1729/12/1/82>
 
 <https://vpjournal.net/article/view/4180>
 
-<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">https://www.research.unipd.it/retrieve/e14fb26f-3141-3de1-e053-1705fe0ac030/2022%20Marine%20Drugs.pdf </div></figure><https://journals.sagepub.com/doi/abs/10.1016/S1474-51510200038-5>
+<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">https://www.research.unipd.it/retrieve/e14fb26f-3141-3de1-e053-1705fe0ac030/2022%20Marine%20Drugs.pdf<https://journals.sagepub.com/doi/abs/10.1016/S1474-51510200038-5>
 
 <https://www.sciencegate.app/document/10.25303/257rjce19421>
 

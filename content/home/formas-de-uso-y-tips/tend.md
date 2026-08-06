@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/tend/"]
 
 Los tendones son estructuras de tejido conectivo denso que requieren un suministro constante de minerales y una hidratación extracelular óptima para mantener su elasticidad, fuerza y capacidad de reparación. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes estimuladores de la síntesis de colágeno y ofrecen un apoyo bioquímico fundamental para la salud tendinosa. ---
 
-{{ youtube(id="OyYdxwXLDDE") }} {{ youtube(id="Y9L92CH5jfU") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/OyYdxwXLDDE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/Y9L92CH5jfU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Estimulación de la Síntesis de Colágeno Tipo I
 
 - **Aumento del contenido de colágeno:** Estudios científicos han demostrado que los tejidos expuestos o cultivados en agua de mar profunda presentan un contenido significativamente mayor de colágeno en comparación con aquellos en agua superficial, evidenciando la capacidad del agua de mar para promover la síntesis de esta proteína estructural clave \[\[28\]\].

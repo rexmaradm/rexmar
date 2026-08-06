@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/coraz/"]
 
 Existe un sólido respaldo científico que explica por qué el agua de mar isotónica (Plasma de Quinton) es tan valorada en el apoyo a la salud del corazón y la recuperación post-infarto. Al aportar una matriz completa de más de 78 minerales en forma iónica altamente biodisponible, esta preparación actúa como un regulador natural de la función endotelial, la presión arterial y el metabolismo lipídico. ---
 
-{{ youtube(id="oX9bvsnvnMg") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/oX9bvsnvnMg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Protección Vascular y Prevención del Infarto de Miocardio
 
 - **Activación de la vía AMPK:** Estudios *in vivo* publicados en revistas como *Marine Drugs* han demostrado que el agua de mar profunda (DSW) modula favorablemente la presión arterial y exhibe efectos hipolipidémicos a través de la vía AMPK-ACC, un mecanismo clave para proteger el corazón y las arterias \[\[21\]\].

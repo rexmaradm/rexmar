@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/veji/"]
 
 La vejiga es un órgano muscular hueco cuya función óptima depende de un equilibrio mineral preciso, una hidratación sistémica adecuada y un epitelio vesical saludable. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes moduladores de la diuresis, la relajación del músculo liso y la protección de la mucosa urinaria, ofreciendo un apoyo natural y altamente efectivo. ---
 
-{{ youtube(id="GTpBcLqJ0NQ") }} ### 1. Diuresis Natural y Limpieza del Tracto Urinario
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/GTpBcLqJ0NQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> ### 1. Diuresis Natural y Limpieza del Tracto Urinario
 
 - **Estímulo de una diuresis saludable:** Estudios clínicos y reportes de terapia marina han documentado que la ingesta de agua de mar isotónica promueve una diuresis natural y eficiente, ayudando a limpiar las vías urinarias y a combatir afecciones como la oliguria (micción escasa) \[\[24\]\].
 - **Prevención de estancamiento:** El flujo urinario constante y bien hidratado, favorecido por los minerales del agua de mar, crea un entorno dinámico que reduce el riesgo de proliferación bacteriana en la vejiga \[\[24\]\].

@@ -14,7 +14,7 @@ aliases: ["home/formas-de-uso-y-tips/rosacea/"]
 
 **Existe evidencia emergente** sobre los beneficios de los minerales del Mar Muerto y la haloterapia (terapia con sal) para esta condición. Debajo de los video testimonios, los papers científicos
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="5INKJkdOn0M") }} </div></figure>## Papers científicos sobre rosácea y agua de mar: evidencia científica
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/5INKJkdOn0M" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre rosácea y agua de mar: evidencia científica
 
 La **rosácea** es una condición dermatológica inflamatoria crónica compleja. Aunque **no existen ensayos clínicos controlados que evalúen el agua de mar como tratamiento exclusivo** para la rosácea, sí hay **evidencia emergente** sobre los beneficios de los **minerales del Mar Muerto** y la **haloterapia** (terapia con sal seca) para esta condición.
 

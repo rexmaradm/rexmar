@@ -15,7 +15,7 @@ wp_statistics_words_count:
 aliases: ["home/formas-de-uso-y-tips/tbc/"]
 ---
 
-Descubrí la fascinante historia de los sanatorios marinos para tuberculosis, el uso del Plasma de Quinton por René Quinton, y los estudios científicos modernos sobre compuestos marinos contra Mycobacterium tuberculosis. Debajo de los testimonios, los papers científicos. {{ youtube(id="8wRFD8d-WD8") }} {{ youtube(id="ryeu23i77k0") }}
+Descubrí la fascinante historia de los sanatorios marinos para tuberculosis, el uso del Plasma de Quinton por René Quinton, y los estudios científicos modernos sobre compuestos marinos contra Mycobacterium tuberculosis. Debajo de los testimonios, los papers científicos. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/8wRFD8d-WD8" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/ryeu23i77k0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 # <span class="qwen-markdown-text">Agua de Mar y Tuberculosis: Historia de los Sanatorios Marinos y Ciencia Moderna</span>
 

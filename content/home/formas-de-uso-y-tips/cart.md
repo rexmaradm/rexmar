@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/cart/"]
 
 El cartílago articular es un tejido avascular que depende completamente de la difusión de nutrientes desde el líquido sinovial para mantenerse saludable, elástico y libre de dolor. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino (en sus presentaciones isotónica e hipertónica) actúan como potentes protectores de los condrocitos, estimulando la síntesis de colágeno tipo II y modulando la inflamación de forma natural. ---
 
-{{ youtube(id="ghTBONej8yM") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/ghTBONej8yM" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Protección de los Condrocitos y Síntesis de Colágeno Tipo II
 
 - **Estímulo de la proliferación celular:** Estudios *in vitro* han demostrado que los extractos minerales del agua de mar profunda promueven la viabilidad y proliferación de los condrocitos, las células responsables de mantener y reparar la matriz del cartílago \[\[1\]\].

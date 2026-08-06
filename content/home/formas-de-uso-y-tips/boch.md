@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/boch/"]
 
 Los bochornos o sofocos vasomotores son una de las manifestaciones más comunes de los cambios hormonales, caracterizados por una dilatación repentina de los vasos sanguíneos y una alteración en el centro termorregulador del hipotálamo. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino (en sus presentaciones isotónica e hipertónica) actúan como potentes moduladores del medio interno, ofreciendo un apoyo bioquímico natural para estabilizar el sistema nervioso autónomo y mitigar estos síntomas. ---
 
-{{ youtube(id="wxI8OjUwj0c") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/wxI8OjUwj0c" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Reposición Mineral y Calma del Sistema Nervioso Autónomo
 
 - **Magnesio iónico y regulación vascular:** El agua de mar profunda es una fuente excepcional de magnesio biodisponible, un mineral clave que actúa como relajante natural del sistema nervioso y ayuda a estabilizar la dilatación de los vasos sanguíneos, reduciendo la frecuencia e intensidad de los bochornos \[\[37\]\].

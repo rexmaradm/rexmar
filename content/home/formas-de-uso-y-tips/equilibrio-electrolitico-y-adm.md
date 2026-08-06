@@ -39,7 +39,7 @@ Rumble("play", {"video":"v6o7ube","div":"rumble_v6o7ube"});</script>---
 
 ## **Es posible adelgazar siguiendo éste método?**
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="7klw3gfSAbI") }} </div></figure>---
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/7klw3gfSAbI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>---
 
 ##   
   
@@ -63,11 +63,11 @@ Rumble("play", {"video":"v6oud1y","div":"rumble_v6oud1y"});</script>---
 
 ## **Venimos del mar**
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="znSxL3o99JI") }} </div></figure>---
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/znSxL3o99JI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>---
 
 ## **Somos 60% de líquido con sal**
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="JPLkocd5-Rk") }} </div></figure>---
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/JPLkocd5-Rk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>---
 
 ## **Cómo y hasta cuánta sal agregar para tratar el edema intracelular?**
 
@@ -99,7 +99,7 @@ Rumble("play", {"video":"v6oud1y","div":"rumble_v6oud1y"});</script>---
 
 ## **Solución al 85% de las enfermedades crónico degenerativas** 
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="lBr_pkwNPJc") }} </div></figure>---
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/lBr_pkwNPJc" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>---
 
 ## **Fibromialgia, por falta de sal?**
 

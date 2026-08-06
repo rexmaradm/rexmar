@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/hues/"]
 
 El sistema esquelético es una estructura dinámica que requiere un suministro constante de minerales para mantener su densidad, fuerza y capacidad de regeneración. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes estimuladores de la osteogénesis, mejorando la actividad de los osteoblastos y ofreciendo un apoyo bioquímico fundamental para la salud ósea a cualquier edad. ---
 
-{{ youtube(id="mfJkO9LTR9g") }} https://www.youtube.com/watch?v=LLcejD\_yBws {{ youtube(id="ZzAuzarIjao") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/mfJkO9LTR9g" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> https://www.youtube.com/watch?v=LLcejD\_yBws <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/ZzAuzarIjao" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Regeneración Ósea y Potencial contra la Osteoporosis
 
 - **Estímulo de la osteogénesis:** Estudios *in vivo* han demostrado el potencial regenerativo del agua de mar profunda sobre la formación de hueso, mostrando que puede ser aplicada terapéuticamente en la recuperación de la osteoporosis y la mejora de la densidad mineral ósea \[\[1\]\].

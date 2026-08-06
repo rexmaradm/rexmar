@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/ovar/"]
 
 Los ovarios son órganos endocrinos fundamentales que requieren un entorno extracelular perfectamente mineralizado e hidratado para regular el ciclo menstrual, desarrollar folículos saludables y mantener el equilibrio hormonal. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino (Plasma de Quinton) actúan como potentes moduladores de la salud reproductiva, ofreciendo un apoyo bioquímico natural para la función ovárica. ---
 
-{{ youtube(id="yOdmeVqie2Q") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/yOdmeVqie2Q" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Aporte de Minerales Esenciales para la Función Ovárica
 
 - **Magnesio, Zinc y Selenio biodisponibles:** El agua de mar profunda es una fuente natural rica en estos oligoelementos en forma iónica, los cuales son científicamente reconocidos como fundamentales para la regulación hormonal, la mejora del metabolismo de la glucosa en condiciones como el síndrome de ovario poliquístico (SOP) y la protección ovárica contra el estrés oxidativo \[\[19\]\], \[\[23\]\].

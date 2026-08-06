@@ -194,7 +194,7 @@ aliases: ["home/formas-de-uso-y-tips/agua-de-mar-y-silicio-para-antiparasitacion
 
 **Ver debajo Método oral, económico y práctico alternativo al método IntraVenoso IV**
 
-<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v2xplpu-agua-de-mar-y-silicio-para-desparasitacion-y-varias-dolencias-ms.html </div></figure>## **Método oral, económico y práctico, alternativo al método IntraVenoso IV** (por supuesto, no tan eficiente)
+<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v2xplpu-agua-de-mar-y-silicio-para-desparasitacion-y-varias-dolencias-ms.html## **Método oral, económico y práctico, alternativo al método IntraVenoso IV** (por supuesto, no tan eficiente)
 
 ## **Alternativa 1:**
 

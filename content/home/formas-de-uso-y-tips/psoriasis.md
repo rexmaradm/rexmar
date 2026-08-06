@@ -18,7 +18,7 @@ El **agua de mar** es considerada un **aliado natural** para el alivio de los s�
 - **Hidratación y regeneración:** Mejora la barrera cutánea y favorece la integridad de la piel, aunque es crucial **hidratar inmediatamente después** del baño para evitar la resequedad.
 - **Factor psicosocial:** La combinación con el **sol moderado** y la relajación en la playa reduce el estrés, un desencadenante común de los brotes.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="fetUdSnnt60") }} </div></figure>## Papers científicos sobre psoriasis tratada exclusivamente con agua/sal de mar:
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/fetUdSnnt60" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre psoriasis tratada exclusivamente con agua/sal de mar:
 
 ### 1. **Dead sea bath salt for the treatment of psoriasis vulgaris: a double-blind controlled study** (1997)
 

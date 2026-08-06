@@ -25,11 +25,11 @@ Bueno, aunque no las veamos ni las oigamos, algunos científicos piensan que est
 
 <iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6s1yyh/?pub=1wgpuu" width="640"></iframe>link al video completo <https://youtube.com/live/gDOvRcUcu0g?si=UjPZ6W37T71BnEb9>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="O8VytlJ5CIg") }} </div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="NVq1HbMijGI") }} </div></figure>Ver más información: <https://codigooculto.com/enigmas/resonancia-schumann-influencia-en-humanos/>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/O8VytlJ5CIg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/NVq1HbMijGI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Ver más información: <https://codigooculto.com/enigmas/resonancia-schumann-influencia-en-humanos/>
 
 ## Otros beneficios de la frecuencia Schumann
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="McQ_JWTs7pA") }} </div></figure>## **Generador RexMar Consulte Stock !!!**
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/McQ_JWTs7pA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## **Generador RexMar Consulte Stock !!!**
 
 **El generador de ondas Schumann RexMar incluye:**  
 1 - generador de ondas Schumann RexMar  

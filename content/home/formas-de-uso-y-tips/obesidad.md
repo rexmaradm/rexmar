@@ -100,7 +100,7 @@ aliases: ["home/formas-de-uso-y-tips/obesidad/"]
 
 El Agua de Mar es buena contra la obesidad y la diabetes y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría general
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="68l0OHrH-gE") }} </div></figure>𝗥𝗲𝗰𝗶𝗲𝗻𝘁𝗲𝗺𝗲𝗻𝘁𝗲, 𝗲𝗹 𝗮𝗴𝘂𝗮 𝗱𝗲 𝗺𝗮𝗿 (𝗔𝗱𝗠) 𝗵𝗮 𝗰𝗼𝗺𝗲𝗻𝘇𝗮𝗱𝗼 𝗮 𝗿𝗲𝗰𝗶𝗯𝗶𝗿 𝗺𝘂𝗰𝗵𝗮 𝗮𝘁𝗲𝗻𝗰𝗶ó𝗻 𝗽𝗮𝗿𝗮 𝗹𝗮 𝗶𝗻𝘁𝗲𝗿𝘃𝗲𝗻𝗰𝗶ó𝗻 𝘁𝗲𝗿𝗮𝗽é𝘂𝘁𝗶𝗰𝗮 𝗲𝗻 𝗮𝗹𝗴𝘂𝗻𝗮𝘀 𝗲𝗻𝗳𝗲𝗿𝗺𝗲𝗱𝗮𝗱𝗲𝘀. 𝗘𝗻 𝗲𝘀𝘁𝗲 𝗲𝘀𝘁𝘂𝗱𝗶𝗼, 𝘀𝗲 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝗿𝗼𝗻 𝗹𝗼𝘀 𝗲𝗳𝗲𝗰𝘁𝗼𝘀 𝗮𝗻𝘁𝗶𝗼𝗯𝗲𝘀𝗶𝗱𝗮𝗱 𝘆 𝗮𝗻𝘁𝗶𝗱𝗶𝗮𝗯é𝘁𝗶𝗰𝗼𝘀 𝗱𝗲 𝗔𝗱𝗠 𝗲𝗻 𝗿𝗮𝘁𝗼𝗻𝗲𝘀.
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/68l0OHrH-gE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>𝗥𝗲𝗰𝗶𝗲𝗻𝘁𝗲𝗺𝗲𝗻𝘁𝗲, 𝗲𝗹 𝗮𝗴𝘂𝗮 𝗱𝗲 𝗺𝗮𝗿 (𝗔𝗱𝗠) 𝗵𝗮 𝗰𝗼𝗺𝗲𝗻𝘇𝗮𝗱𝗼 𝗮 𝗿𝗲𝗰𝗶𝗯𝗶𝗿 𝗺𝘂𝗰𝗵𝗮 𝗮𝘁𝗲𝗻𝗰𝗶ó𝗻 𝗽𝗮𝗿𝗮 𝗹𝗮 𝗶𝗻𝘁𝗲𝗿𝘃𝗲𝗻𝗰𝗶ó𝗻 𝘁𝗲𝗿𝗮𝗽é𝘂𝘁𝗶𝗰𝗮 𝗲𝗻 𝗮𝗹𝗴𝘂𝗻𝗮𝘀 𝗲𝗻𝗳𝗲𝗿𝗺𝗲𝗱𝗮𝗱𝗲𝘀. 𝗘𝗻 𝗲𝘀𝘁𝗲 𝗲𝘀𝘁𝘂𝗱𝗶𝗼, 𝘀𝗲 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝗿𝗼𝗻 𝗹𝗼𝘀 𝗲𝗳𝗲𝗰𝘁𝗼𝘀 𝗮𝗻𝘁𝗶𝗼𝗯𝗲𝘀𝗶𝗱𝗮𝗱 𝘆 𝗮𝗻𝘁𝗶𝗱𝗶𝗮𝗯é𝘁𝗶𝗰𝗼𝘀 𝗱𝗲 𝗔𝗱𝗠 𝗲𝗻 𝗿𝗮𝘁𝗼𝗻𝗲𝘀.
 
 Fuente: <https://link.springer.com/article/10.1007/s10126-008-9171-0>
 

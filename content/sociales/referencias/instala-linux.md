@@ -22,7 +22,7 @@ Al momento de booteo bios o UEFI con el USB puesto, debe elegir Kingston Datatra
 <iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v735tks/?pub=1wgpuu" width="640"></iframe>  
   
 **Se incluyen distribuciones aptas para principiantes y para experimentados y distribuciones para equipos de bajos recursos también. Qué distribución usar? [aquí puede ver](https://linuxblog-io.translate.goog/best-linux-distro/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)**   
-**Qué distro elegir?** [pulse aquí]({{ youtube(id="LAUzWtIDyQM") }}  
+**Qué distro elegir?** [pulse aquí](<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/LAUzWtIDyQM" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>  
  **Las **distribuci****ones ISOs **que están incluidas son:**
 
 | Archivo | Tamaño |
@@ -61,7 +61,7 @@ Al momento de booteo bios o UEFI con el USB puesto, debe elegir Kingston Datatra
 
 ## Aquí explica en español como reiniciar W1ndow$ para que bootee desde el USB (si no puede encontrar la tecla F2 a F12 que ofrezca la opción en el arranque) e instalar linux en forma exclusiva (borrando todo el disco) 
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="7TeUlcoT9i4") }} </div></figure>## Aquí explica como instalar linux en una maquina con windows y mantener los 2 sistemas:  
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/7TeUlcoT9i4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Aquí explica como instalar linux en una maquina con windows y mantener los 2 sistemas:  
 
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="hnzl2WmtUz0") }} </div></figure>## Para oribar linux en linea, sin instalarlo: <https://distrosea.com/es/>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/hnzl2WmtUz0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Para oribar linux en linea, sin instalarlo: <https://distrosea.com/es/>

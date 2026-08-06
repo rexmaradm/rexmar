@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/uret1/"]
 
 La uretra es el conducto que permite la expulsión de la orina y su salud depende de un epitelio bien hidratado, un flujo urinario constante y un equilibrio microbiano adecuado. La literatura científica y la práctica clínica revelan que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes moduladores de la diuresis, la relajación del músculo liso y la protección de la mucosa uretral, ofreciendo un apoyo natural y altamente efectivo. ---
 
-{{ youtube(id="kpnuMgyk-cQ") }} {{ youtube(id="cis8soJF4Sc") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/kpnuMgyk-cQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/cis8soJF4Sc" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Diuresis Natural y Limpieza del Tracto Urinario
 
 - **Estímulo de una micción saludable:** Estudios clínicos y reportes de terapia marina han documentado que la ingesta de agua de mar isotónica promueve una diuresis natural y eficiente, ayudando a limpiar las vías urinarias y a combatir afecciones como la oliguria (micción escasa) y las infecciones del tracto urinario \[\[29\]\].

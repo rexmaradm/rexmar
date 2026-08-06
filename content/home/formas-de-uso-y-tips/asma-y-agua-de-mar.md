@@ -33,7 +33,7 @@ PUNTOS CLAVE
     - La seguridad es excelente en pacientes con diversas afecciones de las vías respiratorias superiores, incluidos niños, embarazadas y ancianos.
     - Los efectos secundarios son raros y consisten principalmente en una sensación de ardor en la nariz y la garganta y en rinorrea; no se han descrito efectos adversos graves.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="oD1fgW5Pw-M") }} </div></figure>## RESUMEN
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/oD1fgW5Pw-M" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## RESUMEN
 
 Según la mayoría de las sociedades europeas y americanas, el agua de mar —sola o combinada con otros preparados— tiene un lugar en el tratamiento de numerosas afecciones de las vías respiratorias superiores (VRS), como la rinosinusitis crónica, la rinitis alérgica, las infecciones agudas de las VRS y la recuperación posquirúrgica. Además, tanto su mecanismo de acción como estudios recientes apoyan su uso para prevenir infecciones víricas y bacterianas de las VRS. En este artículo se revisan los estudios sobre las soluciones salinas utilizadas tanto en personas sanas como en trastornos clínicos.
 
@@ -100,4 +100,4 @@ Las soluciones de irrigación nasal presentan beneficios en las VRS, tanto mecá
 
 INFORMACIÓN SOBRE EL ARTÍCULO
 
-<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">https://pubmed.ncbi.nlm.nih.gov/35621981 </div></figure>
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">https://pubmed.ncbi.nlm.nih.gov/35621981

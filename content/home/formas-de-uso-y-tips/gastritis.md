@@ -102,7 +102,7 @@ El agua de mar es muy buena para la Gastritis, el reflujo, la acidez, la hernia 
 
 Fuente: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096006>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="d8xn2uB5Yls") }} </div></figure>Otros papers científicos:
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/d8xn2uB5Yls" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Otros papers científicos:
 
 <https://www.koreascience.or.kr/article/JAKO200615643931121.page>
 

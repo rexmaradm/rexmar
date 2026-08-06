@@ -14,7 +14,7 @@ aliases: ["home/formas-de-uso-y-tips/asma/"]
 
 ## Situación actual de la investigación sobre asma y agua de mar
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="FOchuXL1eFs") }} </div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="nbwZJORo3yw") }} </div></figure>Lo que NO existe:
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/FOchuXL1eFs" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/nbwZJORo3yw" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Lo que NO existe:
 
 - **No hay ensayos clínicos controlados** que evalúen el agua de mar como monoterapia exclusiva para asma bronquial
 - **No hay estudios clínicos** sobre nebulización exclusiva con agua de mar natural para asma

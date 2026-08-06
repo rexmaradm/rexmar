@@ -18,7 +18,7 @@ La esclerosis múltiple (EM) es una enfermedad autoinmune crónica que afecta al
 
 NIH. Aunque no existen estudios que traten la EM *exclusivamente* con consumo de agua de mar, la ciencia ha explorado múltiples vías donde el agua de mar y sus componentes juegan un papel terapéutico prometedor. debajo del testimonio, los papers cientificos.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="Fl4jd-_QeTw") }} </div></figure>### 1. La Hipótesis de la Neurorrehabilitación con Agua de Mar (2025)
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/Fl4jd-_QeTw" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>### 1. La Hipótesis de la Neurorrehabilitación con Agua de Mar (2025)
 
 Un estudio teórico reciente propone un marco para el uso de la inmersión en agua de mar en la modulación de síntomas de la esclerosis múltiple. Los resultados sugieren que la inmersión en agua de mar puede proporcionar beneficios terapéuticos a través de mecanismos como la descarga asistida por flotabilidad, la presión hidrostática y la estimulación mineral a través de la piel.
 

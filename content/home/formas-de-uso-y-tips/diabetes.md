@@ -255,7 +255,7 @@ aliases: ["home/formas-de-uso-y-tips/diabetes/"]
 
 El Agua de Mar es buena para la diabetes y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría general
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="68l0OHrH-gE") }} </div></figure>Recientemente, el agua de mar (AdM) ha comenzado a recibir mucha atención para la intervención terapéutica en algunas enfermedades del estilo de vida. En este estudio, se investigaron los efectos **antiobesidad** y **antidiabéticos** de AdM en ratones. Los animales se dividieron aleatoriamente en dos grupos con seis animales: el grupo de control recibió agua del grifo; el grupo experimental fue tratado con AdM de dureza 1000 durante 84 días.   
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/68l0OHrH-gE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Recientemente, el agua de mar (AdM) ha comenzado a recibir mucha atención para la intervención terapéutica en algunas enfermedades del estilo de vida. En este estudio, se investigaron los efectos **antiobesidad** y **antidiabéticos** de AdM en ratones. Los animales se dividieron aleatoriamente en dos grupos con seis animales: el grupo de control recibió agua del grifo; el grupo experimental fue tratado con AdM de dureza 1000 durante 84 días.   
   
 La ganancia de peso corporal después de 84 días en el grupo alimentado con AdM se redujo en un 7 % en comparación con el grupo de control. Los niveles de glucosa en plasma en los ratones alimentados con AdM se redujeron sustancialmente en un 35,4 %, en comparación con los ratones de control.   
   
@@ -368,6 +368,6 @@ https://pubmed.ncbi.nlm.nih.gov/28850074/
 
 <https://www.liebertpub.com/doi/abs/10.1089/jmf.2019.4658>
 
-<{{ youtube(id="M2N-GIa2XTg") }}>
+<<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/M2N-GIa2XTg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>>
 
 [\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

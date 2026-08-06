@@ -15,7 +15,7 @@ wp_statistics_words_count:
 aliases: ["home/formas-de-uso-y-tips/migra/"]
 ---
 
-Descubrí los estudios científicos sobre cómo el agua de mar profunda rica en magnesio puede prevenir migrañas, el papel del calcio y magnesio en mujeres con migrañas, y los mecanismos antiinflamatorios de los minerales marinos. Debajo de los testimonios en video, los papers científicos. {{ youtube(id="8b16JYhfJ3k") }} {{ youtube(id="KM0XWfGzo5U") }}
+Descubrí los estudios científicos sobre cómo el agua de mar profunda rica en magnesio puede prevenir migrañas, el papel del calcio y magnesio en mujeres con migrañas, y los mecanismos antiinflamatorios de los minerales marinos. Debajo de los testimonios en video, los papers científicos. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/8b16JYhfJ3k" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/KM0XWfGzo5U" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 # <span class="qwen-markdown-text" data-spm-anchor-id="a2ty_o01.29997173.0.i6.721555fbFO8gN2">Agua de Mar y Migrañas: Estudios Científicos sobre Magnesio, Calcio y Prevención</span>
 

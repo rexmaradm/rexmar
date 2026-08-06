@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/cere/"]
 
 El cerebro es un órgano que demanda un equilibrio mineral y una hidratación extracelular precisos para mantener su función óptima. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes moduladores de la neuroprotección, la plasticidad sináptica y la homeostasis cerebral, ofreciendo un apoyo natural y altamente efectivo para la salud cognitiva. ---
 
-{{ youtube(id="2u0FhMRdgOk") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/2u0FhMRdgOk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Neuroprotección y Mejora de la Función Cognitiva
 
 - **Reducción de la fosforilación de la proteína Tau:** Estudios recientes han demostrado que el agua de mar profunda (DSW) alivia la fosforilación de la proteína Tau y el deterioro cognitivo a través de la vía de señalización PI3K/Akt/GSK-3β, un mecanismo clave en la protección de las neuronas y la preservación de la memoria \[\[34\]\].

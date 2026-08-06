@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/torc/"]
 
 Existe un sólido respaldo en la literatura científica que explica por qué el agua de mar isotónica (Plasma de Quinton) y el agua de mar profunda (DSW) son excelentes coadyuvantes en la recuperación de torceduras, esguinces y lesiones de tejidos blandos en manos y pies. Su acción se centra en la potente reducción de la inflamación, la aceleración de la reparación de tendones y ligamentos, y el aporte de minerales biodisponibles para la regeneración articular. ---
 
-{{ youtube(id="aNRQSwHUioY") }} ### 1. Potente Acción Antiinflamatoria en Tejidos Lesionados
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/aNRQSwHUioY" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> ### 1. Potente Acción Antiinflamatoria en Tejidos Lesionados
 
 - **Inhibición del inflamasoma NLRP3:** Estudios recientes de 2024 han demostrado que el agua de mar profunda, enriquecida con magnesio, inhibe significativamente la activación del inflamasoma NLRP3, un mecanismo clave que dispara la inflamación y el dolor en los tejidos blandos tras una lesión como una torcedura \[\[1\]\].
 - **Reducción del edema:** Al modular estas vías inflamatorias, el plasma marino ayuda a controlar la hinchazón (edema) de forma natural, permitiendo que el flujo sanguíneo llegue al área dañada para iniciar el proceso de reparación sin la congestión excesiva \[\[20\]\].

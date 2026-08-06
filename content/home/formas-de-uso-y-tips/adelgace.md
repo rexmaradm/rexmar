@@ -16,6 +16,6 @@ En [éstos estudios](/formas-de-uso-y-tips/diabetes/) se comprobó que el agua d
   
 Además también se comprobó en el mismo estudio que el AdM reduce los niveles de [glucosa](https://search.brave.com/search?q=glucosa+definicion&source=web&conversation=093ecba56b7b7f1624d0a5668de86533621b&summary=1) en plasma en un 35,4 %
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="68l0OHrH-gE") }} </div></figure>## **Por todo esto.....comienza con el agua de mar RexMar a recuperar tu salud !!**
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/68l0OHrH-gE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## **Por todo esto.....comienza con el agua de mar RexMar a recuperar tu salud !!**
 
 Fuente: [/formas-de-uso-y-tips/diabetes/](/formas-de-uso-y-tips/diabetes/)

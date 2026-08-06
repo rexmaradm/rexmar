@@ -255,7 +255,7 @@ aliases: ["home/formas-de-uso-y-tips/enema/"]
 
 Si Ud. no va **todos** los días al baño al menos 1 vez, debe entender la importancia de tener el cólon limpio, en el siguiente vídeo el dr. Martí Bosch nos explica.
 
-<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v2zptbk-colon-limpio-dr.-marti-bosch.html?mref=1wgpuu&amp;mc=1as4y </div></figure>El enema consiste en la introducción de una sustancia líquida Isotónica o Hipertónica con Agua de Mar RexMar, en la parte baja del colon a través del recto. Antes de aplicarte el enema, consulta con tu médico/terapeuta/chamán para determinar si es una buena alternativa para ti y si es el tipo de enema que debes utilizar. Es muy útil en casos de estreñimiento crónico y también en caso que la persona no pueda asimilar los minerales y oligoelementos del agua de mar RexMar por otra vía.
+<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v2zptbk-colon-limpio-dr.-marti-bosch.html?mref=1wgpuu&amp;mc=1as4yEl enema consiste en la introducción de una sustancia líquida Isotónica o Hipertónica con Agua de Mar RexMar, en la parte baja del colon a través del recto. Antes de aplicarte el enema, consulta con tu médico/terapeuta/chamán para determinar si es una buena alternativa para ti y si es el tipo de enema que debes utilizar. Es muy útil en casos de estreñimiento crónico y también en caso que la persona no pueda asimilar los minerales y oligoelementos del agua de mar RexMar por otra vía.
 
 ## Requisitos indispensables
 

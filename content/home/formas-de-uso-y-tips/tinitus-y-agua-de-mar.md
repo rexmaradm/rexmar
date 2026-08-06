@@ -16,4 +16,4 @@ aliases: ["home/formas-de-uso-y-tips/tinitus-y-agua-de-mar/"]
 Conferencia de Josep Pamies con Gregorio Placeres  
 conferencia completa: <https://dulcerevolucion.tv/video/autismo-recuperable-gregorio-placeres-josep-pamies-2023/>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="SMTMJd58cZA") }} </div></figure>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/SMTMJd58cZA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>

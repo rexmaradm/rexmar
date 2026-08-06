@@ -26,7 +26,10 @@ www.allaboutbirds.org. Sin embargo, encontré aplicaciones terapéuticas fascina
     debajo de los testimonio/s los papers científicos
 8. 
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="QcHB6cGyDZI") }} </div></figure>## Agua de Mar y Aves: Aplicaciones Terapéuticas Basadas en la Ciencia
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/cHB6cGyDZI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+
+
 
 Las aves tienen una relación compleja con el agua de mar. Mientras que las aves marinas han desarrollado mecanismos especializados para procesar el agua salada, **la mayoría de las aves NO deben beber agua de mar Nunca permita que su ave beba agua de mar** **pura** (excepto aves marinas adaptadas). El agua de mar tiene una salinidad de aproximadamente 3.5%, y su consumo puede causar:
 

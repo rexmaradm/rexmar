@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/esto/"]
 
 El estómago es un órgano dinámico que requiere un equilibrio preciso entre la producción de ácido y la protección de su propio tejido. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes protectores de la mucosa gástrica, ofreciendo propiedades antiinflamatorias, antiulcerosas y de regeneración celular. ---
 
-{{ youtube(id="VuFBE40tX54") }} {{ youtube(id="pN5DvhT5Zqg") }} {{ youtube(id="2ugOmAUBINk") }} 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/VuFBE40tX54" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/pN5DvhT5Zqg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/2ugOmAUBINk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> 
 ### 1. Propiedades Antiulcerosas y Protección de la Mucosa
 
 - **Protección contra lesiones gástricas:** Estudios *in vivo* han demostrado que el agua de mar profunda protege activamente contra las lesiones de la mucosa gástrica inducidas por agentes agresores, reduciendo significativamente el área de ulceración y la inflamación local \[\[5\]\].

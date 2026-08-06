@@ -19,7 +19,7 @@ aliases: ["home/formas-de-uso-y-tips/bron/"]
 
 Los bronquios son las vías aéreas fundamentales que llevan el oxígeno a los pulmones, y su salud depende de una mucosa bien hidratada y un sistema inmunológico local equilibrado. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton), tanto en uso sistémico (bebida) como en aplicaciones respiratorias, actúan como potentes moduladores de la inflamación bronquial, mejorando el metabolismo respiratorio y la función del epitelio. ---
 
-{{ youtube(id="0yuQ3jEvuFc") }} {{ youtube(id="WWv8hPZ5XQI") }} https://www.youtube.com/watch?v=Tty4E8\_ImmU 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/0yuQ3jEvuFc" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/WWv8hPZ5XQI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> https://www.youtube.com/watch?v=Tty4E8\_ImmU 
 ### 1. Modulación de la Inflamación en el Epitelio Bronquial
 
 - **Reducción de quimiocinas inflamatorias:** Estudios *in vitro* han demostrado que la exposición a soluciones derivadas del agua de mar reduce significativamente la expresión de quimiocinas proinflamatorias (como IL-8 y RANTES) en células del epitelio bronquial humano, gracias a la inhibición de la vía de señalización NF-κB \[\[28\]\].

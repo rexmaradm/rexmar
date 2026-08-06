@@ -21,7 +21,7 @@ En la medicina moderna, el sistema linfático, el plasma sanguíneo y el líquid
 
 Después de los testimonios, una recopilación de artículos científicos y estudios que avalan los efectos del agua de mar (y el Plasma de Quinton) en los fluidos internos, el sistema inmunitario y la linfa
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">{{ youtube(id="3u9_Gd58iFk") }} </div></figure>### 1. "Marine Therapy and Its Healing Properties" (Terapia Marina y sus Propiedades Curativas)
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/3u9_Gd58iFk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>### 1. "Marine Therapy and Its Healing Properties" (Terapia Marina y sus Propiedades Curativas)
 
 **Resumen:** Este estudio, publicado en la base de datos PubMed, analiza los efectos de las soluciones isotónicas e hipertónicas de Quinton (agua de mar) en las células mononucleares de la sangre periférica, demostrando su impacto directo en el sistema inmunológico y los fluidos internos.
 

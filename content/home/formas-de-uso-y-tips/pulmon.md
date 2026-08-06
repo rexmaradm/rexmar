@@ -15,7 +15,7 @@ wp_statistics_words_count:
 aliases: ["home/formas-de-uso-y-tips/pulmon/"]
 ---
 
-Descubrí los estudios científicos que demuestran cómo los aerosoles de agua de marina contienen surfactante pulmonar, el magnesio marino es broncodilatador, y la estancia en el Mar Muerto mejora la función pulmonar en asma. Debajo de los video testimonios, los papers científicos. {{ youtube(id="WWv8hPZ5XQI") }} {{ youtube(id="7gk4M2pxBhE") }} https://www.youtube.com/watch?v=Tty4E8\_ImmU
+Descubrí los estudios científicos que demuestran cómo los aerosoles de agua de marina contienen surfactante pulmonar, el magnesio marino es broncodilatador, y la estancia en el Mar Muerto mejora la función pulmonar en asma. Debajo de los video testimonios, los papers científicos. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/WWv8hPZ5XQI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/7gk4M2pxBhE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> https://www.youtube.com/watch?v=Tty4E8\_ImmU
 
 # <span class="qwen-markdown-text" data-spm-anchor-id="a2ty_o01.29997173.0.i42.721555fbhi8LEn">Agua de Mar y Pulmones: Estudios Científicos sobre Asma, EPOC y Salud Respiratoria</span>
 
