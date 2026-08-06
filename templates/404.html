@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %}Página no encontrada - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<div style="text-align: center; margin-bottom: 40px;">
+    <h1 style="font-size: 2em; color: #93c5fd;">🔍 Página no encontrada</h1>
+    <p style="font-size: 1.2em; margin-top: 10px;">
+        El sitio fue reestructurado. Si venís del sitio anterior,
+        usá el <strong>buscador de arriba</strong> para encontrar lo que buscás.
+    </p>
+    <p style="font-size: 1.3em; margin-top: 20px;">
+        👉 <a href="/home/formas-de-uso-y-tips/" style="color: #ffffff; background-color: #2563eb; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold;">
+            Formas de Uso y Tips
+        </a>
+        👈
+    </p>
+</div>
+
+<div class="article-list">
+    <h2>📋 Secciones del sitio</h2>
+
+    {% set root = get_section(path="_index.md") %}
+    {% for s1_path in root.subsections %}
+        {% set s1 = get_section(path=s1_path) %}
+        <h3 style="margin-top:25px; color:#93c5fd;"><a href="{{ s1.permalink }}">{{ s1.title }}</a></h3>
+        {% for page in s1.pages %}
+            <p style="margin-left:20px;"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+        {% endfor %}
+    {% endfor %}
+</div>
+{% endblock content %}
