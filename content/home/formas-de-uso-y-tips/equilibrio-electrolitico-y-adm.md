@@ -48,13 +48,9 @@ Rumble("play", {"video":"v6o7ube","div":"rumble_v6o7ube"});</script>---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/7klw3gfSAbI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>---
 
-##   
-  
-**Cómo y porqué ir subiendo despacio el % de sal según el dr. David Duarte**  
+## **Cómo y porqué ir subiendo despacio el % de sal según el dr. David Duarte**  
 
-
-<script>!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src="https://rumble.com/embedJS/u1wgpuu"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, "script", "Rumble");</script><div id="rumble_v6oud1y"></div><script>
-Rumble("play", {"video":"v6oud1y","div":"rumble_v6oud1y"});</script>---
+<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v6oud1y/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe>
 
 ## **A partir de cuántos gramos de sal es terapéutico ?**
 
