@@ -6,4 +6,4 @@ aliases = ["/bajarinf/"]
 
 # Bajar Informe
 
-<a href="https://drive.proton.me/urls/DP5H7V3SZR#jXTkAKFmHBzA"><h2>Bajar Informe</h2></a>
+<a href="https://drive.google.com/file/d/12gvnsNWqejycZ_kgl6xEQI8yf9Mg0QrK/view?usp=drive_link"><h2>Bajar Informe</h2></a>
