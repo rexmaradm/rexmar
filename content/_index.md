@@ -5,16 +5,30 @@ aliases = ["/wp/home/formas-de-uso-y-tips/de/"]
 
 Rex Mar Agua de Mar
 
-<table class="has-fixed-layout">
-<tbody>
-<tr>
-<td><a href="/sociales/donaciones/"><img decoding="async" width="140" height="84" style="width:140px;" src="/images/compraanimales.png" alt="Donaciones" /></a></td>
-<td><a href="/home/formas-de-uso-y-tips/calculadora-isotonica/"><img decoding="async" width="140" height="84" src="/images/calculadora.png" alt="Calculadora Isotónica gratuita" /></a></td>
-<td><a href="/home/formas-de-uso-y-tips/equilibrio-electrolitico-y-adm/"><img decoding="async" width="150" height="86" style="width:150px;" src="/images/porqueisotonizar.png" alt="Por qué isotonizar" /></a></td>
-<td><a href="/bajarinf/" target="_blank"><img decoding="async" width="150" style="width:150px;" src="/images/bajarinforme.png" alt="Bajar informe" /></a></td>
-</tr>
-</tbody>
-</table>
+<style>
+.rexmar-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  width: 100%;
+}
+.rexmar-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+@media (max-width: 600px) {
+  .rexmar-grid { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+
+<div class="rexmar-grid">
+  <a href="/sociales/donaciones/"><img decoding="async" src="/images/compraanimales.png" alt="Donaciones" /></a>
+  <a href="/home/formas-de-uso-y-tips/calculadora-isotonica/"><img decoding="async" src="/images/calculadora.png" alt="Calculadora Isotónica gratuita" /></a>
+  <a href="/home/formas-de-uso-y-tips/equilibrio-electrolitico-y-adm/"><img decoding="async" src="/images/porqueisotonizar.png" alt="Por qué isotonizar" /></a>
+  <a href="/bajarinf/" target="_blank"><img decoding="async" src="/images/bajarinforme.png" alt="Bajar informe" /></a>
+</div>
 
 Agua de Mar RexMar es una fuente natural de vitaminas, minerales, oligoelementos, ácidos nucleicos, aminoácidos esenciales, proteínas, grasas, hidratos de carbono, zooplancton y fitoplancton.
 
@@ -46,4 +60,5 @@ Redes Sociales
 
 Seguinos en nuestras redes:
 
-[Facebook](https://www.facebook.com/rexmar.adm) | [Rumble](https://rumble.com/c/c-2565560) | [Telegram](https://t.me/RexMarAdMPeru) | [Twitter](https://twitter.com/Rexmar_adm) | [Instagram](https://www.instagram.com/rexmar.adm) | [TikTok](https://www.tiktok.com/@rexmar.adm) | [YouTube](https://www.youtube.com/@RexMarAguadeMarPeru) | [Grupo FB](https://www.facebook.com/groups/346911354063842/)
+[Facebook](https://www.facebook.com/rexmar.adm) | [Rumble](https://rumble.com/c/c-2565560) | [Telegram](https://t.me/RexMarAdMPeru) | [Twitter](https://twitter.com/Rexmar_adm) | [Instagram](https://www.instagram.com/rexmar.adm) | [TikTok](https://www.tiktok.com/@rexmar.adm) | [YouTube](https://www.youtube.com/@RexMarAguadeMarPeru) | [Grupo FB](https://www.facebook.com/groups/346911354063842/) | [Grupo TG](ihttps://t.me/RexMarAdMPeru)
+
