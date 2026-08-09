@@ -62,3 +62,9 @@ Seguinos en nuestras redes:
 
 [Facebook](https://www.facebook.com/rexmar.adm) | [Rumble](https://rumble.com/c/c-2565560) | [Telegram](https://t.me/RexMarAdMPeru) | [Twitter](https://twitter.com/Rexmar_adm) | [Instagram](https://www.instagram.com/rexmar.adm) | [TikTok](https://www.tiktok.com/@rexmar.adm) | [YouTube](https://www.youtube.com/@RexMarAguadeMarPeru) | [Grupo FB](https://www.facebook.com/groups/346911354063842/) | [Grupo TG](ihttps://t.me/RexMarAdMPeru)
 
+<script src="https://cdn.responsivevoice.org/sdk/latest/responsivevoice.js"></script>
+<script>
+responsiveVoice.init({
+    "apiKey": "1byTn78k"
+});
+</script>
