@@ -14,7 +14,7 @@ aliases: ["home/formas-de-uso-y-tips/desnutricion/"]
 
 La desnutrición requiere aporte de **calorías, proteínas y macronutrientes** que el agua de mar no contiene en cantidades significativas. Sin embargo, **SÍ existe evidencia científica sólida** sobre el uso del agua de mar como **complemento** en el tratamiento de la desnutrición, especialmente para corregir déficits de micronutrientes y minerales.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/s653D6RDVRA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/LcfxMMDo7Yo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/znzLq6gekQQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre desnutrición y agua de mar: evidencia científica
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/s653D6RDVRA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/LcfxMMDo7Yo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/znzLq6gekQQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre desnutrición y agua de mar: evidencia científica
 
 La **desnutrición** es una condición compleja que requiere aporte de calorías, proteínas y macronutrientes. Aunque **no es posible tratar la desnutrición exclusivamente con agua de mar** (porque no contiene calorías ni proteínas significativas), sí hay evidencia científica sólida sobre el uso del agua de mar como **complemento efectivo** para corregir déficits de micronutrientes y minerales en pacientes desnutridos.
 
@@ -125,7 +125,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 
 El agua de mar contiene minerales esenciales que frecuentemente están deficientes en la desnutrición:
 
-<figure class="wp-block-table">| Mineral | Concentración en agua de mar | Función en desnutrición | Síntomas de deficiencia |
+| Mineral | Concentración en agua de mar | Función en desnutrición | Síntomas de deficiencia |
 |---|---|---|---|
 | **Magnesio** | 1,272 mg/L | Metabolismo energético, síntesis proteica | Fatiga, debilidad muscular, pérdida de apetito |
 | **Zinc** | 0.03 mg/L | Crecimiento, función inmune, apetito | Retraso en crecimiento, diarrea, pérdida de apetito |
@@ -135,7 +135,7 @@ El agua de mar contiene minerales esenciales que frecuentemente están deficient
 | **Calcio** | 400 mg/L | Desarrollo óseo, función muscular | Raquitismo, osteoporosis, calambres |
 | **Potasio** | 380 mg/L | Función celular, equilibrio hídrico | Debilidad, arritmias, fatiga |
 
-</figure>---
+---
 
 ## Protocolo de uso basado en evidencia científica
 

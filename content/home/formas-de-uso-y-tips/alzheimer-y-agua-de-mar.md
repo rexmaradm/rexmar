@@ -131,7 +131,7 @@ footnotes:
 aliases: ["home/formas-de-uso-y-tips/alzheimer-y-agua-de-mar/"]
 ---
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/4Fkri0Yvg_k" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Papers Científicos
+<div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/4Fkri0Yvg_k" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Papers Científicos
 
 http://hidromed.org/hm/images/pdf/0378.BSEHM%202015\_30(1)37-55\_Flores-Calle\_Agua.pdf
 

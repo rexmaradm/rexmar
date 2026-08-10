@@ -132,14 +132,14 @@ Basándome en la evidencia disponible, los mecanismos principales son:
 
 ## Comparación entre diferentes intervenciones marinas para rosácea
 
-<figure class="wp-block-table">| Intervención | Composición | Evidencia para rosácea | Mecanismo principal | Disponibilidad |
+| Intervención | Composición | Evidencia para rosácea | Mecanismo principal | Disponibilidad |
 |---|---|---|---|---|
 | **Minerales del Mar Muerto (tópico)** | Alta concentración de magnesio (40-58 g/kg), calcio, potasio, zinc | Emergente (revisiones y estudios de caso) | Antiinflamatorio + mejora barrera cutánea | Alta (productos comerciales) |
 | **Haloterapia (sal seca)** | Micro-partículas de sal | Limitada (evidencia anecdótica) | Antiinflamatorio + antibacteriano | Media (centros especializados) |
 | **Agua de mar natural** | Composición variable (3-3.5% salinidad) | Muy limitada (sin estudios específicos) | Antiinflamatorio + calmante | Alta (pero requiere acceso al mar) |
 | **Cremas enriquecidas con Mar Muerto** | Minerales del Mar Muerto en base cremosa | Moderada (estudio clínico) | Mejora severidad de piel + hidratación | Alta (productos comerciales) |
 
-</figure>---
+---
 
 ## Protocolo de uso basado en evidencia disponible
 

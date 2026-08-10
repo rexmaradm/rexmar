@@ -22,7 +22,7 @@ aliases: ["home/formas-de-uso-y-tips/perros/"]
 6. **Minerales marinos** para artritis canina  
     debajo de lo/s testimono/s los papers científicos.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/kEGB50FQDuk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/iT2oPPFl4rA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/n__mi_y2AoQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Agua de Mar y Perros: Aplicaciones Terapéuticas Basadas en la Ciencia
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/kEGB50FQDuk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/iT2oPPFl4rA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/n__mi_y2AoQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Agua de Mar y Perros: Aplicaciones Terapéuticas Basadas en la Ciencia
 
 Los perros tienen una relación compleja con el agua de mar. Aunque muchos disfrutan nadando en el océano, **el consumo regular de agua de mar **pura**** **es peligroso** y puede causar intoxicación por sal, deshidratación, vómitos y diarrea
 
@@ -474,7 +474,7 @@ Aunque los estudios principales se realizaron en modelos celulares y animales de
 
 ## Resumen de Aplicaciones Terapéuticas
 
-<figure class="wp-block-table">| **Terapia** | **Aplicación** | **Beneficio Principal** | **Fuente** |
+| **Terapia** | **Aplicación** | **Beneficio Principal** | **Fuente** |
 |---|---|---|---|
 | Baños de agua salada | Heridas menores, problemas de piel | Prevención de infecciones, alivio de irritación | www.bluecross.org.uk |
 | Plasma Marino Quinton | Artritis, remineralización | 78 minerales y oligoelementos | quintonmedical.com |
@@ -484,7 +484,7 @@ Aunque los estudios principales se realizaron en modelos celulares y animales de
 | Minerales marinos | Artritis canina | Reducción de inflamación articular | www.dvm360.com |
 | Suplementos de algas marinas | Salud general | Propiedades antiinflamatorias, apoyo tiroideo | seaweedfordogs.com |
 
-</figure>---
+---
 
 ## Recomendaciones Finales
 

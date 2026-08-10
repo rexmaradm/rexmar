@@ -557,7 +557,7 @@ bvajournals.onlinelibrary.wiley.com. Esto generalmente se realiza en forma de un
 
 ## Resumen de Aplicaciones Terapéuticas
 
-<figure class="wp-block-table">| **Terapia** | **Aplicación** | **Beneficio Principal** | **Fuente** |
+| **Terapia** | **Aplicación** | **Beneficio Principal** | **Fuente** |
 |---|---|---|---|
 | Glándulas de sal | Aves marinas | Desalinización natural del agua de mar | ResearchGate |
 | Baños de agua salada | Heridas menores, problemas de piel/plumas | Prevención de infecciones, limpieza | www.aavac.com.au |
@@ -569,7 +569,7 @@ bvajournals.onlinelibrary.wiley.com. Esto generalmente se realiza en forma de un
 | Agua de mar profunda (DSW) | Salud general | Minerales beneficiosos | 美国卫生与公共服务部NIH |
 | Talasoterapia | Baños terapéuticos | Reducción de inflamación | www.thalasso-saintmalo.com |
 
-</figure>---
+---
 
 ## Recomendaciones Finales
 

@@ -12,7 +12,7 @@ classic-editor-remember:
 aliases: ["home/formas-de-uso-y-tips/algas/"]
 ---
 
-<figure class="wp-block-audio"><audio controls="" src="/wp-content/uploads/2025/11/nuevaExplicacionAlgas_PP.mp3"></audio></figure>### Resúmen: 
+<audio controls="" src="/wp-content/uploads/2025/11/nuevaExplicacionAlgas_PP.mp3"></audio>### Resúmen: 
 
 **El agua de mar (AdM) como está viva y alberga vida, puede ser que sigan creciendo algas, esta VIVA al contrario de otras bebidas cómo las supuestas hidratantes (Gat0rade, etc) que son agua MUERTA..... Ud, que prefiere, agua VIVA o MUERTA ?....**
 
@@ -129,7 +129,7 @@ Además de los elementos principales, las algas requieren pequeñas cantidades d
 
 ### Resumen de los elementos principales en las algas:
 
-<figure class="wp-block-table">| **Elemento** | **Función principal** | **Fuente en el mar** |
+| **Elemento** | **Función principal** | **Fuente en el mar** |
 |---|---|---|
 | Carbono (C) | Base de compuestos orgánicos | CO₂ disuelto en el agua |
 | Oxígeno (O) | Fotosíntesis y respiración | Agua (H₂O) y aire disuelto |
@@ -143,7 +143,7 @@ Además de los elementos principales, las algas requieren pequeñas cantidades d
 | Calcio (Ca) | Estructura celular | Carbonatos y sales de calcio |
 | Silicio (Si) | Caparazones de diatomeas | Silicatos |
 
-</figure>---
+---
 
 ### ¿Cómo obtienen estos elementos las algas?
 

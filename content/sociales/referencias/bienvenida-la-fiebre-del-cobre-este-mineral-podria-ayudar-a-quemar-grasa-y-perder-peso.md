@@ -27,7 +27,7 @@ aliases: ["sociales/referencias/bienvenida-la-fiebre-del-cobre-este-mineral-podr
 
 El cobre tendría un rol clave para quemar grasa. Conoce los resultados de un estudio científico.
 
-<figure class="wp-block-image">![](https://www.telemundo.com/sites/nbcutelemundo/files/styles/fit-760w/public/images/promo/article/2016/06/16/variedad-de-nueces-y-semillas.jpg?ramen_itok=iqwQftIcTf)</figure>Jun. 16, 2016, 1:30 PM -05 / Actualizado Jun. 16, 2016, 1:56 PM -05
+![](https://www.telemundo.com/sites/nbcutelemundo/files/styles/fit-760w/public/images/promo/article/2016/06/16/variedad-de-nueces-y-semillas.jpg?ramen_itok=iqwQftIcTf)Jun. 16, 2016, 1:30 PM -05 / Actualizado Jun. 16, 2016, 1:56 PM -05
 
 Además de estar súper de moda en la decoración, el cobre es un mineral importante para la salud. Recientemente, se ha descubierto un nuevo beneficio de consumir alimentos ricos en este nutriente: podría incrementar la quema de grasa en el cuerpo.
 

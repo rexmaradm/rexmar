@@ -238,7 +238,7 @@ y sumado a estas importantes caracteristicas, estan las ya concidas hace cientos
 
 ### ¿como medir el contorno del cuello de su consentido animal? Es fácil, si no tiene un centímetro, toma un hilo o una tira de papel y le da la vuelta a su cuello, marquelo, luego lo mide con un centímetro o una regla.
 
-<figure class="wp-block-image">![](https://rexcobre.files.wordpress.com/2021/06/como-medir.jpeg?w=352)</figure>### Estas son sus propiedades 
+![](https://rexcobre.files.wordpress.com/2021/06/como-medir.jpeg)### Estas son sus propiedades 
 
 - Podría mejorar la circulación
 - Podría reducir la inflamación
@@ -265,4 +265,4 @@ y sumado a estas importantes caracteristicas, estan las ya concidas hace cientos
 - Ayuda a combatir la fatiga y el letargo, la inquietud y la no aceptación de uno mismo.
 - Tiene el poder de fomentar el optimismo y la armonía.
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2022/12/animales4-1.jpeg?w=1024)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2022/12/animales3-1.jpeg?w=768)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2022/12/animales2-2.jpeg?w=768)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2022/12/animales1-1.jpeg?w=768)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/01/img_20230103_153256.jpg?w=1024)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/01/img_20230103_153241.jpg?w=1024)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/01/durmiendoquillainti.jpg?w=1024)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/01/img_20230103_153145.jpg?w=768)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/01/img_20230103_153140.jpg?w=768)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2023/01/img_20230103_153044.jpg?w=768)</figure></figure>
+![](/wp-content/uploads/2022/12/animales4-1.jpeg)![](/wp-content/uploads/2022/12/animales3-1.jpeg)![](/wp-content/uploads/2022/12/animales2-2.jpeg)![](/wp-content/uploads/2022/12/animales1-1.jpeg)![](/wp-content/uploads/2023/01/img_20230103_153256.jpg)![](/wp-content/uploads/2023/01/img_20230103_153241.jpg)![](/wp-content/uploads/2023/01/durmiendoquillainti.jpg)![](/wp-content/uploads/2023/01/img_20230103_153145.jpg)![](/wp-content/uploads/2023/01/img_20230103_153140.jpg)![](/wp-content/uploads/2023/01/img_20230103_153044.jpg)

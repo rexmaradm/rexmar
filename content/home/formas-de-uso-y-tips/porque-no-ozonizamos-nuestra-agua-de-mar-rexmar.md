@@ -31,14 +31,14 @@ O₃ + Br⁻ → HOBr / OBr⁻ (ácido hipobromoso / hipobromito)
 
 ## 📉 ¿Qué propiedades cambian?
 
-<figure class="wp-block-table">| Propiedad | Cambio tras ozonización |
+| Propiedad | Cambio tras ozonización |
 | **Potencial oxidante** | Se mantiene, pero cambia de O₃ (2.07 V) a HOBr (1.59 V) \[\[19\]\] |
 | **pH** | Puede disminuir ligeramente durante el proceso \[\[13\]\] |
 | **Materia orgánica** | Se oxida parcialmente; puede formarse bromoformo (CHBr₃) si hay compuestos orgánicos naturales \[\[10\]\] |
 | **Amoníaco presente** | Reacciona con HOBr formando bromaminas, reduciendo el TRO disponible \[\[10\]\] |
 | **Estabilidad del desinfectante** | Aumenta: los TRO persisten mucho más que el ozono puro \[\[16\]\] |
 
-</figure>## 🦠 ¿"Qué se muere"? (Efecto microbiológico)
+## 🦠 ¿"Qué se muere"? (Efecto microbiológico)
 
 ¡Sí, se mueren microorganismos! Pero con matices:
 

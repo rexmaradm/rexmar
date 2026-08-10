@@ -155,7 +155,7 @@ Se recomienda tomar agua de mar en ayunas, para favorecer la entrada en contacto
 
 1. 
 
-<figure class="wp-block-image">![](https://secure.gravatar.com/avatar/39e2d9dd6a24d216a382ba317340ecf9?s=96&d=mm&r=g)</figure>### [Begoña Basterrechea Davo](https://www.fundacionrenequinton.org/begona-basterrechea/)
+![](https://secure.gravatar.com/avatar/39e2d9dd6a24d216a382ba317340ecf9?s=96&d=mm&r=g)### [Begoña Basterrechea Davo](https://www.fundacionrenequinton.org/begona-basterrechea/)
 
 [](https://www.linkedin.com/in/begonabasterretxea/)
 

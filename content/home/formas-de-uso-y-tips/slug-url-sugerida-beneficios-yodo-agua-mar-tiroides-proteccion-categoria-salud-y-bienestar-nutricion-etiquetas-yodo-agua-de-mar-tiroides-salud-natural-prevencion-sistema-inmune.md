@@ -19,7 +19,7 @@ Recientemente, ante la incertidumbre geopolítica y la conversación sobre posib
 
 En este artículo, exploraremos la relación entre el agua de mar terapéutica, la salud tiroidea y el papel del yodo como escudo natural, siempre diferenciando entre la nutrición preventiva y los protocolos de emergencia médica.
 
-<figure class="wp-block-image aligncenter size-large is-resized">![](/wp-content/uploads/2026/03/mamacochaVaso2-848x1024.png)</figure>---
+![](/wp-content/uploads/2026/03/mamacochaVaso2-848x1024.png)---
 
 ### 1. El Yodo: El Combustible de la Tiroides
 

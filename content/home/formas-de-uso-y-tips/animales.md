@@ -27,7 +27,7 @@ aliases: ["home/formas-de-uso-y-tips/animales/"]
 8. **Baños terapéuticos** con agua de mar  
     Debajo de los testimonios, los papers científicos
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/XulCYy1-Emk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/JabviswC58g" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/iq5kjEnoL4g" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/em-w4Ksh8VY" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Agua de Mar y Animales: Aplicaciones Terapéuticas Generales Basadas en la Ciencia
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/XulCYy1-Emk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/JabviswC58g" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/iq5kjEnoL4g" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/em-w4Ksh8VY" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Agua de Mar y Animales: Aplicaciones Terapéuticas Generales Basadas en la Ciencia
 
 Los animales tienen una relación compleja con el agua de mar. Mientras que los animales marinos están adaptados para vivir en este ambiente, **la mayoría de los animales terrestres NO deben beber agua de mar  **pura** directamente** porque puede causar deshidratación severa y toxicidad por sal. Sin embargo, existen aplicaciones terapéuticas derivadas del agua de mar que han demostrado beneficios significativos en la salud animal general.
 
@@ -801,7 +801,7 @@ Las adaptaciones de los animales marinos nos enseñan:
 
 ## Resumen de Aplicaciones Terapéuticas
 
-<figure class="wp-block-table">| **Terapia** | **Aplicación** | **Beneficio Principal** | **Especies** |
+| **Terapia** | **Aplicación** | **Beneficio Principal** | **Especies** |
 |---|---|---|---|
 | Talasoterapia | Baños terapéuticos | Reducción de inflamación, limpieza de piel | Múltiples |
 | Plasma Marino Quinton | Remineralización | 78 minerales y oligoelementos | Perros, gatos, caballos, ganado |
@@ -813,7 +813,7 @@ Las adaptaciones de los animales marinos nos enseñan:
 | Baños con agua de mar | Terapia cutánea | Limpieza, alivio de prurito | Perros, gatos, caballos, ganado |
 | Algas marinas | Suplementación dietética | Nutrición, apoyo tiroideo | Todas las especies |
 
-</figure>---
+---
 
 ## Recomendaciones Finales
 

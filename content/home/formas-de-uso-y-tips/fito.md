@@ -12,7 +12,7 @@ aliases: ["home/formas-de-uso-y-tips/fito/"]
 ##   
 **Qué es el Fitoplancton?**
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2026/06/image.png)</figure>  
+![](/wp-content/uploads/2026/06/image.png)  
   
 El fitoplancton marino es el <mark>conjunto de microorganismos vegetales que flotan a la deriva en los océanos</mark>. Al realizar la fotosíntesis, actúan como los "pulmones de la Tierra", produciendo más del 50% del oxígeno que respiramos y absorbiendo grandes cantidades de dióxido de carbono.
 

@@ -18,7 +18,7 @@ aliases: ["home/formas-de-uso-y-tips/cocinar/"]
 
 El agua de mar es ideal para cocinar productos del mar, ya que refuerza su sabor natural sin necesidad de añadir sal adicional. Algunas técnicas incluyen:
 
-<figure class="wp-block-image aligncenter size-full is-resized">![](/wp-content/uploads/2025/03/camarones-1.png)</figure>- **Cocción al vapor** : Coloca mariscos (como mejillones, almejas o langostinos) en una olla con agua de mar filtrada y cocina al vapor hasta que las conchas se abran. Esto evita el uso de sal y crea un caldo rico y sabroso.
+![](/wp-content/uploads/2025/03/camarones-1.png)- **Cocción al vapor** : Coloca mariscos (como mejillones, almejas o langostinos) en una olla con agua de mar filtrada y cocina al vapor hasta que las conchas se abran. Esto evita el uso de sal y crea un caldo rico y sabroso.
     - *Consejo* : Si el agua de mar está demasiado salada, dilúyela con agua dulce en una proporción de 1:1 antes de cocinar.
 - **Hervido de pescado** : Cocina pescados enteros o filetes en agua de mar para obtener un sabor más intenso y jugoso. Añade hierbas frescas como eneldo, laurel o tomillo para complementar el perfil salino.
     - *Ejemplo* : En algunas regiones costeras de España y Portugal, se hierve bacalao fresco en agua de mar para preparar platos tradicionales.
@@ -72,7 +72,7 @@ Algunas verduras y tubérculos se benefician del uso de agua de mar en su cocci�
 
 ### **Ejemplo práctico: Pasta con agua de mar**
 
-<figure class="wp-block-image aligncenter size-full is-resized">![](/wp-content/uploads/2025/03/tallarines.png)</figure>**Ingredientes** :
+![](/wp-content/uploads/2025/03/tallarines.png)**Ingredientes** :
 
 - 200 g de pasta fresca
 - 500 ml de agua de mar RexMar

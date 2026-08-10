@@ -126,7 +126,7 @@ Por el Maestro Daniel Fumega Music Canal YT: <https://www.youtube.com/channel/UC
 
 ## **Cómo agregar cortes estilo Eduardo Coletto?**
 
-<script src="//mowplayer.com/watch/js/v-ywI1fQP6VKA.js"></script></div></figure>## **Cómo la Palabra puede cambiarnos y hasta reparar nuestro ADN?**  
+<script src="//mowplayer.com/watch/js/v-ywI1fQP6VKA.js"></script></div>## **Cómo la Palabra puede cambiarnos y hasta reparar nuestro ADN?**  
 
 
 <iframe allow="autoplay" height="480" src="https://drive.google.com/file/d/1sPeJlYevI8ujQvZjDUdVCNrExK_HTdqy/preview" width="640"></iframe>## **Servicio de creación de audios subliminales y subliminales Silenciosos (Silent Subliminals) para Desparasitación Etérica**
@@ -301,9 +301,9 @@ Por el Maestro Daniel Fumega Music Canal YT: <https://www.youtube.com/channel/UC
 
 **Costo Combo 1 U$S 5**
 
-<figure class="wp-block-table">| [**<mark class="has-inline-color" style="background-color:#fcb900">**<mark class="has-inline-color" style="background-color:#fcb900">Para Perú se acepta Yape/Plin/transferencia- Para Argentina Transferencia x CBU. y para todos Global66 y todas las tarjetas de débito y crédito</mark>**</mark>**![](/wp-content/uploads/2023/09/arg.per_.jpg)  ](https://www.th.org.pe/wp/tienda) |  |
+| [**<mark class="has-inline-color" style="background-color:#fcb900">**<mark class="has-inline-color" style="background-color:#fcb900">Para Perú se acepta Yape/Plin/transferencia- Para Argentina Transferencia x CBU. y para todos Global66 y todas las tarjetas de débito y crédito</mark>**</mark>**![](/wp-content/uploads/2023/09/arg.per_.jpg)  ](https://www.th.org.pe/wp/tienda) |  |
 
-</figure>## **Combo 2**
+## **Combo 2**
 
 - **Combo** 2 (16 minutos aproximados cada uno de los 2 audios incluido el largo de su verbalización)
 
@@ -355,9 +355,9 @@ Existe un apartado en los conocimientos Complementarios para la Salud que se ocu
 
 Por el Maestro Daniel Fumega Music Canal YT: <https://www.youtube.com/channel/UCPQt2osa1KcbxUa4Q-1mXsg>
 
-<figure class="wp-block-table">|  |  |
+|  |  |
 
-</figure>## **Cómo elegir afirmaciones positivas?**
+## **Cómo elegir afirmaciones positivas?**
 
 Aquí hay algunos ejemplos de cómo puedes practicar afirmaciones positivas:
 
@@ -651,18 +651,18 @@ En ocasiones, puede convenir disminuir (o aumentar) la velocidad de reproducció
 
 Para acelerar la reproducción, arrastra el control deslizante hacia la derecha. Para ralentizar la reproducción, arrastra el control deslizante hacia la izquierda.
 
-<figure class="wp-block-image size-large is-resized">![](/wp-content/uploads/2023/11/VLCvelocidad2-485x1024.jpg)</figure>También puedes utilizar los botones **+** y **-** en la barra de herramientas de reproducción para ajustar la velocidad de reproducción.
+![](/wp-content/uploads/2023/11/VLCvelocidad2-485x1024.jpg)También puedes utilizar los botones **+** y **-** en la barra de herramientas de reproducción para ajustar la velocidad de reproducción.
 
 Aquí hay una tabla con los valores de velocidad de reproducción disponibles:
 
-<figure class="wp-block-table">| Valor | Velocidad |
+| Valor | Velocidad |
 | 0.25 | 25% más lento |
 | 0.5 | 50% más lento |
 | 0.75 | 75% más lento |
 | 1 | Velocidad normal |
 | 1.25 | 25% más rápido |
 
-</figure>Ten en cuenta que la modificación de la velocidad de reproducción puede afectar a la calidad del audio.
+Ten en cuenta que la modificación de la velocidad de reproducción puede afectar a la calidad del audio.
 
 ## **Cómo modificar el volumen en VLC sin modificar el volumen general del celular ?**
 

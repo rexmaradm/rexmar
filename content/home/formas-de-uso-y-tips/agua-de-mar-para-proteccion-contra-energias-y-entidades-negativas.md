@@ -194,7 +194,7 @@ aliases: ["home/formas-de-uso-y-tips/agua-de-mar-para-proteccion-contra-energias
 
 <div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span>![](/wp-content/uploads/2023/07/dream_background_entidades8.jpg)<div class="wp-block-cover__inner-container"></div></div>**Si, el agua de mar también ayuda en la Protección contra energías y entidades negativas parásitas. En el siguiente video podes ver a Fran Pareja del sitio Un Salto Cuántico explicándonos.**
 
-<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v2z4lwe-agua-de-mar-para-proteccin-contra-energas-y-entidades-negativas.html?mref=1wgpuu&amp;mc=1as4y## Si ud. siente entidades ocultas o negativas y no puede estar en la playa, pero tiene agua de mar, se sugiere:  
+<div class="wp-block-embed__wrapper">https://rumble.com/v2z4lwe-agua-de-mar-para-proteccin-contra-energas-y-entidades-negativas.html?mref=1wgpuu&amp;mc=1as4y## Si ud. siente entidades ocultas o negativas y no puede estar en la playa, pero tiene agua de mar, se sugiere:  
   
 **1**- Tomarla en forma Isotónica 1:3 está explicado [aquí](/formas-de-uso-y-tips/)  
 **2**- Atomizarse agua de mar hipertónica entibiada a 40ºC en todo el cuerpo empezando por la cabeza.  

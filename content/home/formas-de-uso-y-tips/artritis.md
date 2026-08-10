@@ -14,7 +14,7 @@ aliases: ["home/formas-de-uso-y-tips/artritis/"]
 
 **Existen estudios científicos relevantes** sobre balneoterapia (baños terapéuticos) con agua de mar, sales del Mar Muerto o soluciones salinas marinas.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/lkcKR06PEt4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/Ds5uPjr4SqE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/9mFxw3S_DSg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/wkgAVGeN_gU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre artritis tratada con agua de mar y balneoterapia marina
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/lkcKR06PEt4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/Ds5uPjr4SqE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/9mFxw3S_DSg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/wkgAVGeN_gU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre artritis tratada con agua de mar y balneoterapia marina
 
 A diferencia de las infecciones respiratorias superiores, la **artritis** (inflamación articular) tiene una base de evidencia científica **moderada pero prometedora** sobre el uso de agua de mar, sales marinas y balneoterapia marina como tratamiento complementario o exclusivo.
 
@@ -183,7 +183,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 
 ## Comparación entre diferentes tipos de agua de mar y sales marinas
 
-<figure class="wp-block-table">| Tipo | Composición | Evidencia para artritis | Disponibilidad |
+| Tipo | Composición | Evidencia para artritis | Disponibilidad |
 |---|---|---|---|
 | **Sales del Mar Muerto** | Alta concentración de magnesio, calcio, potasio, bromuro (10 veces más salina que el mar normal) | Alta (múltiples estudios clínicos) | Alta (productos comerciales) |
 | **Agua de magma marino de Jeju** | Agua de mar filtrada a través de roca volcánica, rica en minerales y oligoelementos | Moderada (estudio preclínico prometedor) | Baja (limitada a Corea) |
@@ -191,7 +191,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 | **Sal de roca disuelta** | 95-98% NaCl con minerales traza | Moderada (estudio clínico 2025) | Alta (fácil de preparar en casa) |
 | **Aguas termales minerales** | Variables (azufre, cloruro, bicarbonato, etc.) | Alta (múltiples estudios clínicos) | Baja (limitada a ubicaciones específicas) |
 
-</figure>---
+---
 
 ## Protocolo de uso basado en evidencia científica
 

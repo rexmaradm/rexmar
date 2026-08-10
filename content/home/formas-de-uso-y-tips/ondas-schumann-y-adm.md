@@ -9,7 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3048'
 aliases: ["home/formas-de-uso-y-tips/ondas-schumann-y-adm/"]
 ---
 
-<figure class="wp-block-image alignright size-full is-resized" id="·generador">[![Disponible en RexMar consulte stock !!! Haga Click aquí](/wp-content/uploads/2025/07/schumannxcf.png)](/formas-de-uso-y-tips/ondas-schumann-y-adm/#generador)</figure>## **Qué son las ondas Schumann?**
+[![Disponible en RexMar consulte stock !!! Haga Click aquí](/wp-content/uploads/2025/07/schumannxcf.png)](/formas-de-uso-y-tips/ondas-schumann-y-adm/#generador)## **Qué son las ondas Schumann?**
 
 Las **ondas Schumann** son como un "latido" natural de la Tierra. Imagina que la Tierra tiene su propio corazón que late muy despacio, y ese latido se puede escuchar (bueno, más bien medir) en forma de ondas invisibles en el aire.
 
@@ -53,4 +53,4 @@ Aumento de la inmunidad a las radiaciones externas (4G, 5G, wifi, etc).
 
 Mejoramiento del sueño.
 
-<figure class="wp-block-image size-large">![vista de arriba sin carcasa protectora](/wp-content/uploads/2025/07/Sin_tapa-768x1024.jpg)</figure><figure class="wp-block-image size-large">![vista de costado](/wp-content/uploads/2025/07/de_costado-768x1024.jpg)</figure><figure class="wp-block-image size-large">![cañe Type-C 1 mt.](/wp-content/uploads/2025/07/elcable-1024x768.jpg)</figure>
+![vista de arriba sin carcasa protectora](/wp-content/uploads/2025/07/Sin_tapa-768x1024.jpg)![vista de costado](/wp-content/uploads/2025/07/de_costado-768x1024.jpg)![cañe Type-C 1 mt.](/wp-content/uploads/2025/07/elcable-1024x768.jpg)

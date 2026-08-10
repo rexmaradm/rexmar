@@ -90,4 +90,4 @@ aliases: ["home/formas-de-uso-y-tips/alertas-por-oleaje-anomalo/"]
 
 <https://www.dhn.mil.pe/portal/avisos-especiales>
 
-<figure class="wp-block-image size-large">![](/wp-content/uploads/2023/09/4902.jpg?w=722)</figure>MGP
+![](/wp-content/uploads/2023/09/4902.jpg)MGP

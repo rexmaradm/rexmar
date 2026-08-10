@@ -290,7 +290,7 @@ arthritistreatments.com.au.
 
 ## Resumen de Aplicaciones Terapéuticas
 
-<figure class="wp-block-table">| **Terapia** | **Aplicación** | **Beneficio Principal** | **Fuente** |
+| **Terapia** | **Aplicación** | **Beneficio Principal** | **Fuente** |
 |---|---|---|---|
 | Baños de agua salada | Heridas menores | Prevención de infecciones | www.bluecross.org.uk |
 | Plasma Marino Quinton | Artritis, remineralización | 78 minerales y oligoelementos | www.biovie.fr |
@@ -298,7 +298,7 @@ arthritistreatments.com.au.
 | Plasma secado por aspersión | Salud dental | Reducción de placa 30% | ivcjournal.com |
 | Hidroterapia | Rehabilitación | Recuperación post-quirúrgica | www.agvp.co.uk |
 
-</figure>---
+---
 
 ## Recomendaciones Finales
 

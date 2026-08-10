@@ -24,7 +24,7 @@ La col fermentada es una fuente concentrada de nutrientes esenciales:
 - **Minerales:** Contiene hierro, calcio, fósforo y magnesio, contribuyendo a fortalecer huesos, dientes y músculos.
 - **Probióticos:** Millones de bacterias beneficiosas que equilibran la flora intestinal, mejorando la digestión y absorción de nutrientes.
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2024/11/photo_2024-11-10_18-41-33-1-768x1024.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2024/11/photo_2024-11-10_18-41-26-768x1024.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2024/11/photo_2024-11-10_18-41-19-768x1024.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2024/11/photo_2024-11-10_18-40-57-768x1024.jpg)</figure></figure>**Beneficios para la salud:**
+![](/wp-content/uploads/2024/11/photo_2024-11-10_18-41-33-1-768x1024.jpg)![](/wp-content/uploads/2024/11/photo_2024-11-10_18-41-26-768x1024.jpg)![](/wp-content/uploads/2024/11/photo_2024-11-10_18-41-19-768x1024.jpg)![](/wp-content/uploads/2024/11/photo_2024-11-10_18-40-57-768x1024.jpg)**Beneficios para la salud:**
 
 - **Salud intestinal:** Restaura la flora intestinal dañada por antibióticos o malos hábitos alimenticios, aliviando problemas como estreñimiento, diarrea y síndrome del intestino irritable.
 - **Sistema inmunológico:** Fortalece las defensas del organismo al equilibrar la microbiota intestinal, primera línea de defensa contra patógenos.
@@ -56,4 +56,4 @@ Incorporar la col fermentada a nuestra dieta es una inversión en nuestra salud 
 
 **¡Cuida tu flora intestinal y disfruta de una vida más saludable!**ar los benéficos resultados que se han descrito. Afortunadamente es muy sencillo, rápido y barato hacerla.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/YW7XZCp9dTs" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+<div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/YW7XZCp9dTs" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>

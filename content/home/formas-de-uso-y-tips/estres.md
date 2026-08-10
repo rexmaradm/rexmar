@@ -16,7 +16,7 @@ El estrés y la ansiedad son condiciones neuropsiquiátricas complejas que requi
 
 Sin embargo, **SÍ existe evidencia científica sólida** sobre los efectos beneficiosos de la talasoterapia, los minerales marinos (especialmente el magnesio) y los baños con sales marinas en la salud mental y el bienestar psicológico.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/kEZVPWSHLxI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/TwIKB40K0tQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/geBcipt0950" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre estrés, ansiedad y agua de mar: evidencia científica
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/kEZVPWSHLxI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/TwIKB40K0tQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/geBcipt0950" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre estrés, ansiedad y agua de mar: evidencia científica
 
 El **estrés y la ansiedad** son condiciones neuropsiquiátricas complejas. Aunque **no existen papers científicos que evalúen el agua de mar como tratamiento exclusivo** para estas condiciones, sí hay evidencia sólida sobre los beneficios de la **talasoterapia**, los **minerales marinos** y los **baños con sales marinas** en la salud mental.
 
@@ -133,7 +133,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 
 ## Comparación entre diferentes intervenciones marinas para estrés y ansiedad
 
-<figure class="wp-block-table">| Intervención | Composición | Evidencia para estrés/ansiedad | Mecanismo principal | Disponibilidad |
+| Intervención | Composición | Evidencia para estrés/ansiedad | Mecanismo principal | Disponibilidad |
 |---|---|---|---|---|
 | **Baños en agua de mar natural** | Agua de mar con todos sus minerales (magnesio, calcio, potasio, etc.) | Moderada (estudio prospectivo 2020) | Absorción transdérmica + ambiente marino | Alta (pero requiere acceso al mar) |
 | **Baños con sales del Mar Muerto** | Alta concentración de magnesio (10 veces más que el mar normal) | Moderada-Alta (múltiples estudios) | Absorción intensiva de magnesio | Alta (productos comerciales) |
@@ -141,7 +141,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 | **Balneoterapia con aguas minerales** | Aguas termales ricas en magnesio y otros minerales | Alta (meta-análisis 2018) | Absorción de minerales + calor | Baja (limitada a ubicaciones específicas) |
 | **Suplementación oral con magnesio** | Magnesio en forma de suplemento (citrato, glicinato, etc.) | Alta (revisión sistemática 2017) | Regulación neuroquímica directa | Alta (farmacias) |
 
-</figure>---
+---
 
 ## Protocolo de uso basado en evidencia científica
 

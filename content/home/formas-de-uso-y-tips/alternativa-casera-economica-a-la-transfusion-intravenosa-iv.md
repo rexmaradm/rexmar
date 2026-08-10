@@ -18,11 +18,11 @@ aliases: ["home/formas-de-uso-y-tips/alternativa-casera-economica-a-la-transfusi
 
  La Tta. Griselda Donatucci (<https://www.youtube.com/channel/UCcKSF49mH1edPUpsYmBVR0w/>) entrevista al dr. Wilmer Soler donde éste habla sobre la posibilidad de hacer un reemplazo casero, económico y más seguro de la transfusión intravenosa IV con agua de mar isotónica.
 
-<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v3z3xo2-cmo-reemplazar-en-forma-casera-la-inyecci0n-iv-de-agua-de-mar.html?mref=1wgpuu&amp;mc=1as4y# **Otras formas caseras de llevar el Agua de mar a la sangre**  
+<div class="wp-block-embed__wrapper">https://rumble.com/v3z3xo2-cmo-reemplazar-en-forma-casera-la-inyecci0n-iv-de-agua-de-mar.html?mref=1wgpuu&amp;mc=1as4y# **Otras formas caseras de llevar el Agua de mar a la sangre**  
   
  **El Ombligo**
 
-<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v468x70-otra-forma-casera-de-llevar-el-agua-de-mar-a-la-sangre-el-ombligo.html?mref=1wgpuu&amp;mc=1as4y# **Baños de asiento**
+<div class="wp-block-embed__wrapper">https://rumble.com/v468x70-otra-forma-casera-de-llevar-el-agua-de-mar-a-la-sangre-el-ombligo.html?mref=1wgpuu&amp;mc=1as4y# **Baños de asiento**
 
 ## **Cómo hacer un baño de asiento con agua de mar**
 
@@ -45,10 +45,10 @@ aliases: ["home/formas-de-uso-y-tips/alternativa-casera-economica-a-la-transfusi
 - También pueden ayudar a curar las infecciones urinarias.
 - Los baños de asiento con agua de mar pueden ser beneficiosos para la salud de la piel.
 
-<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:100%"><figure class="wp-block-table">| ![](/wp-content/uploads/2024/02/bano_asiento_inodoro2.jpg)![](/wp-content/uploads/2024/02/mujer_bano_asiento1.jpg)![](/wp-content/uploads/2024/02/bano_asiento_inodoro.jpg) |  |  |
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:100%">| ![](/wp-content/uploads/2024/02/bano_asiento_inodoro2.jpg)![](/wp-content/uploads/2024/02/mujer_bano_asiento1.jpg)![](/wp-content/uploads/2024/02/bano_asiento_inodoro.jpg) |  |  |
 |---|---|---|
 
-</figure></div></div># **Baños de Pies**
+</div></div># **Baños de Pies**
 
 ## Cómo hacer un baño de pies con agua de mar RexMar
 
@@ -78,4 +78,4 @@ Los baños de pies con agua de mar tienen muchos beneficios para la salud, como:
 
 **¡Disfruta de tu baño de pies con agua de mar!**
 
-<figure class="wp-block-image size-large is-resized">![](/wp-content/uploads/2024/02/mujer_bano_pies2-627x1024.jpg)</figure>
+![](/wp-content/uploads/2024/02/mujer_bano_pies2-627x1024.jpg)

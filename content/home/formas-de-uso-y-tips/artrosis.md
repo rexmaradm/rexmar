@@ -14,7 +14,7 @@ aliases: ["home/formas-de-uso-y-tips/artrosis/"]
 
 La artrosis tiene una **base de evidencia científica sólida y específica** sobre el uso de agua de mar y sales marinas como tratamiento exclusivo.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/fetUdSnnt60" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/FIkoblQVwTw" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/uVSkqv21Nbo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre artrosis tratada exclusivamente con agua de mar y sales marinas
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/fetUdSnnt60" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/FIkoblQVwTw" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/uVSkqv21Nbo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre artrosis tratada exclusivamente con agua de mar y sales marinas
 
 La **artrosis u osteoartritis** (enfermedad degenerativa articular) tiene una **sólida base de evidencia científica** que respalda el uso de agua de mar, sales marinas y balneoterapia marina como tratamiento exclusivo o complementario.
 
@@ -155,7 +155,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 
 ## Comparación entre diferentes tipos de agua de mar y sales marinas para artrosis
 
-<figure class="wp-block-table">| Tipo | Composición | Evidencia para artrosis | Duración efectos | Disponibilidad |
+| Tipo | Composición | Evidencia para artrosis | Duración efectos | Disponibilidad |
 |---|---|---|---|---|
 | **Sales del Mar Muerto** | Alta concentración de magnesio, calcio, potasio, bromuro (10 veces más salina que el mar normal) | Alta (estudio doble ciego 1995) | 1 mes post-tratamiento | Alta (productos comerciales) |
 | **Agua de magma marino de Jeju** | Agua de mar filtrada a través de roca volcánica, rica en minerales y oligoelementos | Moderada-Alta (estudio preclínico 2020) | No reportado (estudio animal) | Baja (limitada a Corea) |
@@ -163,7 +163,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 | **Agua mineral natural (S. Jorge)** | Agua mineral natural con composición variable | Moderada (ECA 2020) | 3 meses post-tratamiento | Baja (limitada a Portugal) |
 | **Sal de roca disuelta** | 95-98% NaCl con minerales traza | Baja (pocos estudios específicos para artrosis) | No reportado | Alta (fácil de preparar en casa) |
 
-</figure>---
+---
 
 ## Protocolo de uso basado en evidencia científica
 

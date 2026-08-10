@@ -138,7 +138,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 
 ## Comparación entre diferentes intervenciones marinas para el insomnio
 
-<figure class="wp-block-table">| Intervención | Composición | Evidencia para insomnio | Mecanismo principal | Disponibilidad |
+| Intervención | Composición | Evidencia para insomnio | Mecanismo principal | Disponibilidad |
 |---|---|---|---|---|
 | **Baños con sales del Mar Muerto** | Alta concentración de magnesio (10 veces más que el mar normal) | Alta (ECA 2018) | Absorción intensiva de magnesio + termorregulación | Alta (productos comerciales) |
 | **Baños en agua de mar natural** | Agua de mar con todos sus minerales (1,300 mg Mg/L) | Moderada (estudio prospectivo 2020) | Absorción transdérmica + ambiente marino | Alta (pero requiere acceso al mar) |
@@ -146,7 +146,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 | **Balneoterapia con aguas minerales** | Aguas termales ricas en magnesio y otros minerales | Alta (ECA 2019) | Absorción de minerales + calor | Baja (limitada a ubicaciones específicas) |
 | **Suplementación oral con magnesio** | Magnesio en forma de suplemento (citrato, glicinato, etc.) | Alta (meta-análisis 2020) | Regulación neuroquímica directa | Alta (farmacias) |
 
-</figure>---
+---
 
 ## Protocolo de uso basado en evidencia científica
 

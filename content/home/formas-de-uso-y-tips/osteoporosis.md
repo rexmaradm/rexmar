@@ -182,7 +182,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 
 ## Composición mineral del agua de mar relevante para la osteoporosis
 
-<figure class="wp-block-table">| Mineral | Concentración en agua de mar | Función en osteoporosis | Evidencia científica |
+| Mineral | Concentración en agua de mar | Función en osteoporosis | Evidencia científica |
 |---|---|---|---|
 | **Magnesio** | 1,272 mg/L (agua de mar superficial)   96,200 mg/L (DSW concentrada) | Esencial para mineralización ósea, regulación de calcio, activación de vitamina D | Sólida (múltiples ECA en humanos) |
 | **Calcio** | 400 mg/L (agua de mar superficial)   39 mg/L (DSW concentrada) | Componente principal del hueso, mineralización | Sólida (múltiples ECA en humanos) |
@@ -191,7 +191,7 @@ Basándome en los papers revisados, los mecanismos principales son:
 | **Boro** | Trazas | Mejora el metabolismo del calcio y magnesio | Limitada |
 | **Silicio** | Trazas | Estimula la síntesis de colágeno y mineralización | Emergente |
 
-</figure>---
+---
 
 ---
 

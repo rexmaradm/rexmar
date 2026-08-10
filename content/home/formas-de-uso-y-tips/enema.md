@@ -255,13 +255,13 @@ aliases: ["home/formas-de-uso-y-tips/enema/"]
 
 Si Ud. no va **todos** los días al baño al menos 1 vez, debe entender la importancia de tener el cólon limpio, en el siguiente vídeo el dr. Martí Bosch nos explica.
 
-<figure class="wp-block-embed is-type-wp-embed is-provider-rumble-com wp-block-embed-rumble-com"><div class="wp-block-embed__wrapper">https://rumble.com/v2zptbk-colon-limpio-dr.-marti-bosch.html?mref=1wgpuu&amp;mc=1as4yEl enema consiste en la introducción de una sustancia líquida Isotónica o Hipertónica con Agua de Mar RexMar, en la parte baja del colon a través del recto. Antes de aplicarte el enema, consulta con tu médico/terapeuta/chamán para determinar si es una buena alternativa para ti y si es el tipo de enema que debes utilizar. Es muy útil en casos de estreñimiento crónico y también en caso que la persona no pueda asimilar los minerales y oligoelementos del agua de mar RexMar por otra vía.
+<div class="wp-block-embed__wrapper">https://rumble.com/v2zptbk-colon-limpio-dr.-marti-bosch.html?mref=1wgpuu&amp;mc=1as4yEl enema consiste en la introducción de una sustancia líquida Isotónica o Hipertónica con Agua de Mar RexMar, en la parte baja del colon a través del recto. Antes de aplicarte el enema, consulta con tu médico/terapeuta/chamán para determinar si es una buena alternativa para ti y si es el tipo de enema que debes utilizar. Es muy útil en casos de estreñimiento crónico y también en caso que la persona no pueda asimilar los minerales y oligoelementos del agua de mar RexMar por otra vía.
 
 ## Requisitos indispensables
 
 Necesitaras para hacerlo:
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2022/03/837f8-kitenema.jpg)</figure>1. Kit de Enema/irrigador (lo compras en la farmacia u OnLine) puede ser de 1 litro o de 2 litros, vienen en Bolsa o Jarro
+![](/wp-content/uploads/2022/03/837f8-kitenema.jpg)1. Kit de Enema/irrigador (lo compras en la farmacia u OnLine) puede ser de 1 litro o de 2 litros, vienen en Bolsa o Jarro
 2. Vaselina para lubricar la cánula incluida en el Kit de Enema
 3. Agua de Mar RexMar hipertónica
 4. Agua de red o caño potable o agua mineral (si es posible de baja mineralización)
@@ -280,10 +280,10 @@ Necesitaras para hacerlo:
 - Coloca la bolsa o jarro de Enema en su lugar
 - Unta la cánula con vaselina
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2022/03/cebfb-canulavaselina.jpg)</figure>- Vierte el líquido calentado en Paso 1 en la bolsa o jarro de enema
+![](/wp-content/uploads/2022/03/cebfb-canulavaselina.jpg)- Vierte el líquido calentado en Paso 1 en la bolsa o jarro de enema
 - Colocate en el piso en la siguiente posicion:
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2022/03/615b8-personaarrodillada.jpg)</figure>- Introduce la cánula en el ano no más de 10 cm. Mientras introduces el tubo en el ano, puja tal como si defecaras. Nunca fuerces el tubo para que ingrese. Si no puedes introducirlo, no sigas intentándolo. Comunícate con tu médico/terapeuta/chamán para que te indique las siguientes medidas a tomar.
+![](/wp-content/uploads/2022/03/615b8-personaarrodillada.jpg)- Introduce la cánula en el ano no más de 10 cm. Mientras introduces el tubo en el ano, puja tal como si defecaras. Nunca fuerces el tubo para que ingrese. Si no puedes introducirlo, no sigas intentándolo. Comunícate con tu médico/terapeuta/chamán para que te indique las siguientes medidas a tomar.
 - abre el grifo de la cánula y espera a que entre todo el líquido
 - una vez que todo el líquido entró, cierra el grifo de la cánula y trata de permanecer en esa posición un tiempo, si puedes girar un poco hacia la derecha, para que el liquido vaya hacia el colon transversal y con suerte al colon ascendente, mejor.
 - Incorpórese y vea como se siente, si puede retener un poco de tiempo más o debe ir a evacuar.

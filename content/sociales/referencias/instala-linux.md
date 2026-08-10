@@ -9,7 +9,7 @@ guid: 'https://th.org.pe/wp/?page_id=3410'
 aliases: ["sociales/referencias/instala-linux/"]
 ---
 
-<figure class="wp-block-image aligncenter size-full is-resized">![](/wp-content/uploads/2026/01/PinguinoWin2.png)</figure>## Te cansaste de las actualizaciones con fallos, de la pantalla azul, de reiniciar cada vez que se cuelga, de tener que estar pendiente de los virus, de que te pida hardware más moderno -si el tuyo anda perfecto-, de......., de......... **Pasáte a Linux**   
+![](/wp-content/uploads/2026/01/PinguinoWin2.png)## Te cansaste de las actualizaciones con fallos, de la pantalla azul, de reiniciar cada vez que se cuelga, de tener que estar pendiente de los virus, de que te pida hardware más moderno -si el tuyo anda perfecto-, de......., de......... **Pasáte a Linux**   
 
 
   
@@ -17,7 +17,7 @@ aliases: ["sociales/referencias/instala-linux/"]
   
 Al momento de booteo bios o UEFI con el USB puesto, debe elegir Kingston Datatraveler 3.0 como se puede ver en la imágen debajo
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2026/02/demoBIOS.png)</figure>## Demostración de booteo
+![](/wp-content/uploads/2026/02/demoBIOS.png)## Demostración de booteo
 
 <iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v735tks/?pub=1wgpuu" width="640"></iframe>  
   

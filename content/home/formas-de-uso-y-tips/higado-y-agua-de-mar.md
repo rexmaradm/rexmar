@@ -104,7 +104,7 @@ Fuente
 
 ## **Otros Papers Científicos:**
 
-<figure class="wp-block-embed is-type-rich is-provider-embed wp-block-embed-embed"><div class="wp-block-embed__wrapper">https://scholar.google.com/scholar_lookup?journal=J.+Life+Sci.&amp;title=Study+of+deep+ground+sea-like+water+on+antioxidant+activity+and+the+immune+response+in+raw+264.+7+macrophages&amp;author=Y.-J.+Kim&amp;author=I.-S.+Jung&amp;author=H.-J.+Song&amp;author=E.-Y.+Choi&amp;author=I.-S.+Choi&amp;volume=18&amp;publication_year=2008&amp;pages=329-335&amp;doi=10.5352/JLS.2008.18.3.329&amp;<https://pubmed.ncbi.nlm.nih.gov/23351420>
+<div class="wp-block-embed__wrapper">https://scholar.google.com/scholar_lookup?journal=J.+Life+Sci.&amp;title=Study+of+deep+ground+sea-like+water+on+antioxidant+activity+and+the+immune+response+in+raw+264.+7+macrophages&amp;author=Y.-J.+Kim&amp;author=I.-S.+Jung&amp;author=H.-J.+Song&amp;author=E.-Y.+Choi&amp;author=I.-S.+Choi&amp;volume=18&amp;publication_year=2008&amp;pages=329-335&amp;doi=10.5352/JLS.2008.18.3.329&amp;<https://pubmed.ncbi.nlm.nih.gov/23351420>
 
 <https://link.springer.com/article/10.1007/s12257-018-0371-9>
 

@@ -21,7 +21,7 @@ classic-editor-remember:
     - block-editor
 ---
 
-<figure class="wp-block-image aligncenter size-full">![](/wp-content/uploads/2024/01/aguademaradomicilio1905MDQ.jpg)</figure># ***Lima***
+![](/wp-content/uploads/2024/01/aguademaradomicilio1905MDQ.jpg)# ***Lima***
 
 ---
 

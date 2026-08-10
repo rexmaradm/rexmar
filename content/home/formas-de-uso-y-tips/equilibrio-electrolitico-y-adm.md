@@ -35,7 +35,7 @@ veamos debajo la explicación del [dr. David Duarte ](https://www.academiaunani.
 </tbody>
 </table>
 
-</figure><iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v74u99m/?pub=1wgpuu" width="640"></iframe>## **Somos agua de mar**
+<iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v74u99m/?pub=1wgpuu" width="640"></iframe>## **Somos agua de mar**
 
 <iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6q8435/?pub=1wgpuu" width="640"></iframe>---
 
@@ -46,7 +46,7 @@ Rumble("play", {"video":"v6o7ube","div":"rumble_v6o7ube"});</script>---
 
 ## **Es posible adelgazar siguiendo éste método?**
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/7klw3gfSAbI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>---
+<div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/7klw3gfSAbI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>---
 
 ## **Cómo y porqué ir subiendo despacio el % de sal según el dr. David Duarte**  
 
