@@ -26,6 +26,7 @@ Al momento de booteo bios o UEFI con el USB puesto, debe elegir Kingston Datatra
  **Las **distribuci****ones ISOs **que están incluidas son:**
 
 | Archivo | Tamaño |
+|---|---|
 | archlinux-2026.03.01-x86\_64.iso | 1,4GiB |
 | bazzite-stable-live-amd64.iso | 7,4GiB |
 | cachyos-desktop-linux-260124.iso | 3,0GiB |
