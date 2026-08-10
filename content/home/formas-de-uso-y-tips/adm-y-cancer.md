@@ -35,4 +35,4 @@ Fuente:<https://www.spandidos-publications.com/10.3892/ijo.2013.2089>
 
  *(*\*\*) Disclamer: EL agua de mar no es un medicamento, no reemplaza la consulta con su terapeuta, médico o chamán que conozca las propiedades del Agua de Mar. Las opiniones vertidas aquí son en base a experiencias personales, testimonios o estudios publicados en internet.
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)<div hidden="">cancer, cáncer</div>
+<div hidden="">cancer, cáncer</div>

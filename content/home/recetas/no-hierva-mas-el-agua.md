@@ -44,4 +44,3 @@ Fuente: <https://g.co/bard/share/42e5400c485c>
 
 Deslinde de Responsabilidad: Esta información no reemplaza la consulta con un profesional de la salud/chamán/terapeuta.
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

@@ -30,4 +30,3 @@ https://www.mdpi.com/781838)
 
 <https://pubmed.ncbi.nlm.nih.gov/32878045/>
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

@@ -43,4 +43,3 @@ Fuente: [https://www.fundacionrenequinton.org/blog/helicobacter-pylori-dieta-que
 (\**)Cualquier duda, recomendamos consultar a un Médico/homeópata/Chamán que conozca sobre los beneficios del agua de mar.​*   
 *(*\*\*\*) Disclaimer: EL agua de mar no es un medicamento, no reemplaza la consulta con su terapeuta, médico o chamán que conozca las propiedades del Agua de Mar. Las opiniones vertidas aquí son en base a experiencias personales, testimonios o estudios publicados en internet.
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

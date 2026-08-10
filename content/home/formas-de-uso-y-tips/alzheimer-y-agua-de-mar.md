@@ -15,4 +15,4 @@ http://hidromed.org/hm/images/pdf/0378.BSEHM%202015\_30(1)37-55\_Flores-Calle\_A
 
 [https://books.google.com.ar/books?hl=es&amp;lr=&amp;id=1vHNDwAAQBAJ&amp;oi=fnd&amp;pg=PT4&amp;dq=Alzheimer+y+Agua+de+Mar+seawater&amp;ots=x7wl92Pzjb&amp;sig=KKbCiEL\_y0FjCDwFaL9p6\_HnhxI#v=onepage&amp;q=alzheimer&amp;f=false](https://books.google.com.ar/books?hl=es&lr=&id=1vHNDwAAQBAJ&oi=fnd&pg=PT4&dq=Alzheimer+y+Agua+de+Mar+seawater&ots=x7wl92Pzjb&sig=KKbCiEL_y0FjCDwFaL9p6_HnhxI#v=onepage&q=alzheimer&f=false)
 
-[\*\*\* Disclaimer](/disclaimer/)[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)
+[\*\*\* Disclaimer](/disclaimer/)

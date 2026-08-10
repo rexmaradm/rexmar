@@ -51,4 +51,3 @@ https://link.springer.com/article/10.1007/s10126-016-9709-5
 
 <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096927>
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

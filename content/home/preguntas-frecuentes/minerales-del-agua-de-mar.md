@@ -36,4 +36,3 @@ Además, el agua de mar también contiene oligoelementos en concentraciones infi
 
 <span class="">En resumen, aunque la sal marina contiene oligoelementos y minerales, no contiene la misma cantidad y variedad que el agua de mar</span>, además el agua de mar está **viva**
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

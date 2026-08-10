@@ -27,4 +27,3 @@ Si consigue gotas homeopáticas de Equisetum , puede tomar via oral 1 vaso de Ad
 
 ![](/wp-content/uploads/2023/07/equisetum-arvense-3d-cola-de-caballo-1.jpg)Fuentes: Dra. Gladys Marino. Buenos Aires, La Plata, Argentina , Perplexity AI, busquedas por Internet.
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

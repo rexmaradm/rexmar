@@ -55,4 +55,3 @@ Recuerda consultar a un profesional de la salud antes de implementar cambios en 
 
 Fuente: <https://www.telemundo.com/shows/un-nuevo-dia/salud/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-quemar-grasa-y-perder-peso-tmna1092746>
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

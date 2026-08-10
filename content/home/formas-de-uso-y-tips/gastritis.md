@@ -29,4 +29,3 @@ bacterias buenas: <https://www.mdpi.com/812812>
 
 <https://pubmed.ncbi.nlm.nih.gov/32878045/>
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

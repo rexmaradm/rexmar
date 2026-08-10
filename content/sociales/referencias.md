@@ -86,4 +86,3 @@ Cobre en Hospitales <https://journals.asm.org/doi/10.1128/jcm.01032-12?permanent
 
 Earthing/Grounding Puesta a tierra: <https://www.zapatillasminimalistas.net/actualidad/earthing/>
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

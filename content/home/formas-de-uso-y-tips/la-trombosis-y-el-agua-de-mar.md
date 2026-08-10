@@ -35,4 +35,3 @@ Fuente: <https://www.mdpi.com/2075-1729/12/1/82>
 
 DISCLAIMER: El agua de mar no es un medicamento ni reemplaza la consulta con su médico/terapeuta/chamán que conozca los beneficios del agua de mar.
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

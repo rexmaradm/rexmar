@@ -19,4 +19,3 @@ Citations:
 
 By Perplexity at https://www.perplexity.ai/search/1e115bc0-e60a-4feb-bf85-aab38a216826
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)

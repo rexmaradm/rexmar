@@ -17,4 +17,3 @@ aliases: ["/links"]
 - Argentina: Agua de Mar (la que consumí yo desde el inicio, hace 10 años) [https://vitalmar.empretienda.com.a](https://vitalmar.empretienda.com.ar/)
 - Perú: Cosmética medicinal y salud humana. Ser Natural. Anicca Instagram: <https://www.instagram.com/sernaturalmenteser/>
 
-[\*\*\* Disclaimer](/sociales/disclamer-descargo-de-responsabilidad/)
