@@ -5,7 +5,7 @@ date: '2023-01-18T17:58:21+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmaradm.wordpress.com/?page_id=752'
+guid: 'https://th.org.pe/?page_id=752'
 aliases: ["/lavado-nasal-con-agua-de-mar"]
 ---
 

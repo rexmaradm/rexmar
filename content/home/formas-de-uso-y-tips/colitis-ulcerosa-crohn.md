@@ -5,7 +5,7 @@ date: '2023-04-23T12:30:22+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmaradm.wordpress.com/?page_id=808'
+guid: 'https://th.org.pe/?page_id=808'
 aliases: ["/colitis-ulcerosa-crohn"]
 ---
 

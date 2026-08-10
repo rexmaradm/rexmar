@@ -5,7 +5,7 @@ date: '2026-08-01T16:14:04+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmar.free.je/?page_id=4067'
+guid: 'https://th.org.pe/?page_id=4067'
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Permeabilidad Intestinal: Evidencia Científica sobre la Reparación de la Barrera Intestinal

@@ -5,7 +5,7 @@ date: '2023-06-19T18:51:38+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmaradm.wordpress.com/?page_id=1175'
+guid: 'https://th.org.pe/?page_id=1175'
 aliases: ["/la-trombosis-y-el-agua-de-mar"]
 ---
 

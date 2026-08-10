@@ -5,7 +5,7 @@ date: '2022-11-21T08:54:11+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmaradm.wordpress.com/?page_id=677'
+guid: 'https://th.org.pe/?page_id=677'
 aliases: ["/anemia-y-agua-de-mar"]
 ---
 

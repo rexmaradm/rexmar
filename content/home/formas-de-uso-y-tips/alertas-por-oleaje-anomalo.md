@@ -5,7 +5,7 @@ date: '2023-06-02T10:09:07+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmaradm.wordpress.com/?page_id=841'
+guid: 'https://th.org.pe/?page_id=841'
 aliases: ["/alertas-por-oleaje-anomalo"]
 ---
 

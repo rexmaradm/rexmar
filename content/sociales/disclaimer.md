@@ -5,7 +5,7 @@ date: '2023-02-18T06:04:08+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmaradm.wordpress.com/?page_id=771'
+guid: 'https://th.org.pe/?page_id=771'
 aliases: ["/disclaimer"]
 ---
 

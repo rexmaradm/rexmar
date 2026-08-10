@@ -5,7 +5,7 @@ date: '2022-12-31T06:28:13+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmaradm.wordpress.com/?page_id=711'
+guid: 'https://th.org.pe/?page_id=711'
 aliases: ["/el-agua-de-mar-en-odontologia"]
 ---
 
