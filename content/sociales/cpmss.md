@@ -302,7 +302,6 @@ Por el Maestro Daniel Fumega Music Canal YT: <https://www.youtube.com/channel/UC
 **Costo Combo 1 U$S 5**
 
 <figure class="wp-block-table">| [**<mark class="has-inline-color" style="background-color:#fcb900">**<mark class="has-inline-color" style="background-color:#fcb900">Para Perú se acepta Yape/Plin/transferencia- Para Argentina Transferencia x CBU. y para todos Global66 y todas las tarjetas de débito y crédito</mark>**</mark>**![](/wp-content/uploads/2023/09/arg.per_.jpg)  ](https://www.th.org.pe/wp/tienda) |  |
-|---|---|
 
 </figure>## **Combo 2**
 
@@ -357,7 +356,6 @@ Existe un apartado en los conocimientos Complementarios para la Salud que se ocu
 Por el Maestro Daniel Fumega Music Canal YT: <https://www.youtube.com/channel/UCPQt2osa1KcbxUa4Q-1mXsg>
 
 <figure class="wp-block-table">|  |  |
-|---|---|
 
 </figure>## **Cómo elegir afirmaciones positivas?**
 
@@ -658,7 +656,6 @@ Para acelerar la reproducción, arrastra el control deslizante hacia la derecha.
 Aquí hay una tabla con los valores de velocidad de reproducción disponibles:
 
 <figure class="wp-block-table">| Valor | Velocidad |
-|---|---|
 | 0.25 | 25% más lento |
 | 0.5 | 50% más lento |
 | 0.75 | 75% más lento |

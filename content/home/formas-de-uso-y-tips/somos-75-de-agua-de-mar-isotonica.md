@@ -25,7 +25,6 @@ aliases: ["home/formas-de-uso-y-tips/somos-75-de-agua-de-mar-isotonica/"]
 **Somos el 75% de agua de mar isotónica: la importancia de recuperar los minerales con RexMar Agua de Mar**
 
 <figure class="wp-block-table">| ![](/wp-content/uploads/2023/12/musculos_wikipedia_ADM-1.png) | El cuerpo humano está compuesto en un 75% de agua. De esta agua, el 95% es agua intracelular, es decir, el agua que se encuentra dentro de las células. El 5% restante es agua extracelular, es decir, el agua que se encuentra fuera de las células.      El agua extracelular se encuentra en el plasma sanguíneo, la linfa, el líquido intersticial y el líquido cefalorraquídeo. Es importante para el transporte de nutrientes, oxígeno y desechos, así como para la regulación de la temperatura corporal.      El agua extracelular contiene una concentración de sales minerales similar a la del agua de mar. Estas sales minerales son esenciales para el funcionamiento de las células, los tejidos y los órganos.      Sin embargo, la dieta moderna es baja en minerales. El agua potable de la mayoría de las ciudades está clorada, lo que elimina los minerales. Además, la comida chatarra y procesada también es baja en minerales. |
-|---|---|
 
 </figure>Como resultado de la dieta moderna, el cuerpo humano pierde minerales. Esta pérdida de minerales puede provocar una serie de problemas de salud, como:
 
