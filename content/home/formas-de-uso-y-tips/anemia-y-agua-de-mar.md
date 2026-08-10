@@ -131,8 +131,6 @@ footnotes:
 aliases: ["home/formas-de-uso-y-tips/anemia-y-agua-de-mar/"]
 ---
 
-<div class="container"><div class="top"><div id="issues">|  |  |
-|---|---|
 
 </div><div class="content"><div class="index,es"><span style="font-size: large;">**Valoración terapéutica del agua de mar en modelos experimentales como terapia complementaria en anemia**</span>*María Di Bernardo<sup>1</sup> Aribert Castro<sup>2</sup> Yasmin Morales<sup>3</sup> Sonia Boueiri<sup>4</sup> Sulay Brito<sup>5</sup> Carlos Rondón<sup>6</sup> Rosa Ortiz<sup>7</sup> Nathaly Hernández<sup>8</sup>*
 
