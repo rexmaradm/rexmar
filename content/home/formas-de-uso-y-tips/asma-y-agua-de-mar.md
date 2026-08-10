@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2537'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-wp_statistics_words_count:
-    - '1268'
-    - '1268'
-aliases: ["home/formas-de-uso-y-tips/asma-y-agua-de-mar/"]
+aliases: ["/asma-y-agua-de-mar"]
 ---
 
   

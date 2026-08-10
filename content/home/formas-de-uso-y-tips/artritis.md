@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3595'
-wp_statistics_words_count:
-    - '1906'
-    - '1906'
-aliases: ["home/formas-de-uso-y-tips/artritis/"]
+aliases: ["/artritis"]
 ---
 
 **Existen estudios científicos relevantes** sobre balneoterapia (baños terapéuticos) con agua de mar, sales del Mar Muerto o soluciones salinas marinas.

@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3917'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '537'
-    - '537'
-aliases: ["home/formas-de-uso-y-tips/esto/"]
+aliases: ["/esto"]
 ---
 
 ## Agua de Mar Isotónica y el Estómago: Evidencia Científica sobre la Protección de la Mucosa Gástrica

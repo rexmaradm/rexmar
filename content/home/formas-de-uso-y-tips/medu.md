@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3970'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '595'
-    - '595'
-aliases: ["home/formas-de-uso-y-tips/medu/"]
+aliases: ["/medu"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Médula Espinal: Evidencia Científica sobre Neuroprotección y Recuperación Nerviosa

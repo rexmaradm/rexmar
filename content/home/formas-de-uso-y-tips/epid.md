@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3998'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '570'
-    - '570'
-aliases: ["home/formas-de-uso-y-tips/epid/"]
+aliases: ["/epid"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y el Epidídimo: Evidencia Científica sobre Maduración Espermática y Salud Reproductiva

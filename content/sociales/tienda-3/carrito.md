@@ -6,41 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/carrito/'
-rank_math_internal_links_processed:
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-wp_statistics_words_count:
-    - '1'
-    - '1'
-aliases: ["sociales/tienda-3/carrito/"]
+aliases: ["/carrito"]
 ---
 
 \[woocommerce\_cart\]

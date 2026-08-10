@@ -6,7 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3570'
-aliases: ["home/formas-de-uso-y-tips/psoriasis/"]
+aliases: ["/psoriasis"]
 ---
 
 El **agua de mar** es considerada un **aliado natural** para el alivio de los síntomas de la psoriasis,

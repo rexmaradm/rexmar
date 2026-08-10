@@ -6,77 +6,8 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=58'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-rank_math_internal_links_processed:
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-    - '1'
-footnotes:
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
 image: /wp-content/uploads/2022/06/87388367_x-Pbd27vhLnTukeHVahliROCNJfGxZvMZ-RVcTKqBUI.jpg
-aliases: ["tienda-holistica-chamanica__trashed/resenas-informacion/etnia-arazaire/maestro-jose-arazaire/"]
+aliases: ["/maestro-jose-arazaire"]
 ---
 
 Maestro Curandero/<span class="wmf-wp-with-preview" data-wikipedia-preview="" data-wp-lang="es" data-wp-title="Ayahuasca">Ayahuasquero</span>, vegetalista y conferenciante internacional.

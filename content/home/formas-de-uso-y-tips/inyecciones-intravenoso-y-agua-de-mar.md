@@ -6,12 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2753'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/inyecciones-intravenoso-y-agua-de-mar/"]
+aliases: ["/inyecciones-intravenoso-y-agua-de-mar"]
 ---
 
 

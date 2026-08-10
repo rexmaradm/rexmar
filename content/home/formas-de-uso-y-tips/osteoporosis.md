@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3617'
-wp_statistics_words_count:
-    - '1856'
-    - '1856'
-aliases: ["home/formas-de-uso-y-tips/osteoporosis/"]
+aliases: ["/osteoporosis"]
 ---
 
 existe **evidencia científica sólida y prometedora**, principalmente en estudios preclínicos, sobre el uso de **agua de mar profunda (Deep Sea Water - DSW)** y **minerales marinos** para la osteoporosis. Debajo de los testimonios, los papers científicos.

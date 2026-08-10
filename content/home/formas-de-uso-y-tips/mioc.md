@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3878'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '579'
-    - '579'
-aliases: ["home/formas-de-uso-y-tips/mioc/"]
+aliases: ["/mioc"]
 ---
 
 ## Agua de Mar Isotónica, Miocarditis y Pericarditis: Evidencia Científica y Recuperación Cardíaca

@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3919'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '567'
-    - '567'
-aliases: ["home/formas-de-uso-y-tips/piel/"]
+aliases: ["/piel"]
 ---
 
 ## Agua de Mar Isotónica y la Piel: Evidencia Científica sobre Hidratación, Regeneración y Salud Cutánea

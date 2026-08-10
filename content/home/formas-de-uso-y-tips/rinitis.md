@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3578'
-wp_statistics_words_count:
-    - '1151'
-    - '1151'
-aliases: ["home/formas-de-uso-y-tips/rinitis/"]
+aliases: ["/rinitis"]
 ---
 
 **existe sólida evidencia científica** sobre el uso exclusivo de agua de mar como monoterapia o tratamiento complementario. A diferencia de la sinusitis que afecta los senos paranasales, la rinitis se centra en la mucosa nasal, y el agua de mar ha demostrado ser particularmente efectiva.

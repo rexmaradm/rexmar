@@ -6,14 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2265'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/deporte-y-agua-de-mar-rexmar/"]
+aliases: ["/deporte-y-agua-de-mar-rexmar"]
 ---
 
 **Beneficios del agua de mar para deportistas:**

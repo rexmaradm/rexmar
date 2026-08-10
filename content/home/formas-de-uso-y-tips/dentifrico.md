@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3683'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '3286'
-    - '3286'
-aliases: ["home/formas-de-uso-y-tips/dentifrico/"]
+aliases: ["/dentifrico"]
 ---
 
 #### <span class="qwen-markdown-text">Descubrí los estudios científicos que comparan el agua de mar con la clorhexidina, cómo los minerales marinos protegen encías y dientes, y el protocolo completo para usar agua de mar como dentífrico natural. Debajo de los videos la explicacion completa </span>

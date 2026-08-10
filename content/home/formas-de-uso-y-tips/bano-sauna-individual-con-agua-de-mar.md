@@ -6,7 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3237'
-aliases: ["home/formas-de-uso-y-tips/bano-sauna-individual-con-agua-de-mar/"]
+aliases: ["/bano-sauna-individual-con-agua-de-mar"]
 ---
 
 # **Beneficios**

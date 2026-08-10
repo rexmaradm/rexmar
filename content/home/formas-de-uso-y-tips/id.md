@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3911'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '570'
-    - '570'
-aliases: ["home/formas-de-uso-y-tips/id/"]
+aliases: ["/id"]
 ---
 
 ## Agua de Mar Isotónica y el Intestino Delgado: Evidencia Científica sobre la Barrera Intestinal y la Mucosa

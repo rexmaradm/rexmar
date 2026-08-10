@@ -6,12 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2745'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/artrosis-artritis-osteoporosis-fibromialgia-y-agua-de-mar/"]
+aliases: ["/artrosis-artritis-osteoporosis-fibromialgia-y-agua-de-mar"]
 ---
 
 ## Porqué tomar agua de mar isotónica beneficia a todo, incluida la fibromialgia

@@ -6,21 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://rexcobre.wordpress.com/?page_id=156'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-footnotes:
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-aliases: ["sociales/referencias/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-a-quemar-grasa-y-perder-peso/"]
+aliases: ["/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-a-quemar-grasa-y-perder-peso"]
 ---
 
 [](https://www.telemundo.com/shows/un-nuevo-dia/salud/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-quemar-grasa-y-perder-peso-tmna1092746)

@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3928'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '548'
-    - '548'
-aliases: ["home/formas-de-uso-y-tips/fari/"]
+aliases: ["/fari"]
 ---
 
 ## Agua de Mar Isotónica y la Faringe: Evidencia Científica sobre la Protección de la Mucosa y la Faringitis

@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3651'
-wp_statistics_words_count:
-    - '1378'
-    - '1378'
-aliases: ["home/formas-de-uso-y-tips/gatos/"]
+aliases: ["/gatos"]
 ---
 
 ## **Aplicaciones terapéuticas fascinantes para gatos:**

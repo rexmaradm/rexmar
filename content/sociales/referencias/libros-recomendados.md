@@ -6,7 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3240'
-aliases: ["sociales/referencias/libros-recomendados/"]
+aliases: ["/libros-recomendados"]
 ---
 
 . [L'Eau de mer, milieu organique (Agua de mar, medio orgánico) por René Quinton en Español.](/wp-content/uploads/2025/09/elaguademarmedioorganico-1.pdf)

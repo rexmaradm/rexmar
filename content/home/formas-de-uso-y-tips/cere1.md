@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3966'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '574'
-    - '574'
-aliases: ["home/formas-de-uso-y-tips/cere1/"]
+aliases: ["/cere1"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y el Cerebelo: Evidencia Científica sobre Coordinación Motora y Neuroprotección

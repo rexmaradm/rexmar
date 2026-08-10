@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=4008'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '614'
-    - '614'
-aliases: ["home/formas-de-uso-y-tips/cabe/"]
+aliases: ["/cabe"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y el Cabello: Evidencia Científica sobre Salud Capilar, Cuero Cabelludo y Folículos

@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=4010'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '615'
-    - '615'
-aliases: ["home/formas-de-uso-y-tips/unas/"]
+aliases: ["/unas"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y las Uñas: Evidencia Científica sobre Fortalecimiento, Salud Ungueal y Onicomicosis

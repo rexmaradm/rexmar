@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3899'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '559'
-    - '559'
-aliases: ["home/formas-de-uso-y-tips/torc/"]
+aliases: ["/torc"]
 ---
 
 ## Agua de Mar Isotónica y Recuperación de Torceduras (Esguinces): Evidencia Científica

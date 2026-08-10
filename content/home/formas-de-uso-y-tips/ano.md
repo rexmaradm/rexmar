@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3944'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '573'
-    - '573'
-aliases: ["home/formas-de-uso-y-tips/ano/"]
+aliases: ["/ano"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Salud Anal: Evidencia Científica sobre Cicatrización, Hemorroides y Fisuras

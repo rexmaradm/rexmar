@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=4006'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '708'
-    - '708'
-aliases: ["home/formas-de-uso-y-tips/piel-2/"]
+aliases: ["/piel-2"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Piel: Evidencia Científica sobre Hidratación, Barrera Cutánea y Regeneración

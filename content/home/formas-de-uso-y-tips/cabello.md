@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3623'
-wp_statistics_words_count:
-    - '1685'
-    - '1685'
-aliases: ["home/formas-de-uso-y-tips/cabello/"]
+aliases: ["/cabello"]
 ---
 
 El agua de mar y los minerales marinos han demostrado tener efectos beneficiosos sobre la salud del cuero cabelludo y el crecimiento del cabello. A continuación, presentamos una selección de &lt;em&gt;papers&lt;/em&gt; científicos y estudios clínicos que respaldan estos beneficios, debajo de los testimonios.

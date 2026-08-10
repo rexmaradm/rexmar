@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3936'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '578'
-    - '578'
-aliases: ["home/formas-de-uso-y-tips/sali/"]
+aliases: ["/sali"]
 ---
 
 ## Agua de Mar Isotónica y las Glándulas Salivales: Evidencia Científica sobre la Producción de Saliva y la Hidratación Oral

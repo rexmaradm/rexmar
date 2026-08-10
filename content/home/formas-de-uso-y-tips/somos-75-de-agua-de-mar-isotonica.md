@@ -6,20 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2238'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/somos-75-de-agua-de-mar-isotonica/"]
+aliases: ["/somos-75-de-agua-de-mar-isotonica"]
 ---
 
 **Somos el 75% de agua de mar isotónica: la importancia de recuperar los minerales con RexMar Agua de Mar**

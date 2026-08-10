@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3994'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '607'
-    - '607'
-aliases: ["home/formas-de-uso-y-tips/vulv/"]
+aliases: ["/vulv"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Vulva: Evidencia Científica sobre Salud Mucosa, Microbioma y Regeneración

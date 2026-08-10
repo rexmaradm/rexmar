@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3872'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-wp_statistics_words_count:
-    - '620'
-    - '620'
-aliases: ["home/formas-de-uso-y-tips/bleb/"]
+aliases: ["/bleb"]
 ---
 
 ## Agua de Mar Isotónica y Actividad Antimicrobiana: Evidencia Científica frente a Klebsiella pneumoniae

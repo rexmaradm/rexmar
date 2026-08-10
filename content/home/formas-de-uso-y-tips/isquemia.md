@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3865'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '564'
-    - '564'
-aliases: ["home/formas-de-uso-y-tips/isquemia/"]
+aliases: ["/isquemia"]
 ---
 
 ## Agua de Mar Isotónica, Isquemia Cerebral y Recuperación Neurológica

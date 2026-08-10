@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3627'
-wp_statistics_words_count:
-    - '526'
-    - '526'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/linfa/"]
+aliases: ["/linfa"]
 ---
 
 ## La Ciencia del Agua de Mar y el Sistema Linfático: El Legado de René Quinton

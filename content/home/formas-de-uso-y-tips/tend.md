@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3978'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '592'
-    - '592'
-aliases: ["home/formas-de-uso-y-tips/tend/"]
+aliases: ["/tend"]
 ---
 
 ## Agua de Mar Isotónica y los Tendones: Evidencia Científica sobre Regeneración del Tejido Conectivo y Síntesis de Colágeno

@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2549'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/bebida-isotonica-casera-con-electrolitos-para-deportistas/"]
+aliases: ["/bebida-isotonica-casera-con-electrolitos-para-deportistas"]
 ---
 
 **¿Qué son las bebidas isotónicas y para qué sirven?**

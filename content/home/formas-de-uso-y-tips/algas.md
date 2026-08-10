@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2817'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/algas/"]
+aliases: ["/algas"]
 ---
 
 <audio controls="" src="/wp-content/uploads/2025/11/nuevaExplicacionAlgas_PP.mp3"></audio>### Resúmen: 

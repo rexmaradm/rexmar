@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3888'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '703'
-    - '703'
-aliases: ["home/formas-de-uso-y-tips/apop/"]
+aliases: ["/apop"]
 ---
 
 ## Agua de Mar Isotónica y Apoptosis: Evidencia Científica sobre la Regulación Celular

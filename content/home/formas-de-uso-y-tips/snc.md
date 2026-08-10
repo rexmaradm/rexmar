@@ -6,7 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3539'
-aliases: ["home/formas-de-uso-y-tips/snc/"]
+aliases: ["/snc"]
 ---
 
 #  

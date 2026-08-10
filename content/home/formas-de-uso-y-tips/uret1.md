@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3962'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '700'
-    - '700'
-aliases: ["home/formas-de-uso-y-tips/uret1/"]
+aliases: ["/uret1"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Uretra: Evidencia Científica sobre Salud Uretral y del Tracto Urinario

@@ -6,19 +6,6 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2326'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
 ---
 
 ![](/wp-content/uploads/2024/01/aguademaradomicilio1905MDQ.jpg)# ***Lima***

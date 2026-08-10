@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3990'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '576'
-    - '576'
-aliases: ["home/formas-de-uso-y-tips/uter/"]
+aliases: ["/uter"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y el Útero: Evidencia Científica sobre Salud Uterina, Endometrio y Equilibrio Hormonal

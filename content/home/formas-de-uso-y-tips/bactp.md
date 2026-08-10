@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3884'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '587'
-    - '587'
-aliases: ["home/formas-de-uso-y-tips/bactp/"]
+aliases: ["/bactp"]
 ---
 
 ## Agua de Mar Isotónica y Salud Intestinal: Evidencia Científica frente a Bacterias Patógenas

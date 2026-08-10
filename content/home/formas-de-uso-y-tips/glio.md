@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3886'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '542'
-    - '542'
-aliases: ["home/formas-de-uso-y-tips/glio/"]
+aliases: ["/glio"]
 ---
 
 ## Agua de Mar Isotónica y Glioblastoma: Evidencia Científica y Apoyo Celular

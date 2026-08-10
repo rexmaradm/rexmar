@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3870'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '595'
-    - '595'
-aliases: ["home/formas-de-uso-y-tips/coraz/"]
+aliases: ["/coraz"]
 ---
 
 ## Agua de Mar Isotónica y Salud Cardiovascular: Evidencia Científica y Protección del Corazón

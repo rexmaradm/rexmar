@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3580'
-wp_statistics_words_count:
-    - '673'
-    - '673'
-aliases: ["home/formas-de-uso-y-tips/asma/"]
+aliases: ["/asma"]
 ---
 
 ## Situación actual de la investigación sobre asma y agua de mar

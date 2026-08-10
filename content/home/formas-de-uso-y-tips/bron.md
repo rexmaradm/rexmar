@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3950'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '569'
-    - '569'
-aliases: ["home/formas-de-uso-y-tips/bron/"]
+aliases: ["/bron"]
 ---
 
 ## Agua de Mar Isotónica y los Bronquios: Evidencia Científica sobre la Salud Respiratoria y la Mucosa Bronquial

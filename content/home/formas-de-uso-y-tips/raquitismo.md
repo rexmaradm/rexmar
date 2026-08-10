@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3671'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '1632'
-    - '1632'
-aliases: ["home/formas-de-uso-y-tips/raquitismo/"]
+aliases: ["/raquitismo"]
 ---
 
 Descubrí la fascinante historia del uso del agua de mar (Plasma de Quinton) para tratar el raquitismo infantil, la ciencia detrás de los minerales marinos y la salud ósea, y qué dice la investigación moderna. Debajo de los testimonios, los papers científicos. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/qM6D3rlaZGE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/zDDm1oWuTvE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>

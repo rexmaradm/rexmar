@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3689'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '3726'
-    - '3726'
-aliases: ["home/formas-de-uso-y-tips/menopausia/"]
+aliases: ["/menopausia"]
 ---
 
 <span class="qwen-markdown-text">Descubrí los estudios científicos sobre cómo el agua de mar (tópica y bebida) puede ayudar en el tratamiento de los síntomas de la menopausia, incluyendo sofocos, osteoporosis y desequilibrios hormonales. Debajo de los testimonios el informe y papers científicos.</span> https://www.youtube.com/watch?v=C0e-\_\_WkDC4 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/w1nYdfUHSFY" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/6gYE6yNaG90" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> - 

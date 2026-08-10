@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3992'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '614'
-    - '614'
-aliases: ["home/formas-de-uso-y-tips/vagi/"]
+aliases: ["/vagi"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Salud Vaginal: Evidencia Científica sobre el Microbioma y la Mucosa

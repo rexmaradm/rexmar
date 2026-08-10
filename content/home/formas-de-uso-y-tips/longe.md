@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3817'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-wp_statistics_words_count:
-    - '407'
-    - '407'
-aliases: ["home/formas-de-uso-y-tips/longe/"]
+aliases: ["/longe"]
 ---
 
 ## Escuche 👆toda ésta página  

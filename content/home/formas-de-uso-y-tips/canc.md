@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3890'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '555'
-    - '555'
-aliases: ["home/formas-de-uso-y-tips/canc/"]
+aliases: ["/canc"]
 ---
 
 ## Agua de Mar Isotónica y Cáncer: Evidencia Científica sobre Modulación Celular e Inmunológica

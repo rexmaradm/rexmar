@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3846'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '497'
-    - '497'
-aliases: ["home/formas-de-uso-y-tips/de/"]
+aliases: ["/de"]
 ---
 
 ## Agua de Mar Isotónica y Salud Vascular: La Base Científica de la Función Eréctil

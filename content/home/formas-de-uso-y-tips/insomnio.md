@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3604'
-wp_statistics_words_count:
-    - '1805'
-    - '1805'
-aliases: ["home/formas-de-uso-y-tips/insomnio/"]
+aliases: ["/insomnio"]
 ---
 
 El insomnio es un trastorno del sueño complejo con múltiples causas (psicológicas, fisiológicas, ambientales) que requiere intervenciones específicas.

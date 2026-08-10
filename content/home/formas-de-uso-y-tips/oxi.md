@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3850'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '505'
-    - '505'
-aliases: ["home/formas-de-uso-y-tips/oxi/"]
+aliases: ["/oxi"]
 ---
 
 ## Agua de Mar Isotónica y Oxigenación Celular: Evidencia Científica y Vitalidad

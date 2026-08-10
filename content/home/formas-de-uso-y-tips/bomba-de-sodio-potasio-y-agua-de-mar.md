@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2792'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/bomba-de-sodio-potasio-y-agua-de-mar/"]
+aliases: ["/bomba-de-sodio-potasio-y-agua-de-mar"]
 ---
 
 **Explicación simple:**   

@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3948'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '591'
-    - '591'
-aliases: ["home/formas-de-uso-y-tips/lari/"]
+aliases: ["/lari"]
 ---
 
 ## Agua de Mar Isotónica y la Laringe: Evidencia Científica sobre Salud Vocal y Mucosa Laríngea

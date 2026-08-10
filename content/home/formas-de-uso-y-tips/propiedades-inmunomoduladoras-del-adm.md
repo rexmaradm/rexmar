@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2794'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/propiedades-inmunomoduladoras-del-adm/"]
+aliases: ["/propiedades-inmunomoduladoras-del-adm"]
 ---
 
 **Las propiedades inmunomoduladoras del agua de mar**

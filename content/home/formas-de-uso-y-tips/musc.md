@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3976'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '555'
-    - '555'
-aliases: ["home/formas-de-uso-y-tips/musc/"]
+aliases: ["/musc"]
 ---
 
 ## Agua de Mar Isotónica y los Músculos: Evidencia Científica sobre Recuperación, Rendimiento y Prevención de Calambres

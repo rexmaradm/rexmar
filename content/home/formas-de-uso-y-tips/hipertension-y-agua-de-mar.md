@@ -6,12 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2747'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/hipertension-y-agua-de-mar/"]
+aliases: ["/hipertension-y-agua-de-mar"]
 ---
 
 ## Resumen simplificado sobre [el estudio citado ](https://www.spandidos-publications.com/10.3892/ijmm.2019.4424)de la hipertensión y el agua de mar

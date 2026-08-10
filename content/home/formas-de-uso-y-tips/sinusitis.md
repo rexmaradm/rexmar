@@ -6,7 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3576'
-aliases: ["home/formas-de-uso-y-tips/sinusitis/"]
+aliases: ["/sinusitis"]
 ---
 
 **Existe abundante evidencia científica** sobre el uso exclusivo de agua de mar o solución salina como monoterapia. De hecho, las irrigaciones nasales con solución salina son uno de los tratamientos más estudiados y recomendados en otorrinolaringología.

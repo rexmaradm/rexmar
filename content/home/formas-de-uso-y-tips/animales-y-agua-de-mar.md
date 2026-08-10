@@ -6,12 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2741'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/animales-y-agua-de-mar/"]
+aliases: ["/animales-y-agua-de-mar"]
 ---
 
 ## Testimonios recogidos por la Tta. Griselda Donatucci

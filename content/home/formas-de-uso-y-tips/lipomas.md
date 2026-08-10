@@ -6,7 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3645'
-aliases: ["home/formas-de-uso-y-tips/lipomas/"]
+aliases: ["/lipomas"]
 ---
 
 Te tengo que hacer una aclaración muy importante antes de pasar el contenido: en la literatura científica actual no existen estudios que traten los lipomas exclusivamente con agua de mar. Sin embargo, encontré algo muy relevante y fascinante:  

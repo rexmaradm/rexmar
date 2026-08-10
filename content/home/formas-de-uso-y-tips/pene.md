@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=4004'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '626'
-    - '626'
-aliases: ["home/formas-de-uso-y-tips/pene/"]
+aliases: ["/pene"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Salud del Pene: Evidencia Científica sobre Función Endotelial, Flujo Sanguíneo y Vitalidad Reproductiva

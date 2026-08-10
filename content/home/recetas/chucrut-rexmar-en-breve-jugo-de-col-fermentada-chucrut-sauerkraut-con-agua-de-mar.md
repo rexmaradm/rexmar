@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2637'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-aliases: ["home/recetas/chucrut-rexmar-en-breve-jugo-de-col-fermentada-chucrut-sauerkraut-con-agua-de-mar/"]
+aliases: ["/chucrut-rexmar-en-breve-jugo-de-col-fermentada-chucrut-sauerkraut-con-agua-de-mar"]
 ---
 
 La Col Fermentada: Un Elixir de Salud para el Intestino y Más Allá

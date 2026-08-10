@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3913'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '513'
-    - '513'
-aliases: ["home/formas-de-uso-y-tips/esof/"]
+aliases: ["/esof"]
 ---
 
 ## Agua de Mar Isotónica y el Esófago: Evidencia Científica sobre la Protección de la Mucosa

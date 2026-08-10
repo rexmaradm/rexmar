@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3669'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '1083'
-    - '1083'
-aliases: ["home/formas-de-uso-y-tips/hidratacion/"]
+aliases: ["/hidratacion"]
 ---
 
 <div class="qwen-markdown-hr">---

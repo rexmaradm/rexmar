@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3901'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '560'
-    - '560'
-aliases: ["home/formas-de-uso-y-tips/bazo/"]
+aliases: ["/bazo"]
 ---
 
 ## Agua de Mar Isotónica y el Bazo: Evidencia Científica sobre el Sistema Reticuloendotelial

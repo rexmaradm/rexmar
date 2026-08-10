@@ -6,7 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3517'
-aliases: ["home/formas-de-uso-y-tips/fito/"]
+aliases: ["/fito"]
 ---
 
 ##   

@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3600'
-wp_statistics_words_count:
-    - '1521'
-    - '1521'
-aliases: ["home/formas-de-uso-y-tips/estres/"]
+aliases: ["/estres"]
 ---
 
 El estrés y la ansiedad son condiciones neuropsiquiátricas complejas que requieren intervenciones específicas (psicoterapia, farmacoterapia, técnicas de relajación) que no pueden ser reemplazadas únicamente por agua de mar.

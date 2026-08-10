@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3843'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '481'
-    - '481'
-aliases: ["home/formas-de-uso-y-tips/reflujo/"]
+aliases: ["/reflujo"]
 ---
 
 ## Agua de Mar Isotónica y Reflujo: Evidencia Científica y Beneficios Digestivos

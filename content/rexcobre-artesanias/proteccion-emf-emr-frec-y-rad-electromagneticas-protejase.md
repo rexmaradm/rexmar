@@ -6,36 +6,7 @@ author: legar
 excerpt: 'Colgante Cuántico Protección EMF EMR Frec. y Rad. ElectroMagneticas. '
 layout: page
 guid: 'https://rexcobre.wordpress.com/?page_id=162'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-footnotes:
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
-wp_statistics_words_count:
-    - '400'
-    - '400'
-aliases: ["rexcobre-artesanias/proteccion-emf-emr-frec-y-rad-electromagneticas-protejase/"]
+aliases: ["/proteccion-emf-emr-frec-y-rad-electromagneticas-protejase"]
 ---
 
 Colgante Cuántico de Cristal de Cuarzo y Alambre de cobre. Protección contra Frecuencias y Radiaciones Electro Magnéticas EMF EMR, muy útil para personas hipersensibles a las mismas.

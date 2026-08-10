@@ -6,7 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3611'
-aliases: ["home/formas-de-uso-y-tips/hipertension/"]
+aliases: ["/hipertension"]
 ---
 
 He investigado exhaustivamente sobre papers científicos que evalúen el tratamiento de la **hipertensión exclusivamente con agua de mar** como monoterapia.

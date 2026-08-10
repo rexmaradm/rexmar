@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3932'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '603'
-    - '603'
-aliases: ["home/formas-de-uso-y-tips/dien/"]
+aliases: ["/dien"]
 ---
 
 ## Agua de Mar Isotónica y Salud Dental: Evidencia Científica sobre Dientes, Esmalte y Tejidos de Soporte

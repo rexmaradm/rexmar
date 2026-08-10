@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3984'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '597'
-    - '597'
-aliases: ["home/formas-de-uso-y-tips/cart/"]
+aliases: ["/cart"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y los Cartílagos: Evidencia Científica sobre Regeneración y Salud del Tejido Conectivo

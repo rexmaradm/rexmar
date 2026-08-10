@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3492'
-wp_statistics_words_count:
-    - '336'
-    - '336'
-aliases: ["home/formas-de-uso-y-tips/porque-no-ozonizamos-nuestra-agua-de-mar-rexmar/"]
+aliases: ["/porque-no-ozonizamos-nuestra-agua-de-mar-rexmar"]
 ---
 
 ## **Primero**, porque el famoso René Quinton no lo hacía y   

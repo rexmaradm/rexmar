@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3687'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '3649'
-    - '3649'
-aliases: ["home/formas-de-uso-y-tips/colutorio/"]
+aliases: ["/colutorio"]
 ---
 
 - <span class="qwen-markdown-text">Descubrí los estudios científicos que comparan el agua de mar con la clorhexidina, cómo los minerales marinos protegen encías y dientes, y el protocolo completo para usar agua de mar como colutorio natural. Debajo de los testimonios, la expliación y los papers científicos </span>

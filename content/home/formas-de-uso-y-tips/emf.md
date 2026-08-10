@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3893'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '565'
-    - '565'
-aliases: ["home/formas-de-uso-y-tips/emf/"]
+aliases: ["/emf"]
 ---
 
 ## Agua de Mar Isotónica y Campos Electromagnéticos (EMF): Evidencia Científica sobre Resiliencia Celular

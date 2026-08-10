@@ -6,7 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3458'
-aliases: ["home/formas-de-uso-y-tips/slug-url-sugerida-beneficios-yodo-agua-mar-tiroides-proteccion-categoria-salud-y-bienestar-nutricion-etiquetas-yodo-agua-de-mar-tiroides-salud-natural-prevencion-sistema-inmune/"]
+aliases: ["/slug-url-sugerida-beneficios-yodo-agua-mar-tiroides-proteccion-categoria-salud-y-bienestar-nutricion-etiquetas-yodo-agua-de-mar-tiroides-salud-natural-prevencion-sistema-inmune"]
 ---
 
 ---

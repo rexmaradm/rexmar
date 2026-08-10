@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3562'
-wp_statistics_words_count:
-    - '82'
-    - '82'
-aliases: ["home/formas-de-uso-y-tips/adelgace/"]
+aliases: ["/adelgace"]
 ---
 
 En [éstos estudios](/formas-de-uso-y-tips/diabetes/) se comprobó que el agua de mar (AdM) activa la [enzima AMPK](https://search.brave.com/search?q=enzima+AMPK&source=desktop&conversation=093e8cac4e8aba048d027d53f48174625245&summary=1) que es la que usa la grasa corporal cuando se necesita energía, por lo tanto, el uso continuado de Agua de Mar RexMar induciría a bajar de peso, sin mayores esfuerzos.   

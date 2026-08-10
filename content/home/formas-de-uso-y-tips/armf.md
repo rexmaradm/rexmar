@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3925'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '542'
-    - '542'
-aliases: ["home/formas-de-uso-y-tips/armf/"]
+aliases: ["/armf"]
 ---
 
 ## Agua de Mar Isotónica y el Aparato Reproductor Femenino: Evidencia Científica sobre Fertilidad, Menopausia y Salud Hormonal

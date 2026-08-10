@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3830'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '453'
-    - '453'
-aliases: ["home/formas-de-uso-y-tips/alerg/"]
+aliases: ["/alerg"]
 ---
 
 ## Agua de Mar Isotónica y Alergias: Evidencia Científica y Aplicación

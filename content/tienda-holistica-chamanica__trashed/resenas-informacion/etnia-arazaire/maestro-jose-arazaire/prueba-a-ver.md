@@ -6,14 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2068'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-    - block-editor
-aliases: ["tienda-holistica-chamanica__trashed/resenas-informacion/etnia-arazaire/maestro-jose-arazaire/prueba-a-ver/"]
+aliases: ["/prueba-a-ver"]
 ---
 
 pprueba a ver donde escribe

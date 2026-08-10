@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3895'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '530'
-    - '530'
-aliases: ["home/formas-de-uso-y-tips/panc/"]
+aliases: ["/panc"]
 ---
 
 ## Agua de Mar Isotónica y Salud Pancreática: Evidencia Científica sobre la Regeneración de Células Beta

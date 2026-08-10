@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3915'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '585'
-    - '585'
-aliases: ["home/formas-de-uso-y-tips/traq/"]
+aliases: ["/traq"]
 ---
 
 ## Agua de Mar Isotónica y la Tráquea: Evidencia Científica sobre la Salud del Epitelio Respiratorio

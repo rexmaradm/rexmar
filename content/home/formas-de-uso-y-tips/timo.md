@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3921'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '587'
-    - '587'
-aliases: ["home/formas-de-uso-y-tips/timo/"]
+aliases: ["/timo"]
 ---
 
 ## Agua de Mar Isotónica y el Timo: Evidencia Científica sobre la Inmunidad Celular y los Linfocitos T

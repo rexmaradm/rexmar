@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3986'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '576'
-    - '576'
-aliases: ["home/formas-de-uso-y-tips/ovar/"]
+aliases: ["/ovar"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y los Ovarios: Evidencia Científica sobre Salud Ovárica, Fertilidad y Equilibrio Hormonal

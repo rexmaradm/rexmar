@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3827'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '526'
-    - '526'
-aliases: ["home/formas-de-uso-y-tips/dialisis/"]
+aliases: ["/dialisis"]
 ---
 
 ## Agua de Mar Isotónica y Diálisis: Perspectiva Científica y Testimonial

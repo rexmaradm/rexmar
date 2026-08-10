@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3649'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/iv/"]
+aliases: ["/iv"]
 ---
 
 1. **El Plasma de Quinton**: agua de mar microfiltrada y diluida que SÍ se puede inyectar (isotónica)

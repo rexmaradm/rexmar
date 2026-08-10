@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3942'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '542'
-    - '542'
-aliases: ["home/formas-de-uso-y-tips/rect/"]
+aliases: ["/rect"]
 ---
 
 ## Agua de Mar Isotónica e Hipertónica y la Salud Rectal: Evidencia Científica sobre Hemorroides, Fisuras y Mucosa

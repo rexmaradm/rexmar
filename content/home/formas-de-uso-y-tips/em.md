@@ -6,10 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3548'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-aliases: ["home/formas-de-uso-y-tips/em/"]
+aliases: ["/em"]
 ---
 
 ## Agua de Mar y Esclerosis Múltiple: Lo que Dice la Ciencia

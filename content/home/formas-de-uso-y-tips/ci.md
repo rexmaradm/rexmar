@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3804'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '93'
-    - '93'
-aliases: ["home/formas-de-uso-y-tips/ci/"]
+aliases: ["/ci"]
 ---
 
 Aquí le hemos creado para su simplicidad la forma de calcular cuantos ML de AdM deberá poner de acuerdo al volúmen de su taza / jarro / jarra. Éste servicio es gratuito, por cuestiones de segurdidad, debe crear una cuenta gratis en éste sitio e ingresar, o también puede ingresar con su cuenta de Google.

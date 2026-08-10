@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3841'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '566'
-    - '566'
-aliases: ["home/formas-de-uso-y-tips/diabetes1/"]
+aliases: ["/diabetes1"]
 ---
 
 ## Agua de Mar Isotónica y Diabetes: Evidencia Científica sobre el Metabolismo de la Glucosa

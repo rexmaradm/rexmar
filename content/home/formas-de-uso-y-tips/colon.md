@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3716'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '4579'
-    - '4579'
-aliases: ["home/formas-de-uso-y-tips/colon/"]
+aliases: ["/colon"]
 ---
 
 Descubrí los estudios científicos sobre cómo el agua de mar profunda mejora la microbiota intestinal, inhibe el cáncer colorrectal, reduce la inflamación en colitis, y el papel del magnesio y calcio marinos en la salud del colon. Debajo de los testimonios, los papers científicos

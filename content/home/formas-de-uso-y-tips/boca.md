@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3930'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '553'
-    - '553'
-aliases: ["home/formas-de-uso-y-tips/boca/"]
+aliases: ["/boca"]
 ---
 
 ## Agua de Mar Isotónica y Salud Bucal: Evidencia Científica sobre Encías, Mucosa y Microbioma Oral

@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=2872'
-classic-editor-remember:
-    - block-editor
-    - block-editor
-footnotes:
-    - ''
-    - ''
-aliases: ["home/formas-de-uso-y-tips/equilibrio-electrolitico-y-adm/"]
+aliases: ["/equilibrio-electrolitico-y-adm"]
 ---
 
 ## **Adaptación (casera, no oficial) con AdM del sistema Unani del dr. David Duarte**

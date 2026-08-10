@@ -6,13 +6,7 @@ author: legar
 excerpt: ''
 layout: page
 guid: 'https://th.org.pe/wp/?page_id=3934'
-classic-editor-remember:
-    - classic-editor
-    - classic-editor
-wp_statistics_words_count:
-    - '599'
-    - '599'
-aliases: ["home/formas-de-uso-y-tips/leng/"]
+aliases: ["/leng"]
 ---
 
 ## Agua de Mar Isotónica y la Lengua: Evidencia Científica sobre la Salud de la Mucosa Lingual y las Papilas Gustativas
