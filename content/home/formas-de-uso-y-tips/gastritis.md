@@ -5,7 +5,7 @@ date: '2022-05-08T23:46:04+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmar.org.pe/?page_id=480'
+guid: 'https://th.org.pe/?page_id=480'
 aliases: ["/gastritis"]
 ---
 

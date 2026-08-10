@@ -5,14 +5,17 @@ date: '2022-04-03T01:36:41+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmar.org.pe/?page_id=430'
+guid: 'https://th.org.pe/?page_id=430'
 aliases: ["/diabetes"]
 ---
 
 El Agua de Mar es buena para la diabetes y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría general
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/68l0OHrH-gE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Recientemente, el agua de mar (AdM) ha comenzado a recibir mucha atención para la intervención terapéutica en algunas enfermedades del estilo de vida. En este estudio, se investigaron los efectos **antiobesidad** y **antidiabéticos** de AdM en ratones. Los animales se dividieron aleatoriamente en dos grupos con seis animales: el grupo de control recibió agua del grifo; el grupo experimental fue tratado con AdM de dureza 1000 durante 84 días.   
+
   
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/M2N-GIa2XTg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+
 La ganancia de peso corporal después de 84 días en el grupo alimentado con AdM se redujo en un 7 % en comparación con el grupo de control. Los niveles de glucosa en plasma en los ratones alimentados con AdM se redujeron sustancialmente en un 35,4 %, en comparación con los ratones de control.   
   
 Los resultados de la prueba de tolerancia a la glucosa oral revelaron que los grupos alimentados con AdM aumentaron significativamente la eliminación de glucosa después de 84 días. AdM aumentó los niveles de proteína plasmática de adiponectina y disminuyó los niveles de proteína plasmática de resistina, RBP4 y proteína de unión a ácidos grasos. Además, los niveles de proteína quinasa activada por AMP y GLUT4 en el tejido del músculo esquelético aumentaron, mientras que el receptor gamma activado por el proliferador de peroxisomas y la adiponectina disminuyeron en el tejido adiposo de los ratones alimentados con AdM.  
@@ -123,6 +126,4 @@ https://pubmed.ncbi.nlm.nih.gov/28850074/
 <https://www.sciencedirect.com/science/article/pii/S0022030215004543>
 
 <https://www.liebertpub.com/doi/abs/10.1089/jmf.2019.4658>
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/M2N-GIa2XTg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 

@@ -5,7 +5,7 @@ date: '2022-04-03T00:38:33+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmar.org.pe/?page_id=423'
+guid: 'https://th.org.pe/?page_id=423'
 aliases: ["/helicobacter-pylori"]
 ---
 

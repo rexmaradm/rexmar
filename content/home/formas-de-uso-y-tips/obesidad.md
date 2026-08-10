@@ -5,7 +5,7 @@ date: '2022-04-26T00:20:50+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmar.org.pe/?page_id=439'
+guid: 'https://th.org.pe/?page_id=439'
 aliases: ["/obesidad"]
 ---
 

@@ -5,7 +5,7 @@ date: '2022-03-18T13:39:57+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmar.org.pe/?page_id=392'
+guid: 'https://th.org.pe/?page_id=392'
 aliases: ["/leyes-de-quinton"]
 ---
 

@@ -5,7 +5,7 @@ date: '2022-07-22T16:41:04+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmar.org.pe/?page_id=573'
+guid: 'https://th.org.pe/?page_id=573'
 aliases: ["/alzheimer-y-agua-de-mar"]
 ---
 

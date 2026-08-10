@@ -5,7 +5,7 @@ date: '2021-06-03T11:05:19+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexcobre.wordpress.com/?page_id=9'
+guid: 'https://th.org.pe/?page_id=9'
 aliases: ["/referencias"]
 ---
 

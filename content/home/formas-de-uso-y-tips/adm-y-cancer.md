@@ -5,7 +5,7 @@ date: '2022-04-02T14:51:51+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexmar.org.pe/?page_id=418'
+guid: 'https://th.org.pe/?page_id=418'
 aliases: ["/adm-y-cancer"]
 ---
 

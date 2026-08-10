@@ -5,7 +5,7 @@ date: '2022-12-17T14:36:39+00:00'
 author: legar
 excerpt: "Propiedades del Cobre en Animales\n\nElimina Bacterias\n\nEl Collar RexCobre elimina bacterias en poco tiempo, gracias a las partículas de cobre.\n\nSirve contra: Staphylococcus aureus, Klebsiella spp, Escherichia coli, entre otras.\n\nElimina Hongos\n\nEl Collar RexCobre elimina hongos gracias a las partículas de cobre.\n\nElimina Microsporum canis, asociado como el principal patógeno implicado en problemas dermatológicos por hongos en perros y gatos.\n\nElimina ácaros del polvo que estén en contacto\n\nFavorece/acelera la cicatrización\n\ny sumado a estas importantes caracteristicas, estan las ya concidas hace cientos de años del cobre (ver más abajo)"
 layout: page
-guid: 'https://rexcobre.wordpress.com/?page_id=220'
+guid: 'https://th.org.pe/?page_id=220'
 aliases: ["/collar-de-cobre-para-animales-protejelos"]
 ---
 

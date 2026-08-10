@@ -5,7 +5,7 @@ date: '2022-07-01T20:34:23+00:00'
 author: legar
 excerpt: ''
 layout: page
-guid: 'https://rexcobre.wordpress.com/?page_id=115'
+guid: 'https://th.org.pe/?page_id=115'
 aliases: ["/tienda-3"]
 ---
 
