@@ -6,6 +6,11 @@ compile_sass = true
 generate_feeds = true
 build_search_index = true
 
+taxonomies = [
+    { name = "tags", feed = false, render = false  },
+    { name = "categories", feed = false, render = false  },
+]
+
 # ¡ESTA ES LA CLAVE! Le dice a Zola que use el formato compatible con Fuse.js
 [search]
 index_format = "fuse_json"

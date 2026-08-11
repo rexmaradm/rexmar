@@ -57,6 +57,88 @@ main {
     color: #ffffff;
 	}
     </style>
+{% if page %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description | default(value=config.description) }}",
+  "datePublished": "{{ page.date }}",
+  "dateModified": "{{ page.updated | default(value=page.date) }}",
+  "author": {
+    "@type": "Person",
+    "name": "Tu Nombre"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ config.title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ config.base_url }}/logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.permalink }}"
+  }
+}
+</script>
+{% elif section %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ section.title }}",
+  "description": "{{ section.description | default(value=config.description) }}",
+  "url": "{{ section.permalink }}"
+}
+</script>
+{% else %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ config.title }}",
+  "description": "{{ config.description }}",
+  "url": "{{ config.base_url }}"
+}
+</script>
+{% endif %}
+<!-- Open Graph / Facebook -->
+{% if page %}
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.description | default(value=config.description) }}">
+    <meta property="og:url" content="{{ page.permalink }}">
+    <meta property="og:site_name" content="{{ config.title }}">
+    {% if page.date %}
+        <meta property="article:published_time" content="{{ page.date }}">
+    {% endif %}
+    {% if page.extra.image %}
+        <meta property="og:image" content="{{ page.extra.image }}">
+    {% endif %}
+{% else %}
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ config.title }}">
+    <meta property="og:description" content="{{ config.description }}">
+    <meta property="og:url" content="{{ config.base_url }}">
+    <meta property="og:site_name" content="{{ config.title }}">
+{% endif %}
+
+<!-- Twitter Card -->
+{% if page %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.description | default(value=config.description) }}">
+    {% if page.extra.image %}
+        <meta name="twitter:image" content="{{ page.extra.image }}">
+    {% endif %}
+{% else %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ config.title }}">
+    <meta name="twitter:description" content="{{ config.description }}">
+{% endif %}
 </head>
 <body>
     <header>
