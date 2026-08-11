@@ -2,9 +2,7 @@
 title = "Agua de Mar Isotónica Intravenosa y Hemorroides: Evidencia Histórica y Clínica"
 date = 2025-01-15
 description = "La terapia intravenosa de Quinton y su efecto sobre las hemorroides: mecanismos de acción, evidencia histórica y aplicaciones clínicas modernas."
-[taxonomies]
-tags = ["agua-de-mar", "plasma-quinton", "hemorroides", "terapia-intravenosa", "medicina-integrativa"]
-categories = ["salud-vascular", "terapia-marina"]
+alias = "/transiv"
 +++
 
 ## Introducción: La Revolución de Quinton y la Vía Intravenosa
