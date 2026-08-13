@@ -4,6 +4,10 @@ description = "Registro de donaciones para Solange Espinoza y su refugio de gato
 date = 2026-08-06
 +++
 
+# para colaborar directamente con Solange, 
+
+## [Refugio de gatos con HIV de Solange](https://www.facebook.com/share/p/1CGmaSfZVm/)
+
 ## Donación para Solange Espinoza - 29/10/2023
 
 ![Donación 29/10/23](/images/donac/29-10-23.Solange-1-611x1024.jpg)
