@@ -14,7 +14,9 @@ aliases: ["/iv"]
 3. **Soluciones salinas hipertónicas IV** derivadas del concepto del agua de mar
 4. **Terapias modernas de hidratación IV con minerales marinos**. debajo de los testimonios, los estudios científicos.
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
 <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v7bzpps/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v7bxv8i/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe></div>
 
