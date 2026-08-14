@@ -14,32 +14,18 @@ aliases: ["/iv"]
 3. **Soluciones salinas hipertónicas IV** derivadas del concepto del agua de mar
 4. **Terapias modernas de hidratación IV con minerales marinos**. debajo de los testimonios, los estudios científicos.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v7bzpps/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe>
-</div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v7bxv8i/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe width="640" height="360" src="https://www.youtube.com/embed/xaD4psM6DJU" title="Mi inyeccion de agua de mar en vena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe width="640" height="360" src="https://www.youtube.com/embed/xaD4psM6DJU" title="Mi inyeccion de agua de mar en vena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-<iframe src="https://www.youtube.com/embed/HtoTfHQRMak" style="position:absolute;top:0;left:0;width:56.25%;height:56.25%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-</div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-<iframe src="https://www.youtube.com/embed/4G6ze_mSRB0" style="position:absolute;top:0;left:0;width:56.25%;height:56.25%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-</div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-<iframe src="https://www.youtube.com/embed/XavNsUpYKuQ" style="position:absolute;top:0;left:0;width:56.25%;height:56.25%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-</div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-<iframe src="https://www.youtube.com/embed/GWDdl6eR8cY" style="position:absolute;top:0;left:0;width:56.25%;height:56.25%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-</div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-<iframe src="https://www.youtube.com/embed/C3k5mmtAT8g" style="position:absolute;top:0;left:0;width:56.25%;height:56.25%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-</div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-<iframe src="https://www.youtube.com/embed/3YE-9VuH_b4" style="position:absolute;top:0;left:0;width:56.25%;height:56.25%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-</div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-<iframe src="https://www.youtube.com/embed/EQ9iEhNDiFs" style="position:absolute;top:0;left:0;width:56.25%;height:56.25%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+{% raw %}
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://rumble.com/embed/v7bzpps/?pub=1wgpuu" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Rumble 1"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://rumble.com/embed/v7bxv8i/?pub=1wgpuu" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Rumble 2"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/xaD4psM6DJU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Mi inyeccion de agua de mar en vena"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/HtoTfHQRMak" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/4G6ze_mSRB0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/XavNsUpYKuQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/GWDdl6eR8cY" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/C3k5mmtAT8g" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/3YE-9VuH_b4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/EQ9iEhNDiFs" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+{% endraw %}
 
 ## Agua de Mar e Inyecciones Intravenosas (IV): De René Quinton a la Medicina Moderna
 
