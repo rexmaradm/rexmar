@@ -14,6 +14,8 @@ aliases: ["/iv"]
 3. **Soluciones salinas hipertónicas IV** derivadas del concepto del agua de mar
 4. **Terapias modernas de hidratación IV con minerales marinos**. debajo de los testimonios, los estudios científicos.
 
+<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v7bzpps/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe>
+
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v7bxv8i/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe></div>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe width="1255" height="480" src="https://www.youtube.com/embed/xaD4psM6DJU" title="Mi inyeccion de agua de mar en vena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
