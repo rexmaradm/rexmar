@@ -1,31 +1,29 @@
----
-id: 3649
-title: 'Inyección intravenosa y AdM'
-date: '2026-07-02T06:46:16+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3649'
-aliases: ["/iv"]
----
++++
+title = "Inyección intravenosa y AdM"
+date = 2026-07-02T06:46:16+00:00
+aliases = ["/iv"]
+
+[extra]
+videos = [
+    { platform = "rumble", id = "v7bzpps/?pub=1wgpuu" },
+    { platform = "rumble", id = "v7bxv8i/?pub=1wgpuu" },
+    { platform = "youtube", id = "xaD4psM6DJU" },
+    { platform = "youtube", id = "HtoTfHQRMak" },
+    { platform = "youtube", id = "4G6ze_mSRB0" },
+    { platform = "youtube", id = "XavNsUpYKuQ" },
+    { platform = "youtube", id = "GWDdl6eR8cY" },
+    { platform = "youtube", id = "C3k5mmtAT8g" },
+    { platform = "youtube", id = "3YE-9VuH_b4" },
+    { platform = "youtube", id = "EQ9iEhNDiFs" },
+]
++++
 
 1. **El Plasma de Quinton**: agua de mar microfiltrada y diluida que SÍ se puede inyectar (isotónica)
 2. **Estudios históricos de inyecciones subcutáneas de agua de mar** desde 1909
 3. **Soluciones salinas hipertónicas IV** derivadas del concepto del agua de mar
 4. **Terapias modernas de hidratación IV con minerales marinos**. debajo de los testimonios, los estudios científicos.
 
-{% raw %}
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://rumble.com/embed/v7bzpps/?pub=1wgpuu" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Rumble 1"></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://rumble.com/embed/v7bxv8i/?pub=1wgpuu" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Rumble 2"></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/xaD4psM6DJU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Mi inyeccion de agua de mar en vena"></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/HtoTfHQRMak" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/4G6ze_mSRB0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/XavNsUpYKuQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/GWDdl6eR8cY" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/C3k5mmtAT8g" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/3YE-9VuH_b4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/EQ9iEhNDiFs" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
-{% endraw %}
+VIDEOS_AQUI
 
 ## Agua de Mar e Inyecciones Intravenosas (IV): De René Quinton a la Medicina Moderna
 
