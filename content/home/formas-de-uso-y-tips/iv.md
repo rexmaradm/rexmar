@@ -5,16 +5,16 @@ aliases = ["/iv"]
 
 [extra]
 videos = [
-    { platform = "rumble", id = "v7bzpps/?pub=1wgpuu" },
-    { platform = "rumble", id = "v7bxv8i/?pub=1wgpuu" },
-    { platform = "youtube", id = "xaD4psM6DJU" },
-    { platform = "youtube", id = "HtoTfHQRMak" },
-    { platform = "youtube", id = "4G6ze_mSRB0" },
-    { platform = "youtube", id = "XavNsUpYKuQ" },
-    { platform = "youtube", id = "GWDdl6eR8cY" },
-    { platform = "youtube", id = "C3k5mmtAT8g" },
-    { platform = "youtube", id = "3YE-9VuH_b4" },
-    { platform = "youtube", id = "EQ9iEhNDiFs" },
+    { platform = "rumble", id = "v7bzpps/?pub=1wgpuu", title = "Mi primera inyección de agua de mar en vena. Legar, Perú" },
+    { platform = "rumble", id = "v7bxv8i/?pub=1wgpuu", title = "Enfermera Berta, Colombia" },
+    { platform = "youtube", id = "xaD4psM6DJU", title = "Mi inyección de agua de mar en vena. Griselda Donatucci, Nicaragua " },
+    { platform = "youtube", id = "HtoTfHQRMak", title = "Suero I.V. Dr.Lopez" },
+    { platform = "youtube", id = "4G6ze_mSRB0", title = "Inyección intramuscular y AdM" },
+    { platform = "youtube", id = "XavNsUpYKuQ", title = "Inyecciones AdM por Berta, Colombia" },
+    { platform = "youtube", id = "GWDdl6eR8cY", title = "AdM inyectada" },
+    { platform = "youtube", id = "C3k5mmtAT8g", title = "Insuficiencia renal y AdM inyectada" },
+    { platform = "youtube", id = "3YE-9VuH_b4", title = "Mi auto-vacuna casera" },
+    { platform = "youtube", id = "EQ9iEhNDiFs", title = "AdM intravenosa para alcalinizarnos" },
 ]
 +++
 

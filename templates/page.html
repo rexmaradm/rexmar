@@ -8,15 +8,18 @@
 
   {% if page.extra and page.extra.videos %}
     {% for v in page.extra.videos %}
+      {% if v.title %}
+        <h3 style="margin-top:1.5em;margin-bottom:0.3em;">{{ v.title }}</h3>
+      {% endif %}
       <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;margin-bottom:1em;">
         {% if v.platform == "youtube" %}
           <iframe src="https://www.youtube-nocookie.com/embed/{{ v.id }}"
             style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-            allowfullscreen loading="lazy"></iframe>
+            allowfullscreen loading="lazy" title="{{ v.title }}"></iframe>
         {% elif v.platform == "rumble" %}
           <iframe src="https://rumble.com/embed/{{ v.id }}"
             style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-            allowfullscreen loading="lazy"></iframe>
+            allowfullscreen loading="lazy" title="{{ v.title }}"></iframe>
         {% endif %}
       </div>
     {% endfor %}
