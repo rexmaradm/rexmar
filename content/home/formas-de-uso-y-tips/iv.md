@@ -5,6 +5,9 @@ aliases = ["/iv"]
 
 [extra]
 videos = [
+
+    { platform = "rumble", id = "v7c2lb8/?pub=1wgpuu", title = "Ayuda curación con inyección de agua de mar Subcutánea.1/2 Legar, Perú" },
+    { platform = "rumble", id = "v7c2lku/?pub=1wgpuu", title = "Ayuda curación con inyección de agua de mar Subcutánea.2/2 Legar, Perú" },
     { platform = "rumble", id = "v7bzpps/?pub=1wgpuu", title = "Mi primera inyección de agua de mar en vena. Legar, Perú" },
     { platform = "rumble", id = "v7bxv8i/?pub=1wgpuu", title = "Enfermera Berta, Colombia" },
     { platform = "youtube", id = "xaD4psM6DJU", title = "Mi inyección de agua de mar en vena. Griselda Donatucci, Nicaragua " },
