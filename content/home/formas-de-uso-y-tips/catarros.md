@@ -1,14 +1,9 @@
----
-id: 3593
-title: 'Catarros (resfrío común) y AdM'
-date: '2026-06-27T10:13:50+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3593'
-aliases: ["/catarros"]
----
-
++++
+title = "Catarros (resfrío común) y AdM"
+date = 2026-06-27
+author = "legar"
+aliases = ["/catarros"]
++++
 El **catarro** (resfriado común o infección viral del tracto respiratorio superior) es un área donde **SÍ existe sólida evidencia científica** sobre el uso exclusivo de agua de mar como tratamiento efectivo.
 
 El catarro afecta principalmente las vías respiratorias superiores (nariz y garganta), no los pulmones, por lo que el lavado nasal con agua de mar es seguro y ha sido ampliamente estudiado.

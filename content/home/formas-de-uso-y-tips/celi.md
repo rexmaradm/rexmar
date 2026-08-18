@@ -1,14 +1,9 @@
----
-id: 3952
-title: 'Celiaquía y AdM'
-date: '2026-07-23T14:59:36+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3952'
-aliases: ["/celi"]
----
-
++++
+title = "Celiaquía y AdM"
+date = 2026-07-23
+author = "legar"
+aliases = ["/celi"]
++++
 ## Agua de Mar Isotónica y la Enfermedad Celíaca: Evidencia Científica sobre la Reparación de la Barrera Intestinal
 
 La enfermedad celíaca se caracteriza por una respuesta inmune al gluten que daña las vellosidades del intestino delgado, provocando malabsorción de nutrientes y un aumento de la permeabilidad intestinal (conocido como "intestino permeable" o *leaky gut*). La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes coadyuvantes en la restauración de la integridad de la mucosa, la modulación de la inflamación y la reposición mineral crítica. ---

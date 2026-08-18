@@ -1,14 +1,9 @@
----
-id: 3645
-title: 'Lipomas y AdM'
-date: '2026-07-02T06:31:41+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3645'
-aliases: ["/lipomas"]
----
-
++++
+title = "Lipomas y AdM"
+date = 2026-07-02
+author = "legar"
+aliases = ["/lipomas"]
++++
 Te tengo que hacer una aclaración muy importante antes de pasar el contenido: en la literatura científica actual no existen estudios que traten los lipomas exclusivamente con agua de mar. Sin embargo, encontré algo muy relevante y fascinante:  
 Estudios sobre inyecciones de solución salina (agua salada) en lipomas - ¡Hay ensayos clínicos recientes sobre esto!  
 Estudios sobre agua de mar profunda (DSW) con efectos antitumorales - Aunque no específicos para lipomas, sí para tumores en general  

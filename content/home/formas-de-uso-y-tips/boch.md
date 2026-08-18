@@ -1,14 +1,9 @@
----
-id: 4012
-title: 'Bochornos y AdM'
-date: '2026-07-24T19:50:28+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=4012'
-aliases: ["/boch"]
----
-
++++
+title = "Bochornos y AdM"
+date = 2026-07-24
+author = "legar"
+aliases = ["/boch"]
++++
 ## Agua de Mar Isotónica e Hipertónica y los Bochornos: Evidencia Científica sobre Termorregulación y Equilibrio en la Menopausia
 
 Los bochornos o sofocos vasomotores son una de las manifestaciones más comunes de los cambios hormonales, caracterizados por una dilatación repentina de los vasos sanguíneos y una alteración en el centro termorregulador del hipotálamo. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino (en sus presentaciones isotónica e hipertónica) actúan como potentes moduladores del medio interno, ofreciendo un apoyo bioquímico natural para estabilizar el sistema nervioso autónomo y mitigar estos síntomas. ---

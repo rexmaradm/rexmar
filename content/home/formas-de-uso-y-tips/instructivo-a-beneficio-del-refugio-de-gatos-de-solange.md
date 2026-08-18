@@ -1,14 +1,9 @@
----
-id: 3101
-title: 'Instructivo a beneficio del Refugio de gatos de Solange'
-date: '2025-07-28T11:20:23+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3101'
-aliases: ["/instructivo-a-beneficio-del-refugio-de-gatos-de-solange"]
----
-
++++
+title = "Instructivo a beneficio del Refugio de gatos de Solange"
+date = 2025-07-28
+author = "legar"
+aliases = ["/instructivo-a-beneficio-del-refugio-de-gatos-de-solange"]
++++
 **Éste instructivo explica detalladamente y con videos cómo hacer un bebedero para mascotas por menos de 9 U$S, con cosas de su casa (además de la bomba pequeña de agua)**
 
 ![](/wp-content/uploads/2025/07/imagen.png)  

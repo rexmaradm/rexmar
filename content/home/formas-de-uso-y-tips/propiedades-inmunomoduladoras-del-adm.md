@@ -1,14 +1,9 @@
----
-id: 2794
-title: 'Propiedades inmunomoduladoras del AdM'
-date: '2025-01-07T17:53:49+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2794'
-aliases: ["/propiedades-inmunomoduladoras-del-adm"]
----
-
++++
+title = "Propiedades inmunomoduladoras del AdM"
+date = 2025-01-07
+author = "legar"
+aliases = ["/propiedades-inmunomoduladoras-del-adm"]
++++
 **Las propiedades inmunomoduladoras del agua de mar**
 
 El agua de mar es una solución rica en una gran variedad de minerales y oligoelementos esenciales para el funcionamiento óptimo de nuestro organismo. Estos componentes le confieren propiedades inmunomoduladoras, lo que significa que pueden ayudar a regular y fortalecer nuestro sistema inmunológico.

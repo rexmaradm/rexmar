@@ -1,14 +1,9 @@
----
-id: 3865
-title: 'Isquemia Cerebral y secuelas (disartría etc) y AdM'
-date: '2026-07-18T12:27:06+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3865'
-aliases: ["/isquemia"]
----
-
++++
+title = "Isquemia Cerebral y secuelas (disartría etc) y AdM"
+date = 2026-07-18
+author = "legar"
+aliases = ["/isquemia"]
++++
 ## Agua de Mar Isotónica, Isquemia Cerebral y Recuperación Neurológica
 
 Existe un creciente interés científico y clínico en el uso del agua de mar isotónica (Plasma de Quinton) como coadyuvante en la recuperación de daños cerebrales, como la isquemia cerebral (ictus), y sus secuelas motoras, incluida la disartria. La base de este enfoque radica en la capacidad del plasma marino para remineralizar el medio interno y aportar los cofactores necesarios para la reparación del sistema nervioso.Debajo de los videos, los papers científicos. ---

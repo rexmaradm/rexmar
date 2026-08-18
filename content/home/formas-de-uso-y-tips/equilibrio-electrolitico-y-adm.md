@@ -1,14 +1,9 @@
----
-id: 2872
-title: 'Adelgace y mejore su salud &#8211; Equilibrio Hidro-Electrolítico y AdM'
-date: '2025-03-22T16:02:37+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2872'
-aliases: ["/equilibrio-electrolitico-y-adm"]
----
-
++++
+title = "Adelgace y mejore su salud – Equilibrio Hidro-Electrolítico y AdM"
+date = 2025-03-22
+author = "legar"
+aliases = ["/equilibrio-electrolitico-y-adm"]
++++
 ## **Adaptación (casera, no oficial) con AdM del sistema Unani del dr. David Duarte**
 
 **Nuestro cuerpo necesita unos 9 gr de sal por litro de agua (incluyendo líquidos y *"solidos"* que comemos).   

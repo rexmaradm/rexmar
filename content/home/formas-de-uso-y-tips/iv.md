@@ -1,6 +1,6 @@
 +++
 title = "Inyección intravenosa y AdM"
-date = 2026-07-02T06:46:16+00:00
+date = 2026-08-18
 aliases = ["/iv"]
 
 [extra]

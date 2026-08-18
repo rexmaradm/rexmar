@@ -1,14 +1,9 @@
----
-id: 634
-title: 'Leyes de Quinton'
-date: '2022-03-18T13:39:57+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=392'
-aliases: ["/leyes-de-quinton"]
----
-
++++
+title = "Leyes de Quinton"
+date = 2022-03-18
+author = "legar"
+aliases = ["/leyes-de-quinton"]
++++
 René Quinton fue un biólogo y fisiólogo francés que descubrió las similitudes entre el agua de mar y el líquido intracelular de los vertebrados. Basado en esta premisa, Quinton desarrolló su terapia marina y formuló varias leyes relacionadas con el uso del agua de mar en la salud y la agricultura. A continuación, se presenta un resumen de las leyes de René Quinton:
 
 1. **Ley de la constancia marina**: Esta ley establece que el agua de mar tiene una composición química muy similar al plasma sanguíneo y al líquido intracelular de los vertebrados. Según Quinton, el agua de mar puede ayudar a reconstruir las células dañadas y promover la salud\[4\].

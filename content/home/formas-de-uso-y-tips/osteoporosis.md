@@ -1,14 +1,9 @@
----
-id: 3617
-title: 'Osteoporósis y AdM'
-date: '2026-06-30T11:01:15+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3617'
-aliases: ["/osteoporosis"]
----
-
++++
+title = "Osteoporósis y AdM"
+date = 2026-06-30
+author = "legar"
+aliases = ["/osteoporosis"]
++++
 existe **evidencia científica sólida y prometedora**, principalmente en estudios preclínicos, sobre el uso de **agua de mar profunda (Deep Sea Water - DSW)** y **minerales marinos** para la osteoporosis. Debajo de los testimonios, los papers científicos.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/mfJkO9LTR9g" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/ZzAuzarIjao" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre osteoporosis tratada con agua de mar y minerales marinos

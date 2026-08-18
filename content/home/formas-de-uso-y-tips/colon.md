@@ -1,14 +1,9 @@
----
-id: 3716
-title: 'Colon (Int. Grueso) y AdM'
-date: '2026-07-08T05:15:42+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3716'
-aliases: ["/colon"]
----
-
++++
+title = "Colon (Int. Grueso) y AdM"
+date = 2026-07-08
+author = "legar"
+aliases = ["/colon"]
++++
 Descubrí los estudios científicos sobre cómo el agua de mar profunda mejora la microbiota intestinal, inhibe el cáncer colorrectal, reduce la inflamación en colitis, y el papel del magnesio y calcio marinos en la salud del colon. Debajo de los testimonios, los papers científicos
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/FRBq5m4rWgE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>

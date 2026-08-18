@@ -1,4 +1,8 @@
 +++
+title = ""
+date = 2026-08-17
++++
++++
 title = "Bebida Energética con AdM"
 date = "2024-01-01"
 aliases = ["/bebi"]
@@ -36,4 +40,3 @@ Aragón-Vela, J., et al. (2022). Physiological Benefits and Performance of Sea W
 Keen, D. A., et al. (2016). The impact of post-exercise hydration with deep-ocean mineral water on rehydration and exercise performance. Journal of the International Society of Sports Nutrition. 🔗 Leer en Springer
 Fukui, K., et al. (2024). Effects of deep-sea water on training efficiency, locomotor function and respiratory system. Heliyon, Cell Press. 🔗 Leer en ScienceDirect
 Food Navigator. (2019). ‘Functional recovery’ drink boasts 20% seawater: Formulation and post-exercise replenishment. 🔗 Ver análisis de formulación deportiva
-

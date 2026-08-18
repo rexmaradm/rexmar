@@ -1,14 +1,9 @@
----
-id: 3667
-title: 'Acidez y AdM'
-date: '2026-07-04T17:17:37+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3667'
-aliases: ["/acidez-y-adm"]
----
-
++++
+title = "Acidez y AdM"
+date = 2026-07-04
+author = "legar"
+aliases = ["/acidez-y-adm"]
++++
 ¿El agua de mar cura la acidez? Analizamos estudios científicos sobre el efecto del agua de mar profunda y el Plasma de Quinton en el pH gástrico, la gastritis y el reflujo. Debajo de los testimonios, los papers científicos <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/UYHy3yHY-5c" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/GELINm6Jgyo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> https://www.youtube.com/watch?v=wIX6\_WQnCPI <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/81lDpR9GypQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 # <span class="qwen-markdown-text" data-spm-anchor-id="a2ty_o01.29997173.0.i3.721555fbIrqqFx">Agua de Mar y Acidez Estomacal: Lo que Dice la Ciencia</span>

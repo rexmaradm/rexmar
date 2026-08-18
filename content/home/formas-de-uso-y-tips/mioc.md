@@ -1,14 +1,9 @@
----
-id: 3878
-title: 'Miocarditis, pericarditis y AdM'
-date: '2026-07-19T19:42:45+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3878'
-aliases: ["/mioc"]
----
-
++++
+title = "Miocarditis, pericarditis y AdM"
+date = 2026-07-19
+author = "legar"
+aliases = ["/mioc"]
++++
 ## Agua de Mar Isotónica, Miocarditis y Pericarditis: Evidencia Científica y Recuperación Cardíaca
 
 Existe un sólido respaldo en la literatura científica sobre el uso de compuestos marinos y agua de mar profunda (DSW) como coadyuvantes en la protección y rehabilitación del tejido cardíaco. En condiciones inflamatorias como la miocarditis y la pericarditis, el agua de mar isotónica (Plasma de Quinton) actúa como un potente modulador inmunológico y un proveedor de minerales iónicos esenciales para la reparación celular del corazón. ---

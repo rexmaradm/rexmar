@@ -1,12 +1,9 @@
----
-id: 
-title: 'Cómo empezar a tomar'
-date: '2026-06-10T10:41:08+00:00'
-author: legar
-layout: page
-aliases: ["/tomar"]
----
-
++++
+title = "Cómo empezar a tomar"
+date = 2026-06-10
+author = "legar"
+aliases = ["/tomar"]
++++
 # Cómo empezar a tomar? 
 
 # Guía rápida de Formas de tomar y usar el Agua de Mar (AdM) RexMar

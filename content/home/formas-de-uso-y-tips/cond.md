@@ -1,14 +1,9 @@
----
-id: 4000
-title: 'Conductos deferentes y AdM'
-date: '2026-07-24T16:19:05+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=4000'
-aliases: ["/cond"]
----
-
++++
+title = "Conductos deferentes y AdM"
+date = 2026-07-24
+author = "legar"
+aliases = ["/cond"]
++++
 ## Agua de Mar Isotónica e Hipertónica y los Conductos Deferentes: Evidencia Científica sobre Transporte Espermático y Músculo Liso
 
 Los conductos deferentes (vas deferens) son estructuras musculares fundamentales encargadas de transportar los espermatozoides desde el epidídimo hasta la uretra durante la eyaculación. Su función óptima depende de un músculo liso potente y coordinado, un equilibrio iónico preciso en el fluido luminal y un entorno libre de estrés oxidativo. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino actúan como potentes moduladores de este microambiente reproductivo. ---

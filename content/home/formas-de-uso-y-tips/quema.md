@@ -1,14 +1,9 @@
----
-id: 3788
-title: 'Quemaduras y AdM'
-date: '2026-07-12T16:17:19+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3788'
-aliases: ["/quema"]
----
-
++++
+title = "Quemaduras y AdM"
+date = 2026-07-12
+author = "legar"
+aliases = ["/quema"]
++++
 Descubrí los estudios científicos que demuestran cómo el agua de mar profunda acelera la cicatrización de quemaduras, los mecanismos moleculares identificados, el papel del magnesio y zinc marinos, y los protocolos de tratamiento con Plasma de Quinton. Debajo de los video testimonios, los papers científicos. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/MvKGfSnHWm4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/Omk65Af0lkQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 # <span class="qwen-markdown-text" data-spm-anchor-id="a2ty_o01.29997173.0.i6.721555fbhi8LEn">Agua de Mar y Quemaduras: Estudios Científicos sobre Cicatrización y Regeneración Cutánea</span>

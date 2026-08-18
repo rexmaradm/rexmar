@@ -1,14 +1,9 @@
----
-id: 2792
-title: 'Bomba de sodio potasio y agua de mar'
-date: '2025-01-05T22:25:14+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2792'
-aliases: ["/bomba-de-sodio-potasio-y-agua-de-mar"]
----
-
++++
+title = "Bomba de sodio potasio y agua de mar"
+date = 2025-01-05
+author = "legar"
+aliases = ["/bomba-de-sodio-potasio-y-agua-de-mar"]
++++
 **Explicación simple:**   
 Imaginemos que nuestro cuerpo es como una gran ciudad muy ocupada. En esta ciudad, hay muchas pequeñas fábricas (nuestras células) que necesitan que todo funcione bien para que la ciudad (nuestro cuerpo) esté sana.
 

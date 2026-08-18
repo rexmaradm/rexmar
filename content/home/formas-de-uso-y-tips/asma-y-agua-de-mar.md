@@ -1,16 +1,9 @@
----
-id: 2537
-title: 'Asma y Agua de mar'
-date: '2024-08-20T22:22:55+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2537'
-aliases: ["/asma-y-agua-de-mar"]
----
-
-  
-  
++++
+title = "Asma y Agua de mar"
+date = 2024-08-20
+author = "legar"
+aliases = ["/asma-y-agua-de-mar"]
++++
 Agua de mar y soluciones salinas en las afecciones de las vías respiratorias superiores
 
 - Štanfel D, Kalogjera L, Ryazantsev SV, Hlača K, Radtsig EY, Teimuraz R, Hrabač P

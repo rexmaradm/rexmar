@@ -1,4 +1,8 @@
 +++
+title = ""
+date = 2026-08-17
++++
++++
 title = "Melanoma y AdM"
 date = "2024-01-01"
 aliases = ["/mela"]

@@ -1,14 +1,9 @@
----
-id: 3669
-title: 'Hidratación y AdM'
-date: '2026-07-04T19:35:55+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3669'
-aliases: ["/hidratacion"]
----
-
++++
+title = "Hidratación y AdM"
+date = 2026-07-04
+author = "legar"
+aliases = ["/hidratacion"]
++++
 <div class="qwen-markdown-hr">---
 
 </div># <span class="qwen-markdown-text">Agua de Mar e Hidratación: ¿Aliado o Enemigo? Lo que Dice la Ciencia</span>

@@ -1,14 +1,9 @@
----
-id: 3794
-title: 'Reumatismo y AdM'
-date: '2026-07-12T16:55:05+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3794'
-aliases: ["/reuma"]
----
-
++++
+title = "Reumatismo y AdM"
+date = 2026-07-12
+author = "legar"
+aliases = ["/reuma"]
++++
 Descubrí los estudios científicos que demuestran cómo el agua de mar y los baños salados reducen el dolor articular, la inflamación y la fatiga en reumatismo, con los mecanismos moleculares identificados (vías NF-κB, MAPK y NLRP3). Debajo de los video testimonios, los papers científicos. https://www.youtube.com/watch?v=wkgAVGeN\_gU <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/1Okl9Ee1V30" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/gb6xKiOUU30" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 # <span class="qwen-markdown-text" data-spm-anchor-id="a2ty_o01.29997173.0.i31.721555fbhi8LEn">Agua de Mar y Reumatismo: Estudios Científicos sobre Artritis, Talasoterapia y Vías Inflamatorias</span>

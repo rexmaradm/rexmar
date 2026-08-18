@@ -1,14 +1,9 @@
----
-id: 3653
-title: 'Perros y AdM'
-date: '2026-07-02T16:57:14+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3653'
-aliases: ["/perros"]
----
-
++++
+title = "Perros y AdM"
+date = 2026-07-02
+author = "legar"
+aliases = ["/perros"]
++++
 **Encontré aplicaciones terapéuticas fascinantes:**
 
 1. **Baños de agua salada** para heridas y problemas de piel

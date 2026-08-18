@@ -1,14 +1,9 @@
----
-id: 2836
-title: 'Cocinar con agua de mar RexMar'
-date: '2025-03-03T10:43:06+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2836'
-aliases: ["/cocinar"]
----
-
++++
+title = "Cocinar con agua de mar RexMar"
+date = 2025-03-03
+author = "legar"
+aliases = ["/cocinar"]
++++
 ### **Técnicas alternativas para cocinar con agua de mar**
 
 #### **1. Cocción de mariscos y pescados**

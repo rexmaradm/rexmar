@@ -1,14 +1,9 @@
----
-id: 3458
-title: 'El Yodo y el Agua de Mar (Contexto Nuclear): Fortaleciendo la Tiroides y la Resiliencia Humana'
-date: '2026-03-09T10:35:42+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3458'
-aliases: ["/slug-url-sugerida-beneficios-yodo-agua-mar-tiroides-proteccion-categoria-salud-y-bienestar-nutricion-etiquetas-yodo-agua-de-mar-tiroides-salud-natural-prevencion-sistema-inmune"]
----
-
++++
+title = "El Yodo y el Agua de Mar (Contexto Nuclear): Fortaleciendo la Tiroides y la Resiliencia Humana"
+date = 2026-03-09
+author = "legar"
+aliases = ["/slug-url-sugerida-beneficios-yodo-agua-mar-tiroides-proteccion-categoria-salud-y-bienestar-nutricion-etiquetas-yodo-agua-de-mar-tiroides-salud-natural-prevencion-sistema-inmune"]
++++
 ---
 
 ### Introducción

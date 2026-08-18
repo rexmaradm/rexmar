@@ -1,14 +1,9 @@
----
-id: 3681
-title: 'Cicatrización y AdM'
-date: '2026-07-05T11:18:33+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3681'
-aliases: ["/cicatrizar"]
----
-
++++
+title = "Cicatrización y AdM"
+date = 2026-07-05
+author = "legar"
+aliases = ["/cicatrizar"]
++++
 Descubrí los estudios científicos sobre las propiedades cicatrizantes del agua de mar, incluyendo su uso tópico en heridas, consumo oral para regeneración interna, y el papel del Plasma de Quinton en la reparación celular. Debajo de los testimonios, la explicación y papers científicos. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/xbGvvMcaROQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/fzoCmg6QMYc" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/mRpNcLCupWU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/MvKGfSnHWm4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 # <span class="qwen-markdown-text" data-spm-anchor-id="a2ty_o01.29997173.0.i9.721555fbUmlzeB">Agua de Mar y Capacidad Cicatrizante: Estudios Científicos sobre Regeneración Tisular</span>

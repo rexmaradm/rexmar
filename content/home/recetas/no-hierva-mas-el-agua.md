@@ -1,14 +1,9 @@
----
-id: 1559
-title: 'No hierva más el Agua !!!'
-date: '2023-09-29T06:56:46+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=1554'
-aliases: ["/no-hierva-mas-el-agua"]
----
-
++++
+title = "No hierva más el Agua !!!"
+date = 2023-09-29
+author = "legar"
+aliases = ["/no-hierva-mas-el-agua"]
++++
 No, hervir el agua no elimina los metales pesados y otros contaminantes. La ebullición es un método eficaz para eliminar los microorganismos patógenos del agua, como bacterias, virus y parásitos. Sin embargo, no es eficaz para eliminar otros contaminantes, como los metales pesados, el cloro, el plomo, el arsénico y las sustancias químicas.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/CeMaKLyHCoA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Los metales pesados se encuentran naturalmente en el agua, pero también pueden ser liberados al medio ambiente por la actividad humana, como la minería, la agricultura y la industria. Los metales pesados pueden causar problemas de salud a largo plazo, como cáncer, problemas renales y problemas neurológicos.
@@ -43,4 +38,3 @@ Las sustancias químicas pueden contaminar el agua del grifo a través de una va
 Fuente: <https://g.co/bard/share/42e5400c485c>
 
 Deslinde de Responsabilidad: Esta información no reemplaza la consulta con un profesional de la salud/chamán/terapeuta.
-

@@ -1,14 +1,10 @@
----
-id: 1596
-title: 'Protección EMF EMR Frec. y Rad. ElectroMagneticas. Protéjase !! Colgante Cuántico'
-date: '2022-10-24T21:46:52+00:00'
-author: legar
-excerpt: 'Colgante Cuántico Protección EMF EMR Frec. y Rad. ElectroMagneticas. '
-layout: page
-guid: 'https://th.org.pe/?page_id=162'
-aliases: ["/proteccion-emf-emr-frec-y-rad-electromagneticas-protejase"]
----
-
++++
+title = "Protección EMF EMR Frec. y Rad. ElectroMagneticas. Protéjase !! Colgante Cuántico"
+date = 2022-10-24
+author = "legar"
+aliases = ["/proteccion-emf-emr-frec-y-rad-electromagneticas-protejase"]
+excerpt = "Colgante Cuántico Protección EMF EMR Frec. y Rad. ElectroMagneticas. "
++++
 Colgante Cuántico de Cristal de Cuarzo y Alambre de cobre. Protección contra Frecuencias y Radiaciones Electro Magnéticas EMF EMR, muy útil para personas hipersensibles a las mismas.
 
 Los tamaños de los cuarzos varían según disponibilidad, el tamaño mínimo de largo es 3 cm y el ancho/diámetro mínimo es 1 cm. Las fotos son de Colgantes Cuánticos hechos por mi, no son importados de países asiáticos. es cuarzo en bruto, natural (ralla el vidrio) y cobre puro sin esmaltar/barnizar. El cordel o cola de "rata" es de seda de 2mm de espesor.

@@ -1,14 +1,9 @@
----
-id: 3804
-title: 'Calculadora Isotónica'
-date: '2026-07-13T05:06:39+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3804'
-aliases: ["/ci"]
----
-
++++
+title = "Calculadora Isotónica"
+date = 2026-07-13
+author = "legar"
+aliases = ["/ci"]
++++
 Aquí le hemos creado para su simplicidad la forma de calcular cuantos ML de AdM deberá poner de acuerdo al volúmen de su taza / jarro / jarra. Éste servicio es gratuito, por cuestiones de segurdidad, debe crear una cuenta gratis en éste sitio e ingresar, o también puede ingresar con su cuenta de Google.
 
 \[calculadora\_rexmar\] Si ésta calculadora le sirvió, puede agradecer de las siguientes maneras:  

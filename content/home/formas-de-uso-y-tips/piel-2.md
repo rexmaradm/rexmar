@@ -1,14 +1,9 @@
----
-id: 4006
-title: 'Piel y AdM'
-date: '2026-07-24T19:16:34+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=4006'
-aliases: ["/piel-2"]
----
-
++++
+title = "Piel y AdM"
+date = 2026-07-24
+author = "legar"
+aliases = ["/piel-2"]
++++
 ## Agua de Mar Isotónica e Hipertónica y la Piel: Evidencia Científica sobre Hidratación, Barrera Cutánea y Regeneración
 
 La piel es un ecosistema dinámico que depende de una barrera cutánea íntegra, un microbioma equilibrado y una hidratación celular profunda. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino (en sus presentaciones isotónica e hipertónica) actúan como potentes moduladores de la salud dermatológica, ofreciendo mecanismos comprobados para la regeneración tisular, el alivio de la dermatitis y el envejecimiento saludable. ---

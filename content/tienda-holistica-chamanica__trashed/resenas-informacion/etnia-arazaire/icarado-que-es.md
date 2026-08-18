@@ -1,14 +1,9 @@
----
-id: 2059
-title: 'Icarado&#8230;. qué es?'
-date: '2023-10-09T17:52:23+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2059'
-aliases: ["/icarado-que-es"]
----
-
++++
+title = "Icarado…. qué es?"
+date = 2023-10-09
+author = "legar"
+aliases = ["/icarado-que-es"]
++++
 El icarado es un canto sagrado que utilizan los chamanes amazónicos en sus rituales. Es un canto complejo y poderoso que tiene como objetivo conectar al chamán con los espíritus de la naturaleza y del mundo espiritual. El icarado se suele acompañar de música de tambores y flautas, y el chamán suele entrar en un estado de trance durante el canto.
 
 El icarado se utiliza para una variedad de propósitos, incluyendo la curación, la adivinación y la búsqueda de conocimiento espiritual. También se puede utilizar para proteger a las personas de los espíritus malignos.

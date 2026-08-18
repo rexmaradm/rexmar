@@ -1,14 +1,9 @@
----
-id: 3539
-title: 'Reconecta con tu «Mar Interior»: Cómo el Agua de Mar Beneficia a tu Sistema Nervioso Central'
-date: '2026-06-10T10:41:08+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3539'
-aliases: ["/snc"]
----
-
++++
+title = "Reconecta con tu «Mar Interior»: Cómo el Agua de Mar Beneficia a tu Sistema Nervioso Central"
+date = 2026-06-10
+author = "legar"
+aliases = ["/snc"]
++++
 #  
 
 ---

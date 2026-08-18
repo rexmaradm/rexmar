@@ -1,14 +1,9 @@
----
-id: 1595
-title: 'Bienvenida la fiebre del cobre: este mineral podría ayudar a quemar grasa y perder peso'
-date: '2022-10-16T12:14:33+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=156'
-aliases: ["/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-a-quemar-grasa-y-perder-peso"]
----
-
++++
+title = "Bienvenida la fiebre del cobre: este mineral podría ayudar a quemar grasa y perder peso"
+date = 2022-10-16
+author = "legar"
+aliases = ["/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-a-quemar-grasa-y-perder-peso"]
++++
 [](https://www.telemundo.com/shows/un-nuevo-dia/salud/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-quemar-grasa-y-perder-peso-tmna1092746)
 
 El cobre tendría un rol clave para quemar grasa. Conoce los resultados de un estudio científico.
@@ -54,4 +49,3 @@ La mejor forma de obtener la cantidad de cobre que tu cuerpo necesita es consumi
 Recuerda consultar a un profesional de la salud antes de implementar cambios en tu alimentación y la de tu familia
 
 Fuente: <https://www.telemundo.com/shows/un-nuevo-dia/salud/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-quemar-grasa-y-perder-peso-tmna1092746>
-

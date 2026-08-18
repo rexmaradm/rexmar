@@ -1,14 +1,9 @@
----
-id: 638
-title: 'Diabetes y Obesidad ***'
-date: '2022-04-03T01:36:41+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=430'
-aliases: ["/diabetes"]
----
-
++++
+title = "Diabetes y Obesidad ***"
+date = 2022-04-03
+author = "legar"
+aliases = ["/diabetes"]
++++
 El Agua de Mar es buena para la diabetes y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría general
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/68l0OHrH-gE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Recientemente, el agua de mar (AdM) ha comenzado a recibir mucha atención para la intervención terapéutica en algunas enfermedades del estilo de vida. En este estudio, se investigaron los efectos **antiobesidad** y **antidiabéticos** de AdM en ratones. Los animales se dividieron aleatoriamente en dos grupos con seis animales: el grupo de control recibió agua del grifo; el grupo experimental fue tratado con AdM de dureza 1000 durante 84 días.   
@@ -126,4 +121,3 @@ https://pubmed.ncbi.nlm.nih.gov/28850074/
 <https://www.sciencedirect.com/science/article/pii/S0022030215004543>
 
 <https://www.liebertpub.com/doi/abs/10.1089/jmf.2019.4658>
-

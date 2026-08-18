@@ -1,14 +1,9 @@
----
-id: 2549
-title: 'Bebida Isotónica Casera con Electrolitos para deportistas &#8230;. AHORRATE mucho dinero !!!'
-date: '2024-08-30T11:28:08+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2549'
-aliases: ["/bebida-isotonica-casera-con-electrolitos-para-deportistas"]
----
-
++++
+title = "Bebida Isotónica Casera con Electrolitos para deportistas …. AHORRATE mucho dinero !!!"
+date = 2024-08-30
+author = "legar"
+aliases = ["/bebida-isotonica-casera-con-electrolitos-para-deportistas"]
++++
 **¿Qué son las bebidas isotónicas y para qué sirven?**
 
 Las bebidas isotónicas a base de agua de mar (**AdM**) RexMar son formuladas para reponer los líquidos y electrolitos (como sodio, potasio y magnesio) que se pierden a través del sudor durante el ejercicio físico intenso y prolongado. Su objetivo principal es mejorar la hidratación y el rendimiento deportivo.

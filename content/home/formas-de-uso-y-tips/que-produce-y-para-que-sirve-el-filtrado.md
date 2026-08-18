@@ -1,14 +1,9 @@
----
-id: 3040
-title: 'Qué produce y para qué sirve el filtrado?'
-date: '2025-06-01T16:23:26+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3040'
-aliases: ["/que-produce-y-para-que-sirve-el-filtrado"]
----
-
++++
+title = "Qué produce y para qué sirve el filtrado?"
+date = 2025-06-01
+author = "legar"
+aliases = ["/que-produce-y-para-que-sirve-el-filtrado"]
++++
 ### es necesario?
 
 Resúmen muy breve:   

@@ -1,14 +1,9 @@
----
-id: 1141
-title: 'El Hígado y el agua de mar'
-date: '2023-06-17T18:24:42+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=1141'
-aliases: ["/higado-y-agua-de-mar"]
----
-
++++
+title = "El Hígado y el agua de mar"
+date = 2023-06-17
+author = "legar"
+aliases = ["/higado-y-agua-de-mar"]
++++
 Un estudio entre cientos otros, demostró que el agua de mar inhibe la acumulación de lípidos hepáticos a través de la supresión de enzimas lipogénicas reguladas por SREBP
 
 Fuente
@@ -50,4 +45,3 @@ https://link.springer.com/article/10.1007/s10126-016-9709-5
 <https://www.mdpi.com/1660-3397/11/6/2183>
 
 <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096927>
-

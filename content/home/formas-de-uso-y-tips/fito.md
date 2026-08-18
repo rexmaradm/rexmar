@@ -1,14 +1,9 @@
----
-id: 3517
-title: 'Propiedades anti-canc€rígenas del fitoplancton'
-date: '2026-06-09T10:35:56+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3517'
-aliases: ["/fito"]
----
-
++++
+title = "Propiedades anti-canc€rígenas del fitoplancton"
+date = 2026-06-09
+author = "legar"
+aliases = ["/fito"]
++++
 ##   
 **Qué es el Fitoplancton?**
 

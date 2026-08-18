@@ -1,14 +1,9 @@
----
-id: 3657
-title: 'Animales y Adm'
-date: '2026-07-02T17:38:49+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3657'
-aliases: ["/animales"]
----
-
++++
+title = "Animales y Adm"
+date = 2026-07-02
+author = "legar"
+aliases = ["/animales"]
++++
 **La mayoría de los animales terrestres NO deben beber agua de mar pura directamente** porque puede causar deshidratación y toxicidad por sal. Sin embargo, encontré aplicaciones terapéuticas fascinantes para múltiples especies:
 
 1. **Talasoterapia veterinaria** (terapia con agua de mar para múltiples especies)

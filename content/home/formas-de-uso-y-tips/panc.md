@@ -1,14 +1,9 @@
----
-id: 3895
-title: 'Páncreas y AdM'
-date: '2026-07-22T06:25:29+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3895'
-aliases: ["/panc"]
----
-
++++
+title = "Páncreas y AdM"
+date = 2026-07-22
+author = "legar"
+aliases = ["/panc"]
++++
 ## Agua de Mar Isotónica y Salud Pancreática: Evidencia Científica sobre la Regeneración de Células Beta
 
 Existe un sólido y creciente cuerpo de investigación científica que respalda el uso del agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) como coadyuvantes fundamentales en la salud del páncreas. Su riqueza en minerales iónicos biodisponibles actúa directamente sobre la protección de las células beta, la regulación de la homeostasis de la glucosa y la mejora de la sensibilidad a la insulina. ---

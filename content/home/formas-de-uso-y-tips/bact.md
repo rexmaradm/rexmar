@@ -1,14 +1,9 @@
----
-id: 3880
-title: 'Bacterias Patógenas en el colon y AdM'
-date: '2026-07-20T04:55:50+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3880'
-aliases: ["/bact"]
----
-
++++
+title = "Bacterias Patógenas en el colon y AdM"
+date = 2026-07-20
+author = "legar"
+aliases = ["/bact"]
++++
 ## Agua de Mar Isotónica y Salud Intestinal: Evidencia Científica frente a Bacterias Patógenas
 
 Existe un sólido respaldo en la literatura científica sobre la capacidad del agua de mar isotónica (Plasma de Quinton) y el agua de mar profunda (DSW) para modular la microbiota intestinal, fortalecer la barrera del colon y crear un entorno hostil para las bacterias patógenas, favoreciendo el crecimiento de la flora benéfica. ---

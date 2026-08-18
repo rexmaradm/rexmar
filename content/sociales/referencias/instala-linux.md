@@ -1,14 +1,9 @@
----
-id: 3410
-title: 'Instalá Linux olvidá Window$'
-date: '2026-01-31T19:55:32+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3410'
-aliases: ["/instala-linux"]
----
-
++++
+title = "Instalá Linux olvidá Window$"
+date = 2026-01-31
+author = "legar"
+aliases = ["/instala-linux"]
++++
 ![](/wp-content/uploads/2026/01/PinguinoWin2.png)## Te cansaste de las actualizaciones con fallos, de la pantalla azul, de reiniciar cada vez que se cuelga, de tener que estar pendiente de los virus, de que te pida hardware más moderno -si el tuyo anda perfecto-, de......., de......... **Pasáte a Linux**   
 
 

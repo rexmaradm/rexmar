@@ -1,14 +1,9 @@
----
-id: 2747
-title: 'Hipertensión y Agua de Mar'
-date: '2024-12-18T17:28:04+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2747'
-aliases: ["/hipertension-y-agua-de-mar"]
----
-
++++
+title = "Hipertensión y Agua de Mar"
+date = 2024-12-18
+author = "legar"
+aliases = ["/hipertension-y-agua-de-mar"]
++++
 ## Resumen simplificado sobre [el estudio citado ](https://www.spandidos-publications.com/10.3892/ijmm.2019.4424)de la hipertensión y el agua de mar
 
 **Imagina tu cuerpo como una ciudad.** Por las calles (venas y arterias) circulan coches (glóbulos rojos) que llevan comida y oxígeno a todas las casas (células).

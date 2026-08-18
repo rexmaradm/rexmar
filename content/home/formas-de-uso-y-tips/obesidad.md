@@ -1,14 +1,9 @@
----
-id: 639
-title: 'Obesidad ***'
-date: '2022-04-26T00:20:50+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=439'
-aliases: ["/obesidad"]
----
-
++++
+title = "Obesidad ***"
+date = 2022-04-26
+author = "legar"
+aliases = ["/obesidad"]
++++
 ### Agua de Mar y Obesidad
 
 El Agua de Mar es buena contra la obesidad y la diabetes y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría general
@@ -55,4 +50,3 @@ Fuente: Fundacion Rene Quinton
 <https://www.liebertpub.com/doi/abs/10.1089/jmf.2019.4658>
 
 <https://pubmed.ncbi.nlm.nih.gov/32878045/>
-

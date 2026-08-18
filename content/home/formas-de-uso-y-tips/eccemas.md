@@ -1,14 +1,9 @@
----
-id: 3574
-title: 'Eccemas / Dermatítis atópica y AdM'
-date: '2026-06-26T09:53:21+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3574'
-aliases: ["/eccemas"]
----
-
++++
+title = "Eccemas / Dermatítis atópica y AdM"
+date = 2026-06-26
+author = "legar"
+aliases = ["/eccemas"]
++++
 Existe evidencia científica que evalúa el uso de agua de mar, sales del Mar Muerto o soluciones salinas como **monoterapia** (es decir, baños exclusivos sin radiación UVB, clima ni corticoides tópicos).
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/Tx3TLUcDg3w" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/5INKJkdOn0M" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>### 1. "Bathing in a magnesium-rich Dead Sea salt solution improves skin barrier function, enhances skin hydration, and reduces inflammation in atopic dry skin" (2005)

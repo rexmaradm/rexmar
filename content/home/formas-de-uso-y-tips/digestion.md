@@ -1,14 +1,9 @@
----
-id: 3661
-title: 'Digestión y AdM'
-date: '2026-07-04T04:57:41+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3661'
-aliases: ["/digestion"]
----
-
++++
+title = "Digestión y AdM"
+date = 2026-07-04
+author = "legar"
+aliases = ["/digestion"]
++++
 Descubrí cómo el agua de mar influye en la digestión, sus beneficios para el estreñimiento y la microbiota, y las contraindicaciones médicas que debés conocer antes de consumirla. Debajo de los testimonios, los papers científicos. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/d2poFmJhUT4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/iTFtGWO3iDM" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/6SmteiC48A0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 # <span class="qwen-markdown-text">¿El Agua de Mar Mejora la Digestión? Beneficios, Usos y Precauciones</span>

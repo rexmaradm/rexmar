@@ -1,14 +1,9 @@
----
-id: 2833
-title: 'Permeabilidad intestinal'
-date: '2025-02-27T16:22:40+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2833'
-aliases: ["/permeabilidad-intestinal"]
----
-
++++
+title = "Permeabilidad intestinal"
+date = 2025-02-27
+author = "legar"
+aliases = ["/permeabilidad-intestinal"]
++++
 La permeabilidad intestinal ‘aumentada’ es un trastorno intestinal que permite la entrada de toxinas o microbios patógenos en el torrente sanguíneo, pudiendo provocar enfermedades. La permeabilidad intestinal se puede ver como un síntoma o como la causa de otras patologías.
 
 En este artículo explicamos qué es exactamente la permeabilidad intestinal y qué ocurre cuando aumenta demasiado. ¿Cómo saber si un paciente padece síndrome del intestino permeable? Abordamos los diferentes test y pruebas diagnósticas que puedes emplear. Sigue leyendo el artículo para descubrir más sobre las causas de la permeabilidad intestinal y cómo emplear el agua de mar para restaurar la mucosa intestinal.

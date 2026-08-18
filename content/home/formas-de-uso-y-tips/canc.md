@@ -1,14 +1,9 @@
----
-id: 3890
-title: 'Cáncer y AdM'
-date: '2026-07-21T12:50:36+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3890'
-aliases: ["/canc"]
----
-
++++
+title = "Cáncer y AdM"
+date = 2026-07-21
+author = "legar"
+aliases = ["/canc"]
++++
 ## Agua de Mar Isotónica y Cáncer: Evidencia Científica sobre Modulación Celular e Inmunológica
 
 Existe un creciente cuerpo de investigación científica que explora el potencial del agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) como coadyuvantes en el apoyo celular. La premisa fundamental, establecida originalmente por René Quinton, es que la reconstrucción de la célula dañada se logra restaurando el medio interno con una solución que es bioquímicamente idéntica al plasma sanguíneo humano \[\[29\]\]. ---

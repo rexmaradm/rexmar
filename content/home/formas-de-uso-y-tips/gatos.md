@@ -1,14 +1,9 @@
----
-id: 3651
-title: 'Gatos y AdM'
-date: '2026-07-02T16:24:37+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3651'
-aliases: ["/gatos"]
----
-
++++
+title = "Gatos y AdM"
+date = 2026-07-02
+author = "legar"
+aliases = ["/gatos"]
++++
 ## **Aplicaciones terapéuticas fascinantes para gatos:**
 
 1. **Baños de agua salada** para heridas menores

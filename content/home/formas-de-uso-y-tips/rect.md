@@ -1,14 +1,9 @@
----
-id: 3942
-title: 'El recto y AdM'
-date: '2026-07-23T11:04:55+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3942'
-aliases: ["/rect"]
----
-
++++
+title = "El recto y AdM"
+date = 2026-07-23
+author = "legar"
+aliases = ["/rect"]
++++
 ## Agua de Mar Isotónica e Hipertónica y la Salud Rectal: Evidencia Científica sobre Hemorroides, Fisuras y Mucosa
 
 El recto y el canal anal son zonas sensibles que requieren un equilibrio perfecto de hidratación, microbioma y capacidad de regeneración tisular. La literatura científica y la práctica clínica integrativa revelan que el agua de mar (en sus presentaciones isotónica e hipertónica diluida) actúa como un potente agente cicatrizante, antiinflamatorio y regulador del tránsito intestinal, ofreciendo un alivio natural y efectivo. ---

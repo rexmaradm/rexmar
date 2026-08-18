@@ -1,14 +1,9 @@
----
-id: 3492
-title: 'Porqué no ozonizamos nuestra Agua de mar RexMar ?'
-date: '2026-05-06T15:42:41+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3492'
-aliases: ["/porque-no-ozonizamos-nuestra-agua-de-mar-rexmar"]
----
-
++++
+title = "Porqué no ozonizamos nuestra Agua de mar RexMar ?"
+date = 2026-05-06
+author = "legar"
+aliases = ["/porque-no-ozonizamos-nuestra-agua-de-mar-rexmar"]
++++
 ## **Primero**, porque el famoso René Quinton no lo hacía y   
   
 **Segundo**: se alteran varios componentes, a saber:  

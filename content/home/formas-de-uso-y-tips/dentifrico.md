@@ -1,14 +1,9 @@
----
-id: 3683
-title: 'Dentífrico y AdM'
-date: '2026-07-05T11:29:45+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3683'
-aliases: ["/dentifrico"]
----
-
++++
+title = "Dentífrico y AdM"
+date = 2026-07-05
+author = "legar"
+aliases = ["/dentifrico"]
++++
 #### <span class="qwen-markdown-text">Descubrí los estudios científicos que comparan el agua de mar con la clorhexidina, cómo los minerales marinos protegen encías y dientes, y el protocolo completo para usar agua de mar como dentífrico natural. Debajo de los videos la explicacion completa </span>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/0WJCQKUbMw8" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/iOdj9mtcHN0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/h5krRXKIkl4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> # <span class="qwen-markdown-text">Agua de Mar como Dentífrico: Estudios Científicos sobre Salud Bucal y Periodoncia</span>

@@ -1,14 +1,9 @@
----
-id: 3934
-title: 'Lengua y AdM'
-date: '2026-07-23T06:29:45+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3934'
-aliases: ["/leng"]
----
-
++++
+title = "Lengua y AdM"
+date = 2026-07-23
+author = "legar"
+aliases = ["/leng"]
++++
 ## Agua de Mar Isotónica y la Lengua: Evidencia Científica sobre la Salud de la Mucosa Lingual y las Papilas Gustativas
 
 La lengua es un órgano muscular recubierto por una mucosa especializada (con papilas y receptores del gusto) que actúa como un indicador clave de la salud sistémica y oral. La literatura científica revela que el agua de mar isotónica (Plasma de Quinton), tanto en uso tópico (enjuagues) como sistémico (bebida), actúa como un potente agente hidratante, regenerador y modulador del microbioma lingual. ---

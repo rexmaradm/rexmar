@@ -1,14 +1,9 @@
----
-id: 3237
-title: 'Baño sauna individual con agua de mar'
-date: '2025-09-11T18:48:02+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3237'
-aliases: ["/bano-sauna-individual-con-agua-de-mar"]
----
-
++++
+title = "Baño sauna individual con agua de mar"
+date = 2025-09-11
+author = "legar"
+aliases = ["/bano-sauna-individual-con-agua-de-mar"]
++++
 # **Beneficios**
 
 - **El baño sauna ayudaría a:**

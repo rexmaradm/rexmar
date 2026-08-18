@@ -1,14 +1,9 @@
----
-id: 2825
-title: 'Silicio orgánico y agua de mar'
-date: '2025-02-09T16:40:55+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2825'
-aliases: ["/silicio-organico-y-agua-de-mar"]
----
-
++++
+title = "Silicio orgánico y agua de mar"
+date = 2025-02-09
+author = "legar"
+aliases = ["/silicio-organico-y-agua-de-mar"]
++++
 **Resúmen: el silicio orgánico beneficia al organismo en muchos aspectos, huesos, tejidos, Esclerosis Multiples, hepatitis y un largo etc.   
 Nota de RexMar: el Agua de mar tiene silicio orgánico biodisponible !!!**
 

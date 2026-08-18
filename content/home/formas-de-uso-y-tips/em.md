@@ -1,14 +1,9 @@
----
-id: 3548
-title: 'Esclerosis múltiple y agua de mar'
-date: '2026-06-13T19:12:57+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3548'
-aliases: ["/em"]
----
-
++++
+title = "Esclerosis múltiple y agua de mar"
+date = 2026-06-13
+author = "legar"
+aliases = ["/em"]
++++
 ## Agua de Mar y Esclerosis Múltiple: Lo que Dice la Ciencia
 
 La esclerosis múltiple (EM) es una enfermedad autoinmune crónica que afecta al sistema nervioso central, caracterizada por inflamación, desmielinización y gliosis

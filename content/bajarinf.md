@@ -1,4 +1,7 @@
 +++
+title = ""
++++
++++
 title = "Bajar Informe"
 date = "2024-01-01"
 aliases = ["/bajarinf/"]

@@ -1,14 +1,9 @@
----
-id: 3600
-title: 'Estrés, Ansiedad y AdM'
-date: '2026-06-27T20:21:31+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3600'
-aliases: ["/estres"]
----
-
++++
+title = "Estrés, Ansiedad y AdM"
+date = 2026-06-27
+author = "legar"
+aliases = ["/estres"]
++++
 El estrés y la ansiedad son condiciones neuropsiquiátricas complejas que requieren intervenciones específicas (psicoterapia, farmacoterapia, técnicas de relajación) que no pueden ser reemplazadas únicamente por agua de mar.
 
 Sin embargo, **SÍ existe evidencia científica sólida** sobre los efectos beneficiosos de la talasoterapia, los minerales marinos (especialmente el magnesio) y los baños con sales marinas en la salud mental y el bienestar psicológico.

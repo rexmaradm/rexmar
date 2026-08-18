@@ -1,14 +1,9 @@
----
-id: 2265
-title: 'Deporte  y Agua de Mar RexMar'
-date: '2023-12-21T17:09:59+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2265'
-aliases: ["/deporte-y-agua-de-mar-rexmar"]
----
-
++++
+title = "Deporte  y Agua de Mar RexMar"
+date = 2023-12-21
+author = "legar"
+aliases = ["/deporte-y-agua-de-mar-rexmar"]
++++
 **Beneficios del agua de mar para deportistas:**
 
 - **Hidratación óptima:** El agua de mar contiene una composición mineral similar a la de nuestro plasma sanguíneo. Esto significa que al beberla, se facilita la absorción de agua por parte del organismo, promoviendo una hidratación más eficiente y rápida que con el agua dulce.

@@ -1,14 +1,9 @@
----
-id: 1213
-title: 'Ap0pt0sis y Agua de Mar'
-date: '2023-06-23T19:17:03+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=1213'
-aliases: ["/apoptosis-y-agua-de-mar"]
----
-
++++
+title = "Ap0pt0sis y Agua de Mar"
+date = 2023-06-23
+author = "legar"
+aliases = ["/apoptosis-y-agua-de-mar"]
++++
 El agua de mar induce la [ap0pt0sis](/links/apoptosis-significado/) en las células epiteliales alveolares a través de la vía mediada por Fas/FasL
 
 Abstracto
@@ -44,4 +39,3 @@ Más Papers científicos:
 [https://www.scienceopen.com/document\_file/a109c85b-1832-4a61-8936-2a2a6153328c/PubMedCentral/a109c85b-1832-4a61-8936-2a2a6153328c.pdf](https://www.scienceopen.com/document_file/a109c85b-1832-4a61-8936-2a2a6153328c/PubMedCentral/a109c85b-1832-4a61-8936-2a2a6153328c.pdf)
 
 <https://benthamscience.com/article/129322>
-

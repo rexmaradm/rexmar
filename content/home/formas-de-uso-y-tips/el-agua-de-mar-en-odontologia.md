@@ -1,14 +1,9 @@
----
-id: 711
-title: 'El agua de mar en odontología ***'
-date: '2022-12-31T06:28:13+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=711'
-aliases: ["/el-agua-de-mar-en-odontologia"]
----
-
++++
+title = "El agua de mar en odontología ***"
+date = 2022-12-31
+author = "legar"
+aliases = ["/el-agua-de-mar-en-odontologia"]
++++
 - 
 
 El **agua de mar en odontología** es un nuevo enfoque donde el agua de mar aporta sus minerales con el fin de favorecer la restauración del equilibrio, pudiendo emplearse tanto para tratamiento de base como por su efecto local.
@@ -101,4 +96,3 @@ En este caso, el procedimiento se emplea con el fin de favorecer el crecimiento 
 En el estudio doble ciego cruzado “Eficacia de nuevo enjuague oral con agua de mar versus clorhexidina 0,12% en la placa y la evaluación de la gingivitis” llevado a cabo por la Universidad Católica de San Antonio, los investigadores concluyeron que tanto la fórmula de agua de mar como la clorhexidina, a diferencia del suero salino, redujeron significativamente el crecimiento de la placa y la inflamación gingival, sin embargo el enjuague con la fórmula de agua de mar fue más efectivo contra el rebrote de la placa<sup>3</sup>.
 
 ![](https://www.fundacionrenequinton.org/wp-content/uploads/2022/11/agua-de-mar-en-odontologia-conclusiones.jpg)[![New Call-to-action](https://cdn2.hubspot.net/hubfs/3356662/hub_generated/resized/ae1be55b-45be-4666-b651-33e1bee588fd.png)](https://recursos.fundacionrenequinton.org/cs/c/?cta_guid=76a1ca5e-2d28-4056-a269-6a033ba7153c&signature=AAH58kHI8SzNmqyo0LIVQVJvl-bBLTlMvA&placement_guid=20ea0c1f-2384-479a-a7a9-1b9bd3182676&click=91bcb9d6-416c-4b2b-a6e6-e09afc6f1bbd&hsutk=def0fce262a963cca30bf9a43c123ac0&canon=https%3A%2F%2Fwww.fundacionrenequinton.org%2Fblog%2Fagua-de-mar-en-odontologia%2F&portal_id=3356662&redirect_url=APefjpEequM7c8lF2VgACMd9wdGQ2J0C_-50Hxm-BFhgom9JPztGhB95_qr5JMIo3Ism-4bJDOSkXDjVRRSQctpg-b3TZu3mS9Ge-glzazJfb0jvbf7XQMduwcu1m1BIHUbbRTBsW06uKSV33RqAIag-Ro2ptFiXp-c94Hzk9z1Xr0q41QE-pJk&__hstc=25775522.def0fce262a963cca30bf9a43c123ac0.1672484981535.1672484981535.1672484981535.1&__hssc=25775522.1.1672484981536&__hsfp=3775926997)Fuente: https://www.fundacionrenequinton.org/blog/agua-de-mar-en-odontologia/
-

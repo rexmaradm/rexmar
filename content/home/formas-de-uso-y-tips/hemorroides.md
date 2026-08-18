@@ -1,4 +1,8 @@
 +++
+title = ""
+date = 2026-08-17
++++
++++
 title = "Hemorroides y AdM"
 date = "2024-01-01"
 aliases = ["/hemor"]
@@ -38,5 +42,3 @@ Takeuchi, H., et al. (2020). Drinking Refined Deep-Sea Water Improves the Gut Ec
 CellMed. A Case Study on the Improvement of Perianal Abscess and Hemorrhoids (Rol del magnesio y calcio del agua de mar en la salud celular perianal). 🔗 Ver estudio en CellMed
 Aquamarina Costa Brava. Constipation and seawater: Facilitates passage and promotes bowel movement. 🔗 aquamarinacostabrava.com
 Recursos de Enfermería y Proctología. Consejos para el cuidado de hemorroides: Lavado de la zona con agua de mar para favorecer la cicatrización. 🔗 Ver protocolo de cuidado proctológico
-
- 

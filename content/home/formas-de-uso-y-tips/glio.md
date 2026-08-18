@@ -1,14 +1,9 @@
----
-id: 3886
-title: 'Glioblastomas y AdM'
-date: '2026-07-21T06:26:43+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3886'
-aliases: ["/glio"]
----
-
++++
+title = "Glioblastomas y AdM"
+date = 2026-07-21
+author = "legar"
+aliases = ["/glio"]
++++
 ## Agua de Mar Isotónica y Glioblastoma: Evidencia Científica y Apoyo Celular
 
 Existe un creciente interés en la literatura científica sobre el potencial de los compuestos marinos y el agua de mar profunda (DSW) como coadyuvantes en el manejo del glioblastoma. El agua de mar isotónica (Plasma de Quinton), al ser microfiltrada en frío y diluida hasta alcanzar la isotonía con el plasma humano, ofrece una matriz de más de 78 minerales iónicos que modulan el terreno biológico, la respuesta inmunológica y el metabolismo celular. ---

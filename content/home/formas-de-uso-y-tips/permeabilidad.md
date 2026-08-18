@@ -1,4 +1,8 @@
 +++
+title = ""
+date = 2026-08-17
++++
++++
 title = "Permeabilidad intestinal y AdM"
 date = "2024-01-01"
 aliases = ["/perm"]

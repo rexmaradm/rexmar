@@ -1,14 +1,9 @@
----
-id: 3950
-title: 'Bronquios y AdM'
-date: '2026-07-23T14:50:13+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3950'
-aliases: ["/bron"]
----
-
++++
+title = "Bronquios y AdM"
+date = 2026-07-23
+author = "legar"
+aliases = ["/bron"]
++++
 ## Agua de Mar Isotónica y los Bronquios: Evidencia Científica sobre la Salud Respiratoria y la Mucosa Bronquial
 
 Los bronquios son las vías aéreas fundamentales que llevan el oxígeno a los pulmones, y su salud depende de una mucosa bien hidratada y un sistema inmunológico local equilibrado. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton), tanto en uso sistémico (bebida) como en aplicaciones respiratorias, actúan como potentes moduladores de la inflamación bronquial, mejorando el metabolismo respiratorio y la función del epitelio. ---

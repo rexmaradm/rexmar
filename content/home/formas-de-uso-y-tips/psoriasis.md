@@ -1,14 +1,9 @@
----
-id: 3570
-title: 'Psoriasis y AdM'
-date: '2026-06-25T12:54:42+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3570'
-aliases: ["/psoriasis"]
----
-
++++
+title = "Psoriasis y AdM"
+date = 2026-06-25
+author = "legar"
+aliases = ["/psoriasis"]
++++
 El **agua de mar** es considerada un **aliado natural** para el alivio de los síntomas de la psoriasis,
 
 **Beneficios principales:**

@@ -1,14 +1,9 @@
----
-id: 3932
-title: 'Dientes y AdM'
-date: '2026-07-23T06:22:45+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3932'
-aliases: ["/dien"]
----
-
++++
+title = "Dientes y AdM"
+date = 2026-07-23
+author = "legar"
+aliases = ["/dien"]
++++
 ## Agua de Mar Isotónica y Salud Dental: Evidencia Científica sobre Dientes, Esmalte y Tejidos de Soporte
 
 La salud de los dientes depende de un equilibrio mineral preciso y un microbioma oral equilibrado. La literatura científica y la odontología biológica revelan que el agua de mar isotónica (Plasma de Quinton), tanto en uso tópico (enjuagues) como sistémico (bebida), actúa como un potente agente remineralizante, antiinflamatorio y regulador del pH salival. ---

@@ -1,6 +1,6 @@
 +++
 title = "prueba"
-date = 2026-07-04T17:17:37Z
+date = 2026-08-18
 description = "Prueba de video"
 aliases = ["/prueba"]
 

@@ -1,14 +1,9 @@
----
-id: 1555
-title: 'Côlon y Agua de Mar ***'
-date: '2022-05-19T13:49:54+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=558'
-aliases: ["/colon-y-agua-de-mar"]
----
-
++++
+title = "Côlon y Agua de Mar ***"
+date = 2022-05-19
+author = "legar"
+aliases = ["/colon-y-agua-de-mar"]
++++
 El agua de mar es muy buena para el Côlon y muchas cosas más, ademas te alcalinizará el organismo lo que redundará en una mejoría general
 
 Papers científicos:
@@ -29,4 +24,3 @@ https://www.mdpi.com/781838)
 [https://www.jstage.jst.go.jp/article/bpb/40/10/40\_b17-00258/\_article/-char/ja/](https://www.jstage.jst.go.jp/article/bpb/40/10/40_b17-00258/_article/-char/ja/)
 
 <https://pubmed.ncbi.nlm.nih.gov/32878045/>
-

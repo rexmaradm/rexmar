@@ -1,14 +1,9 @@
----
-id: 3897
-title: 'Várices y AdM'
-date: '2026-07-22T06:36:23+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3897'
-aliases: ["/vari"]
----
-
++++
+title = "Várices y AdM"
+date = 2026-07-22
+author = "legar"
+aliases = ["/vari"]
++++
 ## Agua de Mar Isotónica y Várices: Evidencia Científica sobre Microcirculación y Retorno Venoso
 
 Existe un sólido respaldo en la literatura científica que explica por qué el agua de mar isotónica (Plasma de Quinton) y el agua de mar profunda (DSW) son excelentes coadyuvantes en el manejo de la insuficiencia venosa y las varices. Su acción se centra en la mejora de la microcirculación, el fortalecimiento de la función endotelial y la reducción del estrés oxidativo en los tejidos vasculares. ---

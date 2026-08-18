@@ -1,14 +1,9 @@
----
-id: 3611
-title: 'Hipertensión y AdM'
-date: '2026-06-29T15:52:47+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3611'
-aliases: ["/hipertension"]
----
-
++++
+title = "Hipertensión y AdM"
+date = 2026-06-29
+author = "legar"
+aliases = ["/hipertension"]
++++
 He investigado exhaustivamente sobre papers científicos que evalúen el tratamiento de la **hipertensión exclusivamente con agua de mar** como monoterapia.
 
 Debo informarte con total transparencia que este es un tema **complejo y paradójico**. El agua de mar convencional tiene **alto contenido de sodio** (10,770 mg/L), lo cual es **contraproducente** para la hipertensión. Sin embargo, el **agua de mar profunda (Deep Sea Water - DSW)** y el **magnesio** del agua de mar han demostrado efectos **antihipertensivos** en estudios científicos. Debajo de los testimonios, los papers científicos.

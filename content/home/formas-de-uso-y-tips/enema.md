@@ -1,14 +1,9 @@
----
-id: 635
-title: 'Cómo auto aplicarse un Enema casero con Agua de Mar (*)(***)'
-date: '2022-03-27T17:35:00+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=400'
-aliases: ["/enema"]
----
-
++++
+title = "Cómo auto aplicarse un Enema casero con Agua de Mar (*)(***)"
+date = 2022-03-27
+author = "legar"
+aliases = ["/enema"]
++++
 Si Ud. no va **todos** los días al baño al menos 1 vez, debe entender la importancia de tener el cólon limpio, en el siguiente vídeo el dr. Martí Bosch nos explica.
 
 <div class="wp-block-embed__wrapper">https://rumble.com/v2zptbk-colon-limpio-dr.-marti-bosch.html?mref=1wgpuu&amp;mc=1as4yEl enema consiste en la introducción de una sustancia líquida Isotónica o Hipertónica con Agua de Mar RexMar, en la parte baja del colon a través del recto. Antes de aplicarte el enema, consulta con tu médico/terapeuta/chamán para determinar si es una buena alternativa para ti y si es el tipo de enema que debes utilizar. Es muy útil en casos de estreñimiento crónico y también en caso que la persona no pueda asimilar los minerales y oligoelementos del agua de mar RexMar por otra vía.
@@ -61,4 +56,3 @@ Referencias:
 https://jamanetwork.com/journals/jama/article-abstract/300071
 
 <https://www.studocu.com/es-mx/document/universidad-privada-del-bajio/fisioterapia/los-beneficios-del-plasma-marino/48963855>
-

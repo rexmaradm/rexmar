@@ -1,14 +1,9 @@
----
-id: 752
-title: 'Lavado Nasal con Agua de Mar ***'
-date: '2023-01-18T17:58:21+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=752'
-aliases: ["/lavado-nasal-con-agua-de-mar"]
----
-
++++
+title = "Lavado Nasal con Agua de Mar ***"
+date = 2023-01-18
+author = "legar"
+aliases = ["/lavado-nasal-con-agua-de-mar"]
++++
 Técnica de lavado nasal con agua de mar (AdM)
 
 El AdM es muy buena para el Lavado Nasal
@@ -21,4 +16,3 @@ https://journals.sagepub.com/doi/abs/10.1177/1753465809358190
 
   
 https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/221846
-

@@ -1,14 +1,9 @@
----
-id: 2817
-title: 'Al tiempo le salieron unas algas la puedo seguir consumiendo?'
-date: '2025-02-06T20:45:44+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2817'
-aliases: ["/algas"]
----
-
++++
+title = "Al tiempo le salieron unas algas la puedo seguir consumiendo?"
+date = 2025-02-06
+author = "legar"
+aliases = ["/algas"]
++++
 <audio controls="" src="/wp-content/uploads/2025/11/nuevaExplicacionAlgas_PP.mp3"></audio>### Resúmen: 
 
 **El agua de mar (AdM) como está viva y alberga vida, puede ser que sigan creciendo algas, esta VIVA al contrario de otras bebidas cómo las supuestas hidratantes (Gat0rade, etc) que son agua MUERTA..... Ud, que prefiere, agua VIVA o MUERTA ?....**

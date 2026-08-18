@@ -1,14 +1,9 @@
----
-id: 3966
-title: 'Cerebelo y AdM'
-date: '2026-07-23T16:33:49+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3966'
-aliases: ["/cere1"]
----
-
++++
+title = "Cerebelo y AdM"
+date = 2026-07-23
+author = "legar"
+aliases = ["/cere1"]
++++
 ## Agua de Mar Isotónica e Hipertónica y el Cerebelo: Evidencia Científica sobre Coordinación Motora y Neuroprotección
 
 El cerebelo es la estructura cerebral fundamental encargada de la coordinación motora, el equilibrio, el tono muscular y el aprendizaje de movimientos precisos. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes moduladores de la función locomotora y la neuroprotección, ofreciendo un apoyo mineral esencial para la salud de este órgano vital. ---

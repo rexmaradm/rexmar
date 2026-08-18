@@ -1,14 +1,9 @@
----
-id: 3936
-title: 'Glándulas salivales y AdM'
-date: '2026-07-23T06:34:34+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3936'
-aliases: ["/sali"]
----
-
++++
+title = "Glándulas salivales y AdM"
+date = 2026-07-23
+author = "legar"
+aliases = ["/sali"]
++++
 ## Agua de Mar Isotónica y las Glándulas Salivales: Evidencia Científica sobre la Producción de Saliva y la Hidratación Oral
 
 Las glándulas salivales son órganos fundamentales que no solo mantienen la boca húmeda, sino que inician la digestión y protegen el microbioma oral. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes estimuladores de la función salival, aliviando la sequedad bucal y optimizando la calidad de la saliva gracias a su perfil mineral bioafín. ---

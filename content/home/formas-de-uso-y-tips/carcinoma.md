@@ -1,4 +1,8 @@
 +++
+title = ""
+date = 2026-08-17
++++
++++
 title = "Carcinoma y AdM"
 date = "2024-01-01"
 aliases = ["/carci"]
@@ -35,7 +39,3 @@ Revistas de Nutrición Clínica. La importancia de la hidratación y la nutrici�
 Fundación René Quinton. El agua de mar y el metabolismo del calcio: fortalecimiento óseo más allá de la suplementación aislada. 🔗 fundacionrenequinton.org
 PharmaMar / Investigación Marina. Uso terapéutico y nutricional del agua de mar natural: biodisponibilidad y ausencia de ligandos tóxicos. 🔗 Ver comunicado de investigación marina
 Noticias de Gipuzkoa. El agua del mar y sus beneficios para los huesos: el rol del calcio y el magnesio en la salud ósea. 🔗 Leer artículo sobre salud ósea y minerales marinos
-
-
- 
-

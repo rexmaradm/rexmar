@@ -1,4 +1,7 @@
 +++
+title = ""
++++
++++
 title = "Distribuidores"
 date = 2024-01-01
 +++
@@ -76,4 +79,3 @@ Teléfonos: +51 1 7470149, +51 954 622 273, +51 946 149 352
 [Ubicación Google Maps](https://www.google.com/maps/place/8%C2%B007'48.9%22S+79%C2%B001'57.1%22W/@-8.1302538,-79.0351041,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-8.1302538!4d-79.0325292?entry=ttu)
 
 Sitio web: [Terapias Oxidativas Jackelin Laza](https://terapias-oxidativas-con-jackelin-laza.getlandingsite.com/)
-

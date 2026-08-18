@@ -1,14 +1,9 @@
----
-id: 3899
-title: 'Torceduras (de manos y pies) y AdM'
-date: '2026-07-22T10:50:22+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3899'
-aliases: ["/torc"]
----
-
++++
+title = "Torceduras (de manos y pies) y AdM"
+date = 2026-07-22
+author = "legar"
+aliases = ["/torc"]
++++
 ## Agua de Mar Isotónica y Recuperación de Torceduras (Esguinces): Evidencia Científica
 
 Existe un sólido respaldo en la literatura científica que explica por qué el agua de mar isotónica (Plasma de Quinton) y el agua de mar profunda (DSW) son excelentes coadyuvantes en la recuperación de torceduras, esguinces y lesiones de tejidos blandos en manos y pies. Su acción se centra en la potente reducción de la inflamación, la aceleración de la reparación de tendones y ligamentos, y el aporte de minerales biodisponibles para la regeneración articular. ---

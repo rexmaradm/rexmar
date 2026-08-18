@@ -1,4 +1,8 @@
 +++
+title = ""
+date = 2026-08-17
++++
++++
 title = "Cocinar y AdM"
 date = "2024-01-01"
 aliases = ["/coci"]
@@ -64,5 +68,3 @@ Darvazehnoie, A. S., et al. (2024). Exploration of deep sea water characteristic
 Lee, S. H., et al. (2020). Effect of Seawater on the Technological Properties of Food Products. Korean Journal for Food Science of Animal Resources. 🔗 Ver en KOSFAJ
 Edible Monterey Bay. Out to Sea: Cooking with Ocean Water. 🔗 ediblemontereybay.com
 Aquamarina Costa Brava. Seawater for Cooking: Benefits and Applications. 🔗 aquamarinacostabrava.com
-
- 

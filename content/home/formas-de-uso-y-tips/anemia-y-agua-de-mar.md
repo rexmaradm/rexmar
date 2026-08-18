@@ -1,15 +1,9 @@
----
-id: 677
-title: 'Anemia y Agua de mar ***'
-date: '2022-11-21T08:54:11+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=677'
-aliases: ["/anemia-y-agua-de-mar"]
----
-
-
++++
+title = "Anemia y Agua de mar ***"
+date = 2022-11-21
+author = "legar"
+aliases = ["/anemia-y-agua-de-mar"]
++++
 </div><div class="content"><div class="index,es"><span style="font-size: large;">**Valoración terapéutica del agua de mar en modelos experimentales como terapia complementaria en anemia**</span>*María Di Bernardo<sup>1</sup> Aribert Castro<sup>2</sup> Yasmin Morales<sup>3</sup> Sonia Boueiri<sup>4</sup> Sulay Brito<sup>5</sup> Carlos Rondón<sup>6</sup> Rosa Ortiz<sup>7</sup> Nathaly Hernández<sup>8</sup>*
 
 <sup>1</sup> Farmacéutico. Doctorado en Química Analítica. Departamento de Toxicología y Farmacología. Facultad de Farmacia y Bioanálisis. Universidad de Los Andes. Mérida. Venezuela. <sup>2</sup> Licenciado en Bioanálisis. Estudiante de Maestría en Química aplicada del Posgrado de Química Analítica. Universidad de Los Andes. Mérida. Venezuela. <sup>3</sup> Farmacéutico. Mgtr en Ciencias Médicas Fundamentales. Centro de Microscopia Electrónica "Dr Ernesto Palacios Prû". Universidad de Los Andes. Mérida. Venezuela. <sup>4</sup> Abogada. Doctora en Derecho. Departamento de Control Social. Facultad de Ciencias Jurídicas y Políticas. Escuela de Criminología. Universidad de Los Andes. Mérida. Venezuela. <sup>5</sup> Técnico Superior Universitario. Agrotecnica. Ministerio de Educación. Mérida. Venezuela. <sup>6</sup> Químico. Doctorado en Química Analítica. Laboratorio de Espectroscopia Molecular. Universidad de Los Andes. Mérida. Venezuela. <sup>7</sup> Lienciada en Trabajo Social. Mgtr en Filosofía. Facultad de Ciencias Jurídicas y Políticas. Universidad del Zulia. Maracaibo. Venezuela. <sup>8</sup> Licenciada en Bioanálisis. Departamento de Fisicoquímica. Escuela de Bioanálisis. Universidad de Los Andes. Mérida. Venezuela.
@@ -205,4 +199,3 @@ La presente investigación fue realizada acorde con la legislación internaciona
 35\. Gaviña G. Dieta Alcalina: Un Método Natural. Edición Kindle; 2013. \[ <a>Links</a> \]
 
 </div></div><div class="license"><div class="footer">Carrera 27, Calle 9Universidad Industrial de SantanderEscuela de Ingeniería QuímicaBucaramanga, Santander, Colombia![](http://www.scielo.org.co/img/en/e-mailt.gif)<medicas@uis.edu.co></div></div><div id="_atssh" style="height: 1px; width: 1px; position: absolute; top: -9999px; z-index: 100000;"><div id="at-expanded-menu-host"> </div></div></div></div>Fuente: [http://www.scielo.org.co](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-03192014000300002)
-

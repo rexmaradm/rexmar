@@ -1,6 +1,6 @@
 +++
 title = "Agua de Mar Isotónica Intravenosa y Hemorroides: Evidencia Histórica y Clínica"
-date = 2025-01-15
+date = 2026-08-18
 description = "La terapia intravenosa de Quinton y su efecto sobre las hemorroides: mecanismos de acción, evidencia histórica y aplicaciones clínicas modernas."
 alias = "/transiv"
 +++

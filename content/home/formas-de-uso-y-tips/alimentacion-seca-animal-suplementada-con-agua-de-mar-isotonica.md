@@ -1,15 +1,9 @@
----
-id: 1528
-title: 'Alimentación seca animal suplementada con Agua de Mar isotónica'
-date: '2023-09-11T17:15:29+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=1528'
-aliases: ["/alimentacion-seca-animal-suplementada-con-agua-de-mar-isotonica"]
----
-
-  
++++
+title = "Alimentación seca animal suplementada con Agua de Mar isotónica"
+date = 2023-09-11
+author = "legar"
+aliases = ["/alimentacion-seca-animal-suplementada-con-agua-de-mar-isotonica"]
++++
 Le preguntamos a la IA Bard de Google si agregar agua de mar isotónica a la comida seca de los animales, los beneficiaría.
 
 Sí, agregar agua de mar isotónica al alimento seco de los perros/gatos también puede ser beneficioso. Los perros, al igual que los gatos, necesitan electrolitos para mantener su salud. Los electrolitos ayudan a mantener el equilibrio de fluidos del cuerpo, la función muscular y la función nerviosa.
@@ -40,4 +34,3 @@ Fácil, poner AdM [isotónica](/formas-de-uso-y-tips/#isotonizarla) en un atomiz
 
 ## **<span style="text-decoration: underline"><mark class="has-inline-color has-luminous-vivid-amber-color" style="background-color:rgba(0, 0, 0, 0)">Aclaración Importante</mark></span>**: como el alimento seco quizás tenga sal u otros sabores agregados, es muy probable que ponerle AdM Isotónica directamente provoque un rechazo a su mascota, empiece por 1:10 (1 parte de AdM y 10 partes de agua potable) y vaya subiendo la parte de AdM muy lentamente, observando la reacción de su mascota. Si rechaza, es que ha llegado a su límite, saque 2 medidas de AdM y continúe así.  
 <span style="text-decoration: underline;">****<span style="text-decoration: underline"><mark class="has-inline-color has-luminous-vivid-amber-color" style="background-color:rgba(0, 0, 0, 0)">Actualización Importante</mark></span>****</span>: yo he decidido quedarme en la proporción 1:10 para atomizar los alimentos secos (1 parte de AdM y 10 partes de agua potable), además en un recipiente aparte siempre des dejo disponible agua isotonica y en otro agua dulce.
-

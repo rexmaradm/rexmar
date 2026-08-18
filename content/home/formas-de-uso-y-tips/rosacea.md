@@ -1,14 +1,9 @@
----
-id: 3613
-title: 'Rosácea y AdM'
-date: '2026-06-29T17:51:45+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3613'
-aliases: ["/rosacea"]
----
-
++++
+title = "Rosácea y AdM"
+date = 2026-06-29
+author = "legar"
+aliases = ["/rosacea"]
++++
 **Existe evidencia emergente** sobre los beneficios de los minerales del Mar Muerto y la haloterapia (terapia con sal) para esta condición. Debajo de los video testimonios, los papers científicos
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/5INKJkdOn0M" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre rosácea y agua de mar: evidencia científica

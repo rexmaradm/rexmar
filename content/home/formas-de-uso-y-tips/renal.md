@@ -1,14 +1,9 @@
----
-id: 3825
-title: 'Riñones y AdM'
-date: '2026-07-14T19:22:08+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3825'
-aliases: ["/renal"]
----
-
++++
+title = "Riñones y AdM"
+date = 2026-07-14
+author = "legar"
+aliases = ["/renal"]
++++
 ## Agua de Mar Isotónica y Salud Renal: Evidencia Científica
 
 Cuando se habla de agua de mar en un contexto terapéutico, la clave está en la **isotonía**. Al tener la misma concentración mineral que el medio interno humano, el agua de mar isotónica no representa una carga osmótica para los riñones, sino que actúa como un suplemento mineral iónico de alta biodisponibilidad que favorece los procesos de filtración y equilibrio electrolítico. Debajo de los videos, los papers científicos. ---

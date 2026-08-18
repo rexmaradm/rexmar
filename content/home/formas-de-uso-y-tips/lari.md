@@ -1,14 +1,9 @@
----
-id: 3948
-title: 'Laringe y AdM'
-date: '2026-07-23T11:40:47+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3948'
-aliases: ["/lari"]
----
-
++++
+title = "Laringe y AdM"
+date = 2026-07-23
+author = "legar"
+aliases = ["/lari"]
++++
 ## Agua de Mar Isotónica y la Laringe: Evidencia Científica sobre Salud Vocal y Mucosa Laríngea
 
 La laringe y las cuerdas vocales son estructuras delicadas que requieren una hidratación constante y un entorno libre de irritantes para funcionar óptimamente. La literatura científica y la práctica clínica revelan que el agua de mar isotónica (Plasma de Quinton), tanto en uso tópico (gárgaras suaves o nebulización) como sistémico (bebida), actúa como un potente agente hidratante, cicatrizante y protector del epitelio laríngeo. ---

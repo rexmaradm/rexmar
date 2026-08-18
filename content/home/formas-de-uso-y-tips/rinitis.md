@@ -1,14 +1,9 @@
----
-id: 3578
-title: 'Rinitis y AdM'
-date: '2026-06-26T10:19:21+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3578'
-aliases: ["/rinitis"]
----
-
++++
+title = "Rinitis y AdM"
+date = 2026-06-26
+author = "legar"
+aliases = ["/rinitis"]
++++
 **existe sólida evidencia científica** sobre el uso exclusivo de agua de mar como monoterapia o tratamiento complementario. A diferencia de la sinusitis que afecta los senos paranasales, la rinitis se centra en la mucosa nasal, y el agua de mar ha demostrado ser particularmente efectiva.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/fJqlX0FCB6k" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/4zYIP9qqUoI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/nbwZJORo3yw" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Aquí te listo los papers científicos más relevantes:

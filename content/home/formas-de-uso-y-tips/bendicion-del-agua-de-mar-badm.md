@@ -1,14 +1,9 @@
----
-id: 3113
-title: 'Bendición del Agua de Mar (BAdM)'
-date: '2025-08-01T11:56:52+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3113'
-aliases: ["/bendicion-del-agua-de-mar-badm"]
----
-
++++
+title = "Bendición del Agua de Mar (BAdM)"
+date = 2025-08-01
+author = "legar"
+aliases = ["/bendicion-del-agua-de-mar-badm"]
++++
 Escuchar ésta página: [Click aqui](https://ody.sh/GmDHUnNSFA)
 
 ---

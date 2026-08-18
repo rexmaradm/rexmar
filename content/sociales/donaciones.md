@@ -1,7 +1,7 @@
 +++
 title = "Donación para Solange - Refugio de Gatos con Leucemia"
 description = "Registro de donaciones para Solange Espinoza y su refugio de gatos con leucemia."
-date = 2026-08-06
+date = 2026-08-18
 +++
 
 # para colaborar directamente con Solange, 

@@ -1,14 +1,9 @@
----
-id: 283
-title: 'Corte PsicoMental Subliminal Silent (CPMSS)'
-date: '2026-01-27T12:15:03+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=283'
-aliases: ["/cpmss"]
----
-
++++
+title = "Corte PsicoMental Subliminal Silent (CPMSS)"
+date = 2026-01-27
+author = "legar"
+aliases = ["/cpmss"]
++++
 ## **Retoma el Control de tu vida. Hackea la Matrix y moldeala para ti**. **Cambia tu vida.** **Protégete de ataques e implantes físicos y etéricos**. **Auto-mejora tu salud.**
 
 **Qué es el Corte PsicoMental (CPM) mejorado por el psicoanálista Jacques Lacan y mejorado por el dr. Alejandro Zaleta**, **Sergio manuel Pop (Monor)** y otros.
@@ -849,4 +844,3 @@ Existe un apartado en los conocimientos Complementarios para la Salud que se ocu
 **a)** Melodía en afinación 432 Hz, la cual estaría en mayor concordancia con las armonías planetarias.  
 b) También se ha agregado el Solfeggio de 174 Hz que según estudios ayudaría a disminuir los dolores físicos, y…  
 **c)** la frecuencia 174 Hz ha sido modulada en 4 Hz, que es la frecuencia cerebral humana en estados de Relajación Profunda y Resolución de problemas, llamada (Theta) . Por Faniel Fumega Music Canal YT: <https://www.youtube.com/channel/UCPQt2osa1KcbxUa4Q-1mXsg>
-

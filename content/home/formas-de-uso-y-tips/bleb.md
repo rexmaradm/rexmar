@@ -1,14 +1,9 @@
----
-id: 3872
-title: 'Klebsiella pneumoniae, artritis reumatoide, espondilitis anquilosante y AdM'
-date: '2026-07-19T19:17:10+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3872'
-aliases: ["/bleb"]
----
-
++++
+title = "Klebsiella pneumoniae, artritis reumatoide, espondilitis anquilosante y AdM"
+date = 2026-07-19
+author = "legar"
+aliases = ["/bleb"]
++++
 ## Agua de Mar Isotónica y Actividad Antimicrobiana: Evidencia Científica frente a Klebsiella pneumoniae
 
 Existe un creciente cuerpo de evidencia científica que respalda las propiedades antimicrobianas y de fortalecimiento inmunológico del agua de mar isotónica (Plasma de Quinton) y del agua de mar profunda (DSW). Estas preparaciones no solo remineralizan el organismo, sino que también aportan compuestos bioactivos que modulan la respuesta del sistema inmunológico frente a patógenos bacterianos como *Klebsiella pneumoniae*.

@@ -1,14 +1,9 @@
----
-id: 3655
-title: 'Aves y AdM'
-date: '2026-07-02T17:17:39+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3655'
-aliases: ["/aves"]
----
-
++++
+title = "Aves y AdM"
+date = 2026-07-02
+author = "legar"
+aliases = ["/aves"]
++++
 **Las aves NO deben beber agua de mar *pura* directamente** (excepto las aves marinas que tienen glándulas especiales) porque puede causar deshidratación y toxicidad por sal
 
 www.allaboutbirds.org. Sin embargo, encontré aplicaciones terapéuticas fascinantes:

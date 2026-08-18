@@ -1,14 +1,9 @@
----
-id: 2731
-title: 'Riñones Diálisis Renal y Agua de Mar'
-date: '2024-12-18T16:53:05+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=2731'
-aliases: ["/rinones-dialisis-renal-y-agua-de-mar"]
----
-
++++
+title = "Riñones Diálisis Renal y Agua de Mar"
+date = 2024-12-18
+author = "legar"
+aliases = ["/rinones-dialisis-renal-y-agua-de-mar"]
++++
 Explicación simple:  
   
 Imagina que tienes unas células especiales en tus riñones. Cuando comes mucha sal, estas células se estresan porque se producen unas sustancias dañinas llamadas ROS. Los científicos estudiaron si el agua de mar profunda, que tiene muchos minerales, puede ayudar a proteger estas células.

@@ -1,14 +1,9 @@
----
-id: 3048
-title: 'Ondas Schumann y AdM'
-date: '2025-06-03T06:03:36+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3048'
-aliases: ["/ondas-schumann-y-adm"]
----
-
++++
+title = "Ondas Schumann y AdM"
+date = 2025-06-03
+author = "legar"
+aliases = ["/ondas-schumann-y-adm"]
++++
 [![Disponible en RexMar consulte stock !!! Haga Click aquí](/wp-content/uploads/2025/07/schumannxcf.png)](/formas-de-uso-y-tips/ondas-schumann-y-adm/#generador)## **Qué son las ondas Schumann?**
 
 Las **ondas Schumann** son como un "latido" natural de la Tierra. Imagina que la Tierra tiene su propio corazón que late muy despacio, y ese latido se puede escuchar (bueno, más bien medir) en forma de ondas invisibles en el aire.

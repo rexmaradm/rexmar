@@ -1,14 +1,9 @@
----
-id: 3609
-title: 'Desnutrición y AdM'
-date: '2026-06-29T05:36:24+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3609'
-aliases: ["/desnutricion"]
----
-
++++
+title = "Desnutrición y AdM"
+date = 2026-06-29
+author = "legar"
+aliases = ["/desnutricion"]
++++
 La desnutrición requiere aporte de **calorías, proteínas y macronutrientes** que el agua de mar no contiene en cantidades significativas. Sin embargo, **SÍ existe evidencia científica sólida** sobre el uso del agua de mar como **complemento** en el tratamiento de la desnutrición, especialmente para corregir déficits de micronutrientes y minerales.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/s653D6RDVRA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/LcfxMMDo7Yo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/znzLq6gekQQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre desnutrición y agua de mar: evidencia científica

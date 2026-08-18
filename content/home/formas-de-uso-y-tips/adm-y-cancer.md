@@ -1,14 +1,9 @@
----
-id: 636
-title: 'AdM y C.á.ncer ***'
-date: '2022-04-02T14:51:51+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/?page_id=418'
-aliases: ["/adm-y-cancer"]
----
-
++++
+title = "AdM y C.á.ncer ***"
+date = 2022-04-02
+author = "legar"
+aliases = ["/adm-y-cancer"]
++++
 (\*)(\*\*\*) El agua de mar es muy buena contra el C.á.ncer,y muchas cosas más, ademas te alcalinizará el organismo lo que redundará en una mejoria general
 
 se ha constatado que los glóbulos blancos colocados en agua de mar isotónica aumentan la secreción de Interleucina 2, del Factor de Necrosis Tumoral Alfa y de Interferón gamma; en otras palabras, los glóbulos blancos humanos en agua de mar isotónica **¡desarrollan sustancias antitumorales!**

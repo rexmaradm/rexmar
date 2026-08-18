@@ -1,14 +1,9 @@
----
-id: 3689
-title: 'Menopausia y AdM'
-date: '2026-07-05T19:23:38+00:00'
-author: legar
-excerpt: ''
-layout: page
-guid: 'https://th.org.pe/wp/?page_id=3689'
-aliases: ["/menopausia"]
----
-
++++
+title = "Menopausia y AdM"
+date = 2026-07-05
+author = "legar"
+aliases = ["/menopausia"]
++++
 <span class="qwen-markdown-text">Descubrí los estudios científicos sobre cómo el agua de mar (tópica y bebida) puede ayudar en el tratamiento de los síntomas de la menopausia, incluyendo sofocos, osteoporosis y desequilibrios hormonales. Debajo de los testimonios el informe y papers científicos.</span> https://www.youtube.com/watch?v=C0e-\_\_WkDC4 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/w1nYdfUHSFY" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/6gYE6yNaG90" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> - 
 
 <div class="qwen-markdown-space"></div><div class="qwen-markdown-hr">---
