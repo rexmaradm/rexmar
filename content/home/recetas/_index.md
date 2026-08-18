@@ -1,4 +1,4 @@
 +++
-title = "Sección"
+title = "Recetas"
 sort_by = "date"
 +++

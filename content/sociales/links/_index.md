@@ -1,5 +1,5 @@
 +++
-title = "Sección"
+title = "Links"
 sort_by = "date"
 +++
 

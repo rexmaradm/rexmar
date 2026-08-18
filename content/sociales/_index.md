@@ -1,4 +1,4 @@
 +++
-title = "Sección"
+title = "Sociales"
 sort_by = "date"
 +++

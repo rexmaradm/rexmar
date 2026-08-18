@@ -1,6 +1,6 @@
 +++
 title = "Insuficiencia renal y AdM"
-date = 2026-02-09
+date = 2026-02-02
 author = "legar"
 aliases = ["/insuficiencia-renal-y-adm"]
 +++
