@@ -2,14 +2,5 @@
 {% block content %}
     {{ section.content | safe }}
     {% if section.pages %}
-    <div class="article-list">
-        <h2>Últimas Publicaciones</h2>
-        {% for page in section.pages %}
-        <article class="preview">
-            <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
-            <p>{{ page.description | default(value=page.summary) | safe }}</p>
-        </article>
-        {% endfor %}
-    </div>
     {% endif %}
 {% endblock content %}
