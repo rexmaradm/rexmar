@@ -9,16 +9,15 @@ aliases = ["/plant"]
 
 <style>
 .rumble-wrapper {
-  position: relative;
   width: 100%;
+  max-width: 800px; /* Ajusta este valor si lo quieres más grande o pequeño */
   margin: 0 auto;
-  padding-bottom: 56.25%; /* Relación de aspecto 16:9 */
-  height: 0;
 }
 .rumble-wrapper iframe {
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9; /* Si el video es vertical, cambia a 9 / 16 */
+  border: 0;
 }
 </style>
 
