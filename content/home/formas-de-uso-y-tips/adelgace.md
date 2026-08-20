@@ -11,4 +11,4 @@ Además también se comprobó en el mismo estudio que el AdM reduce los niveles 
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/68l0OHrH-gE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## **Por todo esto.....comienza con el agua de mar RexMar a recuperar tu salud !!**
 
-Fuente: [/formas-de-uso-y-tips/diabetes/](/formas-de-uso-y-tips/diabetes/)
+Fuente: [/home/formas-de-uso-y-tips/diabetes/](/home/formas-de-uso-y-tips/diabetes/)
