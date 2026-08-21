@@ -5,7 +5,9 @@ author = "legar"
 aliases = ["/plant"]
 +++
 
-# Mirá los descubrimientos del Dr. Murray
+# Beneficios del  AdM en Peces, Plantas....y humanos no???
+
+# Mirá los descubrimientos del Dr. Murray y el AdM
 
 <style>
 .rumble-wrapper {
