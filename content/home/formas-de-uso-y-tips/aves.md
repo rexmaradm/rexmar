@@ -1,9 +1,11 @@
 +++
 title = "Aves y AdM"
+description = "Guía completa sobre Aves y AdM - RexMar Agua de Mar"
 date = 2026-07-02
 author = "legar"
 aliases = ["/aves"]
 +++
+ 
 **Las aves NO deben beber agua de mar *pura* directamente** (excepto las aves marinas que tienen glándulas especiales) porque puede causar deshidratación y toxicidad por sal
 
 www.allaboutbirds.org. Sin embargo, encontré aplicaciones terapéuticas fascinantes:

@@ -1,9 +1,11 @@
 +++
 title = "Obesidad ***"
+description = "Guía completa sobre Obesidad *** - RexMar Agua de Mar"
 date = 2022-04-26
 author = "legar"
 aliases = ["/obesidad"]
 +++
+ 
 ### Agua de Mar y Obesidad
 
 El Agua de Mar es buena contra la obesidad y la diabetes y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría general

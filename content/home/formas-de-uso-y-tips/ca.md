@@ -1,8 +1,8 @@
 +++
 title = "Canc€r y Agua de Mar"
+description = "Guía completa sobre Canc€r y Agua de Mar - RexMar Agua de Mar"
 date = 2026-06-12
 author = "legar"
-description = "Canc€r y Agua de Mar"
 aliases = ["/ca"]
 +++
 

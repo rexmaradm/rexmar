@@ -1,9 +1,11 @@
 +++
 title = "Diabetes y Obesidad ***"
+description = "Guía completa sobre Diabetes y Obesidad *** - RexMar Agua de Mar"
 date = 2022-04-03
 author = "legar"
 aliases = ["/diabetes"]
 +++
+ 
 El Agua de Mar es buena para la diabetes y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría general
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/68l0OHrH-gE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Recientemente, el agua de mar (AdM) ha comenzado a recibir mucha atención para la intervención terapéutica en algunas enfermedades del estilo de vida. En este estudio, se investigaron los efectos **antiobesidad** y **antidiabéticos** de AdM en ratones. Los animales se dividieron aleatoriamente en dos grupos con seis animales: el grupo de control recibió agua del grifo; el grupo experimental fue tratado con AdM de dureza 1000 durante 84 días.   

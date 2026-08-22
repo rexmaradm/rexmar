@@ -1,5 +1,6 @@
 +++
 title = "Hemorroides y AdM"
+description = "Guía completa sobre Hemorroides y AdM - RexMar Agua de Mar"
 date = "2024-01-01"
 aliases = ["/hemor"]
 +++

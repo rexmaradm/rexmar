@@ -1,9 +1,11 @@
 +++
 title = "Colutorio y AdM"
+description = "Guía completa sobre Colutorio y AdM - RexMar Agua de Mar"
 date = 2026-07-05
 author = "legar"
 aliases = ["/colutorio"]
 +++
+ 
 - <span class="qwen-markdown-text">Descubrí los estudios científicos que comparan el agua de mar con la clorhexidina, cómo los minerales marinos protegen encías y dientes, y el protocolo completo para usar agua de mar como colutorio natural. Debajo de los testimonios, la expliación y los papers científicos </span>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/jxDkmLcndrc" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/Nk95YVjpoic" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/uvJXvt7LfvQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> https://www.youtube.com/watch?v=u6J70V5W-\_s <div class="qwen-markdown-space"></div><div class="qwen-markdown-hr">---

@@ -1,9 +1,11 @@
 +++
 title = "Estreñimiento y el agua de mar:***"
+description = "Guía completa sobre Estreñimiento y el agua de mar:*** - RexMar Agua de Mar"
 date = 2022-12-12
 author = "legar"
 aliases = ["/estrenimiento-y-el-agua-de-mar"]
 +++
+ 
 El agua de mar (AdM) es muy buena contra el Estreñimiento y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría en general.
 
 Normalmente para el Estreñimiento se recomienda beber, sorbo a sorbo, un vasito (shot 20 ml a 30 ml ) de AdM con unas gotas de limón en ayunas. Si a los 5 minutos no hizo efecto puedes repetir, hasta no superar los 250 ml de AdM, en general con menos se logra la evacuación. A algunos le resulta mejor tomar una cantidad a la noche, antes de dormir para que trabaje durante el sueño, es cuestión de probar, cada organismo es distinto.

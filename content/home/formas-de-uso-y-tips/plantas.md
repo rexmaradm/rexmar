@@ -1,5 +1,6 @@
 +++
 title = "Beneficios del  AdM en Peces, Plantas....y humanos no??? "
+description = "Guía completa sobre Beneficios del  AdM en Peces, Plantas....y humanos no???  - RexMar Agua de Mar"
 date = 2026-08-20
 author = "legar"
 aliases = ["/plant"]

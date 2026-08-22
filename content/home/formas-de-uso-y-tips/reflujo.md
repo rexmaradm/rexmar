@@ -1,9 +1,11 @@
 +++
 title = "Reflujo y AdM"
+description = "Guía completa sobre Reflujo y AdM - RexMar Agua de Mar"
 date = 2026-07-15
 author = "legar"
 aliases = ["/reflujo"]
 +++
+ 
 ## Agua de Mar Isotónica y Reflujo: Evidencia Científica y Beneficios Digestivos
 
 Existe un consenso creciente tanto en la experiencia clínica integrativa como en la literatura científica sobre el papel del agua de mar isotónica (Plasma de Quinton) en el alivio de afecciones digestivas, incluyendo el reflujo gastroesofágico (ERGE), la gastritis y el desequilibrio del pH gástrico \[\[15\]\], \[\[17\]\]. Al ser una solución microfiltrada en frío y diluida hasta igualar la osmolaridad del plasma humano, actúa como un regulador natural del medio interno. ---

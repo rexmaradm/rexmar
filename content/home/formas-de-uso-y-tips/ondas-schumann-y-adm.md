@@ -1,9 +1,11 @@
 +++
 title = "Ondas Schumann y AdM"
+description = "Guía completa sobre Ondas Schumann y AdM - RexMar Agua de Mar"
 date = 2025-06-03
 author = "legar"
 aliases = ["/ondas-schumann-y-adm"]
 +++
+ 
 [![Disponible en RexMar consulte stock !!! Haga Click aquí](/wp-content/uploads/2025/07/schumannxcf.png)](/formas-de-uso-y-tips/ondas-schumann-y-adm/#generador)## **Qué son las ondas Schumann?**
 
 Las **ondas Schumann** son como un "latido" natural de la Tierra. Imagina que la Tierra tiene su propio corazón que late muy despacio, y ese latido se puede escuchar (bueno, más bien medir) en forma de ondas invisibles en el aire.

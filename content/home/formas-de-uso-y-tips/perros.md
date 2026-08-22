@@ -1,9 +1,11 @@
 +++
 title = "Perros y AdM"
+description = "Guía completa sobre Perros y AdM - RexMar Agua de Mar"
 date = 2026-07-02
 author = "legar"
 aliases = ["/perros"]
 +++
+ 
 **Encontré aplicaciones terapéuticas fascinantes:**
 
 1. **Baños de agua salada** para heridas y problemas de piel

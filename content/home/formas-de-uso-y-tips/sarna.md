@@ -1,5 +1,6 @@
 +++
 title = "Sarna y AdM"
+description = "Guía completa sobre Sarna y AdM - RexMar Agua de Mar"
 date = "2024-01-01"
 aliases = ["/sarna"]
 +++

@@ -1,9 +1,11 @@
 +++
 title = "Linfa Sistema linfático y AdM"
+description = "Guía completa sobre Linfa Sistema linfático y AdM - RexMar Agua de Mar"
 date = 2026-07-01
 author = "legar"
 aliases = ["/linfa"]
 +++
+ 
 ## La Ciencia del Agua de Mar y el Sistema Linfático: El Legado de René Quinton
 
 En la medicina moderna, el sistema linfático, el plasma sanguíneo y el líquido intersticial forman un único "medio interno" interconectado. El concepto de tratar estos fluidos vitales (incluida la linfa) mediante agua de mar es la base de la **Terapia Marina**, fundada por el fisiólogo francés **René Quinton** a finales del siglo XIX. Quinton demostró empíricamente que el agua de mar y la linfa de los mamíferos son químicamente casi idénticas.

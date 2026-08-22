@@ -1,9 +1,11 @@
 +++
 title = "Bendición del Agua de Mar (BAdM)"
+description = "Guía completa sobre Bendición del Agua de Mar (BAdM) - RexMar Agua de Mar"
 date = 2025-08-01
 author = "legar"
 aliases = ["/bendicion-del-agua-de-mar-badm"]
 +++
+ 
 Escuchar ésta página: [Click aqui](https://ody.sh/GmDHUnNSFA)
 
 ---

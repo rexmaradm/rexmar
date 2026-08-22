@@ -1,9 +1,11 @@
 +++
 title = "Propiedades anti-canc€rígenas del fitoplancton"
+description = "Guía completa sobre Propiedades anti-canc€rígenas del fitoplancton - RexMar Agua de Mar"
 date = 2026-06-09
 author = "legar"
 aliases = ["/fito"]
 +++
+ 
 ##   
 **Qué es el Fitoplancton?**
 

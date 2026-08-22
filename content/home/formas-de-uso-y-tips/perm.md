@@ -1,8 +1,10 @@
 +++
 title = "Permeabilidad intestinal y AdM"
+description = "Agua de Mar Isotónica e Hipertónica y la Permeabilidad Intestinal"
 date = 2026-08-01
 author = "legar"
 +++
+ 
 ## Agua de Mar Isotónica e Hipertónica y la Permeabilidad Intestinal: Evidencia Científica sobre la Reparación de la Barrera Intestinal
 
 La permeabilidad intestinal (conocida como "intestino permeable" o *leaky gut*) ocurre cuando las uniones estrechas (*tight junctions*) del epitelio intestinal se debilitan, permitiendo el paso no deseado de toxinas y macromoléculas al torrente sanguíneo. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino (en sus presentaciones isotónica e hipertónica) actúan como potentes coadyuvantes para restaurar la integridad de la barrera intestinal, modular la inflamación y optimizar el ecosistema microbiano.

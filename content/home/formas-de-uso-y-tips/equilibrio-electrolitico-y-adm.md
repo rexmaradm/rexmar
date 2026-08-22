@@ -1,9 +1,11 @@
 +++
 title = "Adelgace y mejore su salud – Equilibrio Hidro-Electrolítico y AdM"
+description = "Guía completa sobre Adelgace y mejore su salud – Equilibrio Hidro-Electrolítico y AdM - RexMar Agua de Mar"
 date = 2025-03-22
 author = "legar"
 aliases = ["/equilibrio-electrolitico-y-adm"]
 +++
+ 
 ## **Adaptación (casera, no oficial) con AdM del sistema Unani del dr. David Duarte**
 
 **Nuestro cuerpo necesita unos 9 gr de sal por litro de agua (incluyendo líquidos y *"solidos"* que comemos).   

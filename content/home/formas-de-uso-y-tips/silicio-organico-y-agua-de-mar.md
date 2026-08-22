@@ -1,9 +1,11 @@
 +++
 title = "Silicio orgánico y agua de mar"
+description = "Guía completa sobre Silicio orgánico y agua de mar - RexMar Agua de Mar"
 date = 2025-02-09
 author = "legar"
 aliases = ["/silicio-organico-y-agua-de-mar"]
 +++
+ 
 **Resúmen: el silicio orgánico beneficia al organismo en muchos aspectos, huesos, tejidos, Esclerosis Multiples, hepatitis y un largo etc.   
 Nota de RexMar: el Agua de mar tiene silicio orgánico biodisponible !!!**
 

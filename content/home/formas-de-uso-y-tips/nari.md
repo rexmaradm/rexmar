@@ -1,9 +1,11 @@
 +++
 title = "Nariz/Fosas nasales y AdM"
+description = "Guía completa sobre Nariz/Fosas nasales y AdM - RexMar Agua de Mar"
 date = 2026-07-23
 author = "legar"
 aliases = ["/nari"]
 +++
+ 
 ## Agua de Mar Isotónica e Hipertónica y la Salud Nasal: Evidencia Científica sobre Mucosa, Cilios y Sinusitis
 
 Las fosas nasales y la mucosa nasal son la primera línea de defensa del sistema respiratorio. La literatura científica y clínica revela que el agua de mar (tanto en su presentación isotónica como hipertónica) actúa como un potente agente hidratante, regenerador y descongestivo, optimizando la función ciliar y aliviando eficazmente la rinosinusitis y la congestión nasal. ---

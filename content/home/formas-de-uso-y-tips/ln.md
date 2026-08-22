@@ -1,9 +1,11 @@
 +++
 title = "Lavado Nasal y ADM"
+description = "Guía completa sobre Lavado Nasal y ADM - RexMar Agua de Mar"
 date = 2026-07-12
 author = "legar"
 aliases = ["/ln"]
 +++
+ 
 Descubrí los estudios científicos que demuestran cómo el lavado nasal con agua de mar reduce la duración de síntomas en 3-5 días, disminuye la carga viral de SARS-CoV-2 en 2 días, y reduce la transmisión a contactos domiciliarios. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/NCvJ8C2b6iA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/LC7VIXvQfag" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/QZVmG4tPL1M" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 # <span class="qwen-markdown-text" data-spm-anchor-id="a2ty_o01.29997173.0.i55.721555fbhi8LEn">Agua de Mar y Lavado Nasal: Estudios Científicos sobre Eficacia, Carga Viral y Duración de Síntomas</span>

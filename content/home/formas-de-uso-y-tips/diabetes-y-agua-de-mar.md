@@ -1,8 +1,8 @@
 +++
 title = "Diabetes y Agua de Mar"
+description = "Guía completa sobre Diabetes y Agua de Mar - RexMar Agua de Mar"
 date = 2024-12-18
 author = "legar"
-description = "diabetes-y-agua-de-mar"
 aliases = ["/diabetes-y-agua-de-mar"]
 +++
 

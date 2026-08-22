@@ -1,9 +1,11 @@
 +++
 title = "Bomba de sodio potasio y agua de mar"
+description = "Guía completa sobre Bomba de sodio potasio y agua de mar - RexMar Agua de Mar"
 date = 2025-01-05
 author = "legar"
 aliases = ["/bomba-de-sodio-potasio-y-agua-de-mar"]
 +++
+
 **Explicación simple:**   
 Imaginemos que nuestro cuerpo es como una gran ciudad muy ocupada. En esta ciudad, hay muchas pequeñas fábricas (nuestras células) que necesitan que todo funcione bien para que la ciudad (nuestro cuerpo) esté sana.
 

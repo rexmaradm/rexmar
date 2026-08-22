@@ -1,9 +1,11 @@
 +++
 title = "Alergias y AdM"
+description = "Guía completa sobre Alergias y AdM - RexMar Agua de Mar"
 date = 2026-07-15
 author = "legar"
 aliases = ["/alerg"]
 +++
+ 
 ## Agua de Mar Isotónica y Alergias: Evidencia Científica y Aplicación
 
 Existe un sólido respaldo tanto en la literatura científica como en la experiencia clínica integrativa sobre el uso del agua de mar isotónica (Plasma de Quinton) para el manejo de procesos alérgicos. Al mantener la misma osmolaridad que el plasma humano, esta preparación aporta una matriz completa de minerales y oligoelementos que favorecen la modulación inmunológica sin generar estrés osmótico en el organismo. Debajo de los video testimonios, los papers científicos. ---

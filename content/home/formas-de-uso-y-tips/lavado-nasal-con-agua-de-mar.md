@@ -1,9 +1,11 @@
 +++
 title = "Lavado Nasal con Agua de Mar ***"
+description = "Guía completa sobre Lavado Nasal con Agua de Mar *** - RexMar Agua de Mar"
 date = 2023-01-18
 author = "legar"
 aliases = ["/lavado-nasal-con-agua-de-mar"]
 +++
+ 
 Técnica de lavado nasal con agua de mar (AdM)
 
 El AdM es muy buena para el Lavado Nasal

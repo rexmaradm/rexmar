@@ -1,9 +1,11 @@
 +++
 title = "Qué produce y para qué sirve el filtrado?"
+description = "Guía completa sobre Qué produce y para qué sirve el filtrado? - RexMar Agua de Mar"
 date = 2025-06-01
 author = "legar"
 aliases = ["/que-produce-y-para-que-sirve-el-filtrado"]
 +++
+ 
 ### es necesario?
 
 Resúmen muy breve:   

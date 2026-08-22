@@ -1,9 +1,11 @@
 +++
 title = "Alternativa casera económica a la transfusión intravenosa IV"
+description = "Guía completa sobre Alternativa casera económica a la transfusión intravenosa IV - RexMar Agua de Mar"
 date = 2023-12-05
 author = "legar"
 aliases = ["/alternativa-casera-economica-a-la-transfusion-intravenosa-iv"]
 +++
+ 
 La Tta. Griselda Donatucci (<https://www.youtube.com/channel/UCcKSF49mH1edPUpsYmBVR0w/>) entrevista al dr. Wilmer Soler donde éste habla sobre la posibilidad de hacer un reemplazo casero, económico y más seguro de la transfusión intravenosa IV con agua de mar isotónica.
 
 <div class="wp-block-embed__wrapper">https://rumble.com/v3z3xo2-cmo-reemplazar-en-forma-casera-la-inyecci0n-iv-de-agua-de-mar.html?mref=1wgpuu&amp;mc=1as4y# **Otras formas caseras de llevar el Agua de mar a la sangre**  

@@ -1,9 +1,11 @@
 +++
 title = "Anemia y Agua de mar ***"
+description = "Guía completa sobre Anemia y Agua de mar *** - RexMar Agua de Mar"
 date = 2022-11-21
 author = "legar"
 aliases = ["/anemia-y-agua-de-mar"]
 +++
+ 
 </div><div class="content"><div class="index,es"><span style="font-size: large;">**Valoración terapéutica del agua de mar en modelos experimentales como terapia complementaria en anemia**</span>*María Di Bernardo<sup>1</sup> Aribert Castro<sup>2</sup> Yasmin Morales<sup>3</sup> Sonia Boueiri<sup>4</sup> Sulay Brito<sup>5</sup> Carlos Rondón<sup>6</sup> Rosa Ortiz<sup>7</sup> Nathaly Hernández<sup>8</sup>*
 
 <sup>1</sup> Farmacéutico. Doctorado en Química Analítica. Departamento de Toxicología y Farmacología. Facultad de Farmacia y Bioanálisis. Universidad de Los Andes. Mérida. Venezuela. <sup>2</sup> Licenciado en Bioanálisis. Estudiante de Maestría en Química aplicada del Posgrado de Química Analítica. Universidad de Los Andes. Mérida. Venezuela. <sup>3</sup> Farmacéutico. Mgtr en Ciencias Médicas Fundamentales. Centro de Microscopia Electrónica "Dr Ernesto Palacios Prû". Universidad de Los Andes. Mérida. Venezuela. <sup>4</sup> Abogada. Doctora en Derecho. Departamento de Control Social. Facultad de Ciencias Jurídicas y Políticas. Escuela de Criminología. Universidad de Los Andes. Mérida. Venezuela. <sup>5</sup> Técnico Superior Universitario. Agrotecnica. Ministerio de Educación. Mérida. Venezuela. <sup>6</sup> Químico. Doctorado en Química Analítica. Laboratorio de Espectroscopia Molecular. Universidad de Los Andes. Mérida. Venezuela. <sup>7</sup> Lienciada en Trabajo Social. Mgtr en Filosofía. Facultad de Ciencias Jurídicas y Políticas. Universidad del Zulia. Maracaibo. Venezuela. <sup>8</sup> Licenciada en Bioanálisis. Departamento de Fisicoquímica. Escuela de Bioanálisis. Universidad de Los Andes. Mérida. Venezuela.

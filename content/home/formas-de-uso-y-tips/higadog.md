@@ -1,9 +1,11 @@
 +++
 title = "Hígado graso y AdM"
+description = "Guía completa sobre Hígado graso y AdM - RexMar Agua de Mar"
 date = 2026-07-06
 author = "legar"
 aliases = ["/higadog"]
 +++
+ 
 - <span class="qwen-markdown-text">Descubrí los estudios científicos sobre cómo el agua de mar profunda (bebida) puede reducir la acumulación de grasa hepática, el papel del magnesio y calcio marinos en el metabolismo del hígado, y las contraindicaciones de la talasoterapia para enfermedades hepáticas.</span>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/koR2f0UEens" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/IyHGPDGwpCI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/_5rSlqouKs8" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-hr">---

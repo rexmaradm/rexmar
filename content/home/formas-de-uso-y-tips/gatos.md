@@ -1,9 +1,11 @@
 +++
 title = "Gatos y AdM"
+description = "Guía completa sobre Gatos y AdM - RexMar Agua de Mar"
 date = 2026-07-02
 author = "legar"
 aliases = ["/gatos"]
 +++
+ 
 ## **Aplicaciones terapéuticas fascinantes para gatos:**
 
 1. **Baños de agua salada** para heridas menores

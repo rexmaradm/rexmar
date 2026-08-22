@@ -1,9 +1,11 @@
 +++
 title = "Colitis ulcerosa / Crohn / Síndrome de  Intestino Irritado **"
+description = "Guía completa sobre Colitis ulcerosa / Crohn / Síndrome de  Intestino Irritado ** - RexMar Agua de Mar"
 date = 2023-04-23
 author = "legar"
 aliases = ["/colitis-ulcerosa-crohn"]
 +++
+ 
 La colitis ulcerosa es una enfermedad inflamatoria intestinal crónica que causa inflamación y úlceras en el colon y el recto. Los síntomas incluyen diarrea, dolor abdominal, calambres, fiebre y pérdida de peso. La enfermedad puede ser agotadora y, en algunos casos, puede llevar a complicaciones que ponen en riesgo la vida   
   
 El agua de mar (AdM) puede ayudar en la Colitis ulcerosa / Crohn / Colon irritable / Síndrome de Intestino Irritado, como puede ver en los siguientes links de publicaciones científicas

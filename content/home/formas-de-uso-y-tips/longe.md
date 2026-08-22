@@ -1,9 +1,11 @@
 +++
 title = "Longevidad y AdM"
+description = "Guía completa sobre Longevidad y AdM - RexMar Agua de Mar"
 date = 2026-07-14
 author = "legar"
 aliases = ["/longe"]
 +++
+ 
 ## Escuche 👆toda ésta página  
   
 Agua de Mar y Longevidad: Evidencia Científica Actualizada

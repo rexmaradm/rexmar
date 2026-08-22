@@ -1,8 +1,8 @@
 +++
 title = "Artrosis, Artritis, Osteoporosis, fibromialgia y agua de mar"
+description = "Guía completa sobre Artrosis, Artritis, Osteoporosis, fibromialgia y agua de mar - RexMar Agua de Mar"
 date = 2024-12-18
 author = "legar"
-description = "artrosis-artritis-osteoporosis-fibromialgia-y-agua-de-mar"
 aliases = ["/artrosis-artritis-osteoporosis-fibromialgia-y-agua-de-mar"]
 +++
 

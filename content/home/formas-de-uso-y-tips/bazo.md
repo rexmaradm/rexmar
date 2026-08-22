@@ -1,9 +1,11 @@
 +++
 title = "Bazo (órgano) y AdM"
+description = "Guía completa sobre Bazo (órgano) y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/bazo"]
 +++
+ 
 ## Agua de Mar Isotónica y el Bazo: Evidencia Científica sobre el Sistema Reticuloendotelial
 
 El bazo es el órgano linfoide más grande del cuerpo y un pilar fundamental del sistema reticuloendotelial (o sistema fagocítico mononuclear). La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes moduladores de este sistema, optimizando la respuesta de macrófagos y linfocitos para mantener un "terreno biológico" fuerte y resiliente. ---

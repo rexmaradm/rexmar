@@ -1,9 +1,11 @@
 +++
 title = "Ap0pt0sis y Agua de Mar"
+description = "Guía completa sobre Ap0pt0sis y Agua de Mar - RexMar Agua de Mar"
 date = 2023-06-23
 author = "legar"
 aliases = ["/apoptosis-y-agua-de-mar"]
 +++
+ 
 El agua de mar induce la [ap0pt0sis](/links/apoptosis-significado/) en las células epiteliales alveolares a través de la vía mediada por Fas/FasL
 
 Abstracto

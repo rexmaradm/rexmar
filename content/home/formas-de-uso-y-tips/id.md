@@ -1,9 +1,11 @@
 +++
 title = "Intestino delgado y AdM"
+description = "Guía completa sobre Intestino delgado y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/id"]
 +++
+ 
 ## Agua de Mar Isotónica y el Intestino Delgado: Evidencia Científica sobre la Barrera Intestinal y la Mucosa
 
 El intestino delgado es el centro neurálgico de la absorción de nutrientes y un pilar fundamental del sistema inmunológico. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes protectores de la mucosa intestinal, fortaleciendo las células epiteliales (enterocitos) y optimizando la integridad de la barrera digestiva. ---

@@ -1,9 +1,11 @@
 +++
 title = "Hipertensión y AdM"
+description = "Guía completa sobre Hipertensión y AdM - RexMar Agua de Mar"
 date = 2026-06-29
 author = "legar"
 aliases = ["/hipertension"]
 +++
+ 
 He investigado exhaustivamente sobre papers científicos que evalúen el tratamiento de la **hipertensión exclusivamente con agua de mar** como monoterapia.
 
 Debo informarte con total transparencia que este es un tema **complejo y paradójico**. El agua de mar convencional tiene **alto contenido de sodio** (10,770 mg/L), lo cual es **contraproducente** para la hipertensión. Sin embargo, el **agua de mar profunda (Deep Sea Water - DSW)** y el **magnesio** del agua de mar han demostrado efectos **antihipertensivos** en estudios científicos. Debajo de los testimonios, los papers científicos.

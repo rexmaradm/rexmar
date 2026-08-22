@@ -1,9 +1,11 @@
 +++
 title = "Uñas y AdM"
+description = "Guía completa sobre Uñas y AdM - RexMar Agua de Mar"
 date = 2026-07-24
 author = "legar"
 aliases = ["/unas"]
 +++
+ 
 ## Agua de Mar Isotónica e Hipertónica y las Uñas: Evidencia Científica sobre Fortalecimiento, Salud Ungueal y Onicomicosis
 
 Las uñas son anexos cutáneos compuestos principalmente de queratina, cuya salud depende de un suministro constante de minerales, una hidratación adecuada y un entorno libre de patógenos. La literatura científica y la dermatología integrativa revelan que el agua de mar profunda (DSW) y el plasma marino (en sus presentaciones isotónica e hipertónica) actúan como potentes moduladores de la salud ungueal, ofreciendo mecanismos comprobados para el fortalecimiento de la fibra, la prevención de la fragilidad y el apoyo en el manejo de hongos. ---

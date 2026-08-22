@@ -1,5 +1,6 @@
 +++
 title = "Acidez y AdM"
+description = "Guía completa sobre Acidez y AdM - RexMar Agua de Mar"
 date = 2026-07-04
 author = "legar"
 aliases = ["/acidez-y-adm"]

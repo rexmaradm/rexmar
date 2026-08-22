@@ -1,9 +1,11 @@
 +++
 title = "Esclerosis múltiple y agua de mar"
+description = "Guía completa sobre Esclerosis múltiple y agua de mar - RexMar Agua de Mar"
 date = 2026-06-13
 author = "legar"
 aliases = ["/em"]
 +++
+ 
 ## Agua de Mar y Esclerosis Múltiple: Lo que Dice la Ciencia
 
 La esclerosis múltiple (EM) es una enfermedad autoinmune crónica que afecta al sistema nervioso central, caracterizada por inflamación, desmielinización y gliosis

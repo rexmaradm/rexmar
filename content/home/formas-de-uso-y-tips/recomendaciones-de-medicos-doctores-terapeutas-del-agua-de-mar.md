@@ -1,8 +1,8 @@
 +++
 title = "Recomendaciones de médicos, doctores, terapeutas del Agua de Mar"
+description = "Guía completa sobre Recomendaciones de médicos, doctores, terapeutas del Agua de Mar - RexMar Agua de Mar"
 date = 2024-12-18
 author = "legar"
-description = "recomendaciones-de-medicos-doctores-terapeutas-del-agua-de-mar"
 aliases = ["/recomendaciones-de-medicos-doctores-terapeutas-del-agua-de-mar"]
 +++
 

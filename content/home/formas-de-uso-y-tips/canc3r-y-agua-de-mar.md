@@ -1,8 +1,8 @@
 +++
 title = "Cánc3r y Agua de Mar"
+description = "Guía completa sobre Cánc3r y Agua de Mar - RexMar Agua de Mar"
 date = 2024-12-18
 author = "legar"
-description = "canc3r-y-agua-de-mar"
 aliases = ["/canc3r-y-agua-de-mar"]
 +++
 

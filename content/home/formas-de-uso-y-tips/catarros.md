@@ -1,9 +1,11 @@
 +++
 title = "Catarros (resfrío común) y AdM"
+description = "Guía completa sobre Catarros (resfrío común) y AdM - RexMar Agua de Mar"
 date = 2026-06-27
 author = "legar"
 aliases = ["/catarros"]
 +++
+ 
 El **catarro** (resfriado común o infección viral del tracto respiratorio superior) es un área donde **SÍ existe sólida evidencia científica** sobre el uso exclusivo de agua de mar como tratamiento efectivo.
 
 El catarro afecta principalmente las vías respiratorias superiores (nariz y garganta), no los pulmones, por lo que el lavado nasal con agua de mar es seguro y ha sido ampliamente estudiado.

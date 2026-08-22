@@ -1,9 +1,11 @@
 +++
 title = "Hidratación y AdM"
+description = "Guía completa sobre Hidratación y AdM - RexMar Agua de Mar"
 date = 2026-07-04
 author = "legar"
 aliases = ["/hidratacion"]
 +++
+ 
 <div class="qwen-markdown-hr">---
 
 </div># <span class="qwen-markdown-text">Agua de Mar e Hidratación: ¿Aliado o Enemigo? Lo que Dice la Ciencia</span>

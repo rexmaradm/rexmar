@@ -1,9 +1,11 @@
 +++
 title = "Tiroides y AdM"
+description = "Guía completa sobre Tiroides y AdM - RexMar Agua de Mar"
 date = 2026-07-05
 author = "legar"
 aliases = ["/tiroides2"]
 +++
+ 
 Descubrí los estudios científicos sobre la relación entre el agua de mar y la tiroides, incluyendo el contenido de yodo. Debajo de los testimonios, la info y papers científicos. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/kIVRurYejlY" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/I5vJOsvFreg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
 
 

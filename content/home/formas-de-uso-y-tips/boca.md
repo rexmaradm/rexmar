@@ -1,9 +1,11 @@
 +++
 title = "Boca y AdM"
+description = "Guía completa sobre Boca y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/boca"]
 +++
+ 
 ## Agua de Mar Isotónica y Salud Bucal: Evidencia Científica sobre Encías, Mucosa y Microbioma Oral
 
 La cavidad oral es un ecosistema complejo que requiere un equilibrio preciso de minerales y bacterias benéficas. La literatura científica y odontológica revela que el agua de mar isotónica (Plasma de Quinton), tanto en uso tópico (enjuagues) como sistémico (bebida), actúa como un potente agente antiinflamatorio, regenerador de mucosas y modulador del microbioma bucal. ---

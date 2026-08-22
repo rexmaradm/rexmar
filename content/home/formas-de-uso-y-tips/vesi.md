@@ -1,9 +1,11 @@
 +++
 title = "Vesícula biliar y AdM"
+description = "Guía completa sobre Vesícula biliar y AdM - RexMar Agua de Mar"
 date = 2026-07-23
 author = "legar"
 aliases = ["/vesi"]
 +++
+ 
 ## Agua de Mar Isotónica y la Vesícula Biliar: Evidencia Científica sobre el Metabolismo Biliar y la Salud Hepato-Biliar
 
 La vesícula biliar es un órgano fundamental que almacena y concentra la bilis producida por el hígado, esencial para la digestión de grasas y la eliminación de toxinas. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes moduladores del metabolismo biliar, favoreciendo la fluidez de la bilis y aliviando la carga metabólica del sistema hepato-biliar. ---

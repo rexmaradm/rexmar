@@ -1,9 +1,11 @@
 +++
 title = "El agua de mar en odontología ***"
+description = "Guía completa sobre El agua de mar en odontología *** - RexMar Agua de Mar"
 date = 2022-12-31
 author = "legar"
 aliases = ["/el-agua-de-mar-en-odontologia"]
 +++
+ 
 - 
 
 El **agua de mar en odontología** es un nuevo enfoque donde el agua de mar aporta sus minerales con el fin de favorecer la restauración del equilibrio, pudiendo emplearse tanto para tratamiento de base como por su efecto local.

@@ -1,9 +1,11 @@
 +++
 title = "Reconecta con tu «Mar Interior»: Cómo el Agua de Mar Beneficia a tu Sistema Nervioso Central"
+description = "Guía completa sobre Reconecta con tu «Mar Interior»: Cómo el Agua de Mar Beneficia a tu Sistema Nervioso Central - RexMar Agua de Mar"
 date = 2026-06-10
 author = "legar"
 aliases = ["/snc"]
 +++
+ 
 #  
 
 ---

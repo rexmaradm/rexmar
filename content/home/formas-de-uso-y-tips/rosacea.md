@@ -1,9 +1,11 @@
 +++
 title = "Rosácea y AdM"
+description = "Guía completa sobre Rosácea y AdM - RexMar Agua de Mar"
 date = 2026-06-29
 author = "legar"
 aliases = ["/rosacea"]
 +++
+ 
 **Existe evidencia emergente** sobre los beneficios de los minerales del Mar Muerto y la haloterapia (terapia con sal) para esta condición. Debajo de los video testimonios, los papers científicos
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/5INKJkdOn0M" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Papers científicos sobre rosácea y agua de mar: evidencia científica

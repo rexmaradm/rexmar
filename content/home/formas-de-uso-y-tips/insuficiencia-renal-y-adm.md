@@ -1,9 +1,11 @@
 +++
 title = "Insuficiencia renal y AdM"
+description = "Guía completa sobre Insuficiencia renal y AdM - RexMar Agua de Mar"
 date = 2026-02-02
 author = "legar"
 aliases = ["/insuficiencia-renal-y-adm"]
 +++
+ 
 nos explica la dra. Teresa Ilari
 
 <iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v73chwm/?pub=1wgpuu" width="640"></iframe>video completo

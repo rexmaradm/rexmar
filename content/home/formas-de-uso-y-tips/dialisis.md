@@ -1,9 +1,11 @@
 +++
 title = "Diálisis y AdM"
+description = "Guía completa sobre Diálisis y AdM - RexMar Agua de Mar"
 date = 2026-07-14
 author = "legar"
 aliases = ["/dialisis"]
 +++
+ 
 ## Agua de Mar Isotónica y Diálisis: Perspectiva Científica y Testimonial
 
 Existe un creciente número de testimonios en el ámbito de la medicina integrativa y natural que destacan el uso del agua de mar isotónica (Plasma de Quinton) como apoyo en procesos de desintoxicación y equilibrio mineral, incluyendo referencias a prácticas como la "diálisis percutánea" o baños de inmersión marina \[\[48\]\], \[\[52\]\]. Al consultar las bases de datos científicas, es útil distinguir entre la evidencia clínica convencional y los reportes de terapia marina. Debajo de los testimonios, los papers científicos. ---

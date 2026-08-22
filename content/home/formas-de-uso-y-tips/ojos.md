@@ -1,9 +1,11 @@
 +++
 title = "Ojos y AdM"
+description = "Guía completa sobre Ojos y AdM - RexMar Agua de Mar"
 date = 2026-06-30
 author = "legar"
 aliases = ["/ojos"]
 +++
+ 
 Existen varios ensayos clínicos y estudios científicos que demuestran los beneficios del **agua de mar** (específicamente en soluciones oftálmicas estériles) para tratar afecciones como el ojo seco, la conjuntivitis alérgica y la inflamación de la superficie ocular. Debajo de los testimonios, los papers cientificos
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/Tiw9Rod3r5c" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/hO_SL_tMJDg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/cBzmWS40XnE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/xzJUXk-L8-U" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Estudios Científicos sobre el Uso del Agua de Mar en la Salud Ocular

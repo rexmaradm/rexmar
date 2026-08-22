@@ -1,9 +1,11 @@
 +++
 title = "Asma y Agua de mar"
+description = "Guía completa sobre Asma y Agua de mar - RexMar Agua de Mar"
 date = 2024-08-20
 author = "legar"
 aliases = ["/asma-y-agua-de-mar"]
 +++
+ 
 Agua de mar y soluciones salinas en las afecciones de las vías respiratorias superiores
 
 - Štanfel D, Kalogjera L, Ryazantsev SV, Hlača K, Radtsig EY, Teimuraz R, Hrabač P

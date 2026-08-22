@@ -1,9 +1,11 @@
 +++
 title = "Riñones Diálisis Renal y Agua de Mar"
+description = "Guía completa sobre Riñones Diálisis Renal y Agua de Mar - RexMar Agua de Mar"
 date = 2024-12-18
 author = "legar"
 aliases = ["/rinones-dialisis-renal-y-agua-de-mar"]
 +++
+ 
 Explicación simple:  
   
 Imagina que tienes unas células especiales en tus riñones. Cuando comes mucha sal, estas células se estresan porque se producen unas sustancias dañinas llamadas ROS. Los científicos estudiaron si el agua de mar profunda, que tiene muchos minerales, puede ayudar a proteger estas células.

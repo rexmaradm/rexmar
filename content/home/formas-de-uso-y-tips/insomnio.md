@@ -1,9 +1,11 @@
 +++
 title = "Insomnio y AdM"
+description = "Guía completa sobre Insomnio y AdM - RexMar Agua de Mar"
 date = 2026-06-28
 author = "legar"
 aliases = ["/insomnio"]
 +++
+ 
 El insomnio es un trastorno del sueño complejo con múltiples causas (psicológicas, fisiológicas, ambientales) que requiere intervenciones específicas.
 
 Sin embargo, **SÍ existe evidencia científica sólida** sobre los efectos beneficiosos de los minerales marinos (especialmente el magnesio), los baños termales/minerales y la talasoterapia en la calidad del sueño.

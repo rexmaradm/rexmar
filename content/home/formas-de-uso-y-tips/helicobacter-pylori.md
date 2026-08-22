@@ -1,9 +1,11 @@
 +++
 title = "Helicobacter Pylori ***"
+description = "Guía completa sobre Helicobacter Pylori *** - RexMar Agua de Mar"
 date = 2022-04-03
 author = "legar"
 aliases = ["/helicobacter-pylori"]
 +++
+ 
 (\*)(\*\*\*) El agua de mar es muy buena contra la Helicobacter Pylori, y muchas cosas más, ademas te alcalinizará el organismo lo que redundará en una mejoría general
 
 Se ha estudiado que el agua de mar, por su condición alcalina y rica en magnesio, tiene efectos bactericidas y ayuda a eliminar la bacteria ‘Helicobacter Pylori’,

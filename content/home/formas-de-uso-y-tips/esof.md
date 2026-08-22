@@ -1,9 +1,11 @@
 +++
 title = "Esófago y AdM"
+description = "Guía completa sobre Esófago y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/esof"]
 +++
+ 
 ## Agua de Mar Isotónica y el Esófago: Evidencia Científica sobre la Protección de la Mucosa
 
 El esófago es un conducto muscular sensible que carece de la gruesa capa protectora del estómago, lo que lo hace vulnerable a la irritación ácida. La literatura científica y la experiencia clínica integrativa revelan que el agua de mar isotónica (Plasma de Quinton) actúa como una herramienta terapéutica idónea para proteger la mucosa esofágica, aliviar la esofagitis y promover la regeneración tisular de forma natural. ---

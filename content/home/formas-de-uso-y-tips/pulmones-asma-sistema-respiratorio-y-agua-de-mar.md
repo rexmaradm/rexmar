@@ -1,8 +1,8 @@
 +++
 title = "Pulmones, Asma, Sistema respiratorio y Agua de Mar"
+description = "Guía completa sobre Pulmones, Asma, Sistema respiratorio y Agua de Mar - RexMar Agua de Mar"
 date = 2024-12-18
 author = "legar"
-description = "pulmones-asma-sistema-respiratorio-y-agua-de-mar"
 aliases = ["/pulmones-asma-sistema-respiratorio-y-agua-de-mar"]
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Melanoma y AdM"
+description = "Guía completa sobre Melanoma y AdM - RexMar Agua de Mar"
 date = "2024-01-01"
 aliases = ["/mela"]
 +++

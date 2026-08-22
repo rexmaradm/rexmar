@@ -1,9 +1,11 @@
 +++
 title = "EMF y AdM"
+description = "Guía completa sobre EMF y AdM - RexMar Agua de Mar"
 date = 2026-07-21
 author = "legar"
 aliases = ["/emf"]
 +++
+ 
 ## Agua de Mar Isotónica y Campos Electromagnéticos (EMF): Evidencia Científica sobre Resiliencia Celular
 
 En la era digital, la exposición a campos electromagnéticos (EMF) es una realidad cotidiana que puede generar estrés oxidativo y desregulación celular. La literatura científica revela que el agua de mar profunda (DSW) y el plasma marino isotónico (Plasma de Quinton) actúan como potentes moduladores biológicos, ofreciendo mecanismos de protección y resiliencia frente a estas agresiones ambientales. ---
