@@ -40,6 +40,10 @@ nav a:hover {
     background-color: #3b82f6;
 }
 
+nav a:visited {
+    color: #ffffff;
+}
+
 /* Contenido principal */
 main {
     max-width: 1200px;
