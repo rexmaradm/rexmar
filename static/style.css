@@ -40,8 +40,16 @@ nav a:hover {
     background-color: #3b82f6;
 }
 
+nav a,
 nav a:visited {
-    color: #ffffff;
+    color: #ffffff !important;
+    opacity: 1 !important;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 8px 15px;
+    background-color: #2563eb;
+    border-radius: 5px;
+    transition: background-color 0.3s;
 }
 
 /* Contenido principal */
@@ -77,18 +85,8 @@ main {
 }
 
 /* Artículos */
-article {
-    margin-bottom: 30px;
-    padding: 20px;
-    background-color: #2563eb;
-    border-radius: 8px;
-}
-
-article h1, article h2, article h3 {
-    color: #ffffff;
-}
-
-article a {
+article a,
+article a:visited {
     color: #93c5fd;
 }
 
@@ -156,3 +154,11 @@ footer {
   border: 0;
 }
 
+article.preview {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+article.preview p {
+    margin: 5px 0 0 0;
+}
