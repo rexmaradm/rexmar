@@ -4,10 +4,14 @@
     {{ section.content | safe }}
     <div class="article-list">
         {% for page in section.pages %}
-        <article class="preview">
-            <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
-            <p>{{ page.description | default(value=page.summary) | safe }}</p>
-        </article>
+      <article class="preview">
+    <h3><a href="{{ page.permalink }}">{{ page.title }} [{{ page.slug }}]</a></h3>
+       {% if page.description %}
+          <p>{{ page.description | safe }}</p>
+       {% elif page.summary %}
+          <p>{{ page.summary | safe }}</p>
+       {% endif %}
+    </article>
         {% endfor %}
     </div>
 {% endblock content %}

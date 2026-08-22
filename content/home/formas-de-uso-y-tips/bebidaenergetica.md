@@ -1,8 +1,4 @@
 +++
-title = ""
-date = 2026-08-17
-+++
-+++
 title = "Bebida Energética con AdM"
 date = "2024-01-01"
 aliases = ["/bebi"]
