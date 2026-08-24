@@ -20,11 +20,12 @@ export default {
         text: message
       })
     });
+   if (res.ok) {
+     return new Response('¡Mensaje enviado con éxito a Telegram!', { status: 200 });
+   }
+   
+   const errorText = await res.text();
+   return new Response('Error de Telegram: ' + errorText, { status: 500 });
 
-    if (res.ok) {
-      // Redirige a tu página de éxito en Zola
-      return Response.redirect('https://th.org.pe', 303);
-    }
-    return new Response('Error al enviar', { status: 500 });
   }
 };
