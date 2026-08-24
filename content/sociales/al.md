@@ -21,4 +21,9 @@ aliases = ["/al"]
 ## Costos:
 
 hasta 100000 caracteres: 49 soles
+
 cada 100000 caracteres extras: 18 soles
+
+Para pedir presupuesto,
+
+<a href="https://th.org.pe/contacto">contáctese con nosotros</a>
