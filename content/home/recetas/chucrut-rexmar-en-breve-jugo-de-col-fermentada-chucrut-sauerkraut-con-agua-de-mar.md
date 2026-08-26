@@ -2,8 +2,9 @@
 title = "Chucrut Artesanal RexMar  Jugo de col fermentada (chucrut, sauerkraut) con agua de mar hipertónica RexMar"
 date = 2024-09-26
 author = "legar"
-aliases = ["/chucrut-rexmar-en-breve-jugo-de-col-fermentada-chucrut-sauerkraut-con-agua-de-mar"]
+aliases = ["/chucru"]
 +++
+
 La Col Fermentada: Un Elixir de Salud para el Intestino y Más Allá
 
 La col fermentada, un probiótico natural de gran potencia, se destaca por sus múltiples beneficios para la salud. Al consumirla, estamos proporcionando a nuestro organismo un ejército de bacterias beneficiosas que restauran la flora intestinal y mejoran significativamente nuestra calidad de vida.
@@ -24,6 +25,16 @@ La col fermentada es una fuente concentrada de nutrientes esenciales:
 - **Propiedades anticancerígenas:** Las plantas crucíferas, como el repollo, contienen compuestos que inhiben el crecimiento de células cancerosas. La fermentación potencia aún más esta acción.
 - **Alcalinizante:** Ayuda a equilibrar el pH del organismo, previniendo la acidez y creando un ambiente desfavorable para el desarrollo de enfermedades.
 - **Sabor y versatilidad:** Aporta un sabor agrio y refrescante a multitud de platos, favoreciendo la digestión y sustituyendo a condimentos menos saludables como el vinagre.
+
+![](/wp-content/uploads/2024/11/chucrut1.jpg)
+
+![](/wp-content/uploads/2024/11/chucrut2.jpg)
+
+![](/wp-content/uploads/2024/11/chucrut3.jpg)
+
+![](/wp-content/uploads/2024/11/chucrut4.jpg)
+
+![](/wp-content/uploads/2024/11/chucrut5.jpg)
 
 **La importancia de una flora intestinal saludable:**
 
