@@ -20,11 +20,28 @@ export default {
         text: message
       })
     });
-   if (res.ok) {
-     return new Response('¡Mensaje enviado con éxito a Telegram!', { status: 200 });
-   }
-   
-   const errorText = await res.text();
+  if (res.ok) {
+  const html = `
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset="UTF-8">
+      <title>Mensaje enviado</title>
+    </head>
+    <body style="font-family: sans-serif; text-align: center; margin-top: 50px;">
+      <h2>¡Mensaje enviado con éxito!</h2>
+      <p>Gracias por contactarnos. Te responderemos a la brevedad.</p>
+      <a href="https://th.org.pe" style="display: inline-block; margin-top: 20px; padding: 10px 20px; background: #007bff; color: white; text-decoration: none; border-radius: 5px;">Volver al inicio</a>
+    </body>
+    </html>
+  `;
+  return new Response(html, {
+    status: 200,
+    headers: { 'Content-Type': 'text/html; charset=utf-8' }
+  });
+} 
+ 
+  const errorText = await res.text();
    return new Response('Error de Telegram: ' + errorText, { status: 500 });
 
   }
