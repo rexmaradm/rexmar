@@ -1,7 +1,7 @@
 +++
 title = "Contacto"
 date = "2024-01-01"
-aliases = ["/contacto/"]
+aliases = ["/contacto1/"]
 +++
 
 # Contacto
