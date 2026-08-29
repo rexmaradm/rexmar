@@ -29,8 +29,11 @@ Paradójicamente, mientras protege a las células sanas de la desmineralización
 > La clave fisiológica es la **bioafinidad y la remineralización**. Al tener la misma osmolaridad y perfil iónico que la sangre humana, el agua de mar isotónica no fuerza al organismo; en su lugar, le entrega el "plano mineral" original con el que evolucionó, proporcionando el entorno bioquímico óptimo para que el sistema inmunológico y las células funcionen con máxima eficiencia y equilibrio.
 
 ---
-[Artículo relacionado: Prop. anticancerígenas del Fitoplancton marino](@/home/formas-de-uso-y-tips/fito/)   
-[Artículo relacionado: Carcinoma y AdM](@/home/formas-de-uso-y-tips/carcinoma/)   
+
+[Artículo relacionado: Prop. anticancerígenas del Fitoplancton marino](@/home/formas-de-uso-y-tips/fito.md)   
+[Artículo relacionado: Carcinoma y AdM](@/home/formas-de-uso-y-tips/carcinoma.md)   
+
+---
 
 ### Referencias Científicas y Académicas
 
