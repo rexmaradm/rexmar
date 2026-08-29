@@ -8,8 +8,7 @@ aliases = ["/canc"]
  
 ## Agua de Mar Isotónica y Cáncer: Evidencia Científica sobre Modulación Celular e Inmunológica
 
-[Artículo relacionado: Prop. anticancerígenas del Fitoplancton marino](@/home/formas-de-uso-y-tips/fito.md)   
-[Artículo relacionado: Carcinoma y AdM](@/home/formas-de-uso-y-tips/carcinoma.md)   
+<a href="#rela">Artículos relacionados</a><br>
 
 ---
 
@@ -35,9 +34,19 @@ Paradójicamente, mientras protege a las células sanas de la desmineralización
 
 ---
 
-[Artículo relacionado: Prop. anticancerígenas del Fitoplancton marino](@/home/formas-de-uso-y-tips/fito.md)   
-[Artículo relacionado: Carcinoma y AdM](@/home/formas-de-uso-y-tips/carcinoma.md)   
+<p id="rela">Artículos relacionados</p>
 
+[Artículo relacionado: Prop. anticancerígenas del Fitoplancton marino](@/home/formas-de-uso-y-tips/fito.md) <br>
+[Artículo relacionado: Carcinoma y AdM](@/home/formas-de-uso-y-tips/carcinoma.md) <br>
+[Artículo relacionado: Carcinoma y AdM](@/home/formas-de-uso-y-tips/carcinoma.md) <br>
+[Artículo relacionado: Cáncer y AdM](@/home/formas-de-uso-y-tips/canc3r-y-agua-de-mar.md) <br>
+[Artículo relacionado: Apoptósis y AdM](@/home/formas-de-uso-y-tips/apoptosis-y-agua-de-mar.md) <br>
+[Artículo relacionado: Apoptósis y AdM II](@/home/formas-de-uso-y-tips/apop.md) <br>
+[Artículo relacionado: Apoptósis y significadoII](@/sociales/links/apoptosis-significado.md) <br>
+[Artículo relacionado: Cáncer y AdM](@/home/formas-de-uso-y-tips/adm-y-cancer.md) <br>
+[Artículo relacionado: Melanoma y AdM](@/home/formas-de-uso-y-tips/melanoma.md) <br>
+[Artículo relacionado: Lipomas y AdM](@/home/formas-de-uso-y-tips/lipomas.md) <br>
+[Artículo relacionado: Cáncer y AdM](@/home/formas-de-uso-y-tips/ca.md) <br>
 ---
 
 ### Referencias Científicas y Académicas
