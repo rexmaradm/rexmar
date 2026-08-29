@@ -11,10 +11,9 @@ aliases = ["/fito"]
 
 ![](/wp-content/uploads/2026/06/image.png)  
   
-El fitoplancton marino es el <mark>conjunto de microorganismos vegetales que flotan a la deriva en los océanos</mark>. Al realizar la fotosíntesis, actúan como los "pulmones de la Tierra", produciendo más del 50% del oxígeno que respiramos y absorbiendo grandes cantidades de dióxido de carbono.
+El fitoplancton marino es el conjunto de microorganismos vegetales que flotan a la deriva en los océanos. Al realizar la fotosíntesis, actúan como los "pulmones de la Tierra", produciendo más del 50% del oxígeno que respiramos y absorbiendo grandes cantidades de dióxido de carbono.
 
-**<mark class="has-inline-color has-white-color" style="background-color:#0693e3">El Dr. José Miguel Sempere Ortells, médico inmunólogo de la Universidad de Alicante constató que los globulos blancos colocados en agua de mar isotónica aumentan la secreción de Interleucina 2, del Factor de Necrosis Tumoral Alfa y de Interferón gamma; o sea, los glóbulos blancos humanos en agua de mar isotónica desarrollan sustancias antitumorales !!  
-</mark>**
+##  ** El Dr. José Miguel Sempere Ortells, médico inmunólogo de la Universidad de Alicante constató que los globulos blancos colocados en agua de mar isotónica aumentan la secreción de Interleucina 2, del Factor de Necrosis Tumoral Alfa y de Interferón gamma; o sea, los glóbulos blancos humanos en agua de mar isotónica desarrollan <ins>sustancias antitumorales </ins>**
 
 ## **El fitoplancton marino** posee propiedades **anticanc€r1genas** y ant1tumorales respaldadas por investigaciones que identifican a los **dinoflagelados** como organismos con capacidad para matar células canc€rosas en pruebas de laboratorio. Esta eficacia se atribuye principalmente a su alto contenido de **antioxidantes** y a la presencia de **superóxido dismutasa (SOD)**, una enzima que reduce el daño oxidativo y actúa como agente de desintoxicación.   
   
