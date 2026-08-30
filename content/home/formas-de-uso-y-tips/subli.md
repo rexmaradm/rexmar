@@ -5,7 +5,7 @@ draft = false
  aliases = ["/subli"]
 +++
 
-# Administración Sublingual de Agua de Mar
+# Administración Sublingual de Agua de Mar (AdM)
 
 ## Contexto
 El agua de mar diluida (Plasma de Quinton) se utiliza en terapias alternativas para la remineralización. La vía sublingual busca aprovechar la alta vascularización de la mucosa oral para una absorción iónica más rápida.
@@ -13,7 +13,7 @@ El agua de mar diluida (Plasma de Quinton) se utiliza en terapias alternativas p
 ## Método de Aplicación
 1. **Producto:** Usar agua de mar RexMar (preferiblemente isotónica, diluida al 1:3) para principiantes, pero puede probar con hipertónica a medida que vé buenos resultados..
 2. **Dosis:** 2 a 5 gotas, o 1 pulverización de spray sublingual.
-3. **Procedimiento:** Colocar el líquido directamente debajo de la lengua.
+3. **Procedimiento:** Colocar el AdM  directamente debajo de la lengua.
 4. **Retención:** Mantener entre 30 y 60 segundos antes de tragar para facilitar la absorción mucosa.
 
 ## Método Griselda Donatucci Sublingual 15M :
