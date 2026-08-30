@@ -16,7 +16,7 @@ El agua de mar diluida (Plasma de Quinton) se utiliza en terapias alternativas p
 3. **Procedimiento:** Colocar el AdM  directamente debajo de la lengua.
 4. **Retención:** Mantener entre 30 y 60 segundos antes de tragar para facilitar la absorción mucosa.
 
-## Método Griselda Donatucci Sublingual 15M :
+## Método Griselda Donatucci 15M Sublingual:
 1. aplicar como arriba descripto cada 15 minutos (si se olvida, no importa, continúe con la próxima dósis)
 2. éste método es aún más indicado en pacientes que por diversos motivos no pueden tomar el AdM via oral en cantidad.
 
