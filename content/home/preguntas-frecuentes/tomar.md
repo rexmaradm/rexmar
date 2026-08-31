@@ -22,7 +22,7 @@ Para Tomar
 
 
  1 – Forma más común para Isotonizarla (transformarla a nuestra salinidad, 9%) (*)
-Se pone en el recipiente 1 parte de AdM Rex Mar y 3 de agua dulce, la misma que toma. Tip: si quiere, para que su paladar se vaya acostumbrando, puede empezar con 1 parte de AdM Rex Mar y 4 o 5 de agua dulce y después bajar lentamente hasta 3 (o inclusive empezar con menos aún, como ser algunas gotitas nomás o 1 cucharita de té) y en este caso, luego ir subiendo hasta la proprción 1:3.
+Se pone en el recipiente 1 parte de AdM RexMar y 3 de agua dulce/jugo, la misma que toma. Tip: si quiere, para que su paladar se vaya acostumbrando, puede empezar con 1 parte de AdM Rex Mar y 4 o 5 de agua dulce y después bajar lentamente hasta 3 (o inclusive empezar con menos aún, como ser algunas gotitas nomás o 1 cucharita de té) y en este caso, luego ir subiendo hasta la proprción 1:3.
 
 ## Tip: Agregarle un chorrito de limón facilita la ingesta, de paso que el limón alcaliniza aún más.
 
