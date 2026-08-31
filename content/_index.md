@@ -116,7 +116,7 @@ Entrevista de Griselda Donatucci a RexMar Agua de Mar
 
 Ver [viajes anteriores en Rumble](https://rumble.com/search/all?q=viaje%20completo%20rexmar)
 
-<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v7bun1s/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe>
+<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v7cq08c/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe>
 
 ---
 
