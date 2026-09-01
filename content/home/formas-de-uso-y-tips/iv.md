@@ -29,6 +29,8 @@ videos = [
 
 VIDEOS_AQUI
 
+<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v7cs0hy/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe>
+
 ## Agua de Mar e Inyecciones Intravenosas (IV): De René Quinton a la Medicina Moderna
 
 La relación entre el agua de mar y las inyecciones intravenosas tiene una historia fascinante que se remonta a finales del siglo XIX. Es crucial entender que **el agua de mar pura NO puede usarse directamente como inyección IV** debido a su alta salinidad (3.5%), que sería fatal para el organismo
