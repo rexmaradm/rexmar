@@ -2,7 +2,7 @@
 title = "Epidermólisis Ampollar Simple y Agua de Mar"
 date = "2023-11-03"
 slug = "epidermolisis-ampollar-agua-mar"
-aliases = ["/epid"]
+aliases = ["/epide"]
 author = "legar"
 +++
 
