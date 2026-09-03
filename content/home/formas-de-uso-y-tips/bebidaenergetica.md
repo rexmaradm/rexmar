@@ -34,6 +34,8 @@ La clave fisiológica es la bioafinidad y la reposición electrolítica integral
 
 Referencias Científicas y Académicas
 Aragón-Vela, J., et al. (2022). Physiological Benefits and Performance of Sea Water Ingestion for Athletes in Endurance Events: A Systematic Review. PMC. 🔗 Leer en PubMed Central (PMC9657671)
+
 Keen, D. A., et al. (2016). The impact of post-exercise hydration with deep-ocean mineral water on rehydration and exercise performance. Journal of the International Society of Sports Nutrition. 🔗 Leer en Springer
+
 Fukui, K., et al. (2024). Effects of deep-sea water on training efficiency, locomotor function and respiratory system. Heliyon, Cell Press. 🔗 Leer en ScienceDirect
 Food Navigator. (2019). ‘Functional recovery’ drink boasts 20% seawater: Formulation and post-exercise replenishment. 🔗 Ver análisis de formulación deportiva
