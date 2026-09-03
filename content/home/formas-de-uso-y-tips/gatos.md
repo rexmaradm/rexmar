@@ -144,9 +144,9 @@ www.biovie.fr.
 
 ## 3. Terapia con Solución Salina Ozonizada para Cicatrización de Heridas
 
-Un estudio clínico publicado en PMC/NIH en 2023 evaluó el uso de **ozono médico combinado con solución salina** para la cicatrización de heridas cutáneas en gatos
+Un estudio clínico publicado en PMC/ NIH en 2023 evaluó el uso de **ozono médico combinado con solución salina** para la cicatrización de heridas cutáneas en gatos
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 ### El Estudio Clínico
 
@@ -156,7 +156,7 @@ Un estudio clínico publicado en PMC/NIH en 2023 evaluó el uso de **ozono médi
 - Tres métodos de administración de ozono:
     1. Método de bolsa (bagging) con concentración de 20-60 μg/mL durante 5-20 minutos
     2. Infiltraciones subcutáneas perilesionales con 15 μg/mL
-    3. **Lavados con solución salina ozonizada a 60 μg/mL** 美国卫生与公共服务部NIH
+    3. **Lavados con solución salina ozonizada a 60 μg/mL**  NIH
 
 ### Resultados y Beneficios
 
@@ -166,17 +166,17 @@ La solución salina ozonizada mejoró significativamente la cicatrización de le
 - **Aceleración de procesos redox** en aplicaciones tópicas
 - **Mejora de la circulación local**
 - **Aumento en la liberación de factores de crecimiento**
-- **Disminución de la carga bacteriana** 美国卫生与公共服务部NIH
+- **Disminución de la carga bacteriana**  NIH
 
 ### Mecanismo de Acción
 
 El lavado con solución salina ozonizada es un componente estándar de la terapia de heridas con un papel en la limpieza mecánica y reducción de carga bacteriana. Las revisiones sistemáticas afirman que el uso de líquidos ozonizados reduce el tiempo total de cicatrización tanto en pacientes veterinarios como humanos
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 **Conclusión del estudio:** Los resultados deben alentar a los clínicos a considerar el ozono médico como un nuevo enfoque terapéutico con propiedades regenerativas en la cicatrización de segunda intención de gatos con heridas cutáneas
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 ---
 
@@ -288,7 +288,7 @@ arthritistreatments.com.au.
 |---|---|---|---|
 | Baños de agua salada | Heridas menores | Prevención de infecciones | www.bluecross.org.uk |
 | Plasma Marino Quinton | Artritis, remineralización | 78 minerales y oligoelementos | www.biovie.fr |
-| Solución salina ozonizada | Cicatrización de heridas | Regeneración tisular acelerada | 美国卫生与公共服务部NIH |
+| Solución salina ozonizada | Cicatrización de heridas | Regeneración tisular acelerada |  NIH |
 | Plasma secado por aspersión | Salud dental | Reducción de placa 30% | ivcjournal.com |
 | Hidroterapia | Rehabilitación | Recuperación post-quirúrgica | www.agvp.co.uk |
 

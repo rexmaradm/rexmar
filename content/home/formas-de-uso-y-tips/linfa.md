@@ -20,9 +20,9 @@ Después de los testimonios, una recopilación de artículos científicos y estu
 
 ### 2. "Unveiling the Therapeutic Potential and Healthcare Applications of Marine Therapy"
 
-**Resumen:** Una revisión exhaustiva publicada en los National Institutes of Health (NIH) que explora cómo los recursos oceánicos, incluido el agua de mar, se utilizan para mejorar el bienestar, la desintoxicación y el flujo de fluidos corporales, incluyendo el sistema linfático.
+**Resumen:** Una revisión exhaustiva publicada en los National Institutes of Health ( NIH) que explora cómo los recursos oceánicos, incluido el agua de mar, se utilizan para mejorar el bienestar, la desintoxicación y el flujo de fluidos corporales, incluyendo el sistema linfático.
 
-- **Enlace al estudio (PMC/NIH):** <https://pmc.ncbi.nlm.nih.gov/articles/PMC10744920/>
+- **Enlace al estudio (PMC/ NIH):** <https://pmc.ncbi.nlm.nih.gov/articles/PMC10744920/>
 
 ### 3. "Immunostimulatory Effects of Korean Mineral-Rich Seawaters" (Efectos Inmunoestimulantes de Aguas Marinas Ricas en Minerales)
 
@@ -32,9 +32,9 @@ Después de los testimonios, una recopilación de artículos científicos y estu
 
 ### 4. "Potential Health Benefits of Deep Sea Water: A Review"
 
-**Resumen:** Publicada en los NIH (PMC), esta revisión analiza los beneficios del agua de mar profunda, destacando su papel en la regulación de fluidos, la salud celular y el apoyo al sistema linfático e inmunológico.
+**Resumen:** Publicada en los  NIH (PMC), esta revisión analiza los beneficios del agua de mar profunda, destacando su papel en la regulación de fluidos, la salud celular y el apoyo al sistema linfático e inmunológico.
 
-- **Enlace al estudio (PMC/NIH):** <https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/>
+- **Enlace al estudio (PMC/ NIH):** <https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/>
 
 ### 5. "The Chemical Basis of Seawater Therapies: A Review" (La Base Química de las Terapias con Agua de Mar)
 

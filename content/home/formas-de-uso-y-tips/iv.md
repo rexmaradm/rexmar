@@ -77,9 +77,9 @@ jamanetwork.com.
 
 Un estudio publicado en NCBI/PMC documenta el uso de inyecciones subcutáneas de agua de mar en el tratamiento de diversas condiciones, incluyendo tratamientos con luz Finsen para enfermedades de la piel
 
-NIH. El estudio reporta inyecciones subcutáneas de agua de mar de aproximadamente 75 cc por sesión
+ NIH. El estudio reporta inyecciones subcutáneas de agua de mar de aproximadamente 75 cc por sesión
 
-NIH.
+ NIH.
 
 - **Estudio en NCBI:** [Isotonic Sea Water in Therapeutics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8732112/pdf/buffmedj137891-0001.pdf)
 
@@ -96,12 +96,12 @@ Semantic Scholar. Los ensayos clínicos mostraron resultados positivos en el tra
 Las soluciones salinas hipertónicas (3% y 23.4% de NaCl) son el equivalente moderno de las terapias con agua de mar concentrada. Estas soluciones se usan intravenosamente para tratar:
 
 - Edema cerebral y presión intracraneal elevada pure.johnshopkins.edu
-- Hiponatremia severa NIH
+- Hiponatremia severa  NIH
 - Lesiones cerebrales traumáticas pch.health.wa.gov.au
 
 Un estudio publicado en PubMed demuestra que la administración de soluciones salinas hipertónicas durante procedimientos médicos puede tener efectos terapéuticos significativos
 
-NIH.
+ NIH.
 
 - **Revisión clínica:** [Hypertonic saline: a clinical review - PubMed](https://pubmed.ncbi.nlm.nih.gov/17574484/)
 - **Guía de uso:** [Hypertonic Saline Guideline (PDF)](https://www.sort.nhs.uk/Media/Guidelines/Hypertonicsaline3sodiumchlorideguideline.pdf)
@@ -124,15 +124,15 @@ ResearchGate.
 
 Un estudio publicado en PubMed demuestra los efectos de las soluciones isotónicas e hipertónicas de Quinton en células mononucleares de sangre periférica
 
-NIH. Este estudio es fundamental para entender cómo el agua de mar preparada afecta directamente las células del sistema inmunológico.
+ NIH. Este estudio es fundamental para entender cómo el agua de mar preparada afecta directamente las células del sistema inmunológico.
 
 - **Estudio en PubMed:** [Marine therapy and its healing properties](https://pubmed.ncbi.nlm.nih.gov/23895523/)
 
 ### 8. Agua de Mar Profunda (DSW) y Beneficios para la Salud
 
-Una revisión exhaustiva publicada en PMC/NIH analiza los beneficios del agua de mar profunda, demostrando que puede ayudar a superar problemas de salud relacionados con enfermedades asociadas al estilo de vida como enfermedades cardiovasculares y diabetes
+Una revisión exhaustiva publicada en PMC/ NIH analiza los beneficios del agua de mar profunda, demostrando que puede ayudar a superar problemas de salud relacionados con enfermedades asociadas al estilo de vida como enfermedades cardiovasculares y diabetes
 
-NIH.
+ NIH.
 
 - **Estudio en PMC:** [Potential Health Benefits of Deep Sea Water: A Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/)
 

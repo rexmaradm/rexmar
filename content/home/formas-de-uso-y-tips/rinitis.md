@@ -46,7 +46,7 @@ aliases = ["/rinitis"]
     - Reducción estadísticamente significativa en la congestión nasal y secreción después del régimen de 10 días
     - Mejora en el aclaramiento mucociliar (la capacidad de la nariz para eliminar moco y partículas)
     - Efecto de "atrapamiento" que ayuda a remover alérgenos
-- **Conclusión:** El gel de agua de mar aplicado cuatro veces al día puede ser una terapia efectiva para pacientes con rinitis alérgica 美国卫生与公共服务部NIH
+- **Conclusión:** El gel de agua de mar aplicado cuatro veces al día puede ser una terapia efectiva para pacientes con rinitis alérgica  NIH
 - **Link:** <https://pubmed.ncbi.nlm.nih.gov/20042452/>
 
 ### 4. **"Efficacy of Isotonic Nasal Wash (Seawater) in the Treatment and Prevention of the Common Cold"** (2008)
@@ -99,7 +99,7 @@ aliases = ["/rinitis"]
     - Disminuye el uso de medicamentos
     - Mejora la calidad de vida
     - Efectos adversos mínimos (ardor leve temporal)
-- **Conclusión:** La irrigación nasal con solución salina es beneficiosa y segura para la rinitis alérgica 美国卫生与公共服务部NIH
+- **Conclusión:** La irrigación nasal con solución salina es beneficiosa y segura para la rinitis alérgica  NIH
 - **Link:** <https://pmc.ncbi.nlm.nih.gov/articles/PMC6513421/>
 
 ### 8. **"The Role of Seawater and Saline Solutions in Treatment of Upper Respiratory Tract Infections"** (2022)
@@ -112,7 +112,7 @@ aliases = ["/rinitis"]
     - Disminuye el uso de esteroides tópicos
     - Mejora el aclaramiento mucociliar
     - Reduce la carga viral en infecciones del tracto respiratorio superior
-- **Conclusión:** Las soluciones de agua de mar y salina son herramientas efectivas en el manejo de rinitis y otras infecciones del tracto respiratorio superior 美国卫生与公共服务部NIH
+- **Conclusión:** Las soluciones de agua de mar y salina son herramientas efectivas en el manejo de rinitis y otras infecciones del tracto respiratorio superior  NIH
 - **Link:** <https://pmc.ncbi.nlm.nih.gov/articles/PMC9147352/>
 
 ---

@@ -173,9 +173,9 @@ www.biovie.fr.
 
 ## 3. Terapia con Solución Salina Ozonizada para Cicatrización de Heridas
 
-Un estudio clínico publicado en PMC/NIH evaluó el uso de **ozono médico combinado con solución salina** para la cicatrización de heridas cutáneas en perros
+Un estudio clínico publicado en PMC/ NIH evaluó el uso de **ozono médico combinado con solución salina** para la cicatrización de heridas cutáneas en perros
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 ### Estudios Clínicos en Perros
 
@@ -226,7 +226,7 @@ irispublishers.com.
 
 **Conclusión del estudio:** La terapia con ozono ofrece un método no invasivo, rentable y seguro que mejora la reparación tisular a través de sus fuertes propiedades antimicrobianas y antiinflamatorias
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 ---
 
@@ -375,7 +375,7 @@ MDPI.
 
 Un estudio publicado en PMC analizó un suplemento mineral natural derivado de algas marinas (Aquamin F) para la osteoartritis de rodilla
 
-美国卫生与公共服务部NIH. Los resultados sugirieron que Aquamin puede aumentar el rango de movimiento y las distancias de caminata en sujetos con osteoartritis de rodilla
+ NIH. Los resultados sugirieron que Aquamin puede aumentar el rango de movimiento y las distancias de caminata en sujetos con osteoartritis de rodilla
 
 link.springer.com.
 
@@ -462,7 +462,7 @@ Aunque los estudios principales se realizaron en modelos celulares y animales de
 - Propiedades antiinflamatorias para condiciones crónicas
 - Protección gastrointestinal
 - Apoyo a la salud de la piel
-- Modulación de la respuesta inmunológica 美国卫生与公共服务部NIH
+- Modulación de la respuesta inmunológica  NIH
 
 ---
 
@@ -472,7 +472,7 @@ Aunque los estudios principales se realizaron en modelos celulares y animales de
 |---|---|---|---|
 | Baños de agua salada | Heridas menores, problemas de piel | Prevención de infecciones, alivio de irritación | www.bluecross.org.uk |
 | Plasma Marino Quinton | Artritis, remineralización | 78 minerales y oligoelementos | quintonmedical.com |
-| Solución salina ozonizada | Cicatrización de heridas | Regeneración tisular acelerada | 美国卫生与公共服务部NIH |
+| Solución salina ozonizada | Cicatrización de heridas | Regeneración tisular acelerada |  NIH |
 | Plasma secado por aspersión | Salud intestinal, movilidad | Mejora de digestibilidad y movilidad | www.petfoodindustry.com |
 | Hidroterapia con agua salada | Rehabilitación | Recuperación post-quirúrgica, manejo de artritis | rehabvet.com |
 | Minerales marinos | Artritis canina | Reducción de inflamación articular | www.dvm360.com |

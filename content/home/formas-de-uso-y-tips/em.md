@@ -10,7 +10,7 @@ aliases = ["/em"]
 
 La esclerosis múltiple (EM) es una enfermedad autoinmune crónica que afecta al sistema nervioso central, caracterizada por inflamación, desmielinización y gliosis
 
-NIH. Aunque no existen estudios que traten la EM *exclusivamente* con consumo de agua de mar, la ciencia ha explorado múltiples vías donde el agua de mar y sus componentes juegan un papel terapéutico prometedor. debajo del testimonio, los papers cientificos.
+ NIH. Aunque no existen estudios que traten la EM *exclusivamente* con consumo de agua de mar, la ciencia ha explorado múltiples vías donde el agua de mar y sus componentes juegan un papel terapéutico prometedor. debajo del testimonio, los papers cientificos.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/Fl4jd-_QeTw" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>### 1. La Hipótesis de la Neurorrehabilitación con Agua de Mar (2025)
 

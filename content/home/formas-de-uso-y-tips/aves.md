@@ -89,7 +89,7 @@ Los baños de agua salada ayudan a:
 - Limpiar y desinfectar heridas www.bird-vet.com
 - Eliminar parásitos externos www.wbu.com
 - Hidratar la piel y mantener las plumas en óptimas condiciones vcahospitals.com
-- Aliviar irritaciones de la piel 美国卫生与公共服务部NIH
+- Aliviar irritaciones de la piel NIH
 
 ### Cómo Preparar la Solución Salina para Aves
 
@@ -321,7 +321,7 @@ www.foodagribusiness.world.
 
 Un estudio publicado en PubMed demostró que la suplementación con minerales traza orgánicos mejoró las respuestas inmunes innatas locales y sistémicas y moduló el estrés oxidativo en pollos de engorde
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 **Resultados del estudio:**
 
@@ -381,7 +381,7 @@ La terapia con ozono se ha aplicado clínicamente de manera anecdótica a divers
 
 La solución salina ozonizada mejora significativamente la cicatrización de heridas mediante:
 
-- **Propiedades antibacterianas y antifúngicas** 美国卫生与公共服务部NIH
+- **Propiedades antibacterianas y antifúngicas** NIH
 - **Estimulación de la proliferación celular** de queratinocitos
 - **Aceleración de procesos redox** en aplicaciones tópicas
 - **Mejora de la circulación local**
@@ -392,13 +392,13 @@ La solución salina ozonizada mejora significativamente la cicatrización de her
 
 Según una revisión publicada en PMC, el agua ozonizada se utiliza en medicina veterinaria como tratamiento tradicional para diversas especies
 
-美国卫生与公共服务部NIH. Las aplicaciones incluyen:
+ NIH. Las aplicaciones incluyen:
 
 **Lavado de Heridas:**
 
 - Limpieza mecánica y reducción de carga bacteriana
 - Aceleración del proceso de cicatrización
-- Reducción del tiempo total de curación 美国卫生与公共服务部NIH
+- Reducción del tiempo total de curación NIH
 
 **Terapia Integrativa:**
 
@@ -418,11 +418,11 @@ Según IVC Journal:
 
 El lavado con solución salina ozonizada es un componente estándar de la terapia de heridas con un papel en la limpieza mecánica y reducción de carga bacteriana. Las revisiones sistemáticas afirman que el uso de líquidos ozonizados reduce el tiempo total de cicatrización tanto en pacientes veterinarios como humanos
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 **Conclusión del estudio:** La terapia con ozono ofrece un método no invasivo, rentable y seguro que mejora la reparación tisular a través de sus fuertes propiedades antimicrobianas y antiinflamatorias
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 - **Estudio sobre ozonoterapia en aves:** [Ozone Therapy for Wound Management in Avian Species](https://www.nexavens.com/papers/volume-2/issue-2/NLVA/nlva-02-129/)
 - **PDF sobre terapia con ozono:** [Veterinary Medical Ozone Therapy](https://www.mashvet.com/uploads/1/0/8/6/108666301/veterinary_medical_ozone_therapy__an_integrative_approach_-_sciencedirect.pdf)
@@ -434,13 +434,13 @@ El lavado con solución salina ozonizada es un componente estándar de la terapi
 
 El agua de mar profunda (*Deep Sea Water* o DSW) contiene altas concentraciones de minerales que pueden influir en la salud general
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 ### Estudios sobre DSW y Salud
 
 Una revisión exhaustiva publicada en PubMed analiza los beneficios del agua de mar profunda, demostrando que puede ayudar a superar problemas de salud relacionados con enfermedades asociadas al estilo de vida como enfermedades cardiovasculares y diabetes
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 **Beneficios documentados del DSW:**
 
@@ -468,7 +468,7 @@ MDPI. Los resultados mostraron:
 - Densidad mineral ósea mejorada
 - Aumento de números trabeculares
 - Disminución de la fosfatasa alcalina sérica (ALP)
-- Aumento de la formación ósea 美国卫生与公共服务部NIH
+- Aumento de la formación ósea NIH
 
 - **Revisión sobre DSW:** [Potential Health Benefits of Deep Sea Water: A Review](https://pubmed.ncbi.nlm.nih.gov/28105060/)
 - **Efectos del DSW en salud:** [Health Effects of Drinking Water Produced from Deep Sea Water](https://www.mdpi.com/2072-6643/14/3/581)
@@ -485,7 +485,7 @@ www.thalasso-saintmalo.com.
 
 Según múltiples fuentes, la talasoterapia proporciona:
 
-- Reducción del prurito, la inflamación y la colonización bacteriana 美国卫生与公共服务部NIH
+- Reducción del prurito, la inflamación y la colonización bacteriana NIH
 - Mejora de la cicatrización de heridas
 - Reducción de la inflamación
 - Exfoliación natural
@@ -560,7 +560,7 @@ bvajournals.onlinelibrary.wiley.com. Esto generalmente se realiza en forma de un
 | Minerales marinos | Salud ósea, calidad de huevos | Mejora de cáscara, salud ósea | celticseaminerals.com |
 | Minerales marinos | Sistema inmunológico | Fortalecimiento de defensas | www.foodagribusiness.world |
 | Solución salina ozonizada | Cicatrización de heridas | Regeneración tisular acelerada | www.nexavens.com |
-| Agua de mar profunda (DSW) | Salud general | Minerales beneficiosos | 美国卫生与公共服务部NIH |
+| Agua de mar profunda (DSW) | Salud general | Minerales beneficiosos | NIH |
 | Talasoterapia | Baños terapéuticos | Reducción de inflamación | www.thalasso-saintmalo.com |
 
 ---

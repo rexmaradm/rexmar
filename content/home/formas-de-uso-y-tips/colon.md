@@ -24,23 +24,23 @@ En este artículo, exploramos la evidencia científica sobre el consumo de agua 
 
 ## 1. Agua de mar profunda y microbiota intestinal: Ensayo clínico revolucionario
 
-Uno de los hallazgos científicos más fascinantes sobre el agua de mar y el colon proviene de un **ensayo clínico doble ciego** publicado en **PMC/NIH** (2020) titulado "Drinking Refined Deep-Sea Water Improves the Gut Ecosystem with Beneficial Effects on Intestinal Health in Humans"
+Uno de los hallazgos científicos más fascinantes sobre el agua de mar y el colon proviene de un **ensayo clínico doble ciego** publicado en **PMC/ NIH** (2020) titulado "Drinking Refined Deep-Sea Water Improves the Gut Ecosystem with Beneficial Effects on Intestinal Health in Humans"
 
-美国卫生与公共服务部NIH,
+ NIH,
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 ### 1.1. Metodología del estudio
 
 **Diseño experimental:** Este fue un ensayo clínico aleatorizado, doble ciego y controlado con placebo en humanos
 
-美国卫生与公共服务部NIH. Los participantes consumieron agua de mar profunda refinada (RDSW) con un nivel de dureza de 1000 durante un período determinado.
+ NIH. Los participantes consumieron agua de mar profunda refinada (RDSW) con un nivel de dureza de 1000 durante un período determinado.
 
 ### 1.2. Resultados científicos extraordinarios
 
 Los resultados mostraron que:
 
-- **Mejora del ecosistema intestinal:** "Beber agua de mar profunda refinada mejora el ecosistema intestinal con efectos beneficiosos sobre la salud intestinal en humanos" 美国卫生与公共服务部NIH
+- **Mejora del ecosistema intestinal:** "Beber agua de mar profunda refinada mejora el ecosistema intestinal con efectos beneficiosos sobre la salud intestinal en humanos"  NIH
 - **Modulación de la microbiota:** El agua de mar profunda modificó favorablemente la composición de la microbiota intestinal
 - **Efectos beneficiosos:** Los cambios en la microbiota se asociaron con mejoras en la salud intestinal general microbiota-ism.com
 
@@ -76,7 +76,7 @@ www.kci.go.kr.
 
 **Conclusión del estudio:** El agua de mar profunda tiene efectos inhibitorios sobre la invasión y metástasis del cáncer colorrectal, sugiriendo que tiene potencial para mejorar la supervivencia del cáncer
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 ### 2.2. Estudio complementario: Mejora de los efectos anticancerígenos del tomate (2025)
 
@@ -98,7 +98,7 @@ Un estudio publicado en **PubMed** (2024) tituló "Broccoli Cultivated with Deep
 
 MDPI,
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 **Resultados científicos:**
 
@@ -137,11 +137,11 @@ Una investigación publicada en **Pasteur Institute/MDPI** (2021) tituló "Benef
 
 research.pasteur.fr,
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 **Resultados científicos:**
 
-- **Reducción de inflamación intestinal:** "En ratones con colitis inducida, el agua mineral natural NMW1 fue efectiva para atenuar la inflamación intestinal" 美国卫生与公共服务部NIH
+- **Reducción de inflamación intestinal:** "En ratones con colitis inducida, el agua mineral natural NMW1 fue efectiva para atenuar la inflamación intestinal"  NIH
 - **Reducción de marcadores inflamatorios:** Hubo reducciones significativas en los puntajes de actividad de la enfermedad, la lipocalina-2 fecal y otros marcadores inflamatorios research.pasteur.fr
 - **Efecto sobre la microbiota:** Las aguas minerales naturales también beneficiaron la microbiota asociada a la mucosa intestinal research.pasteur.fr
 
@@ -184,13 +184,13 @@ news.vumc.org.
 
 ### 4.4. Relación calcio-magnesio y cáncer colorrectal
 
-Un estudio publicado en **PMC/NIH** (2012) tituló "Calcium, Magnesium, and Colorectal Cancer"
+Un estudio publicado en **PMC/ NIH** (2012) tituló "Calcium, Magnesium, and Colorectal Cancer"
 
-美国卫生与公共服务部NIH.
+ NIH.
 
 **Hallazgos importantes:**
 
-- **Proporción crucial:** "La ingesta de calcio puede asociarse con un riesgo disminuido de adenoma colorrectal solo cuando la proporción de ingesta dietética de calcio:magnesio es baja" 美国卫生与公共服务部NIH
+- **Proporción crucial:** "La ingesta de calcio puede asociarse con un riesgo disminuido de adenoma colorrectal solo cuando la proporción de ingesta dietética de calcio:magnesio es baja"  NIH
 - **Equilibrio mineral:** El equilibrio entre calcio y magnesio es fundamental para la prevención del cáncer colorrectal
 
 ### 4.5. Estudio sobre agua potable y mortalidad por cáncer de colon
@@ -336,7 +336,7 @@ Basado en la evidencia científica, los mecanismos por los cuales el agua de mar
 
 ### 8.1. Modulación de la microbiota intestinal
 
-- **Mejora del ecosistema intestinal:** El agua de mar profunda refinada mejora el ecosistema intestinal con efectos beneficiosos sobre la salud intestinal en humanos 美国卫生与公共服务部NIH
+- **Mejora del ecosistema intestinal:** El agua de mar profunda refinada mejora el ecosistema intestinal con efectos beneficiosos sobre la salud intestinal en humanos  NIH
 - **Aumento de bacterias beneficiosas:** Los minerales marinos promueven el crecimiento de bacterias beneficiosas en el colon
 - **Equilibrio microbiano:** El agua de mar ayuda a mantener un equilibrio saludable de la microbiota intestinal
 
@@ -369,7 +369,7 @@ Basado en la evidencia científica, los expertos recomiendan el siguiente protoc
 
 ### 9.1. Consumo oral de agua de mar profunda
 
-1. **Agua de mar profunda refinada:** Consumir agua de mar profunda refinada con nivel de dureza de 1000, como la utilizada en los estudios clínicos 美国卫生与公共服务部NIH
+1. **Agua de mar profunda refinada:** Consumir agua de mar profunda refinada con nivel de dureza de 1000, como la utilizada en los estudios clínicos  NIH
 2. **Plasma de Quinton isotónico:** Consumir 1-2 ampollas de Plasma de Quinton isotónico al día, diluidas en agua
 3. **Dosis moderadas:** Seguir las recomendaciones del fabricante
 4. **Comenzar gradualmente:** Empezar con dosis pequeñas y aumentar gradualmente
@@ -377,7 +377,7 @@ Basado en la evidencia científica, los expertos recomiendan el siguiente protoc
 ### 9.2. Aporte de minerales específicos
 
 1. **Magnesio:** Asegurar una ingesta adecuada de magnesio a través de agua mineral rica en magnesio o suplementos jamanetwork.com
-2. **Calcio:** Mantener una ingesta adecuada de calcio, pero en proporción balanceada con magnesio 美国卫生与公共服务部NIH
+2. **Calcio:** Mantener una ingesta adecuada de calcio, pero en proporción balanceada con magnesio  NIH
 3. **Sulfatos:** Los sulfatos del agua mineral ayudan en el estreñimiento funcional karger.com
 
 ### 9.3. Para estreñimiento
@@ -389,8 +389,8 @@ Basado en la evidencia científica, los expertos recomiendan el siguiente protoc
 ### 9.4. Para prevención del cáncer de colon
 
 1. **Consumo regular de agua de mar profunda:** Los estudios muestran efectos protectores contra el cáncer colorrectal link.springer.com
-2. **Dieta rica en vegetales cultivados con minerales marinos:** El brócoli cultivado con fertilizante de agua de mar profunda tiene efectos anticancerígenos mejorados 美国卫生与公共服务部NIH
-3. **Equilibrio calcio-magnesio:** Mantener una proporción baja de calcio:magnesio en la dieta 美国卫生与公共服务部NIH
+2. **Dieta rica en vegetales cultivados con minerales marinos:** El brócoli cultivado con fertilizante de agua de mar profunda tiene efectos anticancerígenos mejorados  NIH
+3. **Equilibrio calcio-magnesio:** Mantener una proporción baja de calcio:magnesio en la dieta  NIH
 
 ### 9.5. Para enfermedades inflamatorias intestinales
 
@@ -433,7 +433,7 @@ La ciencia ha demostrado que el agua de mar tiene propiedades beneficiosas para 
 
 ### 11.1. Hallazgos clave
 
-1. **El agua de mar profunda mejora la microbiota intestinal:** Un ensayo clínico doble ciego demostró que beber agua de mar profunda refinada mejora el ecosistema intestinal con efectos beneficiosos sobre la salud intestinal en humanos 美国卫生与公共服务部NIH
+1. **El agua de mar profunda mejora la microbiota intestinal:** Un ensayo clínico doble ciego demostró que beber agua de mar profunda refinada mejora el ecosistema intestinal con efectos beneficiosos sobre la salud intestinal en humanos  NIH
 2. **El agua de mar profunda inhibe el cáncer colorrectal:** Estudios mostraron que el agua de mar profunda inhibe el potencial metastásico de adenocarcinomas colorrectales humanos HT-29 a través de la vía de señalización MAPK/NF-κB link.springer.com, link.springer.com
 3. **El agua de mar profunda reduce la colitis:** Los hallazgos sugieren que la ingesta de agua mineral derivada de agua de mar profunda puede ayudar a reducir los síntomas de colitis, con efectos parcialmente regulados por el magnesio MDPI
 4. **El calcio protege contra el cáncer de colon:** El calcio suplementario en la dieta o el agua potable puede disminuir la hiperproliferación del epitelio colónico inducida por la bilis y los ácidos grasos www.sciencedirect.com
@@ -477,7 +477,7 @@ La ciencia respalda el uso del agua de mar profunda como una herramienta promete
 - **\[2\] ScienceDirect:** *Broccoli Cultivated with Deep Sea Water Mineral Fertilizer Enhances Anti-Cancer* - Estudio sobre el brócoli cultivado con fertilizante de agua de mar profunda y sus efectos anticancerígenos en cáncer colorrectal (2024). [Leer estudio](https://www.sciencedirect.com/science/article/pii/S0963996925012323)
 - **\[3\] Springer:** *Deep-sea water inhibits metastatic potential in HT-29 human colorectal adenocarcinomas* - Estudio sobre cómo el agua de mar profunda inhibe el potencial metastásico en adenocarcinomas colorrectales humanos HT-29 (2014). [Leer estudio](https://link.springer.com/article/10.1007/s12257-014-0210-6)
 - **\[9\] ResearchGate:** *Supplementation of deep-sea mineral water improves the anti-cancer effects of tomato* - Estudio sobre cómo la suplementación con agua de mar profunda mineral mejora los efectos anticancerígenos del tomate en células de cáncer colorrectal (2025). [Leer estudio](https://www.researchgate.net/publication/393242375_Supplementation_of_deep-sea_mineral_water_improves_the_anti-cancer_effects_of_tomato_in_colorectal_cancer_cells)
-- **\[20\] PMC/NIH:** *Drinking Refined Deep-Sea Water Improves the Gut Ecosystem* - Ensayo clínico doble ciego que demuestra que beber agua de mar profunda refinada mejora el ecosistema intestinal con efectos beneficiosos sobre la salud intestinal en humanos (2020). [Leer estudio](https://pmc.ncbi.nlm.nih.gov/articles/PMC7551512/)
+- **\[20\] PMC/ NIH:** *Drinking Refined Deep-Sea Water Improves the Gut Ecosystem* - Ensayo clínico doble ciego que demuestra que beber agua de mar profunda refinada mejora el ecosistema intestinal con efectos beneficiosos sobre la salud intestinal en humanos (2020). [Leer estudio](https://pmc.ncbi.nlm.nih.gov/articles/PMC7551512/)
 - **\[23\] Scribd:** *Kington Life Plasma: Restoring Health* - Documento sobre el uso del Plasma de Quinton para colitis, enfermedad de Crohn, hemorroides y úlceras. [Leer más](https://www.scribd.com/doc/713309926/KingtonLifePlasmaIsotonic)
 - **\[27\] Scribd:** *Quinton Marine Plasma Brochure* - Folleto sobre los resultados terapéuticos del Plasma de Quinton isotónico en condiciones del sistema digestivo. [Leer más](https://www.scribd.com/doc/157979438/Quinton-Marine-Plasma-Brochure)
 - **\[31\] KCI:** *Suppression of Cancer Progression and Metastasis in HT-29* - Estudio sobre los efectos del agua de mar profunda en la progresión del cáncer y la metástasis en adenocarcinomas colorrectales humanos HT-29. [Leer estudio](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001745752)
@@ -492,14 +492,14 @@ La ciencia respalda el uso del agua de mar profunda como una herramienta promete
 - **\[47\] ScienceDirect:** *Supplementation of deep-sea mineral water improves anti-cancer effects* - Estudio sobre cómo la suplementación con agua de mar profunda mineral mejora los efectos anticancerígenos en células de cáncer colorrectal (2025). [Leer estudio](https://www.sciencedirect.com/science/article/pii/S1756464625002567)
 - **\[48\] ScienceDirect:** *Mineral water and sulphate-rich natural mineral water in functional constipation* - Estudio sobre el agua mineral natural rica en sulfatos y magnesio en el estreñimiento funcional (2019). [Leer estudio](https://www.sciencedirect.com/science/article/pii/S0899900718304969)
 - **\[49\] Quinton Medical:** *Health benefits of seawater* - Información sobre los beneficios del agua de mar para reponer minerales y oligoelementos y mejorar la función enzimática. [Leer más](https://quintonmedical.com/benefits-of-seawater/health)
-- **\[51\] PMC/NIH:** *Drinking Refined Deep-Sea Water Improves the Gut Ecosystem* - Ensayo clínico doble ciego sobre los efectos del agua de mar profunda refinada en el ecosistema intestinal humano (2020). [Leer estudio](https://pmc.ncbi.nlm.nih.gov/articles/PMC7551512/)
+- **\[51\] PMC/ NIH:** *Drinking Refined Deep-Sea Water Improves the Gut Ecosystem* - Ensayo clínico doble ciego sobre los efectos del agua de mar profunda refinada en el ecosistema intestinal humano (2020). [Leer estudio](https://pmc.ncbi.nlm.nih.gov/articles/PMC7551512/)
 - **\[53\] Microbiota ISM:** *Drinking Refined Deep-Sea Water: Impact on Gut Ecosystem* - Artículo sobre el impacto del agua de mar profunda refinada en el ecosistema intestinal y la salud intestinal. [Leer más](https://microbiota-ism.com/news-on-microbiota/1098-drinking-refined-deep-sea-water-impact-on-gut-ecosystem-intestinal-health.html)
 - **\[62\] Instagram:** *Quinton marine plasma for colon health* - Publicación sobre el uso del plasma marino Quinton después de semanas de colon para tonificar. [Leer más](https://www.instagram.com/reel/DJW8Cy5A3cg/)
 - **\[66\] Detox Lab:** *Protocols for Health Professionals* - Protocolos profesionales sobre el uso del Plasma de Quinton para restaurar la calidad de los fluidos internos. [Leer PDF](https://www.detoxlab.org/wp-content/uploads/2016/11/OQ_Protocol_Package_Final.pdf)
 - **\[68\] Instagram:** *Marine plasma for gut health* - Publicación sobre el uso del plasma marino para mejorar la salud intestinal (2025). [Leer más](https://www.instagram.com/reel/DO-x-HdCc-9/)
 - **\[69\] Quinton Medical:** *Isotonic Seawater* - Información sobre el agua de mar isotónica como mezcla diluida de plasma marino con agua de manantial. [Leer más](https://quintonmedical.com/marine-therapy/drink-seawater/isotonic-sea-water)
 - **\[71\] ScienceDirect:** *Role of calcium in colon cancer prevention* - Revisión sobre el papel del calcio en la prevención del cáncer de colon (1993). [Leer estudio](https://www.sciencedirect.com/science/article/pii/002751079390036F)
-- **\[72\] PMC/NIH:** *Calcium, Magnesium, and Colorectal Cancer* - Estudio sobre la relación entre calcio, magnesio y cáncer colorrectal (2012). [Leer estudio](https://pmc.ncbi.nlm.nih.gov/articles/PMC3320715/)
+- **\[72\] PMC/ NIH:** *Calcium, Magnesium, and Colorectal Cancer* - Estudio sobre la relación entre calcio, magnesio y cáncer colorrectal (2012). [Leer estudio](https://pmc.ncbi.nlm.nih.gov/articles/PMC3320715/)
 - **\[73\] Cancer Today:** *Calcium Counts* - Artículo sobre cómo el calcio puede proteger contra el cáncer colorrectal al unirse a ácidos biliares y ácidos grasos libres (2025). [Leer más](https://www.cancertodaymag.org/summer-2025/calcium-counts/)
 - **\[75\] UDS Health:** *Magnesium's Role in Colorectal Cancer Prevention* - Artículo sobre el papel del magnesio en la prevención del cáncer colorrectal a través de la síntesis de vitamina D (2025). [Leer más](https://udshealth.com/blog/magnesiums-role-in-colorectal-cancer-prevention-insights-from-recent-research/)
 - **\[76\] Acta Biomedica:** *Effect of drinking water calcium, magnesium, and hardness on colon cancer* - Estudio sobre el efecto del calcio, magnesio y dureza del agua potable en la mortalidad por cáncer de colon (2026). [Leer estudio](https://mattioli1885journals.com/index.php/actabiomedica/article/view/17178)
@@ -513,4 +513,4 @@ La ciencia respalda el uso del agua de mar profunda como una herramienta promete
 - **\[86\] ResearchGate:** *Anti-Inflammatory Properties of Mineral-Balanced Deep Sea Water* - Estudio sobre las propiedades antiinflamatorias del agua de mar profunda balanceada mineralmente (2020). [Leer estudio](https://www.researchgate.net/publication/343272370_Anti-Inflammatory_Properties_of_Mineral-Balanced_Deep_Sea_Water_in_In-Vitro_and_In-Vivo_Models_of_Inflamed_Intestinal_Epithelium)
 - **\[87\] Crohn's &amp; Colitis Foundation:** *Vitamin and Mineral Supplementation* - Información sobre la suplementación vitamínica y mineral para pacientes con enfermedad inflamatoria intestinal. [Leer más](https://www.crohnscolitisfoundation.org/patientsandcaregivers/diet-and-nutrition/supplementation)
 - **\[88\] Pasteur Institute:** *Beneficial Effects of Natural Mineral Waters on Intestinal Inflammation* - Estudio sobre los efectos beneficiosos de las aguas minerales naturales en la inflamación intestinal y la microbiota asociada a la mucosa (2021). [Leer más](https://research.pasteur.fr/en/publication/beneficial-effects-of-natural-mineral-waters-on-intestinal-inflammation-and-the-mucosa-associated-microbiota/)
-- **\[90\] PMC/NIH:** *Beneficial Effects of Natural Mineral Waters on Intestinal Inflammation* - Estudio sobre cómo las aguas minerales naturales atenúan la inflamación intestinal en ratones con colitis inducida (2021). [Leer estudio](https://pmc.ncbi.nlm.nih.gov/articles/PMC8122343/)
+- **\[90\] PMC/ NIH:** *Beneficial Effects of Natural Mineral Waters on Intestinal Inflammation* - Estudio sobre cómo las aguas minerales naturales atenúan la inflamación intestinal en ratones con colitis inducida (2021). [Leer estudio](https://pmc.ncbi.nlm.nih.gov/articles/PMC8122343/)

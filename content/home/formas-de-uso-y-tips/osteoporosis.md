@@ -121,7 +121,7 @@ Sin embargo, la mayoría de los estudios son **preclínicos** (modelos animales)
 
 ### 7. "Potential Health Benefits of Deep Sea Water: A Review" (2016)
 
-- **Revista:** *Journal of Marine Science and Engineering* (PMC/NIH)
+- **Revista:** *Journal of Marine Science and Engineering* (PMC/ NIH)
 - **Tipo:** Revisión sistemática exhaustiva
 - **Hallazgos sobre osteoporosis:**
     - El DSW tiene potencial terapéutico sobre la osteoporosis

@@ -123,7 +123,7 @@ La relación entre el agua de mar y la hipertensión es **compleja y paradójica
 
 ### 6. "Potential Health Benefits of Deep Sea Water: A Review" (2016)
 
-- **Revista:** *Journal of Marine Science and Engineering* (PMC/NIH)
+- **Revista:** *Journal of Marine Science and Engineering* (PMC/ NIH)
 - **Tipo:** Revisión sistemática exhaustiva
 - **Hallazgos sobre hipertensión:**
     - Las ratas hipertensas tratadas con DSW durante ocho semanas tuvieron **presión arterial más baja** que el grupo control

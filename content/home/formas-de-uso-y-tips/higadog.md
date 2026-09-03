@@ -16,7 +16,7 @@ aliases = ["/higadog"]
 
 <div aria-describedby="_r_1ms_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">oamonitor.ireland.openaire.eu</div></div><span class="qwen-markdown-text">. Se caracteriza por la acumulación excesiva de grasa en las células hepáticas (hepatocitos) en personas que no consumen cantidades significativas de alcohol </span>
 
-<div aria-describedby="_r_1mu_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div></div><span class="qwen-markdown-text">.</span>
+<div aria-describedby="_r_1mu_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname " NIH</div></div><span class="qwen-markdown-text">.</span>
 
 </div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Pero, ¿sabías que la ciencia ha estudiado extensamente el papel del </span>**<span class="qwen-markdown-text">agua de mar profunda</span>**<span class="qwen-markdown-text"> (</span>*<span class="qwen-markdown-text">Deep Sea Water</span>*<span class="qwen-markdown-text"> o DSW) y los minerales marinos en la prevención y tratamiento de la esteatosis hepática? En este artículo, exploramos la evidencia científica sobre cómo el consumo de agua de mar y los minerales marinos pueden influir en la salud hepática.</span></div><div class="qwen-markdown-space"></div>## <span class="qwen-markdown-text">1. ¿Qué es el hígado graso? La ciencia de la esteatosis hepática</span>
 
@@ -29,7 +29,7 @@ aliases = ["/higadog"]
 </div><div class="qwen-markdown-space"></div>- **<span class="qwen-markdown-text">Esteatosis hepática simple:</span>**<span class="qwen-markdown-text"> Acumulación de grasa sin inflamación ni daño hepático</span>
 - **<span class="qwen-markdown-text">Esteatohepatitis no alcohólica (NASH):</span>**<span class="qwen-markdown-text"> Acumulación de grasa con inflamación y daño celular, que puede progresar a fibrosis, cirrosis y cáncer hepático </span>  
     <div aria-describedby="_r_1n2_" class="qwen-chat-markdown-tokens">  
-    <div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div>  
+    <div class="qwen-chat-markdown-tokens-hostname " NIH</div>  
     </div>
 
 <div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">1.2. Factores de riesgo</span>
@@ -90,7 +90,7 @@ aliases = ["/higadog"]
 
 </div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Metodología:</span>**<span class="qwen-markdown-text"> El estudio evaluó los efectos del agua de mar profunda (DSW) sobre la acumulación y oxidación de lípidos hepáticos inducidos por una dieta alta en grasas.</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Resultados científicos:</span>**</div>- **<span class="qwen-markdown-text">Efecto preventivo:</span>**<span class="qwen-markdown-text"> "DSW muestra un efecto preventivo sobre el desarrollo de hepatoesteatosis inducida por una dieta alta en grasas" </span>  
     <div aria-describedby="_r_1no_" class="qwen-chat-markdown-tokens">  
-    <div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div>  
+    <div class="qwen-chat-markdown-tokens-hostname " NIH</div>  
     </div>
 - **<span class="qwen-markdown-text">Protección antioxidante:</span>**<span class="qwen-markdown-text"> "El agua de beber DSW mantuvo (p &lt; 0.05) niveles más altos de glutatión hepático y capacidad antioxidante equivalente a Trolox" </span>  
     <div aria-describedby="_r_1nq_" class="qwen-chat-markdown-tokens">  
@@ -103,17 +103,17 @@ aliases = ["/higadog"]
 
 <div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Conclusión del estudio:</span>**<span class="qwen-markdown-text"> "DSW muestra un efecto preventivo sobre el desarrollo de hepatoesteatosis inducida por una dieta alta en grasas" </span>
 
-<div aria-describedby="_r_1nu_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div></div></div><div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">2.3. Estudio comparativo del agua del océano profundo (2021)</span>
+<div aria-describedby="_r_1nu_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname " NIH</div></div></div><div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">2.3. Estudio comparativo del agua del océano profundo (2021)</span>
 
-<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Un estudio publicado en </span>**<span class="qwen-markdown-text">PMC/NIH</span>**<span class="qwen-markdown-text"> (2021) tituló "Comparison of the Improvement Effect of Deep Ocean Water with Magnesium and Calcium on Hepatic Steatosis and Adipocyte Hypertrophy in Obese Rats" </span>
+<div class="qwen-markdown-paragraph"><span class="qwen-markdown-text">Un estudio publicado en </span>**<span class="qwen-markdown-text">PMC/ NIH</span>**<span class="qwen-markdown-text"> (2021) tituló "Comparison of the Improvement Effect of Deep Ocean Water with Magnesium and Calcium on Hepatic Steatosis and Adipocyte Hypertrophy in Obese Rats" </span>
 
-<div aria-describedby="_r_1o0_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div></div><span class="qwen-markdown-text">, </span>
+<div aria-describedby="_r_1o0_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname " NIH</div></div><span class="qwen-markdown-text">, </span>
 
-<div aria-describedby="_r_1o2_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div></div><span class="qwen-markdown-text">.</span>
+<div aria-describedby="_r_1o2_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname " NIH</div></div><span class="qwen-markdown-text">.</span>
 
 </div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Metodología:</span>**<span class="qwen-markdown-text"> Ratas obesas alimentadas con dieta alta en grasas fueron tratadas con agua del océano profundo (DOW) que contiene altos niveles de magnesio, calcio y potasio.</span></div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Resultados científicos:</span>**</div>- **<span class="qwen-markdown-text">Supresión de lípidos hepáticos:</span>**<span class="qwen-markdown-text"> "El agua del océano profundo (DOW) que contiene altos niveles de magnesio, calcio y potasio, etc., demostró suprimir los lípidos hepáticos en ratas obesas alimentadas con dieta alta en grasas" </span>  
     <div aria-describedby="_r_1o4_" class="qwen-chat-markdown-tokens">  
-    <div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div>  
+    <div class="qwen-chat-markdown-tokens-hostname " NIH</div>  
     </div>
 - **<span class="qwen-markdown-text">Efecto sobre adipocitos:</span>**<span class="qwen-markdown-text"> El DOW también redujo la hipertrofia de los adipocitos </span>  
     <div aria-describedby="_r_1o6_" class="qwen-chat-markdown-tokens">  
@@ -162,7 +162,7 @@ aliases = ["/higadog"]
 
 <div aria-describedby="_r_1oo_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.sciencedirect.com</div></div><span class="qwen-markdown-text">, </span>
 
-<div aria-describedby="_r_1oq_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div></div><span class="qwen-markdown-text">.</span>
+<div aria-describedby="_r_1oq_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname " NIH</div></div><span class="qwen-markdown-text">.</span>
 
 </div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Mecanismos moleculares:</span>**</div>- **<span class="qwen-markdown-text">Reducción del metabolismo energético:</span>**<span class="qwen-markdown-text"> "Al aumentar el nivel de calcio en varias partes de la célula, encontramos que el calcio reduce el metabolismo energético hepático" </span>  
     <div aria-describedby="_r_1os_" class="qwen-chat-markdown-tokens">  
@@ -174,7 +174,7 @@ aliases = ["/higadog"]
     </div>
 - **<span class="qwen-markdown-text">Alivio de la esteatosis:</span>**<span class="qwen-markdown-text"> La suplementación con calcio alivia la esteatosis hepática inducida por dieta alta en grasas </span>  
     <div aria-describedby="_r_1p0_" class="qwen-chat-markdown-tokens">  
-    <div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div>  
+    <div class="qwen-chat-markdown-tokens-hostname " NIH</div>  
     </div>
 
 <div class="qwen-markdown-space"></div>### <span class="qwen-markdown-text">3.3. Relación calcio-magnesio y NAFLD</span>
@@ -275,7 +275,7 @@ aliases = ["/higadog"]
 
 <div aria-describedby="_r_1pu_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.aaem.pl</div></div><span class="qwen-markdown-text">, </span>
 
-<div aria-describedby="_r_1q0_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div></div><span class="qwen-markdown-text">.</span>
+<div aria-describedby="_r_1q0_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname " NIH</div></div><span class="qwen-markdown-text">.</span>
 
 </div><div class="qwen-markdown-space"></div><div class="qwen-markdown-paragraph">**<span class="qwen-markdown-text">Resultados científicos:</span>**</div>- **<span class="qwen-markdown-text">Mejora clínica:</span>**<span class="qwen-markdown-text"> "Hubo una mejora significativa en el curso clínico de la enfermedad y mejora en el estado funcional del hígado" </span>  
     <div aria-describedby="_r_1q2_" class="qwen-chat-markdown-tokens">  
@@ -324,7 +324,7 @@ aliases = ["/higadog"]
     
       
     <div aria-describedby="_r_1qg_" class="qwen-chat-markdown-tokens">  
-    <div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div>  
+    <div class="qwen-chat-markdown-tokens-hostname " NIH</div>  
     </div>
 - **<span class="qwen-markdown-text">Talasoterapia (baños):</span>**<span class="qwen-markdown-text"> Contraindicada para cirrosis y hepatitis avanzada </span>  
     <div aria-describedby="_r_1qi_" class="qwen-chat-markdown-tokens">  
@@ -365,7 +365,7 @@ aliases = ["/higadog"]
 
 - **<span class="qwen-markdown-text">Supresión de acumulación de grasa:</span>**<span class="qwen-markdown-text"> Los minerales del agua de mar profunda suprimen la acumulación de lípidos en el hígado </span>  
     <div aria-describedby="_r_1qs_" class="qwen-chat-markdown-tokens">  
-    <div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div>  
+    <div class="qwen-chat-markdown-tokens-hostname " NIH</div>  
     </div>
 - **<span class="qwen-markdown-text">Promoción de lipólisis:</span>**<span class="qwen-markdown-text"> El calcio promueve la descomposición de grasas en el hígado </span>  
     <div aria-describedby="_r_1qu_" class="qwen-chat-markdown-tokens">  
@@ -492,7 +492,7 @@ aliases = ["/higadog"]
     
       
     <div aria-describedby="_r_1ro_" class="qwen-chat-markdown-tokens">  
-    <div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div>  
+    <div class="qwen-chat-markdown-tokens-hostname " NIH</div>  
     </div>
 2. **<span class="qwen-markdown-text">Los minerales marinos protegen el hígado:</span>**<span class="qwen-markdown-text"> El magnesio y el calcio del agua de mar profunda tienen efectos protectores sobre el metabolismo hepático </span>  
     <div aria-describedby="_r_1rq_" class="qwen-chat-markdown-tokens">  
@@ -512,7 +512,7 @@ aliases = ["/higadog"]
     
       
     <div aria-describedby="_r_1s0_" class="qwen-chat-markdown-tokens">  
-    <div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div>  
+    <div class="qwen-chat-markdown-tokens-hostname " NIH</div>  
     </div>
 4. **<span class="qwen-markdown-text">El magnesio es esencial para el metabolismo hepático:</span>**<span class="qwen-markdown-text"> El magnesio tiene un papel clave en el metabolismo energético y las vías de señalización que mantienen la función hepática </span>  
     <div aria-describedby="_r_1s2_" class="qwen-chat-markdown-tokens">  
@@ -530,7 +530,7 @@ aliases = ["/higadog"]
     
       
     <div aria-describedby="_r_1s8_" class="qwen-chat-markdown-tokens">  
-    <div class="qwen-chat-markdown-tokens-hostname ">美国卫生与公共服务部NIH</div>  
+    <div class="qwen-chat-markdown-tokens-hostname " NIH</div>  
     </div>
 7. **<span class="qwen-markdown-text">La talasoterapia está contraindicada en cirrosis y hepatitis:</span>**<span class="qwen-markdown-text"> Los baños en agua de mar están contraindicados para personas con enfermedades hepáticas avanzadas </span>  
     <div aria-describedby="_r_1sa_" class="qwen-chat-markdown-tokens">  
@@ -570,7 +570,7 @@ aliases = ["/higadog"]
 - **<span class="qwen-markdown-text">\[15\] Ovid:</span>** *<span class="qwen-markdown-text">Alleviative effects of deep-seawater drinking water on hepatic lipid</span>*<span class="qwen-markdown-text"> - Resumen del estudio sobre efectos aliviadores del agua de mar profunda. </span>[<span class="qwen-markdown-text">Leer resumen</span>](https://www.ovid.com/jnls/jcma/abstract/10.1016/j.jcma.2012.10.008~alleviative-effects-of-deep-seawater-drinking-water-on)
 - **<span class="qwen-markdown-text">\[17\] PubMed:</span>** *<span class="qwen-markdown-text">Comparison of the Improvement Effect of Deep Ocean Water</span>*<span class="qwen-markdown-text"> - Estudio comparativo del efecto de mejora del agua del océano profundo (2021). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://pubmed.ncbi.nlm.nih.gov/34065270/)
 - **<span class="qwen-markdown-text">\[18\] MDPI Marine Drugs:</span>** *<span class="qwen-markdown-text">Deep Sea Water Improves Abnormalities in Lipid Metabolism</span>*<span class="qwen-markdown-text"> - Estudio sobre cómo el agua de mar profunda mejora las anomalías en el metabolismo de lípidos (2017). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.mdpi.com/1660-3397/15/12/386)
-- **<span class="qwen-markdown-text">\[19\] PMC/NIH:</span>** *<span class="qwen-markdown-text">Comparison of the Improvement Effect of Deep Ocean Water</span>*<span class="qwen-markdown-text"> - Estudio completo sobre la comparación del efecto de mejora del agua del océano profundo (2021). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://pmc.ncbi.nlm.nih.gov/articles/PMC8160870/)
+- **<span class="qwen-markdown-text">\[19\] PMC/ NIH:</span>** *<span class="qwen-markdown-text">Comparison of the Improvement Effect of Deep Ocean Water</span>*<span class="qwen-markdown-text"> - Estudio completo sobre la comparación del efecto de mejora del agua del océano profundo (2021). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://pmc.ncbi.nlm.nih.gov/articles/PMC8160870/)
 - **<span class="qwen-markdown-text">\[20\] MDPI Life:</span>** *<span class="qwen-markdown-text">Deep Sea Water-Dissolved Organic Matter Intake Improves NAFLD</span>*<span class="qwen-markdown-text"> - Estudio sobre cómo la materia orgánica disuelta del agua de mar profunda mejora la NAFLD (2022). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.mdpi.com/2075-1729/12/1/82)
 - **<span class="qwen-markdown-text">\[31\] ScienceDirect:</span>** *<span class="qwen-markdown-text">Alleviative effects of deep-seawater drinking water - Antioxidant effects</span>*<span class="qwen-markdown-text"> - Efectos antioxidantes del agua de mar profunda. </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.sciencedirect.com/science/article/pii/S1726490112002857)
 - **<span class="qwen-markdown-text">\[32\] Taipei Veterans General Hospital:</span>** *<span class="qwen-markdown-text">Dietary deep seawater and hepatic steatosis - Conclusion</span>*<span class="qwen-markdown-text"> - Conclusión del estudio sobre colesterol LDL. </span>[<span class="qwen-markdown-text">Leer PDF</span>](https://wd.vghtpe.gov.tw/jcma/files/7603_121.pdf)

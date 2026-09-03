@@ -16,7 +16,7 @@ Efectos antiinflamatorios del agua de mar - Relevantes para cualquier crecimient
 
 Los lipomas son tumores benignos de tejido adiposo que representan el 10% de todos los tumores
 
-(NIH). Aunque no existen estudios que traten los lipomas *exclusivamente* con agua de mar, la ciencia ha explorado múltiples vías donde las soluciones salinas y los compuestos marinos juegan un papel terapéutico prometedor.
+( NIH). Aunque no existen estudios que traten los lipomas *exclusivamente* con agua de mar, la ciencia ha explorado múltiples vías donde las soluciones salinas y los compuestos marinos juegan un papel terapéutico prometedor.
 
 ### 1. Ensayo Clínico: Inyecciones de Solución Salina Enfriada para Lipomas (2025-2026)
 
@@ -37,9 +37,9 @@ ResearchGate. Estudios publicados en PubMed demuestran que el DSW enriquecido co
 
 ### 3. Revisión: Beneficios Potenciales del Agua de Mar Profunda
 
-Una revisión exhaustiva publicada en los National Institutes of Health (NIH) analiza los beneficios del agua de mar profunda, destacando sus efectos inhibitorios en el cáncer de mama y su papel en la regulación de fluidos y la salud celular.
+Una revisión exhaustiva publicada en los National Institutes of Health ( NIH) analiza los beneficios del agua de mar profunda, destacando sus efectos inhibitorios en el cáncer de mama y su papel en la regulación de fluidos y la salud celular.
 
-- **Enlace al estudio (PMC/NIH):** [Potential Health Benefits of Deep Sea Water: A Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/)
+- **Enlace al estudio (PMC/ NIH):** [Potential Health Benefits of Deep Sea Water: A Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/)
 
 ### 4. Compuestos Bioactivos Marinos y Actividad Antitumoral
 

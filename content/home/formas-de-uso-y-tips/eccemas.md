@@ -14,7 +14,7 @@ Existe evidencia científica que evalúa el uso de agua de mar, sales del Mar Mu
 - **Revista:** *International Journal of Dermatology*.
 - **Diseño:** Ensayo clínico aleatorizado, doble ciego, de brazo derecho-izquierdo.
 - **Intervención exclusiva:** 30 pacientes con piel seca atópica sumergieron un antebrazo durante 15 minutos diarios en una solución con 5% de sal del Mar Muerto, y el otro antebrazo (control) en agua del grifo, durante 6 semanas. No usaron ningún otro tratamiento durante el estudio.
-- **Resultados:** El brazo tratado exclusivamente con la solución salina mostró una mejora significativa de la función barrera de la piel (menor pérdida de agua transepidérmica), mayor hidratación del estrato córneo y una reducción notable de la rugosidad y el enrojecimiento (inflamación) en comparación con el agua del grifo 美国卫生与公共服务部NIH.
+- **Resultados:** El brazo tratado exclusivamente con la solución salina mostró una mejora significativa de la función barrera de la piel (menor pérdida de agua transepidérmica), mayor hidratación del estrato córneo y una reducción notable de la rugosidad y el enrojecimiento (inflamación) en comparación con el agua del grifo  NIH.
 - **Mecanismo:** Los autores concluyen que estos beneficios se deben al alto contenido de magnesio, que ayuda a retener agua, influye en la proliferación epidérmica y repara la barrera cutánea onlinelibrary.wiley.com.
 - **Link:** <https://pubmed.ncbi.nlm.nih.gov/15689218/>
 
