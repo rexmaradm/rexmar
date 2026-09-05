@@ -31,6 +31,10 @@ VIDEOS_AQUI
 
 <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v7cs0hy/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="873" height="491" src="https://www.youtube.com/embed/DHaSiRyhnDk" title="Intravenosa con agua de mar hipertonica para potenciar el sistema inmunologico." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="873" height="491" src="https://www.youtube.com/embed/mJ0UJ478IC0" title="Doris y el agua de mar hipertonica intravenosa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Agua de Mar e Inyecciones Intravenosas (IV): De René Quinton a la Medicina Moderna
 
 La relación entre el agua de mar y las inyecciones intravenosas tiene una historia fascinante que se remonta a finales del siglo XIX. Es crucial entender que **el agua de mar pura NO puede usarse directamente como inyección IV** debido a su alta salinidad (3.5%), que sería fatal para el organismo
