@@ -28,6 +28,9 @@ La clave fisiológica es la bioafinidad y la remineralización del terreno. Al b
 
 Referencias Científicas y Académicas
 Tominaga, A., et al. (2013). Autonomous cure of damaged human intestinal epithelial barrier by deep sea water. Immunology Letters. 🔗 Leer en ScienceDirect
+
 Nam, J., et al. (2020). Anti-Inflammatory Properties of Mineral-Balanced Deep Sea Water in In-Vitro and In-Vivo Models of Inflamed Intestinal Epithelium. Applied Sciences, MDPI. 🔗 Leer en MDPI Applied Sciences
+
 Takeuchi, H., et al. (2020). Drinking Refined Deep-Sea Water Improves the Gut Ecosystem with Beneficial Effects on Intestinal Health in Humans. PMC. 🔗 Leer en PubMed Central (PMC7551512)
+
 Barnich, N., et al. (2021). Beneficial Effects of Natural Mineral Waters on Intestinal Inflammation. PMC. 🔗 Leer en PubMed Central (PMC8122343)
