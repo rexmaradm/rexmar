@@ -361,3 +361,7 @@ date = 2026-08-18
 ## Donación para Solange Espinoza - 08/08/2026
 
 ![Donación 8/08/26](/images/donac/8-8-26.jpg)
+
+## Donación para Solange Espinoza - 06/09/2026
+
+![Donación 8/08/26](/images/donac/6-9-26.jpg)
