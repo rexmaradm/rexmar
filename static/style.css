@@ -16,6 +16,7 @@ header {
     border-bottom: 3px solid #3b82f6;
 }
 
+
 header h1 a {
     color: #ffffff;
     text-decoration: none;
@@ -161,4 +162,12 @@ article.preview {
 
 article.preview p {
     margin: 5px 0 0 0;
+}
+
+article.preview p {
+    margin: 5px 0 0 0;
+}
+
+a:visited {
+    color: inherit;
 }
