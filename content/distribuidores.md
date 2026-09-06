@@ -2,7 +2,7 @@
 title = "Distribuidores"
 date = 2024-01-01
 author = "legar"
-aliases = ["/dist]
+aliases = ["/dist"]
 +++
 
 <div align="center">
