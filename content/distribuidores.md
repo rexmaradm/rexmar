@@ -90,3 +90,13 @@ Dirección: En el segundo piso del restaurante Pato Mandarín. Av. prol. Cesar V
 [Ubicación Google Maps](https://www.google.com/maps/place/8%C2%B007'48.9%22S+79%C2%B001'57.1%22W/@-8.1302538,-79.0351041,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-8.1302538!4d-79.0325292?entry=ttu)
 
 <img src="/images/mundo.gif" alt="www" width=4%></img>Sitio web: [Terapias Oxidativas Jackelin Laza](https://terapias-oxidativas-con-jackelin-laza.getlandingsite.com/)
+
+---
+
+# San Martín
+
+## * Tarapoto
+
+**Energía Renovable Najia Garden EIR. Sr. Bruno Laborde**
+
+<img src="/images/wp.svg" alt="whatsapp" width="3%"></img>Teléfono:914 140 099
