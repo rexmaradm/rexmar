@@ -18,15 +18,11 @@ Resumen detallado de la ponencia impartida por el **Dr. William Fenical** (Scrip
 
 ---
 
-### Si no le salen automáticamente los subtítulos en Español, los puede activar, están disponibles.
+<script>!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src="https://rumble.com/embedJS/u1wgpuu"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, "script", "Rumble");</script>
 
-<iframe
-width="560" height="315"
-src="https://www.youtube.com/embed/GkIwpq1EP4Y?hl=es&cc_lang_pref=es&cc_load_policy=1"
-title="Video"
-frameborder="0"
-allowfullscreen>
-</iframe>
+<div id="rumble_v7d3o5w"></div>
+<script>
+Rumble("play", {"video":"v7d3o5w","div":"rumble_v7d3o5w"});</script>
 
 ### 1. Introducción y Contexto Histórico
 * **Inicios de los antibióticos:** El Dr. Fenical rememora a Selman Waksman y Alexander Fleming, cuyos descubrimientos de los actinomicetos y la penicilina demostraron la riqueza química de los微生物 terrestres.
