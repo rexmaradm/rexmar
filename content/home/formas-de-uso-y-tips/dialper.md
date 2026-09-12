@@ -16,6 +16,18 @@ aliases = ["/dialp"]
 
 <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v2x3t1c/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe>
 
+## Otra explicación
+
+<iframe width="975" height="548" src="https://www.youtube.com/embed/st4TZiK3LvM" title="Diálisis Percutanea | Tratamiento natural" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Otra explicación de bioquímico
+
+<iframe width="975" height="548" src="https://www.youtube.com/embed/Ksf6qK8GepU" title="Dialisis Percutanea y la Salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 3 formas de hacer Diálisis Percutanea, Baño de Asiento y Soportes en "T"  Dr. Francisco Rodriguez 
+
+<iframe width="975" height="548" src="https://www.youtube.com/embed/YTubV9NLAg0" title="Diálisis Percutanea, Baño de Asiento y Soportes en &quot;T&quot; | Dr. Francisco Rodriguez | Dallas, Tx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Referencias Científicas
 
 1. **Absorción transdérmica de magnesio:**
