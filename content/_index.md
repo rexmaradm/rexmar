@@ -25,7 +25,7 @@ Rex Mar Agua de Mar
 
 <div class="rexmar-grid">
   <a href="/sociales/donaciones/"><img decoding="async" src="/images/compraanimales.png" alt="Donaciones" /></a>
-  <a href="/home/formas-de-uso-y-tips/calculadora-isotonica/"><img decoding="async" src="/images/calculadora.png" alt="Calculadora Isotónica gratuita" /></a>
+  <a href="/home/formas-de-uso-y-tips/calculadora2/"><img decoding="async" src="/images/calculadora.png" alt="Calculadora Isotónica gratuita" /></a>
   <a href="/home/formas-de-uso-y-tips/equilibrio-electrolitico-y-adm/"><img decoding="async" src="/images/porqueisotonizar.png" alt="Por qué isotonizar" /></a>
   <a href="/bajarinf/" target="_blank"><img decoding="async" src="/images/bajarinforme.png" alt="Bajar informe" /></a>
 </div>
