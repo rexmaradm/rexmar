@@ -3,7 +3,7 @@ title = "Cómo agradecer por los servicios de RexMar"
 description = " Cómo agradecer por los servicios de RexMar si no consume nuestra agua"
 date = "2026-09-12"
 author = "legar"
-aliases = ["/iagradecer"]
+aliases = ["/agradecer"]
 +++
 
 <a href="http://link.mercadopago.com.pe/rexmaradm">a través de MercadoPago (todas las tarjetas, única vez)</a><br>
