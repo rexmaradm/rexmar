@@ -4,6 +4,9 @@ description = "Guía completa sobre Calculadora Isotónica - RexMar Agua de Mar"
 date = 2026-07-13
 author = "legar"
 aliases = ["/ci"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Aquí le hemos creado para su simplicidad la forma de calcular cuantos ML de AdM deberá poner de acuerdo al volúmen de su taza / jarro / jarra. Éste servicio es gratuito, por cuestiones de segurdidad, debe crear una cuenta gratis en éste sitio e ingresar, o también puede ingresar con su cuenta de Google.

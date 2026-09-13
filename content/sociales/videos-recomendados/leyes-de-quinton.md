@@ -3,6 +3,9 @@ title = "Leyes de Quinton"
 date = 2022-03-18
 author = "legar"
 aliases = ["/leyes-de-quinton"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 René Quinton fue un biólogo y fisiólogo francés que descubrió las similitudes entre el agua de mar y el líquido intracelular de los vertebrados. Basado en esta premisa, Quinton desarrolló su terapia marina y formuló varias leyes relacionadas con el uso del agua de mar en la salud y la agricultura. A continuación, se presenta un resumen de las leyes de René Quinton:
 

@@ -4,6 +4,9 @@ date = "2023-11-12"
 slug = "estreptococos-agua-mar"
 aliases = ["/estrep"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 Las infecciones por estreptococos (como *Streptococcus pyogenes* o *Streptococcus mutans*) afectan vías respiratorias, cavidad oral y piel. El agua de mar, por su hiperosmolaridad y perfil de oligoelementos, actúa como un agente antimicrobiano y reparador de mucosas.

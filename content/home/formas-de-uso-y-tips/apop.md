@@ -4,6 +4,9 @@ description = "Guía completa sobre Apoptosis y AdM - RexMar Agua de Mar"
 date = 2026-07-21
 author = "legar"
 aliases = ["/apop"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Apoptosis: Evidencia Científica sobre la Regulación Celular

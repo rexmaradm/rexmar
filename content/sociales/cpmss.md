@@ -3,6 +3,9 @@ title = "Corte PsicoMental Subliminal Silent (CPMSS)"
 date = 2026-01-27
 author = "legar"
 aliases = ["/cpmss"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 ## **Retoma el Control de tu vida. Hackea la Matrix y moldeala para ti**. **Cambia tu vida.** **Protégete de ataques e implantes físicos y etéricos**. **Auto-mejora tu salud.**
 

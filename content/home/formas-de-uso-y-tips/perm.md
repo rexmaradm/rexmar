@@ -3,6 +3,9 @@ title = "Permeabilidad intestinal y AdM"
 description = "Agua de Mar Isotónica e Hipertónica y la Permeabilidad Intestinal"
 date = 2026-08-01
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y la Permeabilidad Intestinal: Evidencia Científica sobre la Reparación de la Barrera Intestinal

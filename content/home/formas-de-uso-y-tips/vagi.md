@@ -4,6 +4,9 @@ description = "Guía completa sobre Vagina y AdM - RexMar Agua de Mar"
 date = 2026-07-24
 author = "legar"
 aliases = ["/vagi"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y la Salud Vaginal: Evidencia Científica sobre el Microbioma y la Mucosa

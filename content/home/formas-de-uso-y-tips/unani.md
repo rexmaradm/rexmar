@@ -4,6 +4,9 @@ date = "2023-11-25"
 slug = "medicina-unani-agua-mar"
 aliases = ["/unan"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Breve Historia

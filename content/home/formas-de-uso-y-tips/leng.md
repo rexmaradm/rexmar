@@ -4,6 +4,9 @@ description = "Guía completa sobre Lengua y AdM - RexMar Agua de Mar"
 date = 2026-07-23
 author = "legar"
 aliases = ["/leng"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y la Lengua: Evidencia Científica sobre la Salud de la Mucosa Lingual y las Papilas Gustativas

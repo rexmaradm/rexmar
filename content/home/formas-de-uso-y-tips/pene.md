@@ -4,6 +4,9 @@ description = "Guía completa sobre el Pene y AdM - RexMar Agua de Mar"
 date = 2026-07-24
 author = "legar"
 aliases = ["/pene"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y la Salud del Pene: Evidencia Científica sobre Función Endotelial, Flujo Sanguíneo y Vitalidad Reproductiva

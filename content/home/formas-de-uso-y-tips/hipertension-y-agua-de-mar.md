@@ -4,6 +4,9 @@ description = "Guía completa sobre Hipertensión y Agua de Mar - RexMar Agua de
 date = 2024-12-18
 author = "legar"
 aliases = ["/hipertension-y-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Resumen simplificado sobre [el estudio citado ](https://www.spandidos-publications.com/10.3892/ijmm.2019.4424)de la hipertensión y el agua de mar

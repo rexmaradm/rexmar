@@ -3,6 +3,9 @@ title = "Agua de Mar Isotónica Intravenosa y Hemorroides: Evidencia Histórica 
 date = 2026-08-18
 description = "La terapia intravenosa de Quinton y su efecto sobre las hemorroides: mecanismos de acción, evidencia histórica y aplicaciones clínicas modernas."
 alias = "/transiv"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Introducción: La Revolución de Quinton y la Vía Intravenosa

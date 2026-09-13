@@ -5,6 +5,9 @@ date = 2023-07-09
 author = "legar"
 aliases = ["/agua-de-mar-para-proteccion-contra-energias-y-entidades-negativas"]
 excerpt = "el agua de mar también ayuda en la Protección contra energías y entidades negativas parásitas. "
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 <div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span>

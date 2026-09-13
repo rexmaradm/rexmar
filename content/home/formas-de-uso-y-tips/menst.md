@@ -4,6 +4,9 @@ date = "2023-11-10"
 slug = "menstruacion-agua-mar"
 aliases = ["/mens"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La menstruación implica fluctuaciones hormonales que pueden desencadenar dismenorrea, retención de líquidos, fatiga y alteraciones del estado de ánimo. El agua de mar, rica en minerales y oligoelementos, actúa como un coadyuvante natural para mitigar estos síntomas mediante la talasoterapia y la absorción transdérmica.

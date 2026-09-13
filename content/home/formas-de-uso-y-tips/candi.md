@@ -4,6 +4,9 @@ date = "2023-11-08"
 slug = "candidiasis-agua-mar"
 aliases = ["/cand"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La candidiasis es una infección fúngica causada por la proliferación de levaduras del género *Candida*. El agua de mar, mediante su acción osmótica, mineral y moduladora del microbioma, crea un entorno hostil para el hongo y favorece la recuperación de la barrera mucocutánea.

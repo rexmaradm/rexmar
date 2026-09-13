@@ -4,6 +4,9 @@ description = "Guía completa sobre Miocarditis, pericarditis y AdM - RexMar Agu
 date = 2026-07-19
 author = "legar"
 aliases = ["/mioc"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica, Miocarditis y Pericarditis: Evidencia Científica y Recuperación Cardíaca

@@ -4,6 +4,9 @@ date = "2023-11-06"
 slug = "espalda-agua-mar"
 aliases = ["/espa"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 El dolor de espalda (lumbalgia, cervicalgia) suele estar asociado a contracturas musculares, inflamación y sobrecarga mecánica. La inmersión en agua de mar combina los principios de la hidroterapia con la acción de los minerales marinos para aliviar la sintomatología.

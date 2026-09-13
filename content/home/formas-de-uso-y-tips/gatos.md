@@ -4,6 +4,9 @@ description = "Guía completa sobre Gatos y AdM - RexMar Agua de Mar"
 date = 2026-07-02
 author = "legar"
 aliases = ["/gatos"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## **Aplicaciones terapéuticas fascinantes para gatos:**

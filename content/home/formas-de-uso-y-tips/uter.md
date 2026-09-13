@@ -4,6 +4,9 @@ description = "Guía completa sobre Útero y AdM - RexMar Agua de Mar"
 date = 2026-07-24
 author = "legar"
 aliases = ["/uter"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y el Útero: Evidencia Científica sobre Salud Uterina, Endometrio y Equilibrio Hormonal

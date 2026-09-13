@@ -4,6 +4,9 @@ description = "Guía completa sobre EMF y AdM - RexMar Agua de Mar"
 date = 2026-07-21
 author = "legar"
 aliases = ["/emf"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Campos Electromagnéticos (EMF): Evidencia Científica sobre Resiliencia Celular

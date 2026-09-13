@@ -4,6 +4,9 @@ description = "Guía completa sobre Vesícula biliar y AdM - RexMar Agua de Mar"
 date = 2026-07-23
 author = "legar"
 aliases = ["/vesi"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y la Vesícula Biliar: Evidencia Científica sobre el Metabolismo Biliar y la Salud Hepato-Biliar

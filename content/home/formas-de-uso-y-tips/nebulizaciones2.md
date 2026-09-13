@@ -4,6 +4,9 @@ description = "Guía completa sobre Nebulizaciones y AdM - RexMar Agua de Mar"
 date = 2026-06-30
 author = "legar"
 aliases = ["/nebulizaciones2"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 En la literatura médica científica, cuando se trata de nebulizaciones para el tracto respiratorio inferior (pulmones, bronquios, asma, EPOC), los estudios suelen utilizar el término **"Solución Salina Hipertónica" (SSH)** en concentraciones del 3% al 7%. ¿Por qué? Porque el agua de mar natural tiene una concentración de sal de aproximadamente un 3.5%. Por lo tanto, **nebulizar solución salina hipertónica es, a todos efectos prácticos, nebulizar agua de mar estéril**.

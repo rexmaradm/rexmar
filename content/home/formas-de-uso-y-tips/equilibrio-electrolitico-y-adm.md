@@ -4,6 +4,9 @@ description = "Guía completa sobre Adelgace y mejore su salud – Equilibrio Hi
 date = 2025-03-22
 author = "legar"
 aliases = ["/equilibrio-electrolitico-y-adm"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## **Adaptación (casera, no oficial) con AdM del sistema Unani del dr. David Duarte**

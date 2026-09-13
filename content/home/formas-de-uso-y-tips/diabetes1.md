@@ -4,6 +4,9 @@ description = "Guía completa sobre Diabetes y AdM - RexMar Agua de Mar"
 date = 2026-07-15
 author = "legar"
 aliases = ["/diabetes1"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Diabetes: Evidencia Científica sobre el Metabolismo de la Glucosa

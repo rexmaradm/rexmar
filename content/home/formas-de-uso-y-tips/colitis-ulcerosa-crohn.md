@@ -4,6 +4,9 @@ description = "Guía completa sobre Colitis ulcerosa / Crohn / Síndrome de  Int
 date = 2023-04-23
 author = "legar"
 aliases = ["/colitis-ulcerosa-crohn"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 La colitis ulcerosa es una enfermedad inflamatoria intestinal crónica que causa inflamación y úlceras en el colon y el recto. Los síntomas incluyen diarrea, dolor abdominal, calambres, fiebre y pérdida de peso. La enfermedad puede ser agotadora y, en algunos casos, puede llevar a complicaciones que ponen en riesgo la vida   

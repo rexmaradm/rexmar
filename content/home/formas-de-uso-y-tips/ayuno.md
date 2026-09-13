@@ -4,6 +4,9 @@ description = "Guía completa sobre Ayuno y Agua de Mar - RexMar Agua de Mar"
 date = 2026-06-12
 author = "legar"
 aliases = ["/ayuno"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/d8wngd4uRmQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>El consumo de **agua de mar** durante el ayuno es considerado seguro y beneficioso por muchos expertos, ya que **no rompe el ayuno** al no aportar macronutrientes ni calorías significativas, permitiendo mantener la cetosis y la quema de grasa.

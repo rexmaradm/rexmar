@@ -4,6 +4,9 @@ description = "Guía completa sobre Artrosis, Artritis, Osteoporosis, fibromialg
 date = 2024-12-18
 author = "legar"
 aliases = ["/artrosis-artritis-osteoporosis-fibromialgia-y-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Porqué tomar agua de mar isotónica beneficia a todo, incluida la fibromialgia

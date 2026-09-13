@@ -4,6 +4,9 @@ description = "Guía completa sobre Quemaduras y AdM - RexMar Agua de Mar"
 date = 2026-07-12
 author = "legar"
 aliases = ["/quema"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Descubrí los estudios científicos que demuestran cómo el agua de mar profunda acelera la cicatrización de quemaduras, los mecanismos moleculares identificados, el papel del magnesio y zinc marinos, y los protocolos de tratamiento con Plasma de Quinton. Debajo de los video testimonios, los papers científicos. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/MvKGfSnHWm4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/Omk65Af0lkQ" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>

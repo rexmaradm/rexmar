@@ -4,6 +4,9 @@ description = "Guía completa sobre Sinusitis y AdM - RexMar Agua de Mar"
 date = 2026-06-26
 author = "legar"
 aliases = ["/sinusitis"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **Existe abundante evidencia científica** sobre el uso exclusivo de agua de mar o solución salina como monoterapia. De hecho, las irrigaciones nasales con solución salina son uno de los tratamientos más estudiados y recomendados en otorrinolaringología.

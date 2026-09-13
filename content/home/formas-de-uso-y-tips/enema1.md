@@ -4,6 +4,9 @@ date = "2023-11-09"
 slug = "enemas-agua-mar"
 aliases = ["/enem"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 El enema con agua de mar isotónica utiliza la vía rectal para la administración directa de minerales al colon. La mucosa colónica, altamente vascularizada, absorbe eficientemente los electrolitos y oligoelementos, generando efectos sistémicos sin pasar por el tracto digestivo superior.

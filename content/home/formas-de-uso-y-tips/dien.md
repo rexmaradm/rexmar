@@ -4,6 +4,9 @@ description = "Guía completa sobre Dientes y AdM - RexMar Agua de Mar"
 date = 2026-07-23
 author = "legar"
 aliases = ["/dien"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Salud Dental: Evidencia Científica sobre Dientes, Esmalte y Tejidos de Soporte

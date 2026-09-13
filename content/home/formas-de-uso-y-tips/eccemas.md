@@ -4,6 +4,9 @@ description = "Guía completa sobre Eccemas / Dermatítis atópica y AdM - RexMa
 date = 2026-06-26
 author = "legar"
 aliases = ["/eccemas"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Existe evidencia científica que evalúa el uso de agua de mar, sales del Mar Muerto o soluciones salinas como **monoterapia** (es decir, baños exclusivos sin radiación UVB, clima ni corticoides tópicos).

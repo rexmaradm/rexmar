@@ -4,6 +4,9 @@ date = "2023-11-23"
 slug = "fitoterapia-agua-mar"
 aliases = ["/fitot"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Breve Historia

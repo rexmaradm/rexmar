@@ -4,6 +4,9 @@ description = "Guía completa sobre Obesidad *** - RexMar Agua de Mar"
 date = 2022-04-26
 author = "legar"
 aliases = ["/obesidad"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ### Agua de Mar y Obesidad

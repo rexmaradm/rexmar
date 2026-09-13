@@ -4,6 +4,9 @@ description = "Guía completa sobre Psoriasis y AdM - RexMar Agua de Mar"
 date = 2026-06-25
 author = "legar"
 aliases = ["/psoriasis"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 El **agua de mar** es considerada un **aliado natural** para el alivio de los síntomas de la psoriasis,

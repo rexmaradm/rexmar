@@ -4,6 +4,9 @@ description = "Guía completa sobre Uréteres  y AdM - RexMar Agua de Mar"
 date = 2026-07-23
 author = "legar"
 aliases = ["/uret"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y los Uréteres: Evidencia Científica sobre Salud Urinaria y Flujo Renal

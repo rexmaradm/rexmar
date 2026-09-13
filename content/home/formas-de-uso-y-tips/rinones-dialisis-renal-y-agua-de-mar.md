@@ -4,6 +4,9 @@ description = "Guía completa sobre Riñones Diálisis Renal y Agua de Mar - Rex
 date = 2024-12-18
 author = "legar"
 aliases = ["/rinones-dialisis-renal-y-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Explicación simple:  

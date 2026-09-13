@@ -4,6 +4,9 @@ description = "Guía completa sobre Ondas Schumann y AdM - RexMar Agua de Mar"
 date = 2025-06-03
 author = "legar"
 aliases = ["/ondas-schumann-y-adm"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 [![Disponible en RexMar consulte stock !!! Haga Click aquí](/wp-content/uploads/2025/07/schumannxcf.png)](/formas-de-uso-y-tips/ondas-schumann-y-adm/#generador)## **Qué son las ondas Schumann?**

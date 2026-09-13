@@ -4,6 +4,9 @@ date = "2023-11-07"
 slug = "adenoides-agua-mar"
 aliases = ["/aden"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 Las adenoides (vegetaciones adenoideas) son tejido linfoide ubicado en la nasofaringe que frecuentemente se hipertrofia o inflama (adenoiditis), obstruyendo la vía aérea. El agua de mar, utilizada en irrigaciones nasales isotónicas o hipertónicas, es una terapia coadyuvante fundamental para reducir el volumen adenoideo y mejorar la sintomatología respiratoria.

@@ -3,6 +3,9 @@ title = "No hierva más el Agua !!!"
 date = 2023-09-29
 author = "legar"
 aliases = ["/no-hierva-mas-el-agua"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 No, hervir el agua no elimina los metales pesados y otros contaminantes. La ebullición es un método eficaz para eliminar los microorganismos patógenos del agua, como bacterias, virus y parásitos. Sin embargo, no es eficaz para eliminar otros contaminantes, como los metales pesados, el cloro, el plomo, el arsénico y las sustancias químicas.
 

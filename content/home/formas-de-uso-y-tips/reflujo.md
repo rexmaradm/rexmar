@@ -4,6 +4,9 @@ description = "Guía completa sobre Reflujo y AdM - RexMar Agua de Mar"
 date = 2026-07-15
 author = "legar"
 aliases = ["/reflujo"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Reflujo: Evidencia Científica y Beneficios Digestivos

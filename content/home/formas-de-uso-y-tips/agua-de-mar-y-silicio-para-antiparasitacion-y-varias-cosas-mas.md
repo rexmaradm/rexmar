@@ -4,6 +4,9 @@ description = "Guía completa sobre Agua de Mar y Silicio para antiparasitación
 date = 2023-07-02
 author = "legar"
 aliases = ["/agua-de-mar-y-silicio-para-antiparasitacion-y-varias-cosas-mas"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 **Ver debajo Método oral, económico y práctico alternativo al método IntraVenoso IV**

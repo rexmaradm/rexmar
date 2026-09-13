@@ -4,6 +4,9 @@ date = "2023-11-21"
 slug = "medicina-naturopata-agua-mar"
 aliases = ["/natur"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Breve Historia

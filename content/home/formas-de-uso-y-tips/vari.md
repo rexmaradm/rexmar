@@ -4,6 +4,9 @@ description = "Guía completa sobre Várices y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/vari"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Várices: Evidencia Científica sobre Microcirculación y Retorno Venoso

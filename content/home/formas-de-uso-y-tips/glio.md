@@ -4,6 +4,9 @@ description = "Guía completa sobre Glioblastomas y AdM - RexMar Agua de Mar"
 date = 2026-07-21
 author = "legar"
 aliases = ["/glio"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Glioblastoma: Evidencia Científica y Apoyo Celular

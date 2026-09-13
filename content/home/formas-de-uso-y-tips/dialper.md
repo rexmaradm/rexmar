@@ -2,6 +2,9 @@
 title = "Diálisis Percutánea y Agua de Mar"
 date = "2023-10-29"
 aliases = ["/dialp"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## La diálisis percutánea utiliza la piel como órgano excretor. El agua de mar, por su perfil iónico y presión osmótica, actúa como catalizador en el intercambio transdérmico de solutos.

@@ -4,6 +4,9 @@ description = "Guía completa sobre Perros y AdM - RexMar Agua de Mar"
 date = 2026-07-02
 author = "legar"
 aliases = ["/perros"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **Encontré aplicaciones terapéuticas fascinantes:**

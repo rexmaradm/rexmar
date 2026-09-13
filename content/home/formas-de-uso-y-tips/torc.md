@@ -4,6 +4,9 @@ description = "Guía completa sobre Torceduras (de manos y pies) y AdM - RexMar 
 date = 2026-07-22
 author = "legar"
 aliases = ["/torc"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Recuperación de Torceduras (Esguinces): Evidencia Científica

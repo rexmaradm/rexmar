@@ -4,6 +4,9 @@ description = "Guía completa sobre Tendones y AdM - RexMar Agua de Mar"
 date = 2026-07-24
 author = "legar"
 aliases = ["/tend"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y los Tendones: Evidencia Científica sobre Regeneración del Tejido Conectivo y Síntesis de Colágeno

@@ -4,6 +4,9 @@ description = "Guía completa sobre Lipomas y AdM - RexMar Agua de Mar"
 date = 2026-07-02
 author = "legar"
 aliases = ["/lipomas"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Te tengo que hacer una aclaración muy importante antes de pasar el contenido: en la literatura científica actual no existen estudios que traten los lipomas exclusivamente con agua de mar. Sin embargo, encontré algo muy relevante y fascinante:  

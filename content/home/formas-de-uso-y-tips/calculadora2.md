@@ -4,6 +4,9 @@ description = "Calculadora isotónica RexMar"
 date = "2026-09-12"
 author = "legar"
 aliases = ["/calc2"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 <!DOCTYPE html>

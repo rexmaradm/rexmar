@@ -4,6 +4,9 @@ date = "2023-11-22"
 slug = "medicina-tradicional-china-agua-mar"
 aliases = ["/mtc"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Breve Historia

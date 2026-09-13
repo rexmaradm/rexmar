@@ -4,6 +4,9 @@ description = "Guía completa sobre Baño sauna individual con agua de mar - Rex
 date = 2025-09-11
 author = "legar"
 aliases = ["/bano-sauna-individual-con-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 # **Beneficios**

@@ -4,6 +4,9 @@ description = "Guía completa sobre AdM y C.á.ncer *** - RexMar Agua de Mar"
 date = 2022-04-02
 author = "legar"
 aliases = ["/adm-y-cancer"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 (\*)(\*\*\*) El agua de mar es muy buena contra el C.á.ncer,y muchas cosas más, ademas te alcalinizará el organismo lo que redundará en una mejoria general

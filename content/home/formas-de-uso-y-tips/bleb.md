@@ -4,6 +4,9 @@ description = "Guía completa sobre Klebsiella pneumoniae, artritis reumatoide, 
 date = 2026-07-19
 author = "legar"
 aliases = ["/bleb"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Actividad Antimicrobiana: Evidencia Científica frente a Klebsiella pneumoniae

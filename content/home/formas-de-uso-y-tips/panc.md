@@ -4,6 +4,9 @@ description = "Guía completa sobre Páncreas y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/panc"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Salud Pancreática: Evidencia Científica sobre la Regeneración de Células Beta

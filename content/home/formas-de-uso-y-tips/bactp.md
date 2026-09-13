@@ -4,6 +4,9 @@ description = "Guía completa sobre Bacterias patógenas en colon y AdM - RexMar
 date = 2026-07-20
 author = "legar"
 aliases = ["/bactp"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Salud Intestinal: Evidencia Científica frente a Bacterias Patógenas

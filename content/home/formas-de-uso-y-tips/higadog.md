@@ -4,6 +4,9 @@ description = "Guía completa sobre Hígado graso y AdM - RexMar Agua de Mar"
 date = 2026-07-06
 author = "legar"
 aliases = ["/higadog"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 - <span class="qwen-markdown-text">Descubrí los estudios científicos sobre cómo el agua de mar profunda (bebida) puede reducir la acumulación de grasa hepática, el papel del magnesio y calcio marinos en el metabolismo del hígado, y las contraindicaciones de la talasoterapia para enfermedades hepáticas.</span>

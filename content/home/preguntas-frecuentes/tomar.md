@@ -3,6 +3,9 @@ title = "Cómo empezar a tomar"
 date = 2026-06-10
 author = "legar"
 aliases = ["/tomar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 # Cómo empezar a tomar? 
 

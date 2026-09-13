@@ -3,6 +3,9 @@ title = "Distribuidores"
 date = 2024-01-01
 author = "legar"
 aliases = ["/dist"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 <div align="center">

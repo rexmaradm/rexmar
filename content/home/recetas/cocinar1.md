@@ -1,6 +1,9 @@
 +++
 title = ""
 date = 2026-08-17
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 +++
 title = "Cocinar y AdM"

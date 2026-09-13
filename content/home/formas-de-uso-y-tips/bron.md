@@ -4,6 +4,9 @@ description = "Guía completa sobre Bronquios y AdM - RexMar Agua de Mar"
 date = 2026-07-23
 author = "legar"
 aliases = ["/bron"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y los Bronquios: Evidencia Científica sobre la Salud Respiratoria y la Mucosa Bronquial

@@ -4,6 +4,9 @@ description = "Guía completa sobre Tinitus y Agua de Mar - RexMar Agua de Mar"
 date = 2025-04-03
 author = "legar"
 aliases = ["/tinitus-y-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 <iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6peutn/?pub=1wgpuu" width="640"></iframe>  

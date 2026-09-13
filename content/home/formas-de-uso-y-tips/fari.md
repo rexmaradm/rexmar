@@ -4,6 +4,9 @@ description = "Guía completa sobre Faringe y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/fari"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y la Faringe: Evidencia Científica sobre la Protección de la Mucosa y la Faringitis

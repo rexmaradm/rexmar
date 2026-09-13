@@ -4,6 +4,9 @@ description = "Guía completa sobre Boca y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/boca"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Salud Bucal: Evidencia Científica sobre Encías, Mucosa y Microbioma Oral

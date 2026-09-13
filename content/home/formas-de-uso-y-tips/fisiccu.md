@@ -4,6 +4,9 @@ description = "Guía completa sobre Perimenopausia y AdM - RexMar Agua de Mar"
 date = "2023-10-27"
 author = "legar"
 aliases = ["/fisicc"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La intersección entre la física cuántica y el agua de mar revela comportamientos subatómicos que definen las propiedades macroscópicas del océano. A escalas moleculares, el agua marina no es un fluido clásico, sino un sistema regido por efectos cuánticos.

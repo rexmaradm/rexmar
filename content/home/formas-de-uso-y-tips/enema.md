@@ -4,6 +4,9 @@ description = "Guía completa sobre Cómo auto aplicarse un Enema casero con Agu
 date = 2022-03-27
 author = "legar"
 aliases = ["/enema"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Si Ud. no va **todos** los días al baño al menos 1 vez, debe entender la importancia de tener el cólon limpio, en el siguiente vídeo el dr. Martí Bosch nos explica.

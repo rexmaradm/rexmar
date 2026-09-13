@@ -4,6 +4,9 @@ description = "Guía completa sobre Aparato reproductor masculino - RexMar Agua 
 date = 2026-07-22
 author = "legar"
 aliases = ["/arma"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Salud Reproductiva Masculina: Evidencia Científica sobre Vitalidad y Función Endocrina

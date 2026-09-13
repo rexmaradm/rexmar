@@ -4,6 +4,9 @@ description = "Guía completa sobre Alimentación seca animal suplementada con A
 date = 2023-09-11
 author = "legar"
 aliases = ["/alimentacion-seca-animal-suplementada-con-agua-de-mar-isotonica"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Le preguntamos a la IA Bard de Google si agregar agua de mar isotónica a la comida seca de los animales, los beneficiaría.

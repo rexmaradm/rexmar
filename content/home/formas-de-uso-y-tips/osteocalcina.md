@@ -3,6 +3,9 @@ title = "Osteocalcina y AdM"
 description = "Guía completa sobre Osteocalcina y AdM - RexMar Agua de Mar"
 date = "2024-01-01"
 aliases = ["/osteoc"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 # Osteocalcina y AdM

@@ -4,6 +4,9 @@ description = "Guía completa sobre Estrés, Ansiedad y AdM - RexMar Agua de Mar
 date = 2026-06-27
 author = "legar"
 aliases = ["/estres"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 El estrés y la ansiedad son condiciones neuropsiquiátricas complejas que requieren intervenciones específicas (psicoterapia, farmacoterapia, técnicas de relajación) que no pueden ser reemplazadas únicamente por agua de mar.

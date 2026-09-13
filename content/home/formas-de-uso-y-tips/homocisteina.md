@@ -3,6 +3,9 @@ title = "Homocisteína y AdM"
 description = "Guía completa sobre Homocisteína y AdM - RexMar Agua de Mar"
 date = "2024-01-01"
 aliases = ["/homoc"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 Homocisteína y AdM

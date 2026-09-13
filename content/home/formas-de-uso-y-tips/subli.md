@@ -3,6 +3,9 @@ title = "Administración Sublingual de Agua de Mar"
 date = 2023-10-25
 draft = false
  aliases = ["/subli"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 # Administración Sublingual de Agua de Mar (AdM)

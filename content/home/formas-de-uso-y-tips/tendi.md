@@ -4,6 +4,9 @@ date = "2023-11-05"
 slug = "tendinitis-agua-mar"
 aliases = ["/tendi"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La tendinitis es la inflamación o degeneración de los tendones. El agua de mar, aplicada mediante inmersión (talasoterapia), acelera la recuperación gracias a su acción osmótica, hidrostática y mineral.

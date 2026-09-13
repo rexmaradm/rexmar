@@ -4,6 +4,9 @@ description = "Guía completa sobre Instructivo a beneficio del Refugio de gatos
 date = 2025-07-28
 author = "legar"
 aliases = ["/instructivo-a-beneficio-del-refugio-de-gatos-de-solange"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **Éste instructivo explica detalladamente y con videos cómo hacer un bebedero para mascotas por menos de 9 U$S, con cosas de su casa (además de la bomba pequeña de agua)**

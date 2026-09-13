@@ -4,6 +4,9 @@ description = "Guía completa sobre Lavado Nasal con Agua de Mar *** - RexMar Ag
 date = 2023-01-18
 author = "legar"
 aliases = ["/lavado-nasal-con-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Técnica de lavado nasal con agua de mar (AdM)

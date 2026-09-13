@@ -4,6 +4,9 @@ description = "Guía completa sobre Longevidad y AdM - RexMar Agua de Mar"
 date = 2026-07-14
 author = "legar"
 aliases = ["/longe"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Escuche 👆toda ésta página  

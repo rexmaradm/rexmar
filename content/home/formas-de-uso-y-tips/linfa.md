@@ -4,6 +4,9 @@ description = "Guía completa sobre Linfa Sistema linfático y AdM - RexMar Agua
 date = 2026-07-01
 author = "legar"
 aliases = ["/linfa"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## La Ciencia del Agua de Mar y el Sistema Linfático: El Legado de René Quinton

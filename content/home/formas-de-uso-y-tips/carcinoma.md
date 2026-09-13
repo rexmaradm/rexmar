@@ -3,6 +3,9 @@ title = "Carcinoma y AdM"
 description = "Guía completa sobre Carcinoma y AdM - RexMar Agua de Mar"
 date = "2024-01-01"
 aliases = ["/carci"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 Carcinoma y AdM

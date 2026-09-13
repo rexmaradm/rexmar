@@ -4,6 +4,9 @@ description = "Guía completa sobre Perimenopausia y AdM - RexMar Agua de Mar"
 date = "2023-10-27"
 author = "legar"
 aliases = ["/perim"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La perimenopausia implica una disminución de estrógenos y progesterona, generando síntomas vasomotores, cambios de ánimo, pérdida de densidad ósea y sequedad cutánea. El agua de mar, utilizada en talasoterapia, concentra minerales esenciales que mitigan estas condiciones.

@@ -4,6 +4,9 @@ description = "Guía completa sobre Porqué no ozonizamos nuestra Agua de mar Re
 date = 2026-05-06
 author = "legar"
 aliases = ["/porque-no-ozonizamos-nuestra-agua-de-mar-rexmar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## **Primero**, porque el famoso René Quinton no lo hacía y   

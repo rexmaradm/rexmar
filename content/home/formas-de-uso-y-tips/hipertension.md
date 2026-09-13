@@ -4,6 +4,9 @@ description = "Guía completa sobre Hipertensión y AdM - RexMar Agua de Mar"
 date = 2026-06-29
 author = "legar"
 aliases = ["/hipertension"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 He investigado exhaustivamente sobre papers científicos que evalúen el tratamiento de la **hipertensión exclusivamente con agua de mar** como monoterapia.

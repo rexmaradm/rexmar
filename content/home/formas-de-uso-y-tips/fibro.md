@@ -3,6 +3,9 @@ title = "Fibromialgia y Agua de Mar"
 date = "2023-10-30"
 slug = "fibromialgia-agua-mar"
 aliases = ["/fibr"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La fibromialgia se caracteriza por dolor musculoesquelético generalizado, fatiga crónica, trastornos del sueño y sensibilización central. El agua de mar, por su densidad mineral y propiedades osmóticas, interviene en varios de estos mecanismos.

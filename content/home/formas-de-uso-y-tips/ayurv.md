@@ -4,6 +4,9 @@ date = "2023-11-17"
 slug = "ayurveda-agua-mar"
 aliases = ["ayur"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Breve Historia

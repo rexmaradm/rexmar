@@ -4,6 +4,9 @@ description = "Guía completa sobre Diabetes y Obesidad *** - RexMar Agua de Mar
 date = 2022-04-03
 author = "legar"
 aliases = ["/diabetes"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 El Agua de Mar es buena para la diabetes y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría general

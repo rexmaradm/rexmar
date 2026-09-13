@@ -4,6 +4,9 @@ description = "Guía completa sobre Asma y Adm - RexMar Agua de Mar"
 date = 2026-06-26
 author = "legar"
 aliases = ["/asma"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Situación actual de la investigación sobre asma y agua de mar

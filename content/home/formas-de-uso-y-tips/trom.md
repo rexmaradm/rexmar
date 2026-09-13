@@ -4,6 +4,9 @@ description = "Guía completa sobre Trompas de Falopio y AdM - RexMar Agua de Ma
 date = 2026-07-24
 author = "legar"
 aliases = ["/trom"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y las Trompas de Falopio: Evidencia Científica sobre Salud Tubárica y Fertilidad

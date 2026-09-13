@@ -4,6 +4,9 @@ description = "Guía completa sobre Artrosis y AdM - RexMar Agua de Mar"
 date = 2026-06-27
 author = "legar"
 aliases = ["/artrosis"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 La artrosis tiene una **base de evidencia científica sólida y específica** sobre el uso de agua de mar y sales marinas como tratamiento exclusivo.

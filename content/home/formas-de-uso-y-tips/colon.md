@@ -4,6 +4,9 @@ description = "Guía completa sobre Colon (Int. Grueso) y AdM - RexMar Agua de M
 date = 2026-07-08
 author = "legar"
 aliases = ["/colon"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Descubrí los estudios científicos sobre cómo el agua de mar profunda mejora la microbiota intestinal, inhibe el cáncer colorrectal, reduce la inflamación en colitis, y el papel del magnesio y calcio marinos en la salud del colon. Debajo de los testimonios, los papers científicos

@@ -4,6 +4,9 @@ description = "Guía completa sobre Animales y Agua de Mar - RexMar Agua de Mar"
 date = 2024-12-18
 author = "legar"
 aliases = ["/animales-y-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ### Testimonios recogidos por la Tta. Griselda Donatucci

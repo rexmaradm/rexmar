@@ -3,6 +3,9 @@ title = "Servicio de extracción mayorista de AdM para startups / tiendas naturi
 date = 2025-09-20
 author = "legar"
 aliases = ["/servicio-de-extraccion-mayorista-de-adm-para-startups"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 ### **Quiere iniciar una startup o tiene su tienda naturista? Puede vender su propia AdM**
 

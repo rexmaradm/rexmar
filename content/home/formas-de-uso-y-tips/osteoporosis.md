@@ -4,6 +4,9 @@ description = "Guía completa sobre Osteoporósis y AdM - RexMar Agua de Mar"
 date = 2026-06-30
 author = "legar"
 aliases = ["/osteoporosis"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 existe **evidencia científica sólida y prometedora**, principalmente en estudios preclínicos, sobre el uso de **agua de mar profunda (Deep Sea Water - DSW)** y **minerales marinos** para la osteoporosis. Debajo de los testimonios, los papers científicos.

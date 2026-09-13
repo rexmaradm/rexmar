@@ -4,6 +4,9 @@ description = "Guía completa sobre Alertas por oleaje anómalo - RexMar Agua de
 date = 2023-06-02
 author = "legar"
 aliases = ["/alertas-por-oleaje-anomalo"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Último comunicado Oficial de la Marina de Guerra:

@@ -4,6 +4,9 @@ description = "Guía completa sobre Côlon y Agua de Mar *** - RexMar Agua de Ma
 date = 2022-05-19
 author = "legar"
 aliases = ["/colon-y-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 El agua de mar es muy buena para el Côlon y muchas cosas más, ademas te alcalinizará el organismo lo que redundará en una mejoría general

@@ -4,6 +4,9 @@ description = "Guía completa sobre Desnutrición y AdM - RexMar Agua de Mar"
 date = 2026-06-29
 author = "legar"
 aliases = ["/desnutricion"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 La desnutrición requiere aporte de **calorías, proteínas y macronutrientes** que el agua de mar no contiene en cantidades significativas. Sin embargo, **SÍ existe evidencia científica sólida** sobre el uso del agua de mar como **complemento** en el tratamiento de la desnutrición, especialmente para corregir déficits de micronutrientes y minerales.

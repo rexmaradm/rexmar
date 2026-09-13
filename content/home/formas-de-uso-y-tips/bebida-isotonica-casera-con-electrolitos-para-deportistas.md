@@ -4,6 +4,9 @@ description = "Guía completa sobre Bebida Isotónica Casera con Electrolitos pa
 date = 2024-08-30
 author = "legar"
 aliases = ["/bebida-isotonica-casera-con-electrolitos-para-deportistas"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **¿Qué son las bebidas isotónicas y para qué sirven?**

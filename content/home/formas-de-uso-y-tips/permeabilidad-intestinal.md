@@ -4,6 +4,9 @@ description = "Permeabilidad intestinal y el AdM"
 date = 2025-02-27
 author = "legar"
 aliases = ["/permeabilidad-intestinal"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La permeabilidad intestinal ‘aumentada’ es un trastorno intestinal que permite la entrada de toxinas o microbios patógenos en el torrente sanguíneo, pudiendo provocar enfermedades. La permeabilidad intestinal se puede ver como un síntoma o como la causa de otras patologías.

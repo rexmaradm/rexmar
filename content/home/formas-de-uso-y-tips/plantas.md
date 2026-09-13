@@ -4,6 +4,9 @@ description = "Guía completa sobre Beneficios del  AdM en Peces, Plantas....y h
 date = 2026-08-20
 author = "legar"
 aliases = ["/plant"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 # Beneficios del  AdM en Peces, Plantas....y humanos no???

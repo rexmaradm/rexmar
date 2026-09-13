@@ -4,6 +4,9 @@ description = "Guía completa sobre Desintoxicación y AdM - RexMar Agua de Mar"
 date = 2026-07-15
 author = "legar"
 aliases = ["/detox"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Desintoxicación: Evidencia Científica y Mecanismos Celulares

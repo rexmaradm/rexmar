@@ -4,6 +4,9 @@ description = "Guía completa sobre Tráquea y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/traq"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y la Tráquea: Evidencia Científica sobre la Salud del Epitelio Respiratorio

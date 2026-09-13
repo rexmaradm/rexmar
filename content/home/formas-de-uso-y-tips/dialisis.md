@@ -4,6 +4,9 @@ description = "Guía completa sobre Diálisis y AdM - RexMar Agua de Mar"
 date = 2026-07-14
 author = "legar"
 aliases = ["/dialisis"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Diálisis: Perspectiva Científica y Testimonial

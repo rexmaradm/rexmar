@@ -4,6 +4,9 @@ date = "2023-11-19"
 slug = "medicina-germanica-agua-mar"
 aliases = ["/germa"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Breve Historia

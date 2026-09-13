@@ -4,6 +4,9 @@ description = "Guía completa sobre Isquemia Cerebral y secuelas (disartría etc
 date = 2026-07-18
 author = "legar"
 aliases = ["/isquemia"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica, Isquemia Cerebral y Recuperación Neurológica

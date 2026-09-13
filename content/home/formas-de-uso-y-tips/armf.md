@@ -4,6 +4,9 @@ description = "Guía completa sobre Aparato reproductor femenino y AdM - RexMar 
 date = 2026-07-22
 author = "legar"
 aliases = ["/armf"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y el Aparato Reproductor Femenino: Evidencia Científica sobre Fertilidad, Menopausia y Salud Hormonal

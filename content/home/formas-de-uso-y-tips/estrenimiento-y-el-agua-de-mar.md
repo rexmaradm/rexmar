@@ -4,6 +4,9 @@ description = "Guía completa sobre Estreñimiento y el agua de mar:*** - RexMar
 date = 2022-12-12
 author = "legar"
 aliases = ["/estrenimiento-y-el-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 El agua de mar (AdM) es muy buena contra el Estreñimiento y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría en general.

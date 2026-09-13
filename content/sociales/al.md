@@ -3,6 +3,9 @@ title = "Conversión de libros en PDF a audiiolibros"
 date = 2026-08-23
 author = "legar"
 aliases = ["/al"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 # Conversión de libros en PDF a audiolibros

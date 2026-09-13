@@ -4,6 +4,9 @@ description = "Guía completa sobre Esclerosis múltiple y agua de mar - RexMar 
 date = 2026-06-13
 author = "legar"
 aliases = ["/em"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar y Esclerosis Múltiple: Lo que Dice la Ciencia

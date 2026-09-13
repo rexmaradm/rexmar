@@ -4,6 +4,9 @@ description = "Guía completa sobre Conductos deferentes y AdM - RexMar Agua de 
 date = 2026-07-24
 author = "legar"
 aliases = ["/cond"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y los Conductos Deferentes: Evidencia Científica sobre Transporte Espermático y Músculo Liso

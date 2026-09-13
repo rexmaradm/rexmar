@@ -4,6 +4,9 @@ description = "Guía completa sobre Deporte  y Agua de Mar RexMar - RexMar Agua 
 date = 2023-12-21
 author = "legar"
 aliases = ["/deporte-y-agua-de-mar-rexmar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **Beneficios del agua de mar para deportistas:**

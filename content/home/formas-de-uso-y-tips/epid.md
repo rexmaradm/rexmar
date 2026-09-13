@@ -4,6 +4,9 @@ description = "Guía completa sobre Epidídimo y AdM - RexMar Agua de Mar"
 date = 2026-07-24
 author = "legar"
 aliases = ["/epid"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y el Epidídimo: Evidencia Científica sobre Maduración Espermática y Salud Reproductiva

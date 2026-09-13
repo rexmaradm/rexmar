@@ -4,6 +4,9 @@ description = "Guía completa sobre Alzheimer y Agua de Mar *** - RexMar Agua de
 date = 2022-07-22
 author = "legar"
 aliases = ["/alzheimer-y-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 <div class="wp-block-embed__wrapper"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/4Fkri0Yvg_k" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Papers Científicos

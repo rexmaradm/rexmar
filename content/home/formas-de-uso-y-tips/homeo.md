@@ -4,6 +4,9 @@ date = "2023-11-18"
 slug = "homeopatia-agua-mar"
 aliases = ["/homeo"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Breve Historia

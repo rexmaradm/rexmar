@@ -3,6 +3,9 @@ title = "Instalá Linux olvidá Window$"
 date = 2026-01-31
 author = "legar"
 aliases = ["/instala-linux"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 ![](/wp-content/uploads/2026/01/PinguinoWin2.png)## Te cansaste de las actualizaciones con fallos, de la pantalla azul, de reiniciar cada vez que se cuelga, de tener que estar pendiente de los virus, de que te pida hardware más moderno -si el tuyo anda perfecto-, de......., de......... **Pasáte a Linux**   
 

@@ -2,6 +2,9 @@
 title = "Bajar Informe"
 date = "2024-01-01"
 aliases = ["/bajarinf"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 # Bajar Informe

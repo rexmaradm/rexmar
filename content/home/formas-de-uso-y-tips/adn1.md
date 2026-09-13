@@ -4,6 +4,9 @@ date = "2023-11-13"
 slug = "adn-agua-mar"
 aliases = ["/adn"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 El agua de mar no solo es el entorno evolutivo donde surgió la vida, sino que su composición iónica es fundamental para la estabilidad, preservación y estudio molecular del ADN.

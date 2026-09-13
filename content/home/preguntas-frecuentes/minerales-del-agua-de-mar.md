@@ -3,6 +3,9 @@ title = "Minerales del Agua de Mar"
 date = 2023-06-11
 author = "legar"
 aliases = ["/minerales-del-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 El agua de mar es salada por la concentración de sales minerales disueltas que contiene, un 3.5 %; es decir, en cada litro de agua (1000 gramos) hay 35 gramos de sales disueltas como media. La composición química del agua de mar incluye compuestos químicos como el cloro, sodio, magnesio, calcio, potasio, bromo, estroncio, boro y flúor principalmente. También contiene oligoelementos en concentraciones infinitesimales como hierro, manganeso, cobre, iodo, silicio, fósforo, entre otros. Además, el agua de mar contiene zooplacton y fitoplacton. La sal proveniente del agua de mar tiene más de 80 de los 118 elementos de la tabla periódica, lo que la convierte en un excelente recurso mineral para el funcionamiento del cuerpo
 

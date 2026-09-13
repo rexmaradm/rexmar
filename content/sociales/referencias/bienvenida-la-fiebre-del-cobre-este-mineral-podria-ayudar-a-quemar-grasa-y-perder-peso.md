@@ -3,6 +3,9 @@ title = "Bienvenida la fiebre del cobre: este mineral podría ayudar a quemar gr
 date = 2022-10-16
 author = "legar"
 aliases = ["/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-a-quemar-grasa-y-perder-peso"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 [](https://www.telemundo.com/shows/un-nuevo-dia/salud/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-quemar-grasa-y-perder-peso-tmna1092746)
 

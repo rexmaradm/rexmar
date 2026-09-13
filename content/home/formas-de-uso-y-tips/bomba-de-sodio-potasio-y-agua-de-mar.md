@@ -4,6 +4,9 @@ description = "Guía completa sobre Bomba de sodio potasio y agua de mar - RexMa
 date = 2025-01-05
 author = "legar"
 aliases = ["/bomba-de-sodio-potasio-y-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 **Explicación simple:**   

@@ -4,6 +4,9 @@ date = "2023-11-16"
 slug = "sistema-pischinger-agua-mar"
 aliases = ["/pisch"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Breve Historia

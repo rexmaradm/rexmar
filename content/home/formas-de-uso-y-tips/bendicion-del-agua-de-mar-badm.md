@@ -4,6 +4,9 @@ description = "Guía completa sobre Bendición del Agua de Mar (BAdM) - RexMar A
 date = 2025-08-01
 author = "legar"
 aliases = ["/bendicion-del-agua-de-mar-badm"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Escuchar ésta página: [Click aqui](https://ody.sh/GmDHUnNSFA)

@@ -4,6 +4,9 @@ description = "Guía completa sobre Animales y Adm - RexMar Agua de Mar"
 date = 2026-07-02
 author = "legar"
 aliases = ["/animales"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **La mayoría de los animales terrestres NO deben beber agua de mar pura directamente** porque puede causar deshidratación y toxicidad por sal. Sin embargo, encontré aplicaciones terapéuticas fascinantes para múltiples especies:

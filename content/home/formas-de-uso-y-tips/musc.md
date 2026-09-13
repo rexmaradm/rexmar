@@ -4,6 +4,9 @@ description = "Guía completa sobre Músculos y AdM - RexMar Agua de Mar"
 date = 2026-07-24
 author = "legar"
 aliases = ["/musc"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y los Músculos: Evidencia Científica sobre Recuperación, Rendimiento y Prevención de Calambres

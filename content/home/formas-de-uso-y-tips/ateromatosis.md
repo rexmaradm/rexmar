@@ -3,6 +3,9 @@ title = "Ateromatosis y AdM"
 description = "Guía completa sobre Ateromatosis y AdM - RexMar Agua de Mar"
 date = "2024-01-01"
 aliases = ["/ater"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 # Ateromatosis y AdM

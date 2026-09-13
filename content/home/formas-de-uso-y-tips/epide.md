@@ -4,6 +4,9 @@ date = "2023-11-03"
 slug = "epidermolisis-ampollar-agua-mar"
 aliases = ["/epide"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La epidermólisis ampollar simple (EAS) es un trastorno caracterizado por la fragilidad epidérmica y la formación de ampollas ante mínimos traumatismos, debido a defectos en las queratinas. El agua de mar, por su perfil de oligoelementos y propiedades osmóticas, acelera la reparación de la barrera cutánea y previene complicaciones.

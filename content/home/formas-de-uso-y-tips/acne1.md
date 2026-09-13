@@ -4,6 +4,9 @@ date = "2023-11-01"
 slug = "acne-agua-mar"
 author = "legar"
 aliases = ["/acne"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 El acné es una enfermedad inflamatoria crónica de la unidad pilosebácea. El agua de mar actúa sobre sus principales factores etiopatogénicos: hiperqueratinización, proliferación de *Cutibacterium acnes*, inflamación y sobreproducción de sebo.

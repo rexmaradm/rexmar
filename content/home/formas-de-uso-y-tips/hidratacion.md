@@ -4,6 +4,9 @@ description = "Guía completa sobre Hidratación y AdM - RexMar Agua de Mar"
 date = 2026-07-04
 author = "legar"
 aliases = ["/hidratacion"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 <div class="qwen-markdown-hr">---

@@ -4,6 +4,9 @@ description = "Guía completa sobre Al tiempo le salieron unas algas la puedo se
 date = 2025-02-06
 author = "legar"
 aliases = ["/algas"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 <audio controls="" src="/wp-content/uploads/2025/11/nuevaExplicacionAlgas_PP.mp3"></audio>### Resúmen: 

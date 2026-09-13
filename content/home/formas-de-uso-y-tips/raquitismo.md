@@ -4,6 +4,9 @@ description = "Guía completa sobre Raquitismo y AdM - RexMar Agua de Mar"
 date = 2026-07-04
 author = "legar"
 aliases = ["/raquitismo"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Descubrí la fascinante historia del uso del agua de mar (Plasma de Quinton) para tratar el raquitismo infantil, la ciencia detrás de los minerales marinos y la salud ósea, y qué dice la investigación moderna. Debajo de los testimonios, los papers científicos. <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/qM6D3rlaZGE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div> <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/zDDm1oWuTvE" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>

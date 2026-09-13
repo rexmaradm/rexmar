@@ -4,6 +4,9 @@ description = "Guía completa sobre Articulaciones y AdM - RexMar Agua de Mar"
 date = 2026-07-24
 author = "legar"
 aliases = ["/arti"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y las Articulaciones: Evidencia Científica sobre Salud del Cartílago y Movilidad

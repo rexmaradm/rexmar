@@ -4,6 +4,9 @@ description = "Guía completa sobre La Trømbøsis y el Agua de Mar - RexMar Agu
 date = 2023-06-19
 author = "legar"
 aliases = ["/la-trombosis-y-el-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 El consumo de materia orgánica disuelta en agua de mar profundo mejora la hiperlipidemia e inhibe la formación de trømbøs y la inflamación vascular en hámsters con dieta alta en grasas

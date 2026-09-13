@@ -4,6 +4,9 @@ description = "Guía completa sobre Glándulas salivales y AdM - RexMar Agua de 
 date = 2026-07-23
 author = "legar"
 aliases = ["/sali"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y las Glándulas Salivales: Evidencia Científica sobre la Producción de Saliva y la Hidratación Oral

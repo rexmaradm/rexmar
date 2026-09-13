@@ -4,6 +4,9 @@ description = "Guía completa sobre Laringe y AdM - RexMar Agua de Mar"
 date = 2026-07-23
 author = "legar"
 aliases = ["/lari"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y la Laringe: Evidencia Científica sobre Salud Vocal y Mucosa Laríngea

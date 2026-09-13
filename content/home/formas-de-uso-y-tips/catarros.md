@@ -4,6 +4,9 @@ description = "Guía completa sobre Catarros (resfrío común) y AdM - RexMar Ag
 date = 2026-06-27
 author = "legar"
 aliases = ["/catarros"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 El **catarro** (resfriado común o infección viral del tracto respiratorio superior) es un área donde **SÍ existe sólida evidencia científica** sobre el uso exclusivo de agua de mar como tratamiento efectivo.

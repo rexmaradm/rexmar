@@ -4,6 +4,9 @@ description = "Guía completa sobre Piel AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/piel"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y la Piel: Evidencia Científica sobre Hidratación, Regeneración y Salud Cutánea

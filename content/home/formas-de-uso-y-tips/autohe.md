@@ -4,6 +4,9 @@ description = "Autohemoterapia y AdM isotónica RexMar"
 date = 2026-09-07
 author = "legar"
 aliases = ["/autoh"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 

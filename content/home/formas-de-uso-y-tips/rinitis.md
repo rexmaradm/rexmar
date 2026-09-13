@@ -4,6 +4,9 @@ description = "Guía completa sobre Rinitis y AdM - RexMar Agua de Mar"
 date = 2026-06-26
 author = "legar"
 aliases = ["/rinitis"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **existe sólida evidencia científica** sobre el uso exclusivo de agua de mar como monoterapia o tratamiento complementario. A diferencia de la sinusitis que afecta los senos paranasales, la rinitis se centra en la mucosa nasal, y el agua de mar ha demostrado ser particularmente efectiva.

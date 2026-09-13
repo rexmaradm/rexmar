@@ -4,6 +4,9 @@ description = "Guía completa sobre Corazón, ataques cardíacos y AdM - RexMar 
 date = 2026-07-19
 author = "legar"
 aliases = ["/coraz"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Salud Cardiovascular: Evidencia Científica y Protección del Corazón

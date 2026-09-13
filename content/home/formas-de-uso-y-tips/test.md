@@ -4,6 +4,9 @@ description = "Guía completa sobre Testículos y AdM - RexMar Agua de Mar"
 date = 2026-07-24
 author = "legar"
 aliases = ["/test"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y los Testículos: Evidencia Científica sobre Salud Testicular, Espermatogénesis y Equilibrio Hormonal

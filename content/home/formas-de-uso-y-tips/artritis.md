@@ -4,6 +4,9 @@ description = "Guía completa sobre Artritis y AdM - RexMar Agua de Mar"
 date = 2026-06-27
 author = "legar"
 aliases = ["/artritis"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **Existen estudios científicos relevantes** sobre balneoterapia (baños terapéuticos) con agua de mar, sales del Mar Muerto o soluciones salinas marinas.

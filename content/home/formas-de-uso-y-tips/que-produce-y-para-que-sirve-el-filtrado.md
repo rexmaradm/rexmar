@@ -4,6 +4,9 @@ description = "Guía completa sobre Qué produce y para qué sirve el filtrado? 
 date = 2025-06-01
 author = "legar"
 aliases = ["/que-produce-y-para-que-sirve-el-filtrado"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ### es necesario?

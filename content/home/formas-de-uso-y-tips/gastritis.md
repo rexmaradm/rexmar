@@ -4,6 +4,9 @@ description = "Guía completa sobre Gastritis *** - RexMar Agua de Mar"
 date = 2022-05-08
 author = "legar"
 aliases = ["/gastritis"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 El agua de mar es muy buena para la Gastritis, el reflujo, la acidez, la hernia de hiato, ulceras, colitis, hígado graso, hemorroides y muchas cosas más, además te alcalinizará el organismo lo que redundará en una mejoría en general.

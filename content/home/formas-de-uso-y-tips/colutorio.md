@@ -4,6 +4,9 @@ description = "Guía completa sobre Colutorio y AdM - RexMar Agua de Mar"
 date = 2026-07-05
 author = "legar"
 aliases = ["/colutorio"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 - <span class="qwen-markdown-text">Descubrí los estudios científicos que comparan el agua de mar con la clorhexidina, cómo los minerales marinos protegen encías y dientes, y el protocolo completo para usar agua de mar como colutorio natural. Debajo de los testimonios, la expliación y los papers científicos </span>

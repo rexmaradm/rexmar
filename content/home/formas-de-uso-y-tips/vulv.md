@@ -4,6 +4,9 @@ description = "Guía completa sobre Vulva y AdM - RexMar Agua de Mar"
 date = 2026-07-24
 author = "legar"
 aliases = ["/vulv"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y la Vulva: Evidencia Científica sobre Salud Mucosa, Microbioma y Regeneración

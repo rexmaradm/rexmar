@@ -3,6 +3,9 @@ title = "Cocinar con agua de mar RexMar"
 date = 2025-03-03
 author = "legar"
 aliases = ["/cocinar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 ### **Técnicas alternativas para cocinar con agua de mar**
 

@@ -3,6 +3,9 @@ title = "Chucrut Artesanal RexMar  Jugo de col fermentada (chucrut, sauerkraut) 
 date = 2024-09-26
 author = "legar"
 aliases = ["/chucru"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La Col Fermentada: Un Elixir de Salud para el Intestino y Más Allá

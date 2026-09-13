@@ -4,6 +4,9 @@ description = "Guía completa sobre Cáncer y AdM - RexMar Agua de Mar"
 date = 2026-07-21
 author = "legar"
 aliases = ["/canc"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Cáncer: Evidencia Científica sobre Modulación Celular e Inmunológica

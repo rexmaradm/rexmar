@@ -4,6 +4,9 @@ description = "Guía completa sobre Estómago y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/esto"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y el Estómago: Evidencia Científica sobre la Protección de la Mucosa Gástrica

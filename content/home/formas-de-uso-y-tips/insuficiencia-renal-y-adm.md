@@ -4,6 +4,9 @@ description = "Guía completa sobre Insuficiencia renal y AdM - RexMar Agua de M
 date = 2026-02-02
 author = "legar"
 aliases = ["/insuficiencia-renal-y-adm"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 nos explica la dra. Teresa Ilari

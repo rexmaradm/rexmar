@@ -4,6 +4,9 @@ description = "Guía completa sobre Insomnio y AdM - RexMar Agua de Mar"
 date = 2026-06-28
 author = "legar"
 aliases = ["/insomnio"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 El insomnio es un trastorno del sueño complejo con múltiples causas (psicológicas, fisiológicas, ambientales) que requiere intervenciones específicas.

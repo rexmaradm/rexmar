@@ -4,6 +4,9 @@ description = "Guía completa sobre Propiedades anti-canc€rígenas del fitopla
 date = 2026-06-09
 author = "legar"
 aliases = ["/fito"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ##   

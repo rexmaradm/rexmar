@@ -4,6 +4,9 @@ date = "2023-11-20"
 slug = "medicina-ortomolecular-agua-mar"
 aliases = ["/ortom"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## Breve Historia

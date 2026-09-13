@@ -4,6 +4,9 @@ date = "2023-11-14"
 slug = "electrolitos-agua-mar"
 aliases = ["/elect"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 El agua de mar es una solución compleja de electrolitos esenciales (sodio, potasio, magnesio, calcio, cloruro) en proporciones similares al plasma sanguíneo humano. Su uso optimiza la homeostasis celular y la hidratación sistémica.

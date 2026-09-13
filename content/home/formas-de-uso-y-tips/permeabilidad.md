@@ -3,6 +3,9 @@ title = "Permeabilidad intestinal y AdM"
 description = "Guía completa sobre Permeabilidad intestinal y AdM - RexMar Agua de Mar"
 date = "2024-01-01"
 aliases = ["/perm"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 

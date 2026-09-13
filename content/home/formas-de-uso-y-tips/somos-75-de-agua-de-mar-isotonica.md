@@ -4,6 +4,9 @@ description = "Guía completa sobre Somos 75% de Agua de Mar isotónica - RexMar
 date = 2023-12-13
 author = "legar"
 aliases = ["/somos-75-de-agua-de-mar-isotonica"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **Somos el 75% de agua de mar isotónica: la importancia de recuperar los minerales con RexMar Agua de Mar**

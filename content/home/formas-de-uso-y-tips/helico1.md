@@ -4,6 +4,9 @@ date = "2023-11-02"
 slug = "helicobacter-pylori-agua-mar"
 aliases = ["/helip"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La infección por *Helicobacter pylori* provoca gastritis y úlceras pépticas. Los componentes minerales del agua de mar, especialmente en su dilución isotónica, ejercen efectos cicatrizantes, osmóticos y moduladores sobre la mucosa gástrica.

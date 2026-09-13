@@ -4,6 +4,9 @@ date = "2023-11-11"
 slug = "creatinina-agua-mar"
 aliases = ["/crea"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La elevación de la creatinina sérica indica una reducción en la tasa de filtración glomerular. El agua de mar, aplicada mediante talasoterapia o en su forma isotónica, aporta minerales que ejercen efectos nefroprotectores, mejorando la hemodinámica renal y reduciendo el estrés oxidativo tubular.

@@ -4,6 +4,9 @@ description = "Guía completa sobre Memoria del agua ....y del Agua de Mar no? -
 date = 2026-08-21
 author = "legar"
 aliases = ["/memo"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 ## El agua tiene memoria, comprobado ahora,....y el agua de mar....no ? o tiene aún más ?!?!?!

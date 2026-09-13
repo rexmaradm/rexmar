@@ -4,6 +4,9 @@ description = "Guía completa sobre Déficit mineral y AdM - RexMar Agua de Mar"
 date = 2026-06-29
 author = "legar"
 aliases = ["/deficit-mineral"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **Existe evidencia científica sólida** sobre el uso de agua de mar, agua de mar profunda (Deep Sea Water - DSW) y derivados marinos como suplementos minerales. El agua de mar contiene más de 78 minerales y oligoelementos en forma iónica biodisponible

@@ -4,6 +4,9 @@ description = "Guía completa sobre Disfunción eréctil y AdM - RexMar Agua de 
 date = 2026-07-15
 author = "legar"
 aliases = ["/de"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y Salud Vascular: La Base Científica de la Función Eréctil

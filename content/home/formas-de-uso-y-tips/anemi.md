@@ -4,6 +4,9 @@ date = "2023-11-04"
 slug = "anemia-agua-mar"
 aliases = ["/anem"]
 author = "legar"
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 La anemia, frecuentemente causada por deficiencia de hierro o alteraciones en la eritropoyesis, encuentra en el agua de mar un coadyuvante mineral. Su perfil isotónico aporta oligoelementos esenciales para la síntesis de hemoglobina y la maduración de los eritrocitos.

@@ -3,6 +3,9 @@ title = "Glaucoma y Agua de Mar"
 date = "2023-10-31"
 slug = "glaucoma-agua-mar"
 aliases = ["/glau"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 El glaucoma es una neuropatía óptica progresiva vinculada a la presión intraocular (PIO) y al estrés oxidativo. Los componentes del agua de mar, especialmente a través de la absorción sistémica y la talasoterapia, ofrecen mecanismos neuroprotectores y vasorreguladores.

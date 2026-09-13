@@ -20,6 +20,9 @@ videos = [
     { platform = "youtube", id = "3YE-9VuH_b4", title = "Mi auto-vacuna casera" },
     { platform = "youtube", id = "EQ9iEhNDiFs", title = "AdM intravenosa para alcalinizarnos" },
 ]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 1. **El Plasma de Quinton**: agua de mar microfiltrada y diluida que SÍ se puede inyectar (isotónica)

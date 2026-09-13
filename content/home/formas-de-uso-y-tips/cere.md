@@ -4,6 +4,9 @@ description = "Guía completa sobre Cerebro y AdM - RexMar Agua de Mar"
 date = 2026-07-23
 author = "legar"
 aliases = ["/cere"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica e Hipertónica y el Cerebro: Evidencia Científica sobre Neuroprotección y Función Cognitiva

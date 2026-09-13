@@ -4,6 +4,9 @@ description = "Guía completa sobre Anemia y Agua de mar *** - RexMar Agua de Ma
 date = 2022-11-21
 author = "legar"
 aliases = ["/anemia-y-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 </div><div class="content"><div class="index,es"><span style="font-size: large;">**Valoración terapéutica del agua de mar en modelos experimentales como terapia complementaria en anemia**</span>*María Di Bernardo<sup>1</sup> Aribert Castro<sup>2</sup> Yasmin Morales<sup>3</sup> Sonia Boueiri<sup>4</sup> Sulay Brito<sup>5</sup> Carlos Rondón<sup>6</sup> Rosa Ortiz<sup>7</sup> Nathaly Hernández<sup>8</sup>*

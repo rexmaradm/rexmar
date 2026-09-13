@@ -4,6 +4,9 @@ description = "Guía completa sobre Reconecta con tu «Mar Interior»: Cómo el 
 date = 2026-06-10
 author = "legar"
 aliases = ["/snc"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 #  

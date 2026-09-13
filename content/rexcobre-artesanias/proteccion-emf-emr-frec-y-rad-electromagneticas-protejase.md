@@ -4,6 +4,9 @@ date = 2022-10-24
 author = "legar"
 aliases = ["/proteccion-emf-emr-frec-y-rad-electromagneticas-protejase"]
 excerpt = "Colgante Cuántico Protección EMF EMR Frec. y Rad. ElectroMagneticas. "
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 Colgante Cuántico de Cristal de Cuarzo y Alambre de cobre. Protección contra Frecuencias y Radiaciones Electro Magnéticas EMF EMR, muy útil para personas hipersensibles a las mismas.

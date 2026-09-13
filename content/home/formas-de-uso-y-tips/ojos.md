@@ -4,6 +4,9 @@ description = "Guía completa sobre Ojos y AdM - RexMar Agua de Mar"
 date = 2026-06-30
 author = "legar"
 aliases = ["/ojos"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Existen varios ensayos clínicos y estudios científicos que demuestran los beneficios del **agua de mar** (específicamente en soluciones oftálmicas estériles) para tratar afecciones como el ojo seco, la conjuntivitis alérgica y la inflamación de la superficie ocular. Debajo de los testimonios, los papers cientificos

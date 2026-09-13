@@ -2,6 +2,9 @@
 title = "Calculadora de Isotonización con Agua de Mar"
 description = "Calculá los mL de Agua de Mar hipertónica necesarios para isotonizar según el volumen de tu recipiente. Por RexMar Agua de Mar Perú."
 date = 2026-08-18
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 <h2 style="text-align:center;">Ingrese el volumen de su taza / jarro / jarra en mL</h2>

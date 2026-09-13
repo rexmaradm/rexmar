@@ -4,6 +4,9 @@ description = "Guía completa sobre Bazo (órgano) y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/bazo"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y el Bazo: Evidencia Científica sobre el Sistema Reticuloendotelial

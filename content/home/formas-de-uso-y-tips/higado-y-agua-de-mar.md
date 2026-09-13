@@ -4,6 +4,9 @@ description = "Guía completa sobre El Hígado y el agua de mar - RexMar Agua de
 date = 2023-06-17
 author = "legar"
 aliases = ["/higado-y-agua-de-mar"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 Un estudio entre cientos otros, demostró que el agua de mar inhibe la acumulación de lípidos hepáticos a través de la supresión de enzimas lipogénicas reguladas por SREBP

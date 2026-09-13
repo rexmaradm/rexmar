@@ -4,6 +4,9 @@ description = "Guía completa sobre Propiedades inmunomoduladoras del AdM - RexM
 date = 2025-01-07
 author = "legar"
 aliases = ["/propiedades-inmunomoduladoras-del-adm"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 **Las propiedades inmunomoduladoras del agua de mar**

@@ -4,6 +4,9 @@ description = "Guía completa sobre Timo (órgano y AdM - RexMar Agua de Mar"
 date = 2026-07-22
 author = "legar"
 aliases = ["/timo"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
  
 ## Agua de Mar Isotónica y el Timo: Evidencia Científica sobre la Inmunidad Celular y los Linfocitos T

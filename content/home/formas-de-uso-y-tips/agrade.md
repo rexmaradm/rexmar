@@ -4,6 +4,9 @@ description = " Cómo agradecer por los servicios de RexMar si no consume nuestr
 date = "2026-09-12"
 author = "legar"
 aliases = ["/agradecer"]
+
+[taxonomies]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 <a href="http://link.mercadopago.com.pe/rexmaradm">a través de MercadoPago (todas las tarjetas, única vez)</a><br>
