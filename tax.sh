@@ -66,7 +66,7 @@ while IFS= read -r -d '' file; do
   echo "➕ Agregado en: $file"
   ((count_added++)) || true
 
-done < <(find "$DIR" -type f -name '*.md' -print0)
+done < <(find "$DIR" -type f -name '*.md' ! -name '_index.md' -print0)
 
 echo
 echo "Resumen: $count_added archivos modificados, $count_skipped omitidos."
