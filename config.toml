@@ -4,16 +4,12 @@ default_language = "es"
 
 compile_sass = true
 generate_feeds = true
+generate_sitemap = true
 build_search_index = true
 
-# taxonomies = [
-#    { name = "tags", feed = false, render = false  },
-#    { name = "categories", feed = false, render = false  },
-# ]
-
 taxonomies = [
-  { name = "tags", feed = true },
-  { name = "categories", feed = true },
+   { name = "tags", feed = false, render = false  },
+   { name = "categories", feed = false, render = false  },
 ]
 
 # ¡ESTA ES LA CLAVE! Le dice a Zola que use el formato compatible con Fuse.js
