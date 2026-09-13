@@ -1,2 +1,4 @@
 /.well-known/security.txt
   Cache-Control: no-cache, no-store, must-revalidate
+/.well-known/security-v2.txt
+  Cache-Control: no-cache, no-store, must-revalidate

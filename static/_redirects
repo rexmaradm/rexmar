@@ -429,3 +429,4 @@
 /wp / 301
 /wp/ / 301
 /wp/* / 301
+/.well-known/security.txt  /.well-known/security-v2.txt  200
