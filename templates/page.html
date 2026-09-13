@@ -32,3 +32,8 @@
 {% endif %}
 
 {% endblock content %}
+
+<!-- En tu plantilla base (ej. templates/page.html) -->
+{% if page.taxonomies.tags %}
+  <meta name="keywords" content="{{ page.taxonomies.tags | join(sep=", ") }}">
+{% endif %}

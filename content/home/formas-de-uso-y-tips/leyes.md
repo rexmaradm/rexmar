@@ -5,7 +5,7 @@ author = ["legar"]
 aliases = ["/leye"]
 
 [taxonomies]
-tags = ["biología", "salud", "ciencia"]
+tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
 # Las Leyes de Quinton

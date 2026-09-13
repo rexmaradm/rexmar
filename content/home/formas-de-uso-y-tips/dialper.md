@@ -28,6 +28,10 @@ aliases = ["/dialp"]
 
 <iframe width="975" height="548" src="https://www.youtube.com/embed/YTubV9NLAg0" title="Diálisis Percutanea, Baño de Asiento y Soportes en &quot;T&quot; | Dr. Francisco Rodriguez | Dallas, Tx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Diálisis percutanea de los piés 
+
+<iframe width="975" height="548" src="https://www.youtube.com/embed/NOuTbwcKR84" title="Diálisis percutanea de los pies parte 15" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Referencias Científicas
 
 1. **Absorción transdérmica de magnesio:**
