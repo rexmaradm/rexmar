@@ -92,3 +92,9 @@ En los peces, el fluoruro se acumula en los tejidos calcificados, como los otoli
 - <a href="https://pubmed.ncbi.nlm.nih.gov/19884722/" target="_blank" rel="noopener noreferrer">Dhar V, Bhatnagar M. Physiology and toxicity of fluoride. Indian Journal of Dental Research. 2009;20(3):350-355.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/24152541/" target="_blank" rel="noopener noreferrer">De Souza FP, Sen Gupta R. On Fluoride, Bromide and Iodide in the Southwestern Indian Ocean Sector of the Southern Ocean. Indian Journal of Marine Sciences. 1982.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/24698667/" target="_blank" rel="noopener noreferrer">Fluoride increases tyrosine kinase activity in osteoblast-like cells: Regulatory role for the stimulation of cell proliferation and Pi transport across the plasma membrane. Journal of Bone and Mineral Research.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

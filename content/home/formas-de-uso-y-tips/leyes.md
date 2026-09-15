@@ -71,3 +71,9 @@ Aunque la terapia inyectable fue perdiendo popularidad con el avance de la farma
 - **Análisis moderno**: [Mahé, A. *El Plasma de Quinton: El agua de mar, nuestro medio interno*.](https://books.google.com.sg/books/about/El_Plasma_de_Quinton.html?id=AmAaCLsnN-IC)
 - **Estudio histórico**: [San José Rodríguez, M. (2013). "René Quinton: centenario de *L'eau de mer, milieu organique*".](https://dialnet.unirioja.es/servlet/articulo?codigo=4384632) *Boletín de la Sociedad Española de Hidrología Médica*.
 - **Evidencia química**: [Stevens, F. A. (1938). "Isotonic Sea Water".](https://pmc.ncbi.nlm.nih.gov/articles/instance/8738647/pdf/buffmedj137899-0011.pdf) *Buffalo Medical Journal*.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

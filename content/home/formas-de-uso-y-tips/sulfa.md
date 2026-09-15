@@ -87,3 +87,9 @@ El intestino de los peces absorbe activamente sulfato, calcio y magnesio tras la
 - <a href="https://journals.asm.org/doi/10.1128/AEM.01354-20" target="_blank" rel="noopener noreferrer">Dietary Supplementation with Sodium Sulfate Improves Rumen Fermentation, Fiber Digestibility, and the Plasma Metabolome. Applied and Environmental Microbiology. 2020;86(18):e01354-20.</a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1095643301003266" target="_blank" rel="noopener noreferrer">Sulfate transport mechanisms in epithelial systems. Comparative Biochemistry and Physiology Part A. 2001;130(2):249-259.</a>
 - <a href="https://doi.org/10.1152/ajpregu.00084.2004" target="_blank" rel="noopener noreferrer">Renal sulfate regulation in vertebrates. American Journal of Physiology. 2004;287(3):R505-R512.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

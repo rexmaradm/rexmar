@@ -118,3 +118,9 @@ Este sistema tiene límites. Cuando la carga contaminante supera la capacidad de
 - **Producción de biosurfactantes para remediación marina**: [Ostendorf et al. (2019) - Production and formulation of a new low-cost biosurfactant to remediate oil-contaminated seawater](https://pesquisa.bvsalud.org/economia/resource/pt/mdl-30871886)
 - **Emisarios submarinos y capacidad de autodepuración**: [GEAMA - Vertido de efluentes a través de emisarios submarinos](http://www.geama.org/sanitaria/index.php?o=downloads&i=212)
 - **Control biológico de la calidad del agua**: [Ostroumov, S.A. (2010) - Biocontrol of water quality: Multifunctional role of biota in water self-purification](https://www.socolar.com/Article/Index?aid=100021864541&jid=100000012068)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

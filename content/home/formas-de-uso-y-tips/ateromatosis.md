@@ -41,3 +41,9 @@ Wu, C. C., et al. (2022). Deep Sea Water-Dissolved Organic Matter Intake Improve
 Chun, S. Y., et al. (2017). Refined Deep-Sea Water Suppresses Inflammatory Responses via the MAPK/AP-1 and NF-κB Signaling Pathway in Vascular Cells. 🔗 Leer en PubMed Central (PMC5713252)
 Katsuda, S. I., et al. (2 a 008). Deep-sea water improves cardiovascular hemodynamics and prevents atherosclerosis progression. Biological and Pharmaceutical Bulletin. 🔗 Leer en J-Stage
 Quinton Medical. Marine Therapy: Cardiovascular health, endothelial function and mineral balance. 🔗 quintonmedical.com
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

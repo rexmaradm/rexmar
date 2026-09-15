@@ -37,3 +37,9 @@ En la práctica naturópata, el agua de mar (tanto en consumo isotónico/hipert�
 3. **Minerales marinos, desintoxicación y función emuntoria:**
    *Estudio sobre el impacto de los oligoelementos y el equilibrio osmótico en la estimulación de las vías de eliminación de toxinas y la restauración del medio interno.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/28357254/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

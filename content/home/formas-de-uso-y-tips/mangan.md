@@ -97,3 +97,9 @@ El manganeso participa en la función neuromuscular a través de su papel en la 
 - <a href="https://www.osti.gov/biblio/4166128" target="_blank" rel="noopener noreferrer">Loveridge BA, Milner GWC, Barnett GA, Thomas AM. The Determination of Copper, Chromium, Lead and Manganese in Sea Water. AERE-R-3323, UK Atomic Energy Authority. 1960.</a>
 - <a href="https://lpi.oregonstate.edu/mic/minerals/manganese" target="_blank" rel="noopener noreferrer">Linus Pauling Institute. Manganese. Oregon State University.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/22341972/" target="_blank" rel="noopener noreferrer">Tuschl K, Clayton PT, Gospe SM Jr, et al. Syndrome of hepatic cirrhosis, dystonia, polycythemia, and hypermanganesemia caused by mutations in SLC30A10, a manganese transporter in man. American Journal of Human Genetics. 2012;90(3):457-466.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

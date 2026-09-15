@@ -40,3 +40,9 @@ El estrés oxidativo y la inflamación crónica son enemigos silenciosos de la f
 - Aragón-Vela, J., et al. (2024). *The Effects of Acute Deep Seawater Supplementation on Blood Flow and Exercise Recovery in Men*. [🔗 Leer en MDPI Journal of Clinical Medicine](https://www.mdpi.com/2077-0383/13/8/2258)
 - Găman, M. A., et al. (2021). *Crosstalk of Magnesium and Serum Lipids in Dyslipidemia and the Impact of Hypomagnesemia on Erectile Dysfunction*. Nutrients. [🔗 Leer en PubMed Central (PMC8146023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8146023/)
 - Kim, H. J., et al. (2019). *Anti-platelet activity of mineral-balanced deep sea water and its role in minimizing cardiovascular disease risk*. International Journal of Molecular Medicine. [🔗 Leer en OpenAIRE](https://explore.openaire.eu/search/publication?pid=10.3892%2Fijmm.2019.4424)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

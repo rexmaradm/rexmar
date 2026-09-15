@@ -45,3 +45,9 @@ La salud de la piel comienza desde el medio interno. Beber agua de mar isotónic
 - Lee, K. S., et al. (2012). *Application of concentrated deep sea water inhibits the development of atopic dermatitis-like skin lesions in NC/Nga mice*. BMC Complementary and Alternative Medicine. [🔗 Leer en Springer](https://link.springer.com/article/10.1186/1472-6882-12-108)
 - Khokhlov, A. N., et al. (2015). *Pilot study of a potential geroprotector, "Quinton Marine Plasma", in experiments on cultured cells*. Moscow University Biological Sciences Bulletin. [🔗 Ver estudio en ResearchGate](https://www.researchgate.net/publication/271963915_Pilot_study_of_a_potential_anti-aging_preparation_Quinton_Marine_Plasma_in_experiments_on_cultured_cells)
 - Quinton Medical. *Marine Therapy: Skin health, barrier function and cellular hydration*. [🔗 quintonmedical.com](https://quintonmedical.com/benefits-of-seawater/health)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

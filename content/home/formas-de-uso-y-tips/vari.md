@@ -38,3 +38,9 @@ En la fisiología integrativa, el agua de mar isotónica es reconocida por su ca
 - Babiloni-Lopez, C., et al. (2024). *Long-Term Effects of Microfiltered Seawater on Microcirculation*. Healthcare. [🔗 Leer en MDPI Healthcare](https://www.mdpi.com/2227-9032/12/2/204)
 - Gracia, A. (2001). *La terapia con plasma marino*. Dialnet. [🔗 Ver documento académico en Dialnet](https://dialnet.unirioja.es/descarga/articulo/4989312.pdf)
 - Raffetto, J. D. (2021). *Mechanisms of Lower Extremity Vein Dysfunction in Chronic Venous Insufficiency*. [🔗 Leer en PubMed Central (PMC8270011)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8270011/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

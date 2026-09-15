@@ -20,3 +20,9 @@ USDT: 0x683dfaa792f41c751c4897b3e27ab665aeedf447 red Ethereum ERC20<br>
 ETH: 0x683dfaa792f41c751c4897b3e27ab665aeedf447  red Ethereum ERC20<br>
 BCH Bitcoin Cash: 386uKAMy2z6nznNnEun1ia3FW8uhj5VadU<br>
 LTC LiteCoin: MTBbhaQCqVojMRYf2q2rj6gmT1zEMyzW7L</b>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

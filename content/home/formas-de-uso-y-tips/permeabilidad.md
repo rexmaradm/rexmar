@@ -37,3 +37,9 @@ Nam, J., et al. (2020). Anti-Inflammatory Properties of Mineral-Balanced Deep Se
 Takeuchi, H., et al. (2020). Drinking Refined Deep-Sea Water Improves the Gut Ecosystem with Beneficial Effects on Intestinal Health in Humans. PMC. 🔗 Leer en PubMed Central (PMC7551512)
 
 Barnich, N., et al. (2021). Beneficial Effects of Natural Mineral Waters on Intestinal Inflammation. PMC. 🔗 Leer en PubMed Central (PMC8122343)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

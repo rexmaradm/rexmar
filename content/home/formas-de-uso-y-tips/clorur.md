@@ -79,3 +79,9 @@ En aves, el cloruro participa en el transporte intestinal de sodio y agua, proce
 - <a href="https://doi.org/10.1242/jeb.199.3.711" target="_blank" rel="noopener noreferrer">Ando M, et al. Intestinal Na+ and Cl- levels control drinking behavior in the seawater-adapted eel Anguilla japonica. Journal of Experimental Biology. 1996;199(3):711-716.</a>
 - <a href="https://doi.org/10.1111/j.1469-185X.1936.tb00908.x" target="_blank" rel="noopener noreferrer">Irving L, Manery JF. The significance of the chlorides in tissues and animals. Biological Reviews. 1936;11(3):287-310.</a>
 - <a href="https://doi.org/10.7775/rac.v92i2.306" target="_blank" rel="noopener noreferrer">Rudi MJ, Kouyoumdzian N, Kim M, et al. Participation of chloride channels in cardiovascular and kidney health. Revista Argentina de Cardiología. 2024;92(2):130-138.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

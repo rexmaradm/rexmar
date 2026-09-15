@@ -39,3 +39,9 @@ En la medicina integrativa, el agua de mar microfiltrada en frío e isotónica h
 - Wellness Plus. *Quinton and Its Role in Fertility and Pregnancy*. [🔗 wellnessplus.com](https://wellnessplus.com/quinton-and-its-role-in-fertility-and-pregnancy/)
 - BioVie. *7 Tips to prepare oneself for a Natural Pregnancy (Rich in nutrients: marine plasma)*. [🔗 biovie.fr](https://www.biovie.fr/en/blog/7-tips-for-preparing-for-a-natural-pregnancy-n9)
 - Spirit of Health. *Balance Your Hormones Naturally: Minerals are vital to support reproduction*. [🔗 spiritofhealthkc.com](https://www.spiritofhealthkc.com/health/hormonehealth)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

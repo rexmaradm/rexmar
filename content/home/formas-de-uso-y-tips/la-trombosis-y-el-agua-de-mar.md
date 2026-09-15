@@ -34,3 +34,9 @@ Fuente: <https://www.mdpi.com/2075-1729/12/1/82>
 [https://www.google.com/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=0CAIQw7AJahcKEwiAjoLCh9j\_AhUAAAAAHQAAAAAQAg&amp;url=https%3A%2F%2Fkochi.repo.nii.ac.jp%2F%3Faction%3Drepository\_action\_common\_download%26item\_id%3D1191%26item\_no%3D1%26attribute\_id%3D17%26file\_no%3D1&amp;psig=AOvVaw0QtjV\_7lCZdhd\_hf0Dcwi\_&amp;ust=1687563759608732&amp;opi=89978449](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CAIQw7AJahcKEwiAjoLCh9j_AhUAAAAAHQAAAAAQAg&url=https%3A%2F%2Fkochi.repo.nii.ac.jp%2F%3Faction%3Drepository_action_common_download%26item_id%3D1191%26item_no%3D1%26attribute_id%3D17%26file_no%3D1&psig=AOvVaw0QtjV_7lCZdhd_hf0Dcwi_&ust=1687563759608732&opi=89978449)
 
 DISCLAIMER: El agua de mar no es un medicamento ni reemplaza la consulta con su médico/terapeuta/chamán que conozca los beneficios del agua de mar.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

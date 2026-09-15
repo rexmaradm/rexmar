@@ -340,3 +340,9 @@ Descubrí los estudios científicos sobre cómo el agua de mar profunda rica en 
 - **<span class="qwen-markdown-text">\[88\] Wiley:</span>** *<span class="qwen-markdown-text">Alleviation of Migraines with Therapeutic Vitamin D and Calcium</span>*<span class="qwen-markdown-text"> - Estudio sobre la terapia combinada de vitamina D y calcio para aliviar migrañas. </span>[<span class="qwen-markdown-text">Leer PDF</span>](https://headachejournal.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1526-4610.1994.hed3410590.x)
 
 <div class="qwen-markdown-space"></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

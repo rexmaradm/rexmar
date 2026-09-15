@@ -35,3 +35,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 - **<span class="qwen-markdown-text">Quinton Medical:</span>** *<span class="qwen-markdown-text">Isotonic Seawater</span>*<span class="qwen-markdown-text"> - Explicación de cómo el plasma isotónico promueve la digestión y alivia la acidez. </span>[<span class="qwen-markdown-text">Leer más</span>](https://quintonmedical.com/marine-therapy/drink-seawater/isotonic-sea-water)<div aria-describedby="_r_5b_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">quintonmedical.com</div></div>
 - **<span class="qwen-markdown-text">ResearchGate / PubMed:</span>** *<span class="qwen-markdown-text">Health Effects of Alkaline Diet and Water, Reduction of Digestive...</span>*<span class="qwen-markdown-text"> - Evidencia sobre los efectos del agua alcalina y rica en minerales en el tracto digestivo. </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.researchgate.net/publication/301497159_Health_Effects_of_Alkaline_Diet_and_Water_Reduction_of_Digestive-tract_Bacterial_Load_and_Earthing)<div aria-describedby="_r_5d_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">ResearchGate</div></div>
 - **<span class="qwen-markdown-text">Sea Water Life:</span>** *<span class="qwen-markdown-text">Benefits of isotonic seawater</span>*<span class="qwen-markdown-text"> - Propiedades neutralizantes de la acidez estomacal del agua de mar isotónica. </span>[<span class="qwen-markdown-text">Leer más</span>](https://www.seawaterlife.com/benefits)<div aria-describedby="_r_5f_" class="qwen-chat-markdown-tokens ant-popover-open"><div class="qwen-chat-markdown-tokens-hostname ">www.seawaterlife.com</div></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

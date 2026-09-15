@@ -123,3 +123,9 @@ En acuicultura, los requerimientos de hierro varían según la especie. Los pece
 - <a href="https://pubmed.ncbi.nlm.nih.gov/7322973/" target="_blank" rel="noopener noreferrer">Iron requirements of White Leghorn hens. Poultry Science. 1981;60(7):1497-1503. DOI: 10.3382/ps.0601497.</a>
 - <a href="https://agris.fao.org/search/en/records/66744101eb5a381a33812887" target="_blank" rel="noopener noreferrer">Ho SL, Dang TTT. An overview of the use of iron in aquaculture. Journal of Marine Science and Technology. 2021;21(2):111-118.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39750069/" target="_blank" rel="noopener noreferrer">Effect of second iron injection on growth performance, hematological parameters, and fecal microbiome of piglets fed different dietary iron levels. Journal of Animal Science. 2025;103:skae371. DOI: 10.1093/jas/skae371.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

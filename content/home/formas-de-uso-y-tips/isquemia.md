@@ -39,3 +39,9 @@ La disartria es un trastorno motor del habla causado directamente por el daño n
 - Estudios sobre el tratamiento del ictus en centros de talasoterapia y rehabilitación. [🔗 Dialnet: Tratamiento del ictus y medicina física](https://dialnet.unirioja.es/servlet/articulo?codigo=6651575)
 - Investigación sobre el magnesio marino, la recuperación neuromuscular y la protección vascular post-ictus. [🔗 NutritionPro: Magnesio y recuperación vascular](https://nutritionpro.fr/es/blogs/infos/magnesio-e-hipertension-la-conexion-subestimada)
 - Literatura clínica sobre la disartria como trastorno motor secundario a la isquemia cerebral y su manejo rehabilitador. [🔗 ICASSP: Assessing Dysarthria in Neurological Conditions](https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=18950)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

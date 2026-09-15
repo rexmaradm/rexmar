@@ -38,3 +38,9 @@ Una de las causas más comunes de irritación laríngea es el reflujo faringolar
 - King, D., et al. (2015). *Saline nasal irrigation for acute upper respiratory tract infections* (Destacando el rol del zinc y elementos del agua de mar en la protección del epitelio respiratorio superior). [🔗 Leer en PubMed Central (PMC9475221)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9475221/)
 - Sarabanta Health. *Supplements To Help Alleviate GERD: Hoarseness and Quinton Isotonic Seawater*. [🔗 sarabantahealth.com](https://sarabantahealth.com/supplements-alleviate-gerd/)
 - Activlab Pharma. *Isotonic seawater as an adjunct supporting the health of the throat, vocal cords and larynx*. [🔗 activlab.pl](https://www.b2b.activlab.pl/kategoria-produktu/product-lines/activlab-pharma/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

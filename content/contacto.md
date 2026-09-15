@@ -50,3 +50,9 @@ Completá el formulario y te responderemos a la brevedad.
 ---
 
 **Nota:** Todos los campos son obligatorios. Te responderemos dentro de las 24-48 horas hábiles.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

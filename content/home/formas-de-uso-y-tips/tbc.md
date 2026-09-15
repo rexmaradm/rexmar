@@ -264,3 +264,9 @@ Descubrí la fascinante historia de los sanatorios marinos para tuberculosis, el
 - **<span class="qwen-markdown-text">\[107\] New TB Drugs:</span>** *<span class="qwen-markdown-text">Zinc Used by Host to Fight TB</span>*<span class="qwen-markdown-text"> - Los macrófagos pueden hacer uso del envenenamiento por metales pesados usando zinc. </span>[<span class="qwen-markdown-text">Leer más</span>](https://www.newtbdrugs.org/news/tb-rd-weekly-update-zinc-used-host-fight-tb)
 
 <div class="qwen-markdown-space"></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -41,3 +41,9 @@ Las sustancias químicas pueden contaminar el agua del grifo a través de una va
 Fuente: <https://g.co/bard/share/42e5400c485c>
 
 Deslinde de Responsabilidad: Esta información no reemplaza la consulta con un profesional de la salud/chamán/terapeuta.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

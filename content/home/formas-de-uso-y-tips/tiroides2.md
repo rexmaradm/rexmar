@@ -263,3 +263,9 @@ Descubrí los estudios científicos sobre la relación entre el agua de mar y la
 - **<span class="qwen-markdown-text">\[79\] Inchem.org:</span>** *<span class="qwen-markdown-text">Iodine (WHO Food Additives Series 24)</span>*<span class="qwen-markdown-text"> - Documento que explica que las personas susceptibles que no escapan desarrollan bocio (efecto Wolff-Chaikoff) y pueden volverse hipotiroideas. </span>[<span class="qwen-markdown-text">Leer más</span>](https://www.inchem.org/documents/jecfa/jecmono/v024je11.htm)
 
 <div class="qwen-markdown-space"></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

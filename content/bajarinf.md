@@ -14,3 +14,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 # Ver informe
 
 <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v78i3ly/?pub=1wgpuu" frameborder="0" allowfullscreen></iframe>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

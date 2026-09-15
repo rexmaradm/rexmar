@@ -38,3 +38,9 @@ Para abordar la causa raíz de muchas lesiones anales (el esfuerzo defecatorio p
 - Creu Blanca. *Beneficios del agua de mar: El yodo favorece la cicatrización de heridas y la desinfección*. [🔗 creu-blanca.es](https://creu-blanca.es/blog/beneficios-del-agua-de-mar/)
 - Foros médicos especializados. *Testimonios clínicos sobre el uso de agua de mar filtrada para ablandar heces y aliviar fisuras anales crónicas*. [🔗 Ver discusión clínica](https://foro.drsajonia-coburgo.com/tema/fisura-anal-cronica/)
 - Fundación René Quinton. *Cicatrización de heridas y regulación del tránsito intestinal con agua de mar isotónica*. [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/blog/agua-mar-como-tomarla/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

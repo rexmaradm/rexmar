@@ -34,3 +34,9 @@ Si bien los testimonios personales sobre mejorías son abundantes en foros y red
 - Nani, S. Z. M., et al. (2016). *Potential Health Benefits of Deep Sea Water: A Review*. Evidence-Based Complementary and Alternative Medicine. [🔗 Leer en PubMed Central (PMC5221345)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/)
 - Soler Terranova, W. (2008). *Ausencia de toxicidad por ingesta de agua de mar*. Universidad de Antioquia. [🔗 Ver documento académico](https://bibliotecadigital.udea.edu.co/bitstreams/a455b38a-9c12-4cf1-b260-166e9d479466/download)
 - Abraham, R., et al. (2025). *Perspectives on Water Utilization in Hemodialysis*. Blood Purification, Karger. [🔗 Ver estudio sobre agua y diálisis](https://www.theisn.org/wp-content/uploads/2025/06/Abraham-water-utilization-in-HD-Blood-Purification-2025.pdf)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

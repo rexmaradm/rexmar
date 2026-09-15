@@ -48,3 +48,9 @@ En el ámbito de la biología celular, el agua de mar microfiltrada en frío e i
 - Yang, C. C., et al. (2014). *Deep-sea water containing selenium provides intestinal protection through the upregulation of Bcl-2*. [🔗 Ver estudio sobre regulación de Bcl-2](https://hero.epa.gov/reference/4327476/)
 - Lee, K. S., et al. (2019). *The preventive effect of deep sea water on the development of cancerous skin cells through the induction of autophagic cell death*. Biomedicine &amp; Pharmacotherapy. [🔗 Leer en ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0753332218355860)
 - Mishukov, A. A., et al. (2021). *Pilot study of a potential geroprotector, "Quinton Marine Plasma", in experiments on cultured cells*. [🔗 Leer estudio en ResearchGate](https://www.researchgate.net/publication/271963915_Pilot_study_of_a_potential_geroprotector_Quinton_Marine_Plasma_in_experiments_on_cultured_cells)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -34,3 +34,9 @@ La epidermólisis ampollar simple (EAS) es un trastorno caracterizado por la fra
 3. **Efectos osmóticos y antimicrobianos de los minerales marinos en lesiones cutáneas:**
    *Análisis de la capacidad del ambiente hipersalino y los iones marinos para prevenir la colonización bacteriana en heridas abiertas.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/24552515/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

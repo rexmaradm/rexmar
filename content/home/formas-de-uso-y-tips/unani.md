@@ -37,3 +37,9 @@ En la farmacopea Unani, el agua de mar (*Ma-ul-Bahr*) y la sal marina se utiliza
 3. **Propiedades osmóticas y resolutivas de las sales marinas:**
    *Análisis de los mecanismos físicos por los cuales los gradientes osmóticos del agua de mar disuelven edemas, descongestionan tejidos y mejoran la microcirculación.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/27412589/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

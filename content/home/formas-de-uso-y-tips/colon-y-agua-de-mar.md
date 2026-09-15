@@ -29,3 +29,9 @@ https://www.mdpi.com/781838)
 [https://www.jstage.jst.go.jp/article/bpb/40/10/40\_b17-00258/\_article/-char/ja/](https://www.jstage.jst.go.jp/article/bpb/40/10/40_b17-00258/_article/-char/ja/)
 
 <https://pubmed.ncbi.nlm.nih.gov/32878045/>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

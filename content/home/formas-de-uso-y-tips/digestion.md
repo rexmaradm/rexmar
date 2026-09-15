@@ -45,3 +45,9 @@ Descubrí cómo el agua de mar influye en la digestión, sus beneficios para el 
 - [<span class="qwen-markdown-text">Plasma de Quinton: ciencia y agua de mar</span>](https://www.fundacionrenequinton.org/blog/plasma-de-quinton-un-camino-hacia-la-salud/)<div aria-describedby="_r_sm_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.fundacionrenequinton.org</div></div>
 - [<span class="qwen-markdown-text">Los científicos advierten sobre los riesgos de beber agua de mar</span>](https://www.esquire.com/es/cuidados-hombre/a62592412/riesgos-beber-agua-de-mar-expertos-hipertension-fallo-renal-agua-salada/)<div aria-describedby="_r_so_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">www.esquire.com</div></div>
 - [<span class="qwen-markdown-text">Agua de mar para beber: ¿moda saludable o simple mito?</span>](https://beatrizsancheznutricion.com/agua-de-mar-para-beber-nutricion/)<div aria-describedby="_r_sq_" class="qwen-chat-markdown-tokens"><div class="qwen-chat-markdown-tokens-hostname ">beatrizsancheznutricion.com</div></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

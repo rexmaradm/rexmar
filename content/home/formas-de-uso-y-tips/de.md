@@ -36,3 +36,9 @@ En la práctica de la medicina integrativa, el agua de mar microfiltrada en frí
 - Wu, C. C., et al. (2022). *Deep Sea Water-Dissolved Organic Matter Intake Improves Vascular Health*. Life (Basel). [🔗 Leer en MDPI Life](https://www.mdpi.com/2075-1729/12/1/82)
 - Nani, S. Z. M., et al. (2016). *Potential Health Benefits of Deep Sea Water: A Review*. Evidence-Based Complementary and Alternative Medicine. [🔗 Leer en PubMed Central (PMC5221345)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/)
 - Fundación René Quinton. *El Plasma Marino y la revitalización del medio interno*. Disponible en: [🔗 Información sobre Plasma Marino Isotónico](https://quintonstore.co.za/blogs/news/why-thousands-are-switching-to-this-ultra-hydrating-marine-plasma-quinton)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

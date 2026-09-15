@@ -37,3 +37,9 @@ En la fitoterapia contemporánea, el agua de mar (especialmente en su dilución 
 3. **Penetración transdérmica de compuestos herbales mediante gradientes osmóticos:**
    *Análisis de cómo las soluciones salinas y el agua de mar mejoran la permeación cutánea de los principios activos vegetales en aplicaciones tópicas.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/30214567/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

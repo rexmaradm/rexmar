@@ -37,3 +37,9 @@ En el marco de la NMG, las enfermedades siguen dos fases (simpaticotonía y vago
 3. **Minerales marinos y modulación del microbioma:**
    *Estudio sobre cómo el aporte de trazas minerales y soluciones isotónicas favorece la simbiosis microbiana y la restauración del equilibrio biológico en mucosas y tejidos.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/26214099/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

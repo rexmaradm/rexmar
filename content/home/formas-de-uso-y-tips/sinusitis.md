@@ -128,3 +128,9 @@ Los estudios muestran que:
 ✅ Es tan efectiva como los medicamentos descongestionantes para sinusitis aguda ✅ Reduce significativamente los síntomas de sinusitis crónica ✅ Disminuye el uso de antibióticos ✅ Tiene excelente perfil de seguridad con mínimos efectos adversos ✅ Es especialmente útil en niños y pacientes que prefieren evitar medicamentos
 
 Los otorrinolaringólogos actualmente recomiendan las irrigaciones nasales con solución salina como **tratamiento de primera línea** o complemento esencial en el manejo de la rinosinusitis aguda y crónica.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

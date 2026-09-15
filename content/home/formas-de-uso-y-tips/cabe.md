@@ -39,3 +39,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío e isotónic
 - Beardburys / Dermatological Research. *Strengthening minerals: Magnesium, potassium, and zinc in seawater improve hair structure and density*. [🔗 Ver análisis de minerales capilares](https://beardburys.com/en/blog/how-to-use-our-products/is-sea-water-good-for-your-hair)
 - Typology / Clinical Dermatology. *Deep sea water improves skin and scalp lesions by decreasing inflammation*. [🔗 Leer sobre beneficios antiinflamatorios](https://us.typology.com/library/seawater-unexpected-benefits-for-the-skin)
 - Feasting on Joy / Integrative Health. *Minerals feed the scalp environment where hair growth actually begins (Marine Plasma)*. [🔗 Ver protocolo de salud capilar con plasma marino](https://www.instagram.com/reel/DL4JPcESkP4/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

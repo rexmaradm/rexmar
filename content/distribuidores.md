@@ -103,3 +103,9 @@ Dirección: En el segundo piso del restaurante Pato Mandarín. Av. prol. Cesar V
 **Energía Renovable Najia Garden EIR. Sr. Bruno Laborde**
 
 <img src="/images/wp.svg" alt="whatsapp" width="3%"></img>Teléfono:914 140 099
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

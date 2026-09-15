@@ -39,3 +39,9 @@ El glioblastoma se caracteriza por una reprogramación metabólica agresiva. Los
 - Xiao, Y., et al. (2020). *Mineral-enriched deep-sea water modulates lactate metabolism*. Frontiers in Marine Science. [🔗 Leer en Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2020.587686/full)
 - Mishukov, A. A., et al. (2021). *Pilot study of a potential geroprotector, "Quinton Marine Plasma", in experiments on cultured cells*. [🔗 Leer estudio sobre Plasma Marino de Quinton](https://vestnik-bio-msu.elpub.ru/jour/article/view/1019)
 - Referencia sobre modulación inmunológica: Aumento de IL-2, TNF-α e Interferón gamma con agua de mar isotónica. [🔗 Ver referencia sobre modulación inmunológica](https://www.facebook.com/Culturacrnet/posts/c%C3%A1ncer-glaucoma-y-t%C3%A9-verde-los-descubrimientos-cient%C3%ADficos-en-salud-que-debe-con/1489977683040460/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -43,3 +43,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 - **<span class="qwen-markdown-text">\[7\] Vizmaraqua / Terapia Marina:</span>** *<span class="qwen-markdown-text">Protocolos de hidratación con agua de mar.</span>*<span class="qwen-markdown-text"> - Guías clínicas sobre cómo administrar correctamente el agua de mar isotónica en cuadros de deshidratación. </span>[<span class="qwen-markdown-text">Leer guía</span>](https://vizmaraqua.com/blog/)
 
 <div class="qwen-markdown-space"></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

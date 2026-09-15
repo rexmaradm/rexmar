@@ -241,3 +241,9 @@ A diferencia de la rinitis y el catarro (donde hay sólida evidencia de agua de 
 - ✅ Los efectos beneficiosos pueden durar hasta 3 meses después del tratamiento
 - ✅ El perfil de seguridad es excelente con mínimos efectos adversos
 - ✅ Es una opción económica y accesible para realizar en casa
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

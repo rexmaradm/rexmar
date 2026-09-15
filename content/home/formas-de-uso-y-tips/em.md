@@ -76,3 +76,9 @@ Siguiendo la tradición de René Quinton, el Plasma de Quinton es agua de mar pu
 ---
 
 **Nota importante:** Aunque existen estudios prometedores sobre la terapia acuática con agua de mar, el compuesto MS14 y los efectos antiinflamatorios del agua de mar profunda, estos tratamientos deben considerarse complementarios y siempre bajo supervisión médica. La esclerosis múltiple requiere un enfoque multidisciplinario con tratamientos modificadores de la enfermedad aprobados.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -42,3 +42,9 @@ La elevación de la creatinina sérica indica una reducción en la tasa de filtr
 3. **Oligoelementos y estrés oxidativo en tejido renal:**
    *Análisis de cómo los minerales traza reducen los marcadores de inflamación y el daño por radicales libres en las nefronas, preservando la tasa de filtración.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/27987211/" target="_blank" rel="noopener noreferrer">Leer paper (PubMed)</a>   
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

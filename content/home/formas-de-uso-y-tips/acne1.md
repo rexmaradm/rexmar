@@ -38,3 +38,9 @@ El acné es una enfermedad inflamatoria crónica de la unidad pilosebácea. El a
 3. **Eficacia de las sales de baños minerales en dermatología:**
    *Estudio sobre los efectos queratolíticos, antimicrobianos y antiinflamatorios de las sales marinas en afecciones cutáneas.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/22916171/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

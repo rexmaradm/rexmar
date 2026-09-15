@@ -66,3 +66,9 @@ Descubrí la fascinante historia del uso del agua de mar (Plasma de Quinton) par
 - **<span class="qwen-markdown-text">\[93\] Lenntech:</span>** *<span class="qwen-markdown-text">Major ion composition of seawater.</span>*<span class="qwen-markdown-text"> - Composición química detallada del agua de mar, incluyendo calcio (400 mg/L) y magnesio (1,262 mg/L). </span>[<span class="qwen-markdown-text">Leer más</span>](https://www.lenntech.com/composition-seawater.htm)
 - **<span class="qwen-markdown-text">\[102\] Taylor &amp; Francis:</span>** *<span class="qwen-markdown-text">Marine sources as an unexplored bone tissue reconstruction material.</span>*<span class="qwen-markdown-text"> - Investigación sobre el potencial de productos marinos para la reconstrucción de tejido óseo. </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.tandfonline.com/doi/full/10.1080/2314808X.2022.2106096)
 - **<span class="qwen-markdown-text">\[114\] MDPI - Nutrients:</span>** *<span class="qwen-markdown-text">"English Disease": Historical Notes on Rickets, the Bone–Lung Link.</span>*<span class="qwen-markdown-text"> - Notas históricas sobre el raquitismo y su prevalencia durante más de dos milenios. </span>[<span class="qwen-markdown-text">Leer artículo</span>](https://www.mdpi.com/2072-6643/8/11/722)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

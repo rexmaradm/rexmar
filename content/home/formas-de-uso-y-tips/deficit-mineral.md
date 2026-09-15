@@ -164,3 +164,9 @@ El agua de mar contiene más de **78 minerales y oligoelementos** en forma ióni
     - Equilibrio de ciertos minerales en el cuerpo
 - **Conclusión:** Beber agua de mar profunda durante 6 meses **restaura el equilibrio mineral** en pacientes con síndrome de eccema/dermatitis atópica, mejorando los síntomas clínicos y corrigiendo las deficiencias de minerales esenciales \[\[91\]\].
 - **Link:**
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

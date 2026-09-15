@@ -82,3 +82,9 @@ Los baños de pies con agua de mar tienen muchos beneficios para la salud, como:
 **¡Disfruta de tu baño de pies con agua de mar!**
 
 ![](/wp-content/uploads/2024/02/mujer_bano_pies2-627x1024.jpg)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -148,3 +148,9 @@ La rinitis tiene una **excelente base de evidencia científica** que respalda el
 ✅ Es efectiva para reducir síntomas de rinitis alérgica en adultos y niños ✅ Mejora significativamente el aclaramiento mucociliar nasal ✅ Reduce el uso de medicamentos (antihistamínicos, corticoides nasales) ✅ Tiene excelente perfil de seguridad con mínimos efectos adversos ✅ Los beneficios se mantienen incluso meses después de discontinuar el tratamiento ✅ Es especialmente útil como tratamiento preventivo durante temporadas de alergia
 
 La rinitis es una condición donde el agua de mar ha demostrado ser una herramienta terapéutica valiosa, ya sea como monoterapia o como complemento a tratamientos farmacológicos.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -82,3 +82,9 @@ Además, está recubierto de sílice, material compuesto por oxígeno y silicio 
 [Toxinas del fitoplancton y sus posibles aplicaciones terapéuticas: un viaje hacia la búsqueda de productos farmacéuticos potentes](https://pmc.ncbi.nlm.nih.gov/articles/PMC9030253/)
 
 [Microalgae in modern cancer therapy: Current knowledge](https://www.sciencedirect.com/science/article/pii/S0753332218370318)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

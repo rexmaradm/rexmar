@@ -177,3 +177,9 @@ Rumble("play", {"video":"v6o7ube","div":"rumble_v6o7ube"});</script>---
 ## **La urinoterapia sirve?** 
 
 <iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6qnfij/?pub=1wgpuu" width="640"></iframe>---
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

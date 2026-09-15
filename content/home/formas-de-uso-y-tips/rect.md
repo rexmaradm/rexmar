@@ -38,3 +38,9 @@ La aplicación tópica mediante inmersión es una de las terapias más respaldad
 - Laboratorios Finlay. *Enema: Atrae agua hacia la luz intestinal, fluidificando y desprendiendo de la mucosa*. [🔗 Ver protocolo de enema con agua de mar](https://www.facebook.com/Laboratorios.Finlay/posts/enema-atrae-agua-hacia-luz-intestinal-fluidificando-y-desprendiendo-de-la-mucosa/5603074466395362/)
 - ZeroTaboos. *Does toilet paper cause hemorrhoids? (Benefits of saltwater/seawater sitz baths)*. [🔗 Leer sobre baños de asiento con agua de mar](https://www.zerotaboos.com/blogs/news/toilet-paper-and-hemorrhoids)
 - Gemma UY. *Agua de Mar isotónica para uso rectal: Alivia hemorroides, fisuras, abscesos y estreñimiento*. [🔗 Ver ficha de producto y uso rectal](https://gemmauy.com/product/rectal/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

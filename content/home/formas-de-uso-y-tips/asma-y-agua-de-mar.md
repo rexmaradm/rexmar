@@ -93,3 +93,9 @@ Las soluciones de irrigación nasal presentan beneficios en las VRS, tanto mecá
 INFORMACIÓN SOBRE EL ARTÍCULO
 
 <div class="wp-block-embed__wrapper">https://pubmed.ncbi.nlm.nih.gov/35621981
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

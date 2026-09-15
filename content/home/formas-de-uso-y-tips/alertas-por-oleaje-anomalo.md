@@ -14,3 +14,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 <https://www.dhn.mil.pe/portal/avisos-especiales>
 
 ![](/wp-content/uploads/2023/09/4902.jpg)MGP
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

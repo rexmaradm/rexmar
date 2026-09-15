@@ -21,3 +21,9 @@ Resúmen muy breve:
 <iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6ryudp/?pub=1wgpuu" width="640"></iframe>## EL experto dr. Angel Gracia muestra cómo tomaba su AdM
 
 <iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6rzrxd/?pub=1wgpuu" width="640"></iframe>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

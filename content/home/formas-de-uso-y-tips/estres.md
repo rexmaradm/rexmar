@@ -196,3 +196,9 @@ Aunque **no existen papers científicos que evalúen el agua de mar como tratami
 - ✅ El ambiente marino tiene efectos restauradores adicionales
 - ✅ Es una intervención segura, económica y accesible
 - ✅ Puede combinarse con otras técnicas de manejo del estrés
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

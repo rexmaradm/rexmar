@@ -34,3 +34,9 @@ El hígado y los riñones son los principales órganos de desintoxicación. La c
 - Yang, C. C., et al. (2014). *Deep-Sea Water Containing Selenium Provides Intestinal Protection through the Upregulation of Bcl-2 and Thioredoxin Reductase 1*. [🔗 Leer en PubMed Central (PMC4077573)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4077573/)
 - Quinton Medical. *Quality and Safety of Marine Plasma*. Disponible en: [🔗 quintonmedical.com](https://quintonmedical.com/seawater-products)
 - Sendani, A. A., et al. (2024). *Molecular mechanisms and therapeutic effects of natural marine compounds*. Clinical Nutrition Open Science. [🔗 Leer artículo completo](https://www.clinicalnutritionopenscience.com/article/S2667-2685(24)00086-X/fulltext)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

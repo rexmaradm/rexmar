@@ -228,3 +228,9 @@ La situación de la osteoporosis es **muy prometedora** en términos de evidenci
 - Monitoreo regular de densidad ósea
 
 *Nota importante: Si tienes osteoporosis o osteopenia, consulta SIEMPRE con un endocrinólogo, reumatólogo o especialista en metabolismo óseo antes de iniciar cualquier tratamiento complementario. La osteoporosis es una condición seria que puede llevar a fracturas debilitantes. El agua de mar y minerales marinos son complementos valiosos, pero no reemplazos del tratamiento médico convencional.*
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

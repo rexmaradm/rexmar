@@ -101,3 +101,9 @@ En peces, el boro es un micronutriente esencial, aunque sus requerimientos espec
 - <a href="https://doi.org/10.1007/s12011-026-04326-2" target="_blank" rel="noopener noreferrer">The Effects of Boron Mineral on Performance, Bone and Mineral Metabolism in Purebred Arabian Foals. Biological Trace Element Research. 2026;204:6652-6666.</a>
 - <a href="https://doi.org/10.1016/S0946-672X(01)80006-7" target="_blank" rel="noopener noreferrer">Armstrong TA, Spears JW, Lloyd KE. Inflammatory response, growth, and thyroid hormone concentration are affected by long-term boron supplementation in gilts. Journal of Trace Elements in Medicine and Biology. 2001;15(2-3):93-99.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/22436045/" target="_blank" rel="noopener noreferrer">Hunt CD. Dietary boron: progress in establishing essential roles in human physiology. Journal of Trace Elements in Medicine and Biology. 2012;26(2-3):157-160.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

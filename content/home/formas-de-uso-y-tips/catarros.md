@@ -151,3 +151,9 @@ Los estudios muestran que:
 - ✅ Puede usarse como medida preventiva durante temporadas de resfriados
 
 **Recomendación:** El lavado nasal con agua de mar puede considerarse como tratamiento de primera línea o complemento esencial en el manejo del catarro común, tanto en adultos como en niños.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

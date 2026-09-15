@@ -311,3 +311,9 @@ Descubrí los estudios científicos que demuestran cómo el lavado nasal con agu
 - **<span class="qwen-markdown-text">\[40\] MDPI Pharmaceutics:</span>** *<span class="qwen-markdown-text">Early Negativization of SARS-CoV-2 Infection by Nasal Spray of Seawater</span>*<span class="qwen-markdown-text"> - Estudio RENAISSANCE sobre negativización 2 días antes de SARS-CoV-2 con spray nasal de agua de mar (2022). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.mdpi.com/1999-4923/14/11/2502)
 - **<span class="qwen-markdown-text">\[44\] Research.unipd.it:</span>** *<span class="qwen-markdown-text">Early Negativization of SARS-CoV-2 Infection by Nasal Spray</span>*<span class="qwen-markdown-text"> - Estudio sobre efectividad de spray nasal Tonimer Lab Panthexyl 800 contra SARS-CoV-2. </span>[<span class="qwen-markdown-text">Leer más</span>](https://research.unipd.it/handle/11577/3512010)
 - **<span class="qwen-markdown-text">\[45\] PubMed:</span>** *<span class="qwen-markdown-text">Seawater nasal wash to reduce symptom duration and viral load</span>*<span class="qwen-markdown-text"> - Publicación sobre lavado nasal con agua de mar para reducir duración de síntomas y carga viral (2024). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://pubmed.ncbi.nlm.nih.gov/38376591/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

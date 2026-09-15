@@ -55,3 +55,9 @@ Fuente: Fundacion Rene Quinton
 <https://www.liebertpub.com/doi/abs/10.1089/jmf.2019.4658>
 
 <https://pubmed.ncbi.nlm.nih.gov/32878045/>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

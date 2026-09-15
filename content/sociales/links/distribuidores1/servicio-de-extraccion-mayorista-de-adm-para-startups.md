@@ -32,3 +32,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 **Con éste servicio, ud. tendrá sus 400 lt de AdM hipertónica/pura listos para ser micro-filtrados (o al deseo de sus clientes) y fraccionados según sus necesidades y/o gustos de sus clientes.**
 
 [![](/wp-content/uploads/2023/10/logowhatsapp133.png)](https://api.whatsapp.com/send?phone=51904743809&text=Hola%2C%20me%20comunicaba%20por%20la%20Extraccion%20de%20AdM%20mayorista)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

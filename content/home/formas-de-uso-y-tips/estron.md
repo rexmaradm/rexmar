@@ -95,3 +95,9 @@ En invertebrados marinos como los corales y los moluscos, el estroncio se incorp
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0012821X03001912" target="_blank" rel="noopener noreferrer">Davis AC, Bickle MJ, Teagle DAH. Imbalance in the oceanic strontium budget. Earth and Planetary Science Letters. 2003;211(1-2):173-187.</a>
 - <a href="https://jtys.nstl.gov.cn/paper_detail.html?id=aa65d26ca7bb19bd29faf155acaa7a37" target="_blank" rel="noopener noreferrer">Ahm ASC, Bjerrum CJ, Blättler CL, et al. Stable and radiogenic strontium isotopes trace the composition and diagenetic alteration of remnant glacial seawater. Geochimica et Cosmochimica Acta. 2025;389:211-223.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/16059629/" target="_blank" rel="noopener noreferrer">Farlay D, Boivin G, Panczer G, et al. Long-term strontium ranelate administration in monkeys preserves characteristics of bone mineral crystals and degree of mineralization of bone. Journal of Bone and Mineral Research. 2005;20(9):1569-1578.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

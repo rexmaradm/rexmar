@@ -39,3 +39,9 @@ El esfuerzo físico genera radicales libres que pueden dañar las fibras muscula
 - Aragón-Vela, J., et al. (2022). *Physiological Benefits and Performance of Sea Water Consumption on Athletic Performance*. [🔗 Leer en PubMed Central (PMC9657671)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9657671/)
 - Fukui, K., et al. (2024). *Effects of deep-sea water on training efficiency, locomotor function and respiratory system*. Heliyon, Cell Press. [🔗 Leer en ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405844024153273)
 - Quinton Medical. *Health benefits of seawater: Prevention of muscle cramps and electrolyte balance*. [🔗 quintonmedical.com](https://quintonmedical.com/benefits-of-seawater/health)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

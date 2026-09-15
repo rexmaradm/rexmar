@@ -94,3 +94,9 @@ En perros y gatos, el magnesio es el segundo catión intracelular más abundante
 - <a href="https://doi.org/10.3390/nu13020440" target="_blank" rel="noopener noreferrer">Pinotti L, et al. The Contribution of Dietary Magnesium in Farm Animals and Human Nutrition. Nutrients. 2021;13(2):440.</a>
 - <a href="https://doi.org/10.1016/j.heliyon.2024.e35136" target="_blank" rel="noopener noreferrer">Wang HH, et al. Magnesium-enriched deep-sea water inhibits NLRP3 inflammasome activation and dampens inflammation. Heliyon. 2024;10(15):e35136.</a>
 - <a href="https://doi.org/10.3390/medicina60081275" target="_blank" rel="noopener noreferrer">Ham JY, et al. Magnesium from Deep Seawater as a Potentially Effective Natural Product against Insulin Resistance: A Randomized Trial. Medicina. 2024;60(8):1275.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

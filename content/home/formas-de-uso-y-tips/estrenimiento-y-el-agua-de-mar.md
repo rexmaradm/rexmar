@@ -31,3 +31,9 @@ https://www.mdpi.com/2072-6643/14/3/581
 bacterias buenas: https://www.mdpi.com/812812
 
 Disclamer: EL agua de mar no es un medicamento, no reemplaza la consulta con su terapeuta, médico o chamán que conozca las propiedades del Agua de Mar. Las opiniones vertidas aquí son en base a experiencias personales, testimonios o estudios científicos publicados en internet.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

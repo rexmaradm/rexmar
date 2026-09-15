@@ -43,3 +43,9 @@ El enema con agua de mar isotónica utiliza la vía rectal para la administraci�
 3. **Lavados colónicos y modulación del microbioma intestinal:**
    *Análisis de los cambios en la composición de la microbiota fecal tras la irrigación colónica con soluciones minerales.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/30568376/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

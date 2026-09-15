@@ -54,3 +54,9 @@ Aumento de la inmunidad a las radiaciones externas (4G, 5G, wifi, etc).
 Mejoramiento del sueño.
 
 ![vista de arriba sin carcasa protectora](/wp-content/uploads/2025/07/Sin_tapa-768x1024.jpg)![vista de costado](/wp-content/uploads/2025/07/de_costado-768x1024.jpg)![cañe Type-C 1 mt.](/wp-content/uploads/2025/07/elcable-1024x768.jpg)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

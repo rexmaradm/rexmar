@@ -33,3 +33,9 @@ Más allá del uso tópico nasal, el agua de mar isotónica microfiltrada en fr�
 - Atar, Y., et al. (2022). *Comparison of Isotonic Seawater Nasal Spray Containing Chamomile Liquid Extract in Allergic Rhinitis*. Annals of Otology, Rhinology &amp; Laryngology. [🔗 Leer en PubMed (PMID: 34142567)](https://pubmed.ncbi.nlm.nih.gov/34142567/)
 - Štanfel, D., et al. (2022). *The Role of Seawater and Saline Solutions in Treatment of Allergic Rhinitis*. [🔗 Leer en PubMed Central (PMC9147352)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9147352/)
 - Investigación sobre geroprotección y Plasma Marino de Quinton en cultivos celulares. *Study of potential anti-aging preparation "Quinton Marine Plasma"*. [🔗 Ver estudio en ResearchGate](https://www.researchgate.net/publication/257138365_Study_of_potential_anti-aging_preparation_Quinton_Marine_Plasma_in_experiments_on_cultured_cells)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

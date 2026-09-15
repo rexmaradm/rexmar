@@ -38,3 +38,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío e isotónic
 - Saide, A., et al. (2021). *A Treasure of Bioactive Compounds from the Deep Sea* (Propiedades regulatorias sobre células de la vejiga humana). Biomedicine &amp; Pharmacotherapy. [🔗 Leer en MDPI](https://www.mdpi.com/2079-6382/10/11/1334)
 - Mirzazadeh, M., et al. (2012). *Effects of Drinking Water Quality on Urinary Parameters*. Urology. [🔗 Leer en ScienceDirect (Urology)](https://www.sciencedirect.com/science/article/abs/pii/S0090429511025210)
 - Fundación René Quinton. *El Plasma de Quinton y el equilibrio del medio interno en el tracto urinario*. [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/blog/agua-mar-como-tomarla/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

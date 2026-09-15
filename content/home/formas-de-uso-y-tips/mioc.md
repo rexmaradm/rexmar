@@ -40,3 +40,9 @@ En el ámbito de la medicina integrativa, el agua de mar microfiltrada en frío 
 - Lee, D. H., et al. *Protective effects of deep sea water against doxorubicin-induced cardiotoxicity in H9c2 cardiac muscle cells*. International Journal of Molecular Sciences. [🔗 Leer estudio sobre protección cardíaca](https://www.mdpi.com/1422-0067/21/18/6859)
 - Wang, H. H., et al. (2024). *Magnesium-enriched deep-sea water promotes mitochondrial biogenesis*. Biomedicine &amp; Pharmacotherapy. [🔗 Leer en ScienceDirect](https://www.sciencedirect.com/science/article/pii/S240584402411167X)
 - Pleine Forme. *Everything you need to know about Renée Quinton and Quinton water: Immune modulation and inflammation*. [🔗 pleine-forme.net](https://pleine-forme.net/en/blogs/infos/tout-savoir-sur-renee-quinton-et-leau-de-quinton)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -20,3 +20,9 @@ USDC: 0xe9c6b0597d5a736e6aa689df9199d8cd8a2c33e0
 ETH: 0xe9c6b0597d5a736e6aa689df9199d8cd8a2c33e0  
 BCH Bitcoin Cash: 386uKAMy2z6nznNnEun1ia3FW8uhj5VadU  
 LTC LiteCoin: MTBbhaQCqVojMRYf2q2rj6gmT1zEMyzW7L
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

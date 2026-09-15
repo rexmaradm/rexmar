@@ -38,3 +38,9 @@ La salud de la lengua también depende de la nutrición celular desde el interio
         - Estudio sobre el efecto de soluciones marinas en la mucosa oral y la prevención de la xerostomía (sequedad bucal). [🔗 Leer en MDPI Journal of Clinical Medicine](https://www.mdpi.com/2077-0383/10/15/3305)
         - Investigación sobre el rol del zinc y minerales marinos en la función de las papilas gustativas y la salud de la mucosa lingual. [🔗 Leer en PubMed Central (PMC4847318)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4847318/)
         - Fundación René Quinton. *El Plasma Marino y la salud bucodental: Higiene y regeneración de tejidos*. [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/blog/salud-bucodental/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

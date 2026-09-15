@@ -66,3 +66,9 @@ El cobre es un oligoelemento cuya historia entrelaza la medicina antigua con la 
 - <a href="https://www.jstage.jst.go.jp/article/bpb/40/10/40_b17-00258/_html/-char/en" target="_blank">Effect of Minerals on Intestinal IgA Production Using Deep Sea Water Drinks (*Biological and Pharmaceutical Bulletin*)</a>
 - <a href="https://www.merckvetmanual.com/circulatory-system/anemias/nonregenerative-anemias-in-animals" target="_blank">Merck Veterinary Manual - Nonregenerative Anemias in Animals</a>
 - <a href="https://pesquisa.bvsalud.org/portal/resource/pt/mdl-37683729" target="_blank">Ocean acidification increases copper accumulation in *Amphioctopus fangsiao* (*BVS Salud*)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

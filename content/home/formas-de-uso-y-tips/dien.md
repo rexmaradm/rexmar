@@ -39,3 +39,9 @@ La salud dental no comienza solo en la superficie del diente, sino en la composi
 - Mbitta Akoa, A. (2024). *Silicon-delivering cellularized biomaterials for dental repair*. (Estudio sobre el efecto del agua de mar en el contenido de calcio y fósforo en tejidos calcificados). [🔗 Ver tesis científica (HAL)](https://theses.hal.science/tel-04698704/file/146072_MBITTA_AKOA_2024_archivage.pdf)
 - Kahla, C. (2023). *Nontoxic Living: Biological Dentistry and Isotonic Seawater*. (Sobre el enjuague con agua de mar isotónica y la promoción de la salud de los fibroblastos gingivales). [🔗 Ver referencia de odontología biológica](https://www.scribd.com/document/867669577/Walking-in-Wellness-A-5-Step-Guide-to-Nontoxic-Living-on-Any-Budget-by-Dr-Courtney-Kahla)
 - Sarabanta Health. *Quinton Isotonic Seawater: Supports bone and teeth health*. [🔗 sarabantahealth.com](https://sarabantahealth.com/quinton-isotonic-seawater-explained/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

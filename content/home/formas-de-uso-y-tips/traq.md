@@ -38,3 +38,9 @@ Más allá del uso tópico, la ingesta de agua de mar microfiltrada ofrece benef
 - Jiao, J., et al. *Influence of Intranasal Drugs on Human Nasal Mucociliary Clearance*. KoreaMed Synapse. [🔗 Ver estudio sobre aumento de la frecuencia del batido ciliar](https://synapse.koreamed.org/articles/1119101)
 - Lee, K. S., et al. (2017). *Refined deep-sea water suppresses inflammatory responses via the MAPK/AP-1 and NF-κB signaling pathway*. Biomedicine &amp; Pharmacotherapy. [🔗 Leer en ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0753332216320406)
 - Nani, S. Z. M., et al. (2016). *Potential Health Benefits of Deep Sea Water: A Review*. Evidence-Based Complementary and Alternative Medicine. [🔗 Leer en PubMed Central (PMC5221345)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

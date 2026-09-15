@@ -60,3 +60,9 @@ Paradójicamente, mientras protege a las células sanas de la desmineralización
 - Lee, K. S., et al. (2014). *Deep-sea water inhibits metastatic potential in HT-29 human colorectal adenocarcinomas via MAPK/NF-κB signaling pathway*. [🔗 Leer en Springer](https://link.springer.com/article/10.1007/s12257-014-0210-6)
 - Lee, K. S., et al. (2019). *The preventive effect of deep sea water on the development of cancerous skin cells through the induction of autophagic cell death*. Biomedicine &amp; Pharmacotherapy. [🔗 Leer en ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0753332218355860)
 - Laboratoires Quinton. *Terapia Marina: Nutrición celular y reconstrucción del medio interno*. [🔗 quintonmedical.com](https://es.quintonmedical.com/terapia-marina)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

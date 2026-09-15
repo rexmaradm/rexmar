@@ -39,3 +39,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío no altera a
 - Yang, C. C., et al. (2014). *Deep-Sea Water Containing Selenium Provides Intestinal Protection against Duodenal Ulcers through the Upregulation of Bcl-2 and Thioredoxin Reductase 1*. PLOS ONE. [🔗 Leer en PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096006)
 - Murad, H. A., et al. (2023). *Drinking deep sea water improved ulcer through inhibition of apoptotic signaling and upregulation of Bcl-2*. Brazilian Journal of Medical and Biological Research. [🔗 Leer en SciELO](https://www.scielo.br/j/bjmbr/a/PXjpbd6HztKQpnq5Zjbp6HR/)
 - Quinton Medical. *Isotonic Seawater: Digestion and Cellular Hydration*. [🔗 quintonmedical.com](https://quintonmedical.com/marine-therapy/drink-seawater/isotonic-sea-water)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

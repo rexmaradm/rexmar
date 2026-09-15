@@ -39,3 +39,9 @@ La investigación científica ha evaluado los efectos del plasma marino en la fu
 - Fukui, K., et al. (2024). *Effects of deep-sea water on training efficiency, locomotor function and respiratory system*. [🔗 Leer en PubMed Central (PMC11535331)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11535331/)
 - Recursos sobre la composición del agua de mar isotónica y su rol en el transporte de oxígeno y producción de hemoglobina. [🔗 Bionica Chile: Agua de Mar Isotónica](https://bionicachile.cl/agua-isotonica/)
 - Fundación René Quinton. *Terapia Marina y revitalización del medio interno*. [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

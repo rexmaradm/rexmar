@@ -39,3 +39,9 @@ En el ámbito de la medicina integrativa, el agua de mar microfiltrada en frío 
 - Fukui, K., et al. (2022). *Effect of Extract-Added Water Derived from Deep-Sea Water with Different Hardness on Cognitive Function, Motor Ability and Serum Indexes*. [🔗 Leer en PubMed Central (PMC9101427)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9101427/)
 - Wang, H. H., et al. (2024). *Magnesium-enriched deep-sea water inhibits NLRP3 inflammasome activation and dampens inflammation*. Heliyon. [🔗 Leer en Cell Press](https://www.cell.com/heliyon/fulltext/S2405-8440(23)X0028-0)
 - Acta Balneologica. (2022). *Integrative therapeutic strategies in management of motor and sensory disturbances, including cerebellar syndrome*. [🔗 Ver en Acta Balneologica](https://actabalneologica.pl/wp-content/uploads/library/AB_04_22_druk.pdf)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

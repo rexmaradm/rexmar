@@ -39,3 +39,9 @@ La salud de la boca no empieza solo en la superficie, sino en la composición de
 - Al-Jabouri, S. M., et al. (2020). *Comparative study of seawater and chlorhexidine mouthwash on oral health*. Clinical Oral Investigations. [🔗 Leer en Springer](https://link.springer.com/article/10.1007/s00784-020-03456-0)
 - Estudio sobre la cicatrización de mucosas orales con soluciones marinas isotónicas. [🔗 Leer en MDPI Journal of Clinical Medicine](https://www.mdpi.com/2077-0383/10/15/3305)
 - Fundación René Quinton. *El Plasma Marino y la salud bucodental: Higiene y regeneración de tejidos*. [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/blog/salud-bucodental/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

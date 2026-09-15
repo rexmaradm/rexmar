@@ -39,3 +39,9 @@ El equilibrio de la flora intestinal es fundamental para que un paciente celíac
 - Barnich, N., et al. (2021). *Beneficial Effects of Natural Mineral Waters on Intestinal Inflammation*. [🔗 Leer en PubMed Central (PMC8122343)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8122343/)
 - Quicksilver Scientific / Laboratoires de Biarritz. *Original Quinton: Cold Microfiltered Seawater, Vegan, Gluten Free, up to 78 Minerals &amp; Trace Elements*. [🔗 Ver ficha técnica y composición](https://www.quicksilverscientific.com/pages/original-quinton)
 - Quinton Medical. *Probiotic Immune Health: Isotonic seawater supporting gut microbiota and intestinal barrier function*. [🔗 quintonmedical.com](https://quintonmedical.com/probiotic-inmune-health)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

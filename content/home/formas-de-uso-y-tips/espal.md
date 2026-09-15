@@ -30,3 +30,9 @@ El dolor de espalda (lumbalgia, cervicalgia) suele estar asociado a contracturas
 2. **Efectos del magnesio transdérmico en el dolor musculoesquelético:**
    *Estudio sobre cómo la absorción cutánea de magnesio reduce la intensidad del dolor y los espasmos en la musculatura paravertebral.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/2684399
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

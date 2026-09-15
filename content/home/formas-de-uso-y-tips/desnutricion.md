@@ -193,3 +193,9 @@ La situación de la desnutrición es única: **NO puede tratarse exclusivamente 
 - Tratamiento médico supervisado
 - Suplementación nutricional según necesidades
 - Tratamiento de infecciones concomitantes
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

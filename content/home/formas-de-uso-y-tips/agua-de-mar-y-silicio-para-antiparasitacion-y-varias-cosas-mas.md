@@ -26,3 +26,9 @@ Si consigue capsulas con silicio orgánico . puede tomar via oral 1 vaso de AdM 
 Si consigue gotas homeopáticas de Equisetum , puede tomar via oral 1 vaso de AdM hipotónica 1:6 o isotónica 1:3 con gotas homeopáticas de Equisetum de 2 a 3 veces por día o segun lo indicado en el frasco o prospecto de las gotas homeopáticas de Equisetum.
 
 ![](/wp-content/uploads/2023/07/equisetum-arvense-3d-cola-de-caballo-1.jpg)Fuentes: Dra. Gladys Marino. Buenos Aires, La Plata, Argentina , Perplexity AI, busquedas por Internet.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

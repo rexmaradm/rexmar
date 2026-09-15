@@ -38,3 +38,9 @@ La salud de la vulva también depende de la nutrición celular desde el interior
 - Proietti, I., et al. (2023). *Atopic Dermatitis and Water: Is There an Optimum?* (Sobre el efecto de los minerales marinos en la barrera cutánea y mucosa). Children, MDPI. [🔗 Leer en MDPI Children](https://www.mdpi.com/2227-9067/10/2/273)
 - Estudios sobre el uso de soluciones hipertónicas para la reducción de edema en tejidos mucosos y cutáneos. [🔗 Ver en ResearchGate](https://www.researchgate.net/publication/321688427_Refined_Deep-Sea_Water_Suppresses_Inflammatory_Responses)
 - Santi Shop. *When and how to use Quinton Hyper and Isotonic Plasma for intimate hygiene and electrolyte balance*. [🔗 santi-shop.eu](https://www.santi-shop.eu/en/blog/sante-nutrition-1/when-and-how-to-use-quinton-hyper-and-isotonic-plasma-1692)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

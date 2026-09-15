@@ -92,3 +92,9 @@ La combinación de autohemoterapia con agua de mar isotónica potencia los efect
 3. **Oligoelementos y función de macrófagos:**
    *Evaluación del papel del zinc y el selenio en la activación, fagocitosis y regulación de la respuesta inmune innata.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/28698519/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

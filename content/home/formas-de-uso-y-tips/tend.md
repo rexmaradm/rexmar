@@ -39,3 +39,9 @@ En el ámbito de la medicina ortomolecular y regenerativa, el agua de mar microf
 - Rondanelli, M., et al. (2021). *Silicon: A neglected micronutrient essential for bone and connective tissue health*. Experimental Biology and Medicine. [🔗 Leer en Sage Journals](https://journals.sagepub.com/doi/10.1177/1535370221997072)
 - Patente EP1932514B1. *Pharmaceutical preparation for topical use comprising deep sea water as a mineral source* (Destaca el rol del zinc del agua de mar en la síntesis de colágeno). [🔗 Ver en Google Patents](https://patents.google.com/patent/EP1932514B1/de)
 - Aragón-Vela, J., et al. (2022). *Physiological Benefits and Performance of Sea Water Consumption on Athletic Performance and Tissue Recovery*. [🔗 Leer en PubMed Central (PMC9657671)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9657671/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

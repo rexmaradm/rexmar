@@ -46,3 +46,9 @@ El consumo oral de agua de mar profunda también ofrece beneficios para la salud
 - Štanfel, D., et al. (2022). *The Role of Seawater and Saline Solutions in Treatment of Allergic Rhinitis*. [🔗 Leer en PubMed Central (PMC9147352)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9147352/)
 - Stampar. (2018). *Eficacia de la irrigación nasal con solución isotónica de agua de mar en sinusitis crónica*. [🔗 Ver estudio](https://www.stampar.hr/sites/default/files/2021-07/pregled_2018._web.pdf)
 - Nani, S. Z. M., et al. (2016). *Potential Health Benefits of Deep Sea Water: A Review*. Evidence-Based Complementary and Alternative Medicine. [🔗 Leer en PubMed Central (PMC5221345)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

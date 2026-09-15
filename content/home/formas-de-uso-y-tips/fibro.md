@@ -50,3 +50,9 @@ La fibromialgia se caracteriza por dolor musculoesquelético generalizado, fatig
 3. **Balneoterapia vs ejercicio en fibromialgia:**
    *Estudio comparativo que demuestra mejoras significativas en dolor, fatiga y función física tras ciclos de inmersión en aguas minerales.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/23467965/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

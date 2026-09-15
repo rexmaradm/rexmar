@@ -34,3 +34,9 @@ La menstruación implica fluctuaciones hormonales que pueden desencadenar dismen
 3. **Efecto del magnesio en el síndrome premenstrual y el estado de ánimo:**
    *Análisis de cómo el aporte de magnesio mejora los síntomas neuropsiquiátricos, la fatiga y la irritabilidad asociados a las fases menstruales.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/29206185/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -107,3 +107,9 @@ En los peces, el zinc es un micronutriente esencial que participa en numerosos p
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016703725006933" target="_blank" rel="noopener noreferrer">Evaluating shallow-water carbonates as archives for seawater zinc isotope compositions: implications for palaeoceanographic studies. Geochimica et Cosmochimica Acta. 2025.</a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0012821X19304406" target="_blank" rel="noopener noreferrer">The relationship between zinc, its isotopes, and the major nutrients in the North-East Pacific. Earth and Planetary Science Letters. 2019;525:115760.</a>
 - <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GB006129" target="_blank" rel="noopener noreferrer">Biogeochemical Cycling of Dissolved Zinc in the Western Arctic (Arctic GEOTRACES GN01). Global Biogeochemical Cycles. 2019;33(3):296-315.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

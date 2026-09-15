@@ -259,3 +259,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 - **<span class="qwen-markdown-text">\[94\] Scielo Brazil:</span>** *<span class="qwen-markdown-text">Efficacy of saline or salt-based solution mouthrinse in improving oral health</span>*<span class="qwen-markdown-text"> - Revisión sobre la eficacia de soluciones salinas como enjuagues bucales. </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.scielo.br/j/bds/a/9HJPyh5RgHrzRWPrfwkVvhS/)
 
 <div class="qwen-markdown-space"></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

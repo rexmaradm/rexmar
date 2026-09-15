@@ -39,3 +39,9 @@ En la medicina integrativa, el agua de mar microfiltrada en frío ha sido histó
 - Nani, S. Z. M., et al. (2016). *Potential Health Benefits of Deep Sea Water: A Review*. Evidence-Based Complementary and Alternative Medicine. [🔗 Leer en PubMed Central (PMC5221345)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/)
 - Wellness Plus. *Quinton and Its Role in Fertility and Pregnancy*. [🔗 wellnessplus.com](https://wellnessplus.com/quinton-and-its-role-in-fertility-and-pregnancy/)
 - BioVie. *7 Tips to prepare oneself for a Natural Pregnancy (Rich in nutrients: marine plasma)*. [🔗 biovie.fr](https://www.biovie.fr/en/blog/7-tips-for-preparing-for-a-natural-pregnancy-n9)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

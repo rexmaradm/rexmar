@@ -46,3 +46,9 @@ Existe evidencia científica que evalúa el uso de agua de mar, sales del Mar Mu
 - **Diseño:** Estudio piloto clínico.
 - **Intervención:** Evaluó la eficacia de la balneoterapia (baños terapéuticos) utilizando agua de mar de manantial caliente como tratamiento exclusivo para aliviar la dermatitis atópica, demostrando mejoras en los síntomas de la piel sin requerir fármacos inmunosupresores durante la intervención www.koreamed.org.
 - **Link:** <https://www.koreamed.org/SearchBasic.php?RID=2299514>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

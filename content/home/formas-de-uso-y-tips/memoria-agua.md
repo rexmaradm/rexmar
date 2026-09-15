@@ -40,3 +40,9 @@ https://pubmed.ncbi.nlm.nih.gov/42275821/
 Adicionalmente, puedes encontrar información sobre el contexto de estas investigaciones en el blog del Instituto de Ciencias Noéticas (IONS): 
 
 <a href="https://noetic.org/blog/human-mind-influence-cancer/"  target="_blank">Can the Human Mind Influence Cancer Cells?</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

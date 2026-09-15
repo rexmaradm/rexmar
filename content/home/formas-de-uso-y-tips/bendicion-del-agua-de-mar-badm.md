@@ -94,3 +94,9 @@ Fuente: IA Qwen (Inteligencia artificial)
 🌊 Que al tomar éste agua de mar RexMar, sientas la fuerza vital de los océanos renovando tu cuerpo y tu espíritu. Que su sal, símbolo de equilibrio y resiliencia, te recuerde tu conexión con la vida ancestral, trayendo calma, fortaleza, salud, auto-sanación y renovación a tu ser.🌊
 
 ---
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

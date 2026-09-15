@@ -93,3 +93,9 @@ Queda mucho por investigar. Los mecanismos exactos por los cuales el agua de mar
 - **Plasma de Quinton (libro)**: [Mahé, A. - El Plasma de Quinton: El Agua de Mar, Nuestro Medio Interno (Google Books)](https://books.google.com.sg/books/about/El_Plasma_de_Quinton.html?id=AmAaCLsnN-IC&redir_esc=y)
 - **Plasma marino como regenerador celular**: [Dialnet - Resumen de La terapia con plasma marino](https://dialnet.unirioja.es/servlet/articulo?codigo=4989312&info=resumen)
 - **Experimentos de sustitución de sangre por plasma Quinton en perros**: [Gómez et al. - Actas del VI Congreso de SEAE (orgprints.org)](https://orgprints.org/id/eprint/29751/1/actas-almeria-vd.pdf)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -36,3 +36,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 <script>
 Rumble("play", {"video":"v7c93cq","div":"rumble_v7c93cq"});
 </script>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

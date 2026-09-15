@@ -39,3 +39,9 @@ En la medicina integrativa, se entiende que las bacterias patógenas proliferan 
 - Lee, S. H., et al. (2020). *Mineral-Rich Deep Sea Water Alleviates Intestinal Inflammation and Modulates Gut Microbiota*. Nutrients, 12(5), 1345. [🔗 Leer en PubMed Central (PMC7284921)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7284921/)
 - Estudio sobre la actividad inhibitoria de compuestos marinos frente a patógenos intestinales como *E. coli*. [🔗 Leer en MDPI Antibiotics](https://www.mdpi.com/2079-6382/10/5/532)
 - Fundación René Quinton. *El Plasma Marino y el equilibrio de la microbiota intestinal*. [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/blog/plasma-marino-y-salud-digestiva/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

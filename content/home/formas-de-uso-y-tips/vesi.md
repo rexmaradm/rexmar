@@ -39,3 +39,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío e isotónic
 - He, S., et al. (2023). *A Combination of Deep-Sea Water and Fucoidan Alleviates T2DM through modulation of gut microbiota and bile acid metabolism*. Pharmaceuticals. [🔗 Leer en MDPI Pharmaceuticals](https://www.mdpi.com/1424-8247/16/3/462)
 - Presentación académica sobre Ácidos biliares, síntesis y efectos: Prevención de la precipitación del colesterol en la vesícula biliar. [🔗 Ver en Academia.edu](https://www.academia.edu/11085695/%C3%81cidos_biliares_s%C3%ADntesis_y_efectos_BQ)
 - BioVie. *Detox del hígado o drenaje: el orden que sí funciona (Soporte mineral con plasma marino isotónico)*. [🔗 biovie.fr](https://www.biovie.fr/es/blog/detox-del-higado-o-drenaje-el-orden-que-si-funciona-biovie-n954)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

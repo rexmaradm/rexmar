@@ -37,3 +37,9 @@ El agua de mar actúa como un coadyuvante biomecánico y neurofisiológico en la
 3. **Cationes divalentes, electrolitos y función neuromuscular:**
    *Análisis del papel del magnesio, calcio y potasio en la señalización intracelular, el potencial de membrana y la optimización de la conducción nerviosa.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/28357254/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -37,3 +37,9 @@ El agua de mar es una solución rica en una gran variedad de minerales y oligoel
 El agua de mar, gracias a su rica composición mineral, puede ofrecer beneficios para el sistema inmunológico y la salud en general. Sin embargo, es fundamental consumirla de manera responsable y bajo la orientación de un profesional de la salud.
 
 Fuente: <https://g.co/gemini/share/363ee13cbc0f>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

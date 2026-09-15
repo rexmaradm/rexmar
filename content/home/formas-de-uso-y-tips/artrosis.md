@@ -223,3 +223,9 @@ A diferencia de la artritis reumatoide (donde la evidencia es moderada), **para 
 **Recomendación:** La balneoterapia con agua de mar o sales marinas puede considerarse como un tratamiento complementario efectivo para la artrosis, especialmente para el manejo del dolor, la mejora de la función articular y la calidad de vida. Puede realizarse en casa con sales del Mar Muerto de forma económica y segura.
 
 *Nota: Si decides probar baños con sales del Mar Muerto en casa, usa sales de calidad y consulta con tu reumatólogo o traumatólogo para asegurar que es adecuado para tu condición específica. Los baños deben ser parte de un enfoque integral que incluya ejercicio, control de peso y otros tratamientos prescritos.*
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

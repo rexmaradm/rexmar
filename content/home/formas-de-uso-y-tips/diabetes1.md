@@ -33,3 +33,9 @@ En el ámbito de la medicina integrativa, el agua de mar microfiltrada en frío 
 - Ha, B. G., et al. (2013). *Anti-Diabetic Effect of Balanced Deep-Sea Water and Its Mode of Action in High-Fat Diet Induced Diabetic Mice*. Marine Drugs, 11(11), 4193–4212. [🔗 Leer en PubMed Central (PMC3853723)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3853723/)
 - Ham, J. Y., et al. (2020). *Natural Magnesium-Enriched Deep-Sea Water Improves Insulin Resistance and the Lipid Profile of Prediabetic Adults: A Randomized, Double-Blinded, Placebo-Controlled Trial*. Nutrients, 12(2), 438. [🔗 Leer en PubMed (PMID: 32085495)](https://pubmed.ncbi.nlm.nih.gov/32085495/)
 - Shi, M., et al. (2023). *Effect of deep ocean mineral concentrate in diabetic mice: Modulation of glucose metabolism*. Diabetes, Metabolic Syndrome and Obesity: Targets and Therapy. [🔗 Leer estudio completo (Dove Medical Press)](https://www.dovepress.com/deep-sea-water-inhibited-pancreatic--cell-apoptosis-and-regulated-gluc-peer-reviewed-fulltext-article-DMSO)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

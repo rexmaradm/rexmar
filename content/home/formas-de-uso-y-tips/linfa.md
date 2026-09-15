@@ -60,3 +60,9 @@ Aunque es un libro y no un *paper* moderno, es la obra científica original dond
 ---
 
 *Nota para el lector: Aunque existen estudios sobre la remineralización y la terapia marina, el agua de mar debe estar correctamente microfiltrada y ser isotónica (como el Plasma de Quinton) para su consumo o uso terapéutico, ya que el agua de mar directa es hipertónica.*
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

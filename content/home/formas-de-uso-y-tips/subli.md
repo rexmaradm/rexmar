@@ -28,3 +28,9 @@ El agua de mar diluida (Plasma de Quinton) se utiliza en terapias alternativas p
 * **Fisiología:** Aunque la vía sublingual permite el paso directo al torrente sanguíneo evitando el primer paso hepático, la alta osmolaridad del agua de mar hipertónica puede irritar la mucosa. Por ello, se recomienda estrictamente la versión isotónica.
 * **Referencia base:** René Quinton (1904). *L'Eau de Mer, Milieu Organique*. Establece la isotonicidad del agua de mar diluida con el plasma sanguíneo, sentando las bases teóricas de su uso, aunque no aborda la vía sublingual.
 
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

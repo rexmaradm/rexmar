@@ -295,3 +295,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 </body>
 </html>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

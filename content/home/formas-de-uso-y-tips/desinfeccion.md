@@ -175,3 +175,9 @@ Descubrí los estudios científicos sobre las propiedades desinfectantes y antim
 - **<span class="qwen-markdown-text">\[82\] ScienceDirect:</span>** *<span class="qwen-markdown-text">Sea Water - an overview</span>*<span class="qwen-markdown-text"> - Artículo que explica que el agua de mar es hipertónica, con más de tres veces la osmolaridad de la sangre, y tiene actividad antimicrobiana. </span>[<span class="qwen-markdown-text">Leer más</span>](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/sea-water)
 - **<span class="qwen-markdown-text">\[83\] ResearchGate:</span>** *<span class="qwen-markdown-text">Efficacy and safety evaluation of a hypertonic seawater solution enriched with manganese and copper salts</span>*<span class="qwen-markdown-text"> - Estudio que muestra que el tratamiento con agua de mar hipertónica enriquecida ejerció un efecto bactericida sobre cultivos de </span>*<span class="qwen-markdown-text">S. aureus</span>*<span class="qwen-markdown-text"> y </span>*<span class="qwen-markdown-text">P. aeruginosa</span>*<span class="qwen-markdown-text">, mientras que el agua de mar no enriquecida no mostró el mismo efecto (2021). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.researchgate.net/publication/353200892_Efficacy_and_safety_evaluation_of_a_hypertonic_seawater)
 - **<span class="qwen-markdown-text">\[88\] ScienceDirect:</span>** *<span class="qwen-markdown-text">Effects of hyperosmotic stress on the intestinal microbiota</span>*<span class="qwen-markdown-text"> - Estudio que revela que la comunidad microbiana intestinal puede ser alterada y remodelada por estrés hiperósmico (2023). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.sciencedirect.com/science/article/abs/pii/S0044848622010183)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

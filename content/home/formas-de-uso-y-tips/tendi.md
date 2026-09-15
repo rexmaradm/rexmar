@@ -33,3 +33,9 @@ La tendinitis es la inflamación o degeneración de los tendones. El agua de mar
 
 3. **Oligoelementos y reparación de tejidos conectivos:**
    *Análisis del papel del zinc y el cobre en la proliferación de fibroblastos
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

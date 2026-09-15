@@ -39,3 +39,9 @@ En el ámbito de la medicina ortomolecular y regenerativa, el agua de mar microf
 - Maehira, F., &amp; Iinuma, Y. *Effects of soluble silicon compound and deep-sea water on biochemical and mechanical properties of bone and the related gene expression in mice*. [🔗 Ver estudio en ResearchGate](https://www.researchgate.net/publication/23225226_Effects_of_soluble_silicon_compound_and_deep-sea_water_on_biochemical_and_mechanical_properties_of_bone_and_the_related_gene_expression_in_mice)
 - Sarabanta Health. *Why Collagen Peptides Become Essential After 40: Ligaments, tendons, fascia and Quinton Isotonic Seawater*. [🔗 sarabantahealth.com](https://sarabantahealth.com/why-collagen-peptides-essential-after-40/)
 - Kim, N. I., et al. (2020). *Changes in Fatigue Recovery and Muscle Damage Enzymes after Deep-Sea Water Thalassotherapy*. Applied Sciences, MDPI. [🔗 Leer en MDPI Applied Sciences](https://www.mdpi.com/2076-3417/10/23/8383)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

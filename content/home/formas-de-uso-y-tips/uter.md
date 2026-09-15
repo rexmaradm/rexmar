@@ -38,3 +38,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío es reconoci
 - Thangavelu, A., et al. (2013). *Neoadjuvant treatment of endometrial cancer* (Sobre la salud endometrial y la productividad de estrógenos en el tejido uterino). Gynecologic Oncology. [🔗 Leer en ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0090825813011979)
 - Wellness Plus. *Quinton and Its Role in Fertility and Pregnancy*. [🔗 wellnessplus.com](https://wellnessplus.com/quinton-and-its-role-in-fertility-and-pregnancy/)
 - Fundación René Quinton. *Female Reproductive Hygiene &amp; Its Relationship to Human Fertility*. [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/en/studies-publications-books/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

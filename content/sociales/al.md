@@ -30,3 +30,9 @@ cada 100000 caracteres extras: 18 soles
 Para pedir presupuesto,
 
 <a href="https://th.org.pe/contacto">contáctese con nosotros</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

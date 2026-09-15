@@ -93,3 +93,9 @@ En el camarón pardo (*Crangon crangon*), las concentraciones internas de bromur
 - <a href="https://pubmed.ncbi.nlm.nih.gov/24152541/" target="_blank" rel="noopener noreferrer">De Souza FP, Sen Gupta R. On Fluoride, Bromide and Iodide in the Southwestern Indian Ocean Sector of the Southern Ocean. Indian Journal of Marine Sciences. 1982.</a>
 - <a href="http://www.who.int/water_sanitation_health/dwq/chemicals/bromide.pdf" target="_blank" rel="noopener noreferrer">WHO. Bromide in Drinking-water: Background document for development of WHO Guidelines for Drinking-water Quality. World Health Organization.</a>
 - <a href="https://pubchem.ncbi.nlm.nih.gov/compound/bromide" target="_blank" rel="noopener noreferrer">PubChem. Bromide ion. National Library of Medicine.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

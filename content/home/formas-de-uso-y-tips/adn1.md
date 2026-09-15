@@ -40,3 +40,9 @@ El agua de mar no solo es el entorno evolutivo donde surgió la vida, sino que s
 3. **Química prebiótica y origen del ARN/ADN en condiciones marinas:**
    *Investigación sobre cómo la composición iónica del agua de mar primitiva catalizó la formación de los primeros ácidos nucleicos.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/31053566/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

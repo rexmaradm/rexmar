@@ -38,3 +38,9 @@ La ciencia traslacional está explorando activamente el uso de los minerales del
 - Kong, W., et al. (2025). *Application of magnesium and its compounds in biomaterials for nerve injury repair*. Nanotechnology Reviews. [🔗 Leer en De Gruyter](https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0185/html)
 - Patente EP3313448A1. *A highly concentrated seawater mineral extract and uses thereof for spinal cord injury*. [🔗 Ver en Google Patents](https://patents.google.com/patent/EP3313448A1/en)
 - de Baaij, J. H. F., et al. (2015). *Magnesium in Man: Implications for Health and Disease* (Incluye el rol del magnesio del agua de mar en la neuroprotección de la médula espinal). Physiological Reviews. [🔗 Leer en Physiological Reviews](https://journals.physiology.org/doi/full/10.1152/physrev.00012.2014)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -30,3 +30,9 @@ La intersección entre la física cuántica y el agua de mar revela comportamien
 3. **Dinámica cuántica y efecto túnel de protones en el agua:**
    *Estudio sobre el comportamiento subatómico de los enlaces de hidrógeno en entornos acuosos.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/28137842/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

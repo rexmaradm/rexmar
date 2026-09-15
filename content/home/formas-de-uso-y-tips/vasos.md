@@ -38,3 +38,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío e isotónic
 - Katsuda, S. I., et al. (2008). *Deep-sea water improves cardiovascular hemodynamics*. Biological and Pharmaceutical Bulletin. [🔗 Leer en J-Stage](https://www.jstage.jst.go.jp/article/bpb/31/1/31_1_38/_article)
 - Ueshima, H., et al. (2011). *Cardiovascular protection of deep-seawater drinking water: Suppression of PAI-1 release from human vascular endothelial cells*. Food Chemistry. [🔗 Leer en ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0308814611002238)
 - Wu, C. C., et al. (2022). *Deep Sea Water-Dissolved Organic Matter Intake Improves Hyperlipidemia and Inhibits Thrombus Formation and Vascular Inflammation*. Life. [🔗 Leer en MDPI Life](https://www.mdpi.com/2075-1729/12/1/82)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -14,3 +14,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 Testimonios recogidos por la Tta. Griselda Donatucci
 
 <div hidden="">cancer, cáncer</div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

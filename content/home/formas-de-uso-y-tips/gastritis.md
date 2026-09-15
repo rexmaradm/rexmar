@@ -28,3 +28,9 @@ bacterias buenas: <https://www.mdpi.com/812812>
 <https://www.infobae.com/salud/2019/02/12/las-propiedades-del-agua-de-mar-beberla-hace-bien-a-la-salud/>
 
 <https://pubmed.ncbi.nlm.nih.gov/32878045/>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

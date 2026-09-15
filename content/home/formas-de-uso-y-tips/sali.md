@@ -38,3 +38,9 @@ La saliva no es solo agua; es un fluido complejo lleno de enzimas que dependen d
 - Estudio sobre el impacto de la hidratación con agua de mar profunda en la función de las glándulas salivales y el rendimiento. [🔗 Ver en ResearchGate](https://www.researchgate.net/publication/301334762_The_impact_of_post-exercise_hydration_with_deep-ocean_mineral_water_on_rehydration_and_exercise_performance)
 - Asprey, D. *The benefits of drinking sea water: Salivary glands and marine plasma*. [🔗 Ver referencia sobre función salival y plasma marino](https://www.facebook.com/Daveaspreyofficial/posts/the-benefits-of-drinking-sea-water-seawater-biohacking-biohacker-biohacked-davea/5816537611746170/)
 - Water and Wellness. *What Are YOU Feeding Your Bioterrain? (Including Saliva and Marine Plasma)*. [🔗 waterandwellness.com](https://waterandwellness.com/blogs/news/what-are-you-feeding-your-bioterrain)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

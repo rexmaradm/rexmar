@@ -131,3 +131,9 @@ Referencias:
     *Influencia del SNC en metabolismo de electrolitos y agua* jamanetwork.com
 
 ---
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

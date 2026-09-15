@@ -39,3 +39,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío es reconoci
 - Pan, B. S., et al. (2018). *Molecular and thermal characteristics of acid-soluble collagen: Effects of deep-sea water culturing*. International Journal of Food Properties. [🔗 Leer en Taylor &amp; Francis Online](https://www.tandfonline.com/doi/full/10.1080/10942912.2018.1476873)
 - Rondanelli, M., et al. (2021). *Silicon: A neglected micronutrient essential for bone and connective tissue (cartilage) health*. Experimental Biology and Medicine. [🔗 Leer en Sage Journals](https://journals.sagepub.com/doi/10.1177/1535370221997072)
 - Quinton Medical. *Marine Therapy: Joint health, cartilage support and synovial fluid hydration*. [🔗 quintonmedical.com](https://quintonmedical.com/benefits-of-seawater/health)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

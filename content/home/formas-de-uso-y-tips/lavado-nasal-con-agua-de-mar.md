@@ -21,3 +21,9 @@ https://journals.sagepub.com/doi/abs/10.1177/1753465809358190
 
   
 https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/221846
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -38,3 +38,9 @@ En la fisiología establecida por René Quinton, la salud del bazo depende de la
 - Bak, J. P., et al. (2012). *Application of concentrated deep sea water inhibits the development of atopic dermatitis-like skin lesions*. BMC Complementary and Alternative Medicine. [🔗 Leer en Springer (Modulación de linfocitos esplénicos)](https://link.springer.com/article/10.1186/1472-6882-12-108)
 - Estudio sobre los efectos del agua de mar profunda en la inmunidad de modelos biológicos. [🔗 Ver estudio sobre función fagocítica de macrófagos](https://hndk.hainanu.edu.cn/en/article/doi/10.15886/j.cnki.hdxbzkb.2009.03.007)
 - Fundación René Quinton. *El sistema reticuloendotelial y la Terapia Marina*. [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/blog/medicina-integrativa/otros/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -97,3 +97,9 @@ Aunque no es agua de mar, es relevante mencionar que la lipólisis por inyecció
 ---
 
 **Nota importante:** Aunque existen estudios prometedores sobre inyecciones de solución salina para lipomas y los efectos antitumorales del agua de mar profunda, estos tratamientos deben considerarse complementarios y siempre bajo supervisión médica. Los lipomas son tumores benignos que generalmente no requieren tratamiento, pero si causan molestias, deben ser evaluados por un profesional de la salud.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -37,3 +37,9 @@ En la práctica clínica de la MTC, el agua de mar y sus derivados se utilizan t
 3. **Propiedades osmóticas y antiinflamatorias de la sal marina en aplicaciones externas:**
    *Análisis de los mecanismos físicos y bioquímicos por los cuales los minerales marinos reducen la inflamación y disuelven el edema tisular.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/27412589/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

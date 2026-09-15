@@ -97,3 +97,9 @@ En los organismos marinos, el potasio es un ion que debe ser regulado activament
 - <a href="https://www.chinajan.com/EN/10.12418/CJAN2024.519" target="_blank" rel="noopener noreferrer">Zhu W, et al. Research Progress on Physiological Functions of Potassium and Its Application in Livestock and Poultry Production. Chinese Journal of Animal Nutrition. 2024;36(10):6121-6128.</a>
 - <a href="https://gfzpublic.gfz.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5022247_2" target="_blank" rel="noopener noreferrer">Nambiar R, et al. Controls on potassium incorporation in foraminifera and other marine calcifying organisms. Geochimica et Cosmochimica Acta. 2023;351:125-138.</a>
 - <a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1385347" target="_blank" rel="noopener noreferrer">Pacho L, et al. Differences between potassium and sodium incorporation in foraminiferal shell carbonate. Front Mar Sci. 2024;11:1385347.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

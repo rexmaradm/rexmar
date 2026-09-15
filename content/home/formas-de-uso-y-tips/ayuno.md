@@ -17,3 +17,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 - **Beneficios reportados:** Incluye mejora en la hidratación celular, apoyo a la función mitocondrial, regulación del pH, desintoxicación y posible mejora en la digestión y el bienestar mental gracias al magnesio.
 
 Ante cualquier condición de salud preexistente, se aconseja consultar con un médico/terapeuta/chaman antes de iniciar ayunos prolongados.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

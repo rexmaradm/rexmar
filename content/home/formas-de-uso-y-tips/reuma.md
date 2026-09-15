@@ -380,3 +380,9 @@ Descubrí los estudios científicos que demuestran cómo el agua de mar y los ba
 - **<span class="qwen-markdown-text">\[129\] ClinicalTrials.gov:</span>** *<span class="qwen-markdown-text">Application of Warm Water and Warm Salt Water to Patients with Rheumatoid Arthritis</span>*<span class="qwen-markdown-text"> - Registro del ensayo clínico sobre baños de agua salada en AR. </span>[<span class="qwen-markdown-text">Leer más</span>](https://clinicaltrials.gov/study/NCT05888220)
 - **<span class="qwen-markdown-text">\[130\] Facebook:</span>** *<span class="qwen-markdown-text">Hot mud and salt baths for osteoarthritis</span>*<span class="qwen-markdown-text"> - Publicación sobre cómo los baños de agua salada hipertónica reducen la inflamación en AR. </span>[<span class="qwen-markdown-text">Leer más</span>](https://www.facebook.com/BrettLevineMD/posts/osteoarthritis-research-hot-mud-and-salt-baths-osteoarthritis-hotmud-saltbaths/2763097343806218/)
 - **<span class="qwen-markdown-text">\[131\] Indian Express:</span>** *<span class="qwen-markdown-text">Salt water bath can help reduce arthritis pain</span>*<span class="qwen-markdown-text"> - Artículo sobre cómo la solución salina reduce la inflamación dolorosa de las articulaciones. </span>[<span class="qwen-markdown-text">Leer más</span>](https://indianexpress.com/article/lifestyle/health/salt-water-bath-can-help-reduce-arthritis-pain/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -319,3 +319,9 @@ Descubrí los estudios científicos que demuestran cómo el agua de mar profunda
 - **<span class="qwen-markdown-text">\[14\] Quinton Medical:</span>** *<span class="qwen-markdown-text">Health benefits of seawater</span>*<span class="qwen-markdown-text"> - Información sobre los beneficios del agua de mar para reponer minerales y oligoelementos. </span>[<span class="qwen-markdown-text">Leer más</span>](https://quintonmedical.com/benefits-of-seawater/health)
 - **<span class="qwen-markdown-text">\[15\] ResearchGate:</span>** *<span class="qwen-markdown-text">Pilot study of a potential geroprotector, "Quinton Marine Plasma"</span>*<span class="qwen-markdown-text"> - Estudio piloto sobre el Plasma de Quinton como geroprotector (2015). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.researchgate.net/publication/271963915_Pilot_study_of_a_potential_geroprotector_Quinton_Marine_Plasma_in_experiments_on_cultured_cells)
 - **<span class="qwen-markdown-text">\[16\] Quinton Store:</span>** *<span class="qwen-markdown-text">Unlocking Menopause Relief: 7 Transformative Ways Quinton Can Elevate Your Well-being</span>*<span class="qwen-markdown-text"> - Artículo sobre cómo el Plasma de Quinton puede apoyar la densidad ósea. </span>[<span class="qwen-markdown-text">Leer más</span>](https://quintonstore.co.za/blogs/news/unlocking-menopause-relief-7-transformative-ways-quinton-can-elevate-your-well-being-during-this-life-stage)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

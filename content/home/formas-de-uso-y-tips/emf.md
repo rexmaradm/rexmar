@@ -38,3 +38,9 @@ La resiliencia frente a los EMF depende en gran medida de la salud mitocondrial 
 - Ha, B. G., et al. (2013). *Magnesium and calcium-enriched deep-sea water promotes mitochondrial biogenesis by AMPK-activated signals pathway*. [🔗 Ver estudio sobre biogénesis mitocondrial](https://restorativemedicine.org/wp-content/uploads/2017/09/Salter_Mitochondria.1.2.3final.pdf)
 - Chen, B., et al. (2019). *Refined Deep-Sea Water Suppresses Inflammatory Responses via the MAPK/AP-1 and NF-kappaB Signaling Pathway*. Biomedical and Environmental Sciences. [🔗 Leer en BES Journal](https://www.besjournal.com/fileSWYXYHJKX/journal/article/bes/2019/7/PDF/bes-32-7-496.pdf)
 - BioVie. *Consejos para protegerse de las ondas electromagnéticas y el rol del plasma marino*. [🔗 biovie.fr](https://www.biovie.fr/en/blog/8-simple-and-easy-tips-to-protect-yourself-from-waves-even-if-we-are-not-electrosensitive-n674)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

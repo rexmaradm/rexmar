@@ -39,3 +39,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío e isotónic
 - Wang, H. H., et al. (2024). *Magnesium-enriched deep-sea water inhibits NLRP3 inflammasome activation and dampens joint inflammation*. Heliyon, Cell Press. [🔗 Leer en Cell Press](https://www.cell.com/heliyon/fulltext/S2405-8440(24)11167-X)
 - Rondanelli, M., et al. (22021). *Silicon: A neglected micronutrient essential for bone and connective tissue (cartilage) health*. Experimental Biology and Medicine. [🔗 Leer en Sage Journals](https://journals.sagepub.com/doi/10.1177/1535370221997072)
 - Quinton Medical. *Marine Therapy: Joint health, cartilage support and synovial fluid hydration*. [🔗 quintonmedical.com](https://quintonmedical.com/benefits-of-seawater/health)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

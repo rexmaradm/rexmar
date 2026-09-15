@@ -40,3 +40,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío e isotónic
 - Maehira, F., &amp; Iinuma, Y. *Effects of soluble silicon compound and deep-sea water on osteoblast and osteoclast cell growth*. [🔗 Ver estudio en Semantic Scholar](https://www.semanticscholar.org/paper/Effects-of-soluble-silicon-compound-and-deep-sea-on-Maehira-Iinuma/6c27cb1565663dc66ff02a5852960601d0a79e55)
 - Wang, H. H., et al. (2024). *Magnesium-enriched deep-sea water inhibits NLRP3 inflammasome activation and dampens inflammation*. Heliyon, Cell Press. [🔗 Leer en Cell Press](https://www.cell.com/heliyon/fulltext/S2405-8440(24)11167-X)
 - Quinton Medical. *Health benefits of seawater: Minerals promote health, energy and vitality for bones*. [🔗 quintonmedical.com](https://quintonmedical.com/benefits-of-seawater/health)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

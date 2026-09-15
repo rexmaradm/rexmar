@@ -39,3 +39,9 @@ El perfil mineral del agua de mar aborda la salud cerebral desde la base bioquí
 - Corona, G., et al. (2014). *The Role of the Marine Plasma in the Elderly with Dementia and Hypovolemia*. Alzheimer's &amp; Dementia. [🔗 Leer en Alzheimer's &amp; Dementia](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2014.05.730)
 - Harada, N., et al. *Desalted deep-sea water improves cognitive function in mice by increasing the production of insulin-like growth factor*. [🔗 Ver estudio en ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0009279718300541)
 - Slutsky, I., et al. (2010). *Elevation of brain magnesium prevents synaptic loss and reverses cognitive deficits*. (Relacionado con los efectos del magnesio marino en la plasticidad sináptica). [🔗 Leer en Nature Neuroscience](https://www.nature.com/articles/nn.2487)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

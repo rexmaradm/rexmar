@@ -53,3 +53,9 @@ La ciencia explica el efecto protector del plasma marino isotónico a través de
 - US Patent 20240342223A1. *Therapeutic and preventive compositions comprising isotonic marine plasma*. [🔗 Ver patente](https://patents.google.com/patent/US20240342223A1/)
 - Stampar. (2018). *Eficacia de la irrigación nasal con solución isotónica de agua de mar en sinusitis crónica*. [🔗 Ver estudio](https://www.stampar.hr/sites/default/files/2021-07/pregled_2018._web.pdf)
 - Quinton Marine Plasma. *Proceso de microfiltración en frío y pureza garantizada*. [🔗 Water and Wellness](https://waterandwellness.com/blogs/news/quinton-origin-substance-of-life)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

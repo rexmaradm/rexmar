@@ -38,3 +38,9 @@ La anemia, frecuentemente causada por deficiencia de hierro o alteraciones en la
 3. **Estrés oxidativo y hemólisis en la anemia:**
    *Análisis de cómo los minerales antioxidantes como el selenio protegen los eritrocitos y mejoran los marcadores hemáticos en estados anémicos.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/29560312/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

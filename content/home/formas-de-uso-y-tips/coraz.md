@@ -39,3 +39,9 @@ En el ámbito de la medicina integrativa, el agua de mar microfiltrada en frío 
 - Liang, B., et al. (2021). *Marine Natural Products and Coronary Artery Disease*. Frontiers in Cardiovascular Medicine. [🔗 Leer en Frontiers in Cardiovascular Medicine](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2021.739932/full)
 - Estudios sobre el magnesio y calcio en el agua y el riesgo de infarto agudo de miocardio. [🔗 Ver estudio en Journal of the Chinese Medical Association](https://wd.vghtpe.gov.tw/jcma/files/7603_121.pdf)
 - Aversa, A., et al. *Role of the Marine Plasma in the Elderly: Endothelial Function and Cardiovascular Risk*. [🔗 Ver investigación sobre Plasma Marino y función endotelial](https://uniroma1.academia.edu/AntonioAversa/CurriculumVitae)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

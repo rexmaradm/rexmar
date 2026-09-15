@@ -39,3 +39,9 @@ El agua de mar, especialmente en su dilución isotónica (conocida como Plasma d
 3. **Minerales y desintoxicación en el espacio intersticial:**
    *Evaluación de cómo el aporte de oligoelementos y el equilibrio osmótico favorecen el aclaramiento de toxinas y metabolitos ácidos en el mesenquima.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/28357254/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

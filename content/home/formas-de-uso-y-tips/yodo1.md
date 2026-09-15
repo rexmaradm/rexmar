@@ -107,3 +107,9 @@ En el medio marino, el yodo es un elemento esencial para los organismos acuátic
 - <a href="https://pubmed.ncbi.nlm.nih.gov/8103449/" target="_blank" rel="noopener noreferrer">Mooij P, de Wit HJ, Bloot AM, Wilders-Truschnig MM, Drexhage HA. Iodine deficiency induces thyroid autoimmune reactivity in Wistar rats. Endocrinology. 1993;133(3):1197-1204.</a>
 - <a href="https://www.mdpi.com/2072-6643/18/8/1262" target="_blank" rel="noopener noreferrer">Delić T, et al. Iodine in Health and Disease: A Comprehensive Review. Nutrients. 2026;18(8):1262.</a>
 - <a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1417731/full" target="_blank" rel="noopener noreferrer">Chance R, Mahajan AS. Editorial: The marine iodine cycle, past, present and future. Frontiers in Marine Science. 2024;11:1417731.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

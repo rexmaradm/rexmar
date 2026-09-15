@@ -38,3 +38,9 @@ La salud de la uña comienza desde el interior, en la matriz que la genera. El c
 - Diez Minutos / Dermatología Integrativa. *Todos los beneficios del agua de mar: mantenimiento del pH y ayuda para sanar infecciones de hongos en las uñas*. [🔗 Leer artículo sobre beneficios dermatológicos](https://www.diezminutos.es/moda-belleza/belleza/a61184286/agua-de-mar-piel-beneficios-belleza/)
 - Creu Blanca. *Beneficios del agua de mar: mejora la circulación y evita infecciones en uñas y pies*. [🔗 creu-blanca.es](https://creu-blanca.es/blog/beneficios-del-agua-de-mar/)
 - Fundación René Quinton. *El agua de mar y su efecto en el cabello, la piel y las uñas (vía oral)*. [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/blog/que-hace-el-agua-de-mar-en-el-cabello/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

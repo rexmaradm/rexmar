@@ -105,3 +105,9 @@ Si prefieres evitar el uso de sal refinada, puedes usar agua de mar como condime
 
 - **Rociado sobre alimentos** : úsala hipertónica (pura) como spray para sazonar ensaladas, carnes o verduras antes de asarlas y sobre todo, luego al servirlas.![](/wp-content/uploads/2025/03/atomizador.png)
 - **Marinado** : Usa agua de mar diluida para marinar carnes, aves o pescados. Esto no solo los sazona, sino que también tiende a ablandarlos ligeramente.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

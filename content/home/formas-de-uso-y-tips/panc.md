@@ -38,3 +38,9 @@ En la fisiología integrativa, el páncreas no se ve como un órgano aislado, si
 - Ham, J. Y., et al. (2020). *Natural Magnesium-Enriched Deep-Sea Water Improves Insulin Resistance and the Lipid Profile of Prediabetic Adults: A Randomized, Double-Blinded Crossover Trial*. Nutrients. [🔗 Leer en PubMed (PMID: 32085495)](https://pubmed.ncbi.nlm.nih.gov/32085495/)
 - Laboratoires de Biarritz. *Quinton Marine Plasma: Regeneración celular y equilibrio del medio interno*. [🔗 quintonmedical.com](https://es.quintonmedical.com/terapia-marina)
 - Patente CA2914547A1. *Aplicaciones derivadas de minerales biodisponibles y Plasma Marino de Quinton*. [🔗 Ver en Google Patents](https://patents.google.com/patent/CA2914547A1/en)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

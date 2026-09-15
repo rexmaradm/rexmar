@@ -127,3 +127,9 @@ Descubrí los estudios científicos sobre cómo el agua de mar (tópica y bebida
 - **<span class="qwen-markdown-text">\[47\] National Eczema Association:</span>** *<span class="qwen-markdown-text">Swimming with Eczema: What You Should Know</span>*<span class="qwen-markdown-text"> - Información sobre cómo el agua salada puede aliviar o irritar la piel con eccema. </span>[<span class="qwen-markdown-text">Leer más</span>](https://nationaleczema.org/blog/swimming-eczema/)
 - **<span class="qwen-markdown-text">\[49\] PMC/ NIH:</span>** *<span class="qwen-markdown-text">Adverse health outcomes associated with drinking highly saline water</span>*<span class="qwen-markdown-text"> - Estudio sobre los resultados adversos para la salud asociados con beber agua altamente salina (2025). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://pmc.ncbi.nlm.nih.gov/articles/PMC12696076/)
 - **<span class="qwen-markdown-text">\[50\] Quinton Medical:</span>** *<span class="qwen-markdown-text">Drinking Sea Water</span>*<span class="qwen-markdown-text"> - Información sobre el consumo seguro de agua de mar microfiltrada en frío usando el protocolo AQP. </span>[<span class="qwen-markdown-text">Leer más</span>](https://quintonmedical.com/marine-therapy/drink-seawater)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -32,3 +32,9 @@ El agua de mar isotónica, históricamente denominada "Plasma de Quinton", es re
 
 - Jo, S. M., et al. (2021). *Effect of Mineral-Balanced Deep-Sea Water on Kidney Function and Renal Oxidative Stress Markers in Rats Fed a High-Salt Diet*. International Journal of Molecular Sciences, 22(24), 13415. [DOI: 10.3390/ijms222413415](https://doi.org/10.3390/ijms222413415)
 - Fundación René Quinton. *Ciencia y Agua de Mar: Mecanismos de presión osmótica y regulación renal*. Disponible en: [fundacionrenequinton.org](https://www.fundacionrenequinton.org/blog/plasma-de-quinton-un-camino-hacia-la-salud/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

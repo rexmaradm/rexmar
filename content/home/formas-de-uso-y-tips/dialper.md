@@ -49,3 +49,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
    *Impacto del agua marina en la microcirculación cutánea y el intercambio iónico transdérmico.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/27555927/)
 
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

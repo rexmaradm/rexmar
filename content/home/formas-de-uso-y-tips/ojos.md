@@ -74,3 +74,9 @@ El uso de soluciones a base de **agua de mar estéril** (ya sea isotónica o hip
 ### Conclusión
 
 La evidencia científica respalda que las soluciones oftálmicas basadas en **agua de mar estéril** (gracias a su riqueza en minerales como el magnesio, zinc y oligoelementos) poseen propiedades antiinflamatorias, antisépticas y cicatrizantes naturales. Son una excelente alternativa o complemento para el manejo del ojo seco, las alergias y la inflamación de los párpados.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

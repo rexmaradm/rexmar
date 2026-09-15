@@ -37,3 +37,9 @@ En el contexto homeopático, el agua de mar no solo aporta un sustrato mineral, 
 3. **Aguas minerales, sistema inmune y regulación del terreno:**
    *Evaluación clínica de cómo la ingestión y aplicación de aguas ricas en minerales modula la respuesta inmune y el drenaje biológico, principios fundamentales en la isoterapia.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/25044558/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

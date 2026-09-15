@@ -91,3 +91,9 @@ La toxicidad del oro elemental por vía oral es generalmente baja. Los estudios 
 - <a href="https://pubmed.ncbi.nlm.nih.gov/25844012/" target="_blank" rel="noopener noreferrer">Hadrup N, et al. Toxicological risk assessment of elemental gold following oral exposure to sheets and nanoparticles – A review. Regulatory Toxicology and Pharmacology. 2015;72(2):216-221.</a>
 - <a href="https://www.sciencealert.com/record-breaking-concentrations-of-gold-discovered-in-the-seafloor" target="_blank" rel="noopener noreferrer">Record-Breaking Concentrations of Gold Discovered in The Seafloor. ScienceAlert. 2026.</a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016703724005209" target="_blank" rel="noopener noreferrer">Huang W, et al. Distribution of gold derived from hydrothermal fluids on the modern seafloor and its impact on the gold budget of seawater. Frontiers in Marine Science. 2024.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -33,3 +33,9 @@ La perimenopausia implica una disminución de estrógenos y progesterona, genera
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/29809316/) 
 
 Vease también: [Menopausia y AdM](@/home/formas-de-uso-y-tips/menopausia.md)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

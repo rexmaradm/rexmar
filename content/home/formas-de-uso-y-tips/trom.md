@@ -38,3 +38,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío es reconoci
 - Reyes, P. A. Z. A., et al. (2007). *Apoptosis related genes expressed in cultured Fallopian tube epithelial cells*. Biological Research. [🔗 Leer en SciELO Chile](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-97602007000400006)
 - Estudios sobre la modulación de la inflamación pélvica y la salud del tracto reproductivo superior. [🔗 Ver en ResearchGate (Salpingitis)](https://www.researchgate.net/figure/anthogranulomatous-salpingitis-There-are-lipid-containing-macrophages-stars-and-mixed_fig2_362787905)
 - Wellness Plus. *Quinton and Its Role in Fertility and Pregnancy (Marine Plasma)*. [🔗 wellnessplus.com](https://wellnessplus.com/quinton-and-its-role-in-fertility-and-pregnancy/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

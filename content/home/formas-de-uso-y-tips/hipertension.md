@@ -232,3 +232,9 @@ Según los estudios revisados, los protocolos efectivos son:
 - **Precaución en enfermedad renal**
 
 *Nota importante: Si tienes hipertensión, consulta SIEMPRE con tu cardiólogo antes de considerar cualquier intervención con agua de mar profunda o suplementos de magnesio. La hipertensión es una condición seria que requiere tratamiento médico adecuado. El agua de mar profunda refinada o el magnesio pueden ser complementos útiles, pero nunca reemplazos del tratamiento convencional.*
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

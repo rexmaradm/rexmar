@@ -52,3 +52,9 @@ La mejor forma de obtener la cantidad de cobre que tu cuerpo necesita es consumi
 Recuerda consultar a un profesional de la salud antes de implementar cambios en tu alimentación y la de tu familia
 
 Fuente: <https://www.telemundo.com/shows/un-nuevo-dia/salud/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-quemar-grasa-y-perder-peso-tmna1092746>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

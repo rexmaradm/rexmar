@@ -82,3 +82,9 @@ En aves, el bicarbonato es esencial para la formación de la cáscara del huevo.
 - <a href="http://ssswxb.ihb.ac.cn/en/article/doi/10.3724/1000-3207.2025.2025.0016" target="_blank" rel="noopener noreferrer">Zhang R, Wu LY, Cao KK, et al. Sodium bicarbonate on growth performance, blood biochemical parameters, and intestinal damage of largemouth bass (Micropterus salmoides) under chronic heat stress. Acta Hydrobiologica Sinica. 2025;49(8):082503.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/18216137/" target="_blank" rel="noopener noreferrer">Kurita Y, Nakada T, Kato A, et al. Identification of intestinal bicarbonate transporters involved in formation of carbonate precipitates to stimulate water absorption in marine teleost fish. American Journal of Physiology - Regulatory, Integrative and Comparative Physiology. 2008;294(4):R1402-R1412.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/38536494/" target="_blank" rel="noopener noreferrer">Holmberg SR, Sakamoto Y, Kato A, Romero MF. The role of Na+-coupled bicarbonate transporters (NCBT) in health and disease. Pflügers Archiv - European Journal of Physiology. 2024;476(4):479-503.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

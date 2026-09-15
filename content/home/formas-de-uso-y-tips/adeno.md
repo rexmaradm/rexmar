@@ -32,3 +32,9 @@ Las adenoides (vegetaciones adenoideas) son tejido linfoide ubicado en la nasofa
 3. **Disrupción de biofilms bacterianos nasales mediante irrigación con agua de mar:**
    *Análisis de la capacidad de las soluciones marinas para alterar la matriz de los biofilms en la superficie de las vegetaciones adenoideas, reduciendo la carga bacteriana.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/29436211/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

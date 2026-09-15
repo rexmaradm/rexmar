@@ -61,3 +61,9 @@ Referencias:
 https://jamanetwork.com/journals/jama/article-abstract/300071
 
 <https://www.studocu.com/es-mx/document/universidad-privada-del-bajio/fisioterapia/los-beneficios-del-plasma-marino/48963855>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -34,3 +34,9 @@ En humanos, se miden **marcadores de envejecimiento** (inflamación, estrés oxi
 - **Conclusión del estudio:** El agua de mar microfiltrada no actúa como una medida aislada o "píldora mágica", pero es un coadyuvante efectivo para potenciar los beneficios del ejercicio y mitigar la pérdida mineral y el estrés oxidativo en el envejecimiento \[\[41\]\].
 
 >
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

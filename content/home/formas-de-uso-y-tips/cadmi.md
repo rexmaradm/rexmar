@@ -97,3 +97,9 @@ En aves, el cadmio puede causar raquitismo y deformidades esqueléticas, especia
 - <a href="https://doi.org/10.1029/2025JC022817" target="_blank" rel="noopener noreferrer">Water Column Cycling of Cadmium in the North-Eastern and Subtropical Gyre Region of the Indian Ocean. Journal of Geophysical Research: Oceans. 2025;130(6).</a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016703724005209" target="_blank" rel="noopener noreferrer">Steiner Z, Sarkar A, Prakash S, et al. The roles of celestine and barite in modulating strontium and barium water column concentrations in the northeast Pacific Ocean. Geochimica et Cosmochimica Acta. 2024;388:1-18.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/18216137/" target="_blank" rel="noopener noreferrer">Kurita Y, Nakada T, Kato A, et al. Identification of intestinal bicarbonate transporters involved in formation of carbonate precipitates to stimulate water absorption in marine teleost fish. American Journal of Physiology - Regulatory, Integrative and Comparative Physiology. 2008;294(4):R1402-R1412.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

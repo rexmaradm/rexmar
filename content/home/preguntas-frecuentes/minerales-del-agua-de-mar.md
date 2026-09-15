@@ -51,3 +51,9 @@ Además de los iones mayoritarios, el agua de mar contiene elementos traza en co
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016703704007549" target="_blank" rel="noopener noreferrer">The major-ion composition of Permian seawater</a> (ScienceDirect).
 - <a href="https://doi.org/10.1021/ac800500f" target="_blank" rel="noopener noreferrer">Multielemental determination of GEOTRACES key trace metals in seawater by ICPMS</a> (Analytical Chemistry).
 - <a href="https://jol.iocasjournals.cn/en/article/43865081/" target="_blank" rel="noopener noreferrer">Environmental characteristics of trace metals in seawater from the Ninety East Ridge in the Indian Ocean</a> (Journal of Oceanology and Limnology).
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

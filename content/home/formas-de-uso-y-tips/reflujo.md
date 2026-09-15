@@ -36,3 +36,9 @@ Además, se ha documentado que el plasma de Quinton ofrece un apoyo digestivo in
 - Estudio sobre el efecto del agua de mar profunda en la respuesta antiinflamatoria en modelos de úlcera gástrica (2023). [🔗 Leer en PubMed Central (PMC10743565)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10743565/)
 - Nani, S. Z. M., et al. (2016). *Potential Health Benefits of Deep Sea Water: A Review*. Evidence-Based Complementary and Alternative Medicine. [🔗 Leer en PubMed Central (PMC5221345)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/)
 - Biovie. *Plasma de Quinton: lo que la ciencia realmente dice*. Disponible en: [🔗 biovie.fr](https://www.biovie.fr/es/blog/plasma-de-quinton-lo-que-la-ciencia-realmente-dice-guia-2026-n927)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

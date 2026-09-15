@@ -57,3 +57,9 @@ Rumble("play", {"video":"v7d3o5w","div":"rumble_v7d3o5w"});</script>
 * **Potencial médico:** La microbiología marina representa una fuente prometedora para el descubrimiento de nuevos fármacos, especialmente cuando las industrias tradicionales han reducido sus esfuerzos de búsqueda.
 * **Cultura y bioinformática:** Recomendó el uso de herramientas modernas como **IDBAC** y la base de datos **GNPS** con espectrometría de masas para priorizar cepas únicas.
 * **Potencial en Chile:** Alentó a la comunidad científica local a explorar los diversos ambientes marinos de la costa chilena, desde zonas templadas hasta subárticas.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

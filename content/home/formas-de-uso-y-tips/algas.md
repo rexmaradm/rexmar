@@ -149,3 +149,9 @@ Las algas absorben los nutrientes directamente del agua de mar a través de sus 
 En resumen, las algas están compuestas principalmente por **carbono, oxígeno, hidrógeno, nitrógeno y fósforo**, junto con otros elementos secundarios y oligoelementos que cumplen funciones específicas en su metabolismo y estructura. Esto las convierte en organismos fundamentales para el ecosistema marino, ya que forman la base de muchas cadenas tróficas y contribuyen significativamente a la producción de oxígeno en el planeta. 🌿🌊
 
 Fuente: IA (inteligencia Artificial)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

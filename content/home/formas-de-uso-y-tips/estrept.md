@@ -32,3 +32,9 @@ Las infecciones por estreptococos (como *Streptococcus pyogenes* o *Streptococcu
 3. **Irrigaciones nasales y faríngeas con agua de mar en infecciones respiratorias:**
    *Estudio clínico sobre la reducción de la carga bacteriana estreptocócica y la mejora del aclaramiento mucociliar mediante lavados con agua marina.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/30124567/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

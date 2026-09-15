@@ -39,3 +39,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío e isotónic
 - Chen, B., et al. (2019). *Refined Deep-Sea Water Suppresses Inflammatory Responses via the MAPK/AP-1 and NF-κB Signaling Pathway*. [🔗 Leer en ResearchGate](https://www.researchgate.net/publication/321688427_Refined_Deep-Sea_Water_Suppresses_Inflammatory_Responses_via_the_MAPKAP-1_and_NF-kB_Signaling_Pathway_in_LPS-Treated_RAW_2647_Macrophage_Cells)
 - Huang, S., et al. (2021). *Is a diluted seawater-based solution safe and effective on human mucosal homeostasis?* European Archives of Oto-Rhino-Laryngology. [🔗 Leer en PubMed Central (PMC8266784)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8266784/)
 - Santi Shop / Naturamedicatrix. *When and how to use Quinton Hyper and Isotonic Plasma for vaginal infections and electrolyte balance*. [🔗 santi-shop.eu](https://www.santi-shop.eu/en/blog/sante-nutrition-1/when-and-how-to-use-quinton-hyper-and-isotonic-plasma-1692)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

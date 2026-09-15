@@ -82,3 +82,9 @@ function generarTabla() {
     #resultado h3 { color: black !important; }
 }
 </style>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -38,3 +38,9 @@ La salud reproductiva depende de un medio interno perfectamente mineralizado. El
 - Maternity and Infant. *The role that Quinton can play in your fertility*. [🔗 maternityandinfant.ie](https://maternityandinfant.ie/2022/role-quinton-can-play-fertility/)
 - Rondanelli, M., et al. (2021). *Silicon: A neglected micronutrient essential for bone health*. Experimental Biology and Medicine. [🔗 Leer en Sage Journals](https://journals.sagepub.com/doi/abs/10.1177/1535370221997072)
 - Wellness Plus. *Quinton and Its Role in Fertility and Pregnancy*. [🔗 wellnessplus.com](https://wellnessplus.com/quinton-and-its-role-in-fertility-and-pregnancy/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

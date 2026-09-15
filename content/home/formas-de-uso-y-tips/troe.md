@@ -38,3 +38,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío e isotónic
 - Estudio sobre los efectos psico-fisiológicos del agua de mar profunda en los sistemas circulatorio y nervioso autónomo. [🔗 Leer en J-Stage](https://www.jstage.jst.go.jp/article/onki1962/65/2/65_2_73/_article)
 - Investigación sobre la actividad eléctrica de las neuronas neurosecretoras en la médula del tronco encefálico y su dependencia del medio iónico. [🔗 Ver en University of Manchester Research](https://research.manchester.ac.uk/en/publications/electrical-activity-of-caudal-neurosecretory-neurons-in-seawater-/)
 - Xie, S., et al. (2024). *Neuroprotection and mitigation of oxidative stress in neural tissues*. Experimental Neurology. [🔗 Leer en ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0014488624003030)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

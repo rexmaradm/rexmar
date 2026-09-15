@@ -84,3 +84,9 @@ En anfibios, el sodio se absorbe activamente a través de la piel desde el agua 
 - <a href="https://www.frontiersin.org/articles/10.3389/fphys.2020.01089/full" target="_blank" rel="noopener noreferrer">Sodium Transporters in Human Health and Disease. Frontiers in Physiology. 2020.</a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306456598000829" target="_blank" rel="noopener noreferrer">Potential mechanisms for functional changes in taste receptor cells following sodium deficiency in mammals. ScienceDirect. 1998.</a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306456598000829" target="_blank" rel="noopener noreferrer">Kurbel S. Are extracellular osmolality and sodium concentration determined by Donnan effects of intracellular protein charges and of pumped sodium? ScienceDirect. 2008.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

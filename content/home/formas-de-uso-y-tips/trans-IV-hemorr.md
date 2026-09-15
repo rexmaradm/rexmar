@@ -184,3 +184,9 @@ La evidencia histórica de Quinton, combinada con la comprensión moderna de la 
 - [Fundación René Quinton (España)](https://www.fundacionrenequinton.org/)
 - [Quinton Medical (Protocolos clínicos)](https://quintonmedical.com/)
 - [Artículo relacionado: Agua de Mar y Hemorroides (vía oral/tópica)](/agua-mar-hemorroides/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

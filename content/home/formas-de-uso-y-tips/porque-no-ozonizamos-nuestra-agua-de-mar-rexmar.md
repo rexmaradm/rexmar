@@ -58,3 +58,9 @@ O₃ + Br⁻ → HOBr / OBr⁻ (ácido hipobromoso / hipobromito)
 3. **No pierde sus minerales**: El agua de mar ozonizada **conserva sales, oligoelementos y propiedades hipertónicas** \[\[4\]\]\[\[7\]\]. La ozonización no "desaliniza" ni altera significativamente la composición iónica principal.
 
 Fuente: [https://chat.qwen.ai/s/t\_c87a9088-aad7-4756-bd52-e6361b8c12bb?fev=0.2.45](https://chat.qwen.ai/s/t_c87a9088-aad7-4756-bd52-e6361b8c12bb?fev=0.2.45)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

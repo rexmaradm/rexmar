@@ -46,3 +46,9 @@ El agua de mar RexMar ofrece una serie de beneficios para la salud, entre los qu
 - y un sinfín de dolencias que puede ver en [/home/formas-de-uso-y-tips/](/home/formas-de-uso-y-tips/) o puede buscar en el Buscador su dolencia y verá si hay una página con la misma, con estudios científicos citados.
 
 Si estás buscando una manera natural y eficaz de remineralizar tu cuerpo, el agua de mar RexMar es una excelente opción.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

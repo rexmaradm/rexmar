@@ -204,3 +204,9 @@ La presente investigación fue realizada acorde con la legislación internaciona
 35\. Gaviña G. Dieta Alcalina: Un Método Natural. Edición Kindle; 2013. \[ <a>Links</a> \]
 
 </div></div><div class="license"><div class="footer">Carrera 27, Calle 9Universidad Industrial de SantanderEscuela de Ingeniería QuímicaBucaramanga, Santander, Colombia![](http://www.scielo.org.co/img/en/e-mailt.gif)<medicas@uis.edu.co></div></div><div id="_atssh" style="height: 1px; width: 1px; position: absolute; top: -9999px; z-index: 100000;"><div id="at-expanded-menu-host"> </div></div></div></div>Fuente: [http://www.scielo.org.co](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-03192014000300002)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

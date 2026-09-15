@@ -40,3 +40,9 @@ Lee, K. S., et al. (2019). The preventive effect of deep sea water on the develo
 Ramezanpour, Z., et al. (2025). Marine Algae Extract Effects on Cell Proliferation in a Malignant Melanoma Cell Line. 🔗 Ver estudio en PLAGEN
 ACS Medicinal Chemistry Letters. Seawater bacteria provides leads to fight melanoma (Seriniquinone). 🔗 Drug Discovery Trends
 Khokhlov, A. N., et al. (2015). Pilot study of a potential geroprotector, “Quinton Marine Plasma” in experiments on cultured cells. Moscow University Biological Sciences Bulletin. 🔗 Leer en Springer
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

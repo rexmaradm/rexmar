@@ -39,3 +39,9 @@ En la fisiología integrativa, el Plasma de Quinton es reconocido por su capacid
 - Fukui, K., et al. (2024). *Effects of deep-sea water on training efficiency, locomotor function and respiratory metabolism in young and aged mice*. [🔗 Leer en PubMed (PMID: 39502204)](https://pubmed.ncbi.nlm.nih.gov/39502204/)
 - Laboratoires de Biarritz. *Marine Therapy: Restoring respiratory function and cellular nutrition*. [🔗 Ver folleto de Terapia Marina](https://pdfcoffee.com/download/quinton-marine-plasma-brochure-pdf-free.html)
 - United Remedies. *Quinton Isotonic: Supporting the respiratory system in conditions such as asthma and bronchitis*. [🔗 unitedremedies.com](https://www.unitedremedies.com/products/quinton-isotonic)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -159,3 +159,9 @@ Se recomienda tomar agua de mar en ayunas, para favorecer la entrada en contacto
 Especialista en 👩‍⚕️ Biomedicina, Nutrición clínica y Medicina integrativa. Mi experiencia y formación me permiten abordar una perspectiva funcional de ver la salud. Una nueva forma de entender la salud del individuo. Salud digestiva, hormonal, metabólica, fertilidad y sistema inmune. El objetivo es encontrar el origen y la causa del problema para determinar el tratamiento óptimo para el paciente. Mi experiencia se basa en unir la ciencia 🧬 y la nutrición para prevenir patologías y promover la salud global. Compagino la consulta con pacientes con mi actividad como docente universitaria en el área 🔬 Pharma y Biotech y mi trabajo en Quinton Biotech Labs. Mi labor de divulgación se centra en la redacción de artículos 📚 especializados en el ámbito de la salud, la nutrición y el estilo de vida saludable. La perspectiva más 'creativa' me lleva al mundo de la formulación de nutracéuticos de alta calidad. Mi meta es ofrecer el conocimiento 💡 necesario para que el mayor número de personas posible pueda tomar las riendas de su salud y bienestar. - Compartir es crecer.
 
 fuente: <https://www.fundacionrenequinton.org/blog/intestino-permeable-tratamiento-suplementos/>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

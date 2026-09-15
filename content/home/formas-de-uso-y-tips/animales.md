@@ -854,3 +854,9 @@ La naturaleza nos ha proporcionado en el océano una farmacia completa de minera
 ---
 
 **Nota importante:** Aunque estas terapias tienen base científica, deben considerarse complementarias y siempre bajo supervisión veterinaria profesional. El agua de mar **pura** NUNCA debe administrarse oralmente a animales terrestres no adaptados.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

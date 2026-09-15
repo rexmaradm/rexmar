@@ -599,3 +599,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 - **<span class="qwen-markdown-text">\[80\] PubMed:</span>** *<span class="qwen-markdown-text">Calcium supplementation relieves high-fat diet-induced liver steatosis</span>*<span class="qwen-markdown-text"> - Estudio sobre la suplementación con calcio y la esteatosis hepática (2021). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://pubmed.ncbi.nlm.nih.gov/33838230/)
 
 <div class="qwen-markdown-space"></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

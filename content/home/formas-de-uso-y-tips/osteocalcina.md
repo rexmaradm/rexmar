@@ -38,3 +38,9 @@ Rondanelli, M., et al. (2021). Magnesium and Bone Health: The Role of Magnesium 
 Quinton Medical. Marine Therapy: Bone health, osteoblast stimulation and mineral balance. 🔗 quintonmedical.com  
     
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/GvYfF-_GzhI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

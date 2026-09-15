@@ -194,3 +194,9 @@ www.iwholehealth.com. Su descubrimiento de que el agua de mar isotónica es comp
 ---
 
 **Nota importante:** Aunque el Plasma de Quinton y las soluciones derivadas del agua de mar tienen una larga historia de uso terapéutico, las inyecciones intravenosas deben realizarse exclusivamente bajo supervisión médica profesional. El agua de mar pura NUNCA debe inyectarse directamente.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

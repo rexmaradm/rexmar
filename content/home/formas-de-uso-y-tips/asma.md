@@ -116,3 +116,9 @@ A diferencia de la rinitis y sinusitis (donde hay sólida evidencia de agua de m
 - Estudios de talasoterapia combinada (agua de mar + clima + aerosoles)
 - Estudios de solución salina hipertónica nebulizada (similar pero no idéntica al agua de mar)
 - Estudios observacionales sobre aerosoles marinos
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

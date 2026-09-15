@@ -31,3 +31,9 @@ El agua de mar isotónica tiene una cantidad de sales muy parecida a la que tene
 La bomba de sodio y potasio es como un ascensor muy importante que mantiene el orden dentro de nuestras células. El agua de mar isotónica ayuda a que este ascensor funcione mejor, haciendo que nuestro cuerpo esté más sano y fuerte.  
   
 Fuente: <https://g.co/gemini/share/16ee922dc888>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

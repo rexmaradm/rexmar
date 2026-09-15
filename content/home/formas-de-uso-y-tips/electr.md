@@ -40,3 +40,9 @@ El agua de mar es una solución compleja de electrolitos esenciales (sodio, pota
 3. **Composición iónica del agua de mar y fisiología humana:**
    *Revisión de la similitud entre el perfil de electrolitos del plasma humano y el agua de mar diluida, y su impacto en la homeostasis sistémica.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/21550256/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

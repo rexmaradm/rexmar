@@ -343,3 +343,9 @@ Descubrí los estudios científicos que demuestran cómo el agua de mar profunda
 - **<span class="qwen-markdown-text">\[12\] PMC/ NIH:</span>** *<span class="qwen-markdown-text">Marine Collagen as a Promising Biomaterial</span>*<span class="qwen-markdown-text"> - Revisión sobre el colágeno marino como biomaterial para cicatrización de heridas (2022). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://pmc.ncbi.nlm.nih.gov/articles/PMC9498021/)
 - **<span class="qwen-markdown-text">\[13\] Sequential Bio:</span>** *<span class="qwen-markdown-text">The Powerful Role of Marine Collagen in Wound Healing</span>*<span class="qwen-markdown-text"> - Artículo sobre el uso oral y tópico de péptidos de colágeno marino para la cicatrización (2025). </span>[<span class="qwen-markdown-text">Leer más</span>](https://www.sequential.bio/post/that-s-fishy-the-powerful-role-of-marine-collagen-in-wound-healing)
 - **<span class="qwen-markdown-text">\[14\] MDPI Marine Drugs:</span>** *<span class="qwen-markdown-text">Compounds of Marine Origin with Possible Applications as Healing Agents</span>*<span class="qwen-markdown-text"> - Revisión sobre los minerales del ambiente marino para la cicatrización (2025). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.mdpi.com/1660-3397/23/1/5)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

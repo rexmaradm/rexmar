@@ -332,3 +332,9 @@ Descubrí los estudios científicos que demuestran cómo los aerosoles de agua d
 - **<span class="qwen-markdown-text">\[128\] PMC/ NIH:</span>** *<span class="qwen-markdown-text">Balneotherapy and hydrotherapy in chronic respiratory disease</span>*<span class="qwen-markdown-text"> - Estudio sobre pacientes con EPOC que se benefician de presión hidrostática durante inmersión (2020). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://pmc.ncbi.nlm.nih.gov/articles/PMC7475532/)
 - **<span class="qwen-markdown-text">\[133\] MDPI Sensors:</span>** *<span class="qwen-markdown-text">Effectiveness of Water-Based Exercise in Patients with COPD</span>*<span class="qwen-markdown-text"> - Estudio sobre WE aeróbico que beneficia función pulmonar, disnea y fuerza de músculos respiratorios en EPOC (2023). </span>[<span class="qwen-markdown-text">Leer estudio</span>](https://www.mdpi.com/1424-8220/23/20/8557)
 - **<span class="qwen-markdown-text">\[134\] IRIS Unibo:</span>** *<span class="qwen-markdown-text">Combining thalassotherapy and exercise for respiratory diseases</span>*<span class="qwen-markdown-text"> - Investigación sobre ejercicio y tratamientos especializados en talasoterapia como opción viable para enfermedades respiratorias (2022). </span>[<span class="qwen-markdown-text">Leer más</span>](https://cris.unibo.it/handle/11585/904484)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -75,3 +75,9 @@ El **agua de mar** es considerada un **aliado natural** para el alivio de los s�
 - Propiedades antiinflamatorias locales
 - Efecto queratolítico (eliminación de escamas)
 - Hidratación de la piel
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

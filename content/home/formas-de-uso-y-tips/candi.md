@@ -35,3 +35,9 @@ La candidiasis es una infección fúngica causada por la proliferación de levad
 3. **Inhibición de biofilms de Candida mediante magnesio y soluciones salinas:**
    *Análisis de cómo los iones marinos alteran la matriz extracelular de los biofilms fúngicos, reduciendo su adherencia y virulencia.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/30684552/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

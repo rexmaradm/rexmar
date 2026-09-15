@@ -517,3 +517,9 @@ La ciencia respalda el uso del agua de mar profunda como una herramienta promete
 - **\[87\] Crohn's &amp; Colitis Foundation:** *Vitamin and Mineral Supplementation* - Información sobre la suplementación vitamínica y mineral para pacientes con enfermedad inflamatoria intestinal. [Leer más](https://www.crohnscolitisfoundation.org/patientsandcaregivers/diet-and-nutrition/supplementation)
 - **\[88\] Pasteur Institute:** *Beneficial Effects of Natural Mineral Waters on Intestinal Inflammation* - Estudio sobre los efectos beneficiosos de las aguas minerales naturales en la inflamación intestinal y la microbiota asociada a la mucosa (2021). [Leer más](https://research.pasteur.fr/en/publication/beneficial-effects-of-natural-mineral-waters-on-intestinal-inflammation-and-the-mucosa-associated-microbiota/)
 - **\[90\] PMC/ NIH:** *Beneficial Effects of Natural Mineral Waters on Intestinal Inflammation* - Estudio sobre cómo las aguas minerales naturales atenúan la inflamación intestinal en ratones con colitis inducida (2021). [Leer estudio](https://pmc.ncbi.nlm.nih.gov/articles/PMC8122343/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

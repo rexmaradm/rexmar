@@ -100,3 +100,9 @@ Cuida tu tiroides, nutre tus células y deja que la sabiduría del mar fluya en 
 
 [Descargar PDF](/wp-content/uploads/2026/03/Yodo-en-el-Agua-de-Mar-vs.-Alimentos_RexMar.pdf)
 ---
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

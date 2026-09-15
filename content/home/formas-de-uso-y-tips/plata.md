@@ -105,3 +105,9 @@ En mamíferos, la plata se distribuye a todos los órganos tras la absorción or
 - <a href="https://link.springer.com/article/10.1186/s12951-026-04807-2" target="_blank" rel="noopener noreferrer">Integrating silver nanomaterials in wound healing: from physicochemical properties to clinical translation. Journal of Nanobiotechnology. 2026;24:407.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/29894666/" target="_blank" rel="noopener noreferrer">Silver in Healthcare: Its Antimicrobial Efficacy and Safety in Use. Lansdown ABG. Royal Society of Chemistry. 2010.</a>
 - <a href="https://scholarworks.umb.edu/doctoral_dissertations/264/" target="_blank" rel="noopener noreferrer">Gallon C. Sources, Fluxes, and Biogeochemical Cycling of Silver in the Oceans. University of Massachusetts Boston. 2015.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

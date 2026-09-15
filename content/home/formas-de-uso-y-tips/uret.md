@@ -46,3 +46,9 @@ El consumo oral de agua de mar microfiltrada e isotónica ofrece beneficios sist
 - Infobae Salud. (2019). *Las propiedades del agua de mar: afecciones renales, oliguria, cálculos e infecciones de vías urinarias*. [🔗 Ver artículo sobre propiedades renales del agua de mar](https://www.infobae.com/salud/2019/02/12/las-propiedades-del-agua-de-mar-beberla-hace-bien-a-la-salud/)
 - Mirzazadeh, M., et al. (2012). *Effects of Drinking Water Quality on Urinary Parameters and Kidney Stones*. Urology. [🔗 Leer en ScienceDirect (Urology)](https://www.sciencedirect.com/science/article/abs/pii/S0090429511025210)
 - Clínica UNER. *Terapia Marina: Casos de mejora en diuresis y función del sistema urinario con Plasma de Quinton*. [🔗 Ver reporte clínico de Terapia Marina](https://www.facebook.com/clinicauner/posts/en-cl%C3%ADnica-uner-contamos-con-una-sala-espec%C3%ADfica-para-realizar-terapia-marina-un/1444780334316504/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

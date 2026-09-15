@@ -60,3 +60,9 @@ El agua de mar (AdM) puede ayudar en la Colitis ulcerosa / Crohn / Colon irritab
 
   
 \*\* el AdM no reemplaza la consulta con su medico/terapeuta/chaman y Dietóloga que esté familiarizado con el AdM
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

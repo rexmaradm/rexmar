@@ -38,3 +38,9 @@ Huang, Y., et al. (2023). Consumption of very low-mineral water may threaten car
 Fan, J., et al. (2024). Relationships between minerals’ intake and blood homocysteine levels. PMC. 🔗 Leer en PubMed Central (PMC11144190)
 Lin, C. H., et al. (2022). Deep Ocean Water Minerals Promotes Growth and Metabolic Pathways (including SAM and homocysteine S-methyltransferase). MDPI. 🔗 Leer en MDPI
 Life Extension. Homocysteine Reduction: The role of magnesium and minerals in encouraging efficient metabolism. 🔗 Ver protocolo de reducción de homocisteína
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

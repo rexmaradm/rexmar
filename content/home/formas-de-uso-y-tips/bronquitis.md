@@ -50,3 +50,9 @@ Para la **bronquitis crónica** y la Enfermedad Pulmonar Obstructiva Crónica (E
      *Link relacionado:* [ScienceDirect - Respiratory benefits of marine environments](https://www.sciencedirect.com/science/article/pii/S095461110500268X)
 
 ---
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

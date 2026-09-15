@@ -82,3 +82,9 @@ Por otro lado, para el tracto respiratorio superior (senos paranasales, rinitis)
 ### Conclusión para tu artículo
 
 La ciencia respalda firmemente la nebulización e inhalación de **agua de mar (o soluciones salinas hipertónicas derivadas de ella)**. Sus beneficios principales en el tracto respiratorio son: **efecto mucolítico** (ablanda el moco), **antiinflamatorio** (gracias al magnesio y otros minerales) y **mejora del aclaramiento mucociliar** (ayuda a los cilios respiratorios a barrer patógenos).
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

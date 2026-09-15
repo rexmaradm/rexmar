@@ -39,3 +39,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío es reconoci
 - Quinton Marine Plasma Usage Guide. *Protocols for Peri-menopause and Menopause: Decrease in frequency and intensity of hot flashes*. [🔗 Ver guía de protocolos de Plasma Marino](https://es.scribd.com/document/549562718/Quinton-Protocols-For-Use)
 - Takeuchi, H., et al. (2020). *Drinking Refined Deep-Sea Water Improves the Gut Ecosystem and Metabolic Balance*. PMC. [🔗 Leer en PubMed Central (PMC7551512)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7551512/)
 - Medicina Funcional / Endocrinología Integrativa. *Reposición de electrolitos y apoyo a la hidratación celular en síntomas menopáusicos con plasma marino*. [🔗 Ver recurso sobre hidratación y menopausia](https://www.tiktok.com/@elisasalazarh1/video/7612736137286765844)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

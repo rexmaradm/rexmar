@@ -38,3 +38,9 @@ Para que un ligamento o tendón sane con fuerza, necesita una matriz mineral só
 - Kim, N. I., et al. (2020). *Changes in Fatigue Recovery and Muscle Damage after Deep-Sea Water Thalassotherapy*. Applied Sciences. [🔗 Leer en MDPI Applied Sciences](https://www.mdpi.com/2076-3417/10/23/8383)
 - Liu, H. Y., et al. (2013). *Potential Osteoporosis Recovery by Deep Sea Water through Bone Regeneration*. [🔗 Leer en PubMed (PMID: 24069046)](https://pubmed.ncbi.nlm.nih.gov/24069046/)
 - Fukui, K., et al. (2024). *Effects of deep-sea water on training efficiency and locomotor function*. [🔗 Leer en ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405844024153273)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

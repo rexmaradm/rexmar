@@ -207,3 +207,9 @@ A diferencia de la psoriasis y el eccema (donde hay evidencia más sólida), **p
 - Manejo del estrés
 
 *Nota importante: Si tienes rosácea, consulta SIEMPRE con un dermatólogo antes de probar nuevos tratamientos. La rosácea es una condición compleja que requiere manejo médico adecuado. Los minerales del Mar Muerto pueden ser un complemento útil, pero no un reemplazo del tratamiento convencional.*
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

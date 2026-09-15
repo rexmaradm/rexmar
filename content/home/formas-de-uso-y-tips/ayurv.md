@@ -37,3 +37,9 @@ En el Ayurveda, el agua de mar posee cualidades calientes, penetrantes y depurat
 3. **Absorción transdérmica de magnesio y fisiología celular:**
    *Estudio que demuestra la biodisponibilidad sistémica del magnesio a través de la piel, respaldando los mecanismos de nutrición tisular descritos en terapias tradicionales.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/24170460/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

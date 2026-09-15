@@ -36,3 +36,9 @@ La infección por *Helicobacter pylori* provoca gastritis y úlceras pépticas. 
 3. **Efecto antiinflamatorio de los oligoelementos en gastritis:**
    *Estudio sobre la reducción de marcadores inflamatorios gástricos mediante la acción de minerales como el magnesio y el selenio.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/26568345/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

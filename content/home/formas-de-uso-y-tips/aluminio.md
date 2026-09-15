@@ -114,3 +114,9 @@ En microorganismos como la levadura *Saccharomyces cerevisiae*, el aluminio ejer
 - <a href="https://doi.org/10.1007/s11430-025-1703-4" target="_blank" rel="noopener noreferrer">Yang et al. Geochemical behavior of aluminum in the tropical western Pacific Ocean: Tracing terrestrial input, transport and water mass mixing. Science China Earth Sciences. 2025. DOI: 10.1007/s11430-025-1703-4</a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016703702006449" target="_blank" rel="noopener noreferrer">Orians KJ, Bruland KW. The biogeochemistry of aluminum in the Pacific Ocean. Earth and Planetary Science Letters. 1986;78(4):397-410. DOI: 10.1016/0012-821X(86)90046-1</a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016703704007549" target="_blank" rel="noopener noreferrer">Kramer J, Laan P, Sarthou G, Timmermans KR, de Baar HJW. Distribution of dissolved aluminium in the high atmospheric input region of the subtropical waters of the North Atlantic Ocean. Marine Chemistry. 2004;88(3-4):85-101. DOI: 10.1016/j.marchem.2004.03.009</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

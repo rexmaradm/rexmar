@@ -51,3 +51,9 @@ Yu, A., et al. (2022). Opportunity or catastrophe? Effect of sea salt on host-pa
 Nani, S. Z. M., et al. (2016). Potential Health Benefits of Deep Sea Water: A Review. PMC. Leer en PubMed Central (PMC5221345)
 Alshalhoob, H. B., et al. (2025). Efficacy and Safety of Seawater Therapy Versus Non-Seawater Therapy in Atopic Dermatitis. PMC. 🔗 Leer en PubMed Central (PMC12648452)
 Typology. Seawater: Unexpected Benefits for the Skin. Ver beneficios dermatológicos del agua de mar
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

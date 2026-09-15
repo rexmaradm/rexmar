@@ -39,3 +39,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío es reconoci
 - Estudios sobre los efectos del agua de mar profunda controlada por minerales en la protección de tejidos reproductivos y la vesícula seminal. [🔗 Ver datos de investigación](https://www.researchgate.net/figure/Effects-of-HgCl-2-and-SM-treatment-on-Sperm-motility-and-sperm-count-after-28-days_tbl1_341214274)
 - Boj, M., et al. (2015). *Aquaporin Biology of Spermatogenesis and Sperm: Fluid homeostasis during sperm maturation is critical for male fertility*. [🔗 Leer en Biological Bulletin](https://www.journals.uchicago.edu/doi/full/10.1086/BBLv229n1p93)
 - Foros de salud integrativa. *Apoyo al líquido seminal y vesículas seminales con agua de mar (proporción 1:3)*. [🔗 Ver recomendación de protocolo](https://www.instagram.com/reel/CrD5YiUMTXj/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

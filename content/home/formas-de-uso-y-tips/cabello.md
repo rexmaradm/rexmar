@@ -181,3 +181,9 @@ Según la evidencia científica revisada, los principales beneficios incluyen:
 ### Conclusión
 
 La evidencia científica respalda que los minerales del agua de mar, particularmente el magnesio, pueden beneficiar la salud del cuero cabelludo y el cabello a través de la absorción folicular. Los suplementos orales de proteína marina han demostrado eficacia clínica en múltiples ensayos controlados para promover el crecimiento del cabello y reducir la caída. La talasoterapia y los tratamientos tópicos con extractos marinos ofrecen un enfoque complementario prometedor para mejorar la salud capilar.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

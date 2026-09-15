@@ -38,3 +38,9 @@ En la fisiología integrativa, la calidad del medio extracelular determina la ve
 - Estudio clínico sobre la eficacia del agua de mar isotónica en sinusitis, faringitis, otitis media y resfriado común. [🔗 Ver estudio de eficacia clínica](https://gotinalmar-chinoin.com/wp-content/uploads/2024/08/AGUA-DE-MAR-JUN-17.pdf)
 - Georgiou, S. (2024). *Use of isotonic seawater solutions in patients with ENT symptoms*. Journal of Clinical and Medical Research. [🔗 Leer en JCIMCR](https://jcimcr.org/pdfs/JCIMCR-v5-3043.pdf)
 - Laboratorios Quinton. *Acción dinamizadora y regeneradora del Plasma de Quinton en la higiene bucofaríngea*. [🔗 Ver ficha técnica](https://www.loscepillosdedientes.es/plasma-de-quinton-seaaquacells-odemer-csbs-plasma-marin-iso-250-ml-2/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

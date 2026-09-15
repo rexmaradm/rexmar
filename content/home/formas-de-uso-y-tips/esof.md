@@ -38,3 +38,9 @@ El agua de mar microfiltrada en frío no actúa como un antiácido químico que 
 - Soler Terranova, W. (2008). *Ausencia de toxicidad por ingesta de agua de mar*. Universidad de Antioquia. [🔗 Ver documento académico](https://bibliotecadigital.udea.edu.co/bitstreams/a455b38a-9c12-4cf1-b260-166e9d479466/download)
 - Yang, C. C., et al. (2014). *Deep-Sea Water Containing Selenium Provides Intestinal Protection and Gastro-Esophageal Reflux Support*. PLOS ONE. [🔗 Leer en PubMed Central (PMC4077573)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4077573/)
 - Fundación René Quinton. *¿Qué es la esofagitis péptica y cuáles son sus causas?* [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/blog/que-es-la-esofagitis-peptica-y-cuales-son-sus-causas/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

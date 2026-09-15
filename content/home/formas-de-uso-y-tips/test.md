@@ -38,3 +38,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío e isotónic
 - Goldman Laboratories / Endocrine Research. *Magnesium as an antioxidant to protect testicular function from free radicals and support testosterone*. [🔗 Ver estudio sobre magnesio y función testicular](https://goldmanlaboratories.com/blogs/blog/zinc-vs-magnesium-testosterone-men-60)
 - Hou, C. W., et al. (2013). *Deep ocean mineral water accelerates recovery from physical fatigue and supports metabolic balance*. Journal of the International Society of Sports Nutrition. [🔗 Leer en Springer](https://link.springer.com/article/10.1186/1550-2783-10-7)
 - Wellness Plus. *Quinton and Its Role in Fertility and Pregnancy (Marine Plasma protocols)*. [🔗 wellnessplus.com](https://wellnessplus.com/quinton-and-its-role-in-fertility-and-pregnancy/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

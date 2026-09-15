@@ -44,3 +44,9 @@ En la fisiología integrativa, el agua de mar microfiltrada en frío e isotónic
 - Abaka, A. A. M., et al. (2024). *Antimicrobial properties of deep-sea water towards escherichia coli and staphylococcus aureus*. Journal of Bioprocessing and Biomass Technology. [🔗 Leer estudio sobre propiedades antimicrobianas](https://sciencebiology.org/index.php/BIOMEDICH/article/view/522)
 - Fundación René Quinton. *Estenosis Uretral: Tratamiento Natural, Síntomas y Causas (Uso de ampollas de agua de mar)*. [🔗 fundacionrenequinton.org](https://www.fundacionrenequinton.org/blog/estenosis-uretral-tratamiento-natural-sintomas-causas/)
 - Origen Agua de Mar. *El consumo regular de agua de mar puede ayudar a mantener la salud del sistema urinario y combatir la uretritis*. [🔗 Ver perfil clínico](https://www.instagram.com/origenaguademar/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

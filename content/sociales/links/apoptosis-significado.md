@@ -16,3 +16,9 @@ Citations:
 \[4\] https://www.medintensiva.org/es-apoptosis-implicaciones-medicina-intensiva-articulo-13065473
 
 By Perplexity at https://www.perplexity.ai/search/1e115bc0-e60a-4feb-bf85-aab38a216826
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

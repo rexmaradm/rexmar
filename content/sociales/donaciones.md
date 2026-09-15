@@ -368,3 +368,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 ## Donación para Solange Espinoza - 06/09/2026
 
 ![Donación 8/08/26](/images/donac/6-9-26.jpg)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

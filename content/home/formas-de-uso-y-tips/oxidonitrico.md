@@ -34,3 +34,9 @@ Chun, S. Y., et al. (2017). Refined Deep-Sea Water Suppresses Inflammatory Respo
 Nani, S. Z. M., et al. (2016). Potential Health Benefits of Deep Sea Water: A Review (Activación de genes de óxido nítrico sintasa). Evidence-Based Complementary and Alternative Medicine. 🔗 Leer en PubMed Central (PMC5221345)
 Chen, D. L., et al. (2012). Intravenous low redox potential saline attenuates vascular injury via endothelial nitric oxide synthase signaling. Journal of Vascular Research. 🔗 Leer en ScienceDirect
 Quinton Marine Plasma / Integrative Health. Marine Plasma: Supporting healthy nitric oxide levels and endothelial function. 🔗 Ver recurso sobre plasma marino y óxido nítrico
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

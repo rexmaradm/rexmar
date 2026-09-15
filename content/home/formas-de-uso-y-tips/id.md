@@ -38,3 +38,9 @@ En la fisiología integrativa, la calidad del medio extracelular determina la ef
 - Nam, J., et al. (2020). *Anti-Inflammatory Properties of Mineral-Balanced Deep Sea Water in In-Vitro and In-Vivo Models of Inflamed Intestinal Epithelium*. Applied Sciences, MDPI. [🔗 Leer en MDPI Applied Sciences](https://www.mdpi.com/2076-3417/10/15/5183)
 - Kang, S. M., et al. (2015). *Effect of yogurt containing deep sea water on health and microbial population in the small intestine*. Journal of Dairy Science. [🔗 Leer en ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0022030215004543)
 - Laboratoires de Biarritz. *Quinton Marine Plasma: Absorción iónica y equilibrio del medio interno*. [🔗 quintonmedical.com](https://quintonmedical.com/quinton-plasma)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -58,3 +58,9 @@ Pese a las décadas de estudio, persisten vacíos importantes en la comprensión
 - <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0197220" target="_blank" rel="noopener noreferrer">Bioaccumulation of methylmercury within the marine food web of the outer Bay of Fundy, Gulf of Maine</a>
 - <a href="https://pubs.acs.org/doi/10.1021/acs.est.3c01299" target="_blank" rel="noopener noreferrer">Toward a Global Model of Methylmercury Biomagnification in Marine Food Webs</a>
 - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2599767/" target="_blank" rel="noopener noreferrer">Meeting Report: Methylmercury in Marine Ecosystems—From Sources to Seafood Consumers</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

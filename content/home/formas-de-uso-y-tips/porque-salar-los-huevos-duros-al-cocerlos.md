@@ -19,3 +19,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 ---
 
 ---
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

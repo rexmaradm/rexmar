@@ -38,3 +38,9 @@ Con el paso de los años, el timo sufre un proceso natural de atrofia conocido c
 - Tsuchiya, Y., et al. (2003). *Effects of hot deep seawater bathing on the immune cell distribution*. Journal of Physiological Anthropology. (Aumento de linfocitos CD8+). [🔗 Leer en Springer](https://link.springer.com/article/10.1007/BF02897909)
 - Khokhlov, A. N., et al. (2015). *Pilot study of a potential geroprotector, "Quinton Marine Plasma", in experiments on cultured cells*. Moscow University Biological Sciences Bulletin. [🔗 Ver estudio en ResearchGate](https://www.researchgate.net/publication/271963915_Pilot_study_of_a_potential_anti-aging_preparation_Quinton_Marine_Plasma_in_experiments_on_cultured_cells)
 - Quinton Medical. *Isotonic Seawater: Regulation of immune cells (monocytes and lymphocytes)*. [🔗 quintonmedical.com](https://quintonmedical.com/marine-therapy/drink-seawater/isotonic-sea-water)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

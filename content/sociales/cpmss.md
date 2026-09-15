@@ -847,3 +847,9 @@ Existe un apartado en los conocimientos Complementarios para la Salud que se ocu
 **a)** Melodía en afinación 432 Hz, la cual estaría en mayor concordancia con las armonías planetarias.  
 b) También se ha agregado el Solfeggio de 174 Hz que según estudios ayudaría a disminuir los dolores físicos, y…  
 **c)** la frecuencia 174 Hz ha sido modulada en 4 Hz, que es la frecuencia cerebral humana en estados de Relajación Profunda y Resolución de problemas, llamada (Theta) . Por Faniel Fumega Music Canal YT: <https://www.youtube.com/channel/UCPQt2osa1KcbxUa4Q-1mXsg>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -42,3 +42,9 @@ Mientras los espermatozoides transitan por los conductos deferentes, son altamen
 - Chen, H., et al. (2012). *Regulation of male fertility by CFTR and implications in male infertility* (Rol del CFTR en los conductos deferentes). Human Reproduction Update. [🔗 Leer en Oxford Academic](https://academic.oup.com/humupd/article/18/6/703/627351)
 - Xu, W. M., et al. (2007). *Cystic fibrosis transmembrane conductance regulator is vital to sperm fertilization capacity*. PNAS. [🔗 Leer en PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.0609253104)
 - Yang, Y., et al. (2022). *Two Male-Specific Antimicrobial Peptides in reproductive tract* (Protección antimicrobiana y espermatozoides en contacto con agua de mar). PLOS Pathogens. [🔗 Leer en PubMed Central (PMC8952799)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8952799/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

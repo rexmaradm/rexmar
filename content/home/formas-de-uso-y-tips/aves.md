@@ -593,3 +593,9 @@ Antes de iniciar cualquier terapia con agua de mar o derivados, consulte con un 
 ---
 
 **Nota importante:** Aunque estas terapias tienen base científica, deben considerarse complementarias y siempre bajo supervisión veterinaria profesional. El agua de mar **pura** NUNCA debe administrarse oralmente a las aves no marinas.
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -375,3 +375,9 @@ Descubrí los estudios científicos que demuestran cómo el agua de mar profunda
 - **<span class="qwen-markdown-text">\[46\] EPA HERO:</span>** *<span class="qwen-markdown-text">Oral magnesium supplementation improves endothelial function</span>*<span class="qwen-markdown-text"> - Estudio sobre cómo la suplementación oral con magnesio mejora la función endotelial y atenúa la aterosclerosis subclínica. </span>[<span class="qwen-markdown-text">Leer más</span>](https://hero.epa.gov/reference/3878115/)
 
 <div class="qwen-markdown-space"></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

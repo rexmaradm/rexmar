@@ -62,3 +62,9 @@ Al momento de booteo bios o UEFI con el USB puesto, debe elegir Kingston Datatra
 
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/hnzl2WmtUz0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>## Para oribar linux en linea, sin instalarlo: <https://distrosea.com/es/>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -92,3 +92,9 @@ En aves, el calcio es esencial para la formación de la cáscara del huevo, que 
 - <a href="https://doi.org/10.7717/peerj.3590" target="_blank" rel="noopener noreferrer">Gutner-Hoch E, et al. Identifying genes and regulatory pathways associated with the scleractinian coral calcification process. PeerJ. 2017;5:e3590.</a>
 - <a href="https://doi.org/10.1111/j.1939-165x.1995.tb00937.x" target="_blank" rel="noopener noreferrer">Rosol TJ, Capen CC. Pathophysiology of calcium metabolism. Veterinary Clinical Pathology. 1995;24(2):49-63.</a>
 - <a href="https://doi.org/10.3168/jds.2015-10198" target="_blank" rel="noopener noreferrer">Symposium review: Transition cow calcium homeostasis — Health effects of hypocalcemia and strategies for prevention. Journal of Dairy Science. 2016.</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

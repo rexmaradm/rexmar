@@ -38,3 +38,9 @@ El epidídimo es altamente susceptible al estrés oxidativo, que puede dañar el
 - Ha, B. G., et al. (2015). *Stimulatory Effects of Balanced Deep Sea Water on Mitochondrial Biogenesis and Function*. PLoS ONE. [🔗 Leer en PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0129972)
 - Nani, S. Z. M., et al. (2016). *Potential Health Benefits of Deep Sea Water: A Review* (Incluye efectos sobre el metabolismo del tejido adiposo epididimario). Evidence-Based Complementary and Alternative Medicine. [🔗 Leer en PubMed Central (PMC5221345)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5221345/)
 - Quicksilver Scientific. *The Power of Marine Therapy: Bioavailability of ions in Plasma de Quinton for systemic remineralization*. [🔗 quicksilverscientific.com](https://www.quicksilverscientific.com/pages/the-power-of-marine-therapy)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

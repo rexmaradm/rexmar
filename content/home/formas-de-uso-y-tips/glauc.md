@@ -38,3 +38,9 @@ El glaucoma es una neuropatía óptica progresiva vinculada a la presión intrao
 3. **Flujo sanguíneo ocular y regulación vascular en el glaucoma:**
    *Investigación sobre cómo la mejora de la microcirculación sistémica y la función endotel impacta positivamente en la perfusión del nervio óptico.*
    [Leer paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/23348818/)
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

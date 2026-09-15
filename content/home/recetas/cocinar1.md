@@ -71,3 +71,9 @@ Darvazehnoie, A. S., et al. (2024). Exploration of deep sea water characteristic
 Lee, S. H., et al. (2020). Effect of Seawater on the Technological Properties of Food Products. Korean Journal for Food Science of Animal Resources. 🔗 Ver en KOSFAJ
 Edible Monterey Bay. Out to Sea: Cooking with Ocean Water. 🔗 ediblemontereybay.com
 Aquamarina Costa Brava. Seawater for Cooking: Benefits and Applications. 🔗 aquamarinacostabrava.com
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

@@ -269,3 +269,9 @@ Descubrí los estudios científicos sobre las propiedades cicatrizantes del agua
 - **<span class="qwen-markdown-text">\[176\] IJPS Journal:</span>** *<span class="qwen-markdown-text">Marine-Derived Collagen: A Comprehensive Review</span>*<span class="qwen-markdown-text"> - Revisión sobre las ventajas del colágeno derivado del mar sobre las fuentes mamíferas para la cicatrización. </span>[<span class="qwen-markdown-text">Leer artículo</span>](https://www.ijpsjournal.com/article/marine-derived-collagen-a-comprehensive-review-of-sources-extraction-and-applications-in-wound-healing)
 
 <div class="qwen-markdown-space"></div>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>

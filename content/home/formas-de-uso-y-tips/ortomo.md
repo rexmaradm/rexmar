@@ -37,3 +37,9 @@ El agua de mar, particularmente en su dilución isotónica (Plasma de Quinton), 
 3. **Equilibrio electrolítico y salud celular:**
    *Análisis de cómo la restauración del perfil iónico extracelular optimiza el potencial de membrana, la hidratación intracelular y la función metabólica global.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/21331195/" target="_blank">Leer paper (PubMed)</a>
+
+<div align="center">
+
+[ir a Inicio](/)
+
+</div>
