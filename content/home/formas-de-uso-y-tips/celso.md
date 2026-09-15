@@ -59,3 +59,8 @@ Celso no inventó la idea de que el mar podía sanar —esa intuición ya recorr
 - <a href="https://en.wikipedia.org/wiki/De_Medicina" target="_blank" rel="noopener noreferrer">De Medicina — Wikipedia</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/38006369/" target="_blank" rel="noopener noreferrer">Aulus Cornelius Celsus' De Medicina and His Contributions to Knowledge on Skin Diseases — PubMed</a>
 
+<div align="center"
+
+[Volver a Historia...](/histo) - [ir a Inicio](/)
+
+</div>

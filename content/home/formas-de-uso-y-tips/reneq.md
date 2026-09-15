@@ -77,3 +77,9 @@ La investigación moderna ha confirmado algunos de los principios de Quinton: el
 - <a href="https://www.sbpcnet.org.br/livro/57ra/programas/CONGRESSO_RESUMOS.pdf" target="_blank" rel="noopener noreferrer">Utilização do Plasma Marinho de René Quinton na Recuperação de Crianças com Baixo Peso para a Idade. Anais da Sociedade Brasileira para o Progresso da Ciência. 57ª Reunião Anual.</a>
 - <a href="https://hidromed.org" target="_blank" rel="noopener noreferrer">Payá M. Solución de Quinton: situación actual. Boletín de la Sociedad Española de Hidrología Médica. 2003;18(2):37-42.</a>
 - <a href="https://quinton.fr" target="_blank" rel="noopener noreferrer">Laboratoires Quinton. Histoire du laboratoire: plus d'un siècle de thérapie marine. Sitio oficial de los Laboratorios Quinton.</a>
+
+<div align="center"
+
+[Volver a Historia...](/histo) - [ir a Inicio](/)
+
+</div>

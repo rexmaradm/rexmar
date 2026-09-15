@@ -53,3 +53,9 @@ La trayectoria de Bagot resume el paso de la talasoterapia de la teoría a la pr
 - <a href="https://france-thalasso.com/lhistoire-de-la-thalassotherapie/" target="_blank" rel="noopener noreferrer">L'histoire de la thalassothérapie — France Thalasso</a>
 - <a href="https://creativecommons.fr/roscoff-ce-village-de-3318-habitants-qui-a-cree-la-thalassotherapie-en-europe/" target="_blank" rel="noopener noreferrer">Roscoff, ce village de 3318 habitants qui a créé la thalassothérapie en Europe</a>
 - <a href="http://blog.thalasseo.com/roscoff-la-mer-la-terre-et-les-hommes/" target="_blank" rel="noopener noreferrer">Roscoff, la mer, la terre et les hommes — La Bulle Thalasso</a>
+
+<div align="center"
+
+[Volver a Historia...](/histo) - [ir a Inicio](/)
+
+</div>

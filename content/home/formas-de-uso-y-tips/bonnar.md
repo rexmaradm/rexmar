@@ -51,3 +51,9 @@ Bonnardière ocupa en la historia de la medicina marina un lugar equivalente al 
 - <a href="http://enenvor.fr/eeo_actu/bellepoque/il_y_a_150_ans_l_invention_de_la_thalassotherapie_une_idee_qui_miroite_aux_yeux_des_gens_du_monde.html" target="_blank" rel="noopener noreferrer">Il y a 150 ans : l'invention de la thalassothérapie</a>
 - <a href="https://figaronautisme.meteoconsult.fr/actus-nautisme-escales/2015-12-17/34673-la-thalassotherapie-une-histoire-deau-de-mer" target="_blank" rel="noopener noreferrer">Thalassothérapie : bienfaits, origines et secrets d'une cure venue de la mer</a>
 - <a href="https://roz-marine-thalasso.com/comment-est-nee-la-thalasso/" target="_blank" rel="noopener noreferrer">Comment est née la thalasso ?</a>
+
+<div align="center"
+
+[Volver a Historia...](/histo) - [ir a Inicio](/)
+
+</div>

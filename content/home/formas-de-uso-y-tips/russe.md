@@ -57,3 +57,9 @@ La figura de Russell ocupa un lugar bisagra en la historia médica del mar: reto
 - <a href="https://www.abebooks.co.uk/DISSERTATION-USE-SEA-WATER-DISEASES-GLANDS/12431105345/bd" target="_blank" rel="noopener noreferrer">A Dissertation on the Use of Sea Water in the Diseases of the Glands (1769 edition) — AbeBooks</a>
 - <a href="https://www.history.com/articles/sea-cure-beach-resort" target="_blank" rel="noopener noreferrer">When Going to the Beach Was Doctor's Orders — HISTORY</a>
 - <a href="https://www.sussexswimming.org/about-us/history-of-swimming-in-sussex/" target="_blank" rel="noopener noreferrer">History of swimming in Sussex — Sussex County</a>
+
+<div align="center"
+
+[Volver a Historia...](/histo) - [ir a Inicio](/)
+
+</div>

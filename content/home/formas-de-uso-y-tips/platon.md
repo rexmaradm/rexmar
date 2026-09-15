@@ -66,3 +66,9 @@ La talasoterapia moderna reconoce a Platón como uno de sus precursores históri
 - <a href="https://archive.org/details/diogeneslaertius01laeruoft" target="_blank" rel="noopener noreferrer">Diógenes Laercio. Vidas, opiniones y sentencias de los filósofos más ilustres. Libro III: Platón.</a>
 - <a href="https://www.britannica.com/topic/Atlantis-legendary-island" target="_blank" rel="noopener noreferrer">Encyclopaedia Britannica. Atlantis: Legendary Island. 1998.</a>
 - <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)00000-0/fulltext" target="_blank" rel="noopener noreferrer">Historical perspectives on thalassotherapy and seawater therapy. The Lancet. (Referencia histórica general).</a>
+
+<div align="center"
+
+[Volver a Historia...](/histo) - [ir a Inicio](/)
+
+</div>

@@ -49,3 +49,9 @@ Lo que distingue el aporte de Galeno no es haber "descubierto" el valor del agua
 - <a href="https://archive.org/details/claudiigalenide00sarrgoog" target="_blank" rel="noopener noreferrer">Claudii Galeni de simplicium medicamentorum facultatibus libri XI — Internet Archive</a>
 - <a href="https://medicaltraditions.org/collection/texts/antiquity/galen/177-de-simplicium-medicamentorum-temperamentis-ac-facultatibus" target="_blank" rel="noopener noreferrer">De simplicium medicamentorum temperamentis ac facultatibus — Institute for the Preservation of Medical Traditions</a>
 - <a href="https://fractalenlightenment.com/31235/life/the-healing-power-of-the-ocean" target="_blank" rel="noopener noreferrer">The Healing Power of the Ocean</a>
+
+<div align="center"
+
+[Volver a Historia...](/histo) - [ir a Inicio](/)
+
+</div>

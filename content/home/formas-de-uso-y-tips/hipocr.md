@@ -53,3 +53,9 @@ Lo que distingue a Hipócrates no fue el descubrimiento del mar como elemento cu
 - <a href="https://namafiji.com/blogs/news/the-healing-power-of-the-sea-understanding-thalassotherapy" target="_blank" rel="noopener noreferrer">The Healing Power of the Sea: Understanding Thalassotherapy</a>
 - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12488467/" target="_blank" rel="noopener noreferrer">The therapeutic potential of thalassotherapy for enhancing well-being and reducing pharmaceutical costs in individuals with disabilities</a>
 - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12785330/" target="_blank" rel="noopener noreferrer">Standardized Thalassotherapy Versus Conventional Rehabilitation in Post-Traumatic Patients</a>
+
+<div align="center"
+
+[Volver a Historia...](/histo) - [ir a Inicio](/)
+
+</div>

@@ -49,3 +49,10 @@ Lo que distingue el tratamiento que Avicena da al agua de mar es su carácter si
 - <a href="https://www.amazon.com/Avicenna-Exercising-Massaging-Drinking-Sleeping/dp/1567447937" target="_blank" rel="noopener noreferrer">Avicenna On Exercising, Massaging, Bathing, Eating, Drinking, Sleeping and Treating Fatigue from the Canon of Medicine Volume 1</a>
 - <a href="https://confabulario.eluniversal.com.mx/avicena-y-el-canon-de-la-medicina/" target="_blank" rel="noopener noreferrer">Avicena y el canon de la medicina — Confabulario, El Universal</a>
 - <a href="https://biblioteca.ucm.es/historica/canon-medicinae" target="_blank" rel="noopener noreferrer">Canon medicinae — Biblioteca Histórica Marqués de Valdecilla, UCM</a>
+
+<div align="center"
+
+[Volver a Historia...](/histo) - [ir a Inicio](/)
+
+</div>
+

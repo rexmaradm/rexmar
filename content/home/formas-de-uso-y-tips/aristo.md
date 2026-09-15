@@ -60,3 +60,9 @@ Lo que Aristóteles dejó a la posteridad no fue una cura ni un tratamiento, sin
 - <a href="https://www.mdpi.com/2073-4441/13/16/2222" target="_blank" rel="noopener noreferrer">Desalination: From Ancient to Present and Future — Water (MDPI)</a>
 - <a href="https://greekreporter.com/2026/07/01/ancient-greeks-seawater-fresh-water/" target="_blank" rel="noopener noreferrer">Ancient Greeks Figured Out How to Turn Seawater Into Fresh Water 2,400 Years Ago</a>
 - <a href="https://fractalenlightenment.com/31235/life/the-healing-power-of-the-ocean" target="_blank" rel="noopener noreferrer">The Healing Power of the Ocean</a>
+
+<div align="center"
+
+[Volver a Historia...](/histo) - [ir a Inicio](/)
+
+</div>
