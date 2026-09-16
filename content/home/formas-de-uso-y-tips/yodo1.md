@@ -6,7 +6,7 @@ authors = ["legar"]
 
 [taxonomies]
 
-tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
+tags = ["rexmar", "agua de mar", "Perú", "yodo", "biología", "salud", "ciencia"]
 +++
 
 El yodo (I) es un oligoelemento esencial para la vida y uno de los componentes más singulares del agua de mar. Su concentración media en océanos abiertos es de aproximadamente 0,46 μmol/L (unos 58 μg/L) para una salinidad estándar de 35, lo que representa una fracción muy pequeña del peso total de las sales disueltas[reference:0]. A pesar de su baja abundancia, el yodo desempeña un papel fundamental en la fisiología de todos los organismos vivos: es un componente estructural indispensable de las hormonas tiroideas, regula el metabolismo energético y participa en la defensa antioxidante. Su ciclo biogeoquímico en el océano está íntimamente ligado a la actividad biológica y a la química redox del agua de mar.
@@ -110,6 +110,6 @@ En el medio marino, el yodo es un elemento esencial para los organismos acuátic
 
 <div align="center">
 
-[ir a Inicio](/)
+[Tiroides](/home/formas-de-uso-y-tips/tiroides2/) - [Tiroides 2](/home/formas-de-uso-y-tips/tiroides-hipertiroidismo-y-agua-de-mar/) - [ir a Inicio](/)
 
 </div>

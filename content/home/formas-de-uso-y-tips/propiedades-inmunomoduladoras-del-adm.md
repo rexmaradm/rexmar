@@ -3,7 +3,7 @@ title = "Propiedades inmunomoduladoras del AdM"
 description = "Guía completa sobre Propiedades inmunomoduladoras del AdM - RexMar Agua de Mar"
 date = 2025-01-07
 author = "legar"
-aliases = ["/propiedades-inmunomoduladoras-del-adm"]
+aliases = ["/inmun"]
 
 [taxonomies]
 tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
@@ -12,6 +12,8 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 **Las propiedades inmunomoduladoras del agua de mar**
 
 El agua de mar es una solución rica en una gran variedad de minerales y oligoelementos esenciales para el funcionamiento óptimo de nuestro organismo. Estos componentes le confieren propiedades inmunomoduladoras, lo que significa que pueden ayudar a regular y fortalecer nuestro sistema inmunológico.
+
+<iframe width="873" height="495" src="https://www.youtube.com/embed/NWAB_D5g3_M" title="Seminario Quinton: Ponencia Dr. José Miguel Sempere" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **¿Cómo actúa el agua de mar en nuestro sistema inmunológico?**
 
