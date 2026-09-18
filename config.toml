@@ -18,7 +18,7 @@ index_format = "fuse_json"
 
 [extra]
 description = "Rexmar - Agua de Mar Perú."
-keywords = "agua de mar, cobre, bienestar"
+keywords = "agua de mar, rexmar, hipertonica, peru,  cobre, bienestar"
 
 menu = [
     {url = "/", name = "Inicio"},
@@ -31,9 +31,9 @@ menu = [
 ]
 
 [extra.author]
-name = "Rexmar"
+name = "legar"
 email = "rexmaradm@gmail.com"
 
 [extra.author.twitter]
-link = ""
-username = ""
+link = "https://twitter.com/Rexmar_adm"
+username = "Rexmar_adm"
