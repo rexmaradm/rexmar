@@ -1,16 +1,14 @@
 +++
-title = "Fitoterapia y Agua de Mar"
+title = "Fitoterapia y agua de mar: el mar como aliado de la planta medicinal"
 description = "Cómo el agua de mar diluida potencia los principios activos de las plantas medicinales, qué dicen los estudios sobre eustrés salino, y el valor fitoterapéutico de las halófitas. Con referencias científicas verificables."
-date = "2023-11-23"
-slug = "fitoterapia-agua-mar"
-aliases = ["/fitot"]
-author = "legar"
+date = 2026-09-18
 
 [taxonomies]
-tags = ["rexmar", "agua de mar", "Perú", "fitoterapia", "plantas medicinales", "biología", "salud", "ciencia"]
-+++
+tags = ["fitoterapia", "agua de mar", "plantas medicinales", "halófitas", "metabolitos secundarios"]
 
-## La Fitoterapia y el Agua de Mar
+[extra]
+author = "legar"
++++
 
 <img src="/images/fitoterapia-agua-de-mar.jpg"
      alt="Plantas medicinales aromáticas y hinojo marino creciendo en suelo costero junto al mar, con partículas minerales luminosas transportadas por la brisa marina"
@@ -268,6 +266,10 @@ Para que esto sea útil y no propaganda, tres precisiones:
 
 ## Conclusión
 
+El aporte del mar a la fitoterapia es más elegante que la versión popular. No hace falta
+beber agua de mar para que el mar mejore una planta medicinal: basta con **darle a la
+planta la cantidad justa de dificultad**.
+
 Una *Origanum onites* regada con agua de mar diluida al quinto produce un 35% más de aceite
 esencial. Una *Glaux maritima* a 100 mM multiplica por ocho sus flavonoides. El hinojo
 marino y la salicornia son farmacias vivas que crecen donde nada más crece, y se cultivan
@@ -303,8 +305,6 @@ podemos medir cuánta.
   <li><a href="https://www.mdpi.com/1660-3397/20/5/330" target="_blank" rel="noopener noreferrer">Štanfel D, et al. «The Role of Seawater and Saline Solutions in Treatment of Upper Respiratory Diseases». <em>Marine Drugs</em>, 2022; 20(5):330.</a></li>
 </ol>
 
-<div align="center">
+---
 
-[ir a Inicio](/)
-
-</div>
+<p><small><strong>Aviso.</strong> Este texto tiene finalidad divulgativa y agronómica. La información sobre composición fitoquímica no constituye consejo médico ni recomendación terapéutica. Consulte a un profesional sanitario antes de usar cualquier preparado de plantas medicinales.</small></p>

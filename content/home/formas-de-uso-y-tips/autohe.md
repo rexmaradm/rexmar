@@ -9,6 +9,10 @@ aliases = ["/autoh"]
 tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
+<img src="/images/autohemoterapia-agua-de-mar.jpg"
+     alt="Composición que enfrenta un flujo de sangre con glóbulos rojos a un flujo de agua de mar con iones minerales en suspensión, separados por un límite luminoso"
+     style="width:100%;height:auto;border-radius:6px;margin:0 0 1.5rem;">
+
 
 # Autohemoterapia y AdM isotónica
 
@@ -30,7 +34,7 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
       videoId: '-c6rheZMpXU',
       playerVars: {
         start: 184,        // ← comienza a los 90 segundos
-        autoplay: 1
+        autoplay: 0
       },
       events: {
         'onReady': function(event) {
@@ -81,15 +85,15 @@ La combinación de autohemoterapia con agua de mar isotónica potencia los efect
    *Análisis de los cambios en el perfil de interleucinas tras la reinyección de sangre autóloga tratada, modelo extrapolable a la combinación con soluciones minerales.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/28069971/" target="_blank">Leer paper (PubMed)</a>
 
-**Autohemoterapia y modulación de la respuesta inmune:**
+4. **Autohemoterapia y modulación de la respuesta inmune:**
    *Revisión de los mecanismos inmunológicos por los cuales la reinyección de sangre autóloga estimula el sistema retículo-endotelial y regula la inflamación.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/29232486/" target="_blank">Leer paper (PubMed)</a>
 
-2. **Plasma marino de Quinton y homeostasis del medio interno:**
+5. **Plasma marino de Quinton y homeostasis del medio interno:**
    *Estudio sobre la equivalencia iónica entre el agua de mar isotónica y el plasma humano, y su aplicación como vehículo en terapias biológicas.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/21550256/" target="_blank">Leer paper (PubMed)</a>
 
-3. **Oligoelementos y función de macrófagos:**
+6. **Oligoelementos y función de macrófagos:**
    *Evaluación del papel del zinc y el selenio en la activación, fagocitosis y regulación de la respuesta inmune innata.*
    <a href="https://pubmed.ncbi.nlm.nih.gov/28698519/" target="_blank">Leer paper (PubMed)</a>
 
@@ -98,3 +102,4 @@ La combinación de autohemoterapia con agua de mar isotónica potencia los efect
 [ir a Inicio](/)
 
 </div>
+
