@@ -1,6 +1,6 @@
 +++
 title = "Homeopatía y Agua de Mar"
-date = "2023-11-18"
+date = "2026-09-18"
 slug = "homeopatia-agua-mar"
 aliases = ["/homeo"]
 author = "legar"
@@ -28,15 +28,23 @@ En el contexto homeopático, el agua de mar no solo aporta un sustrato mineral, 
 
 1. **Estructura del agua y remedios homeopáticos:**
    *Investigación sobre cómo las sales y los minerales modifican la estructura molecular del agua, respaldando el concepto de memoria del agua y la transmisión de información en altas diluciones.*
-   <a href="https://pubmed.ncbi.nlm.nih.gov/21489908/" target="_blank">Leer paper (PubMed)</a>
+   <a href="https://pubmed.ncbi.nlm.nih.gov/17678814/" target="_blank" rel="noopener noreferrer">Leer paper (PubMed)</a>
 
 2. **Nanopartículas y mecanismo de acción en homeopatía:**
-   *Estudio que demuestra la presencia de nanoscale particles y la interacción de los minerales con el agua como base física de la acción homeopática y la estimulación celular.*
-   <a href="https://pubmed.ncbi.nlm.nih.gov/20189098/" target="_blank">Leer paper (PubMed)</a>
+   *Estudio que demuestra la presencia de nanopartículas y la interacción de los minerales con el agua como base física de la acción homeopática y la estimulación celular.*
+   <a href="https://pubmed.ncbi.nlm.nih.gov/23277079/" target="_blank" rel="noopener noreferrer">Leer paper (PubMed)</a>
 
 3. **Aguas minerales, sistema inmune y regulación del terreno:**
    *Evaluación clínica de cómo la ingestión y aplicación de aguas ricas en minerales modula la respuesta inmune y el drenaje biológico, principios fundamentales en la isoterapia.*
-   <a href="https://pubmed.ncbi.nlm.nih.gov/25044558/" target="_blank">Leer paper (PubMed)</a>
+   <a href="https://pubmed.ncbi.nlm.nih.gov/12221837/" target="_blank" rel="noopener noreferrer">Leer paper (PubMed)</a>
+
+4. **Memoria del agua: una revisión:**
+   *Revisión exhaustiva sobre el concepto de "memoria del agua" y los mecanismos por los cuales las soluciones altamente diluidas pueden ejercer efectos sobre los sistemas biológicos.*
+   <a href="https://www.sciencedirect.com/science/article/abs/pii/S1475491607000653" target="_blank" rel="noopener noreferrer">Leer paper (ScienceDirect)</a>
+
+5. **Nuevo enfoque sobre la memoria del agua:**
+   *Estudio experimental que investiga si el agua tiene una "memoria" de la sucusión, utilizando dinoflagelados como bioindicadores y midiendo tiempos de memoria de al menos 10 minutos.*
+   <a href="https://www.sciencedirect.com/science/article/abs/pii/S1475491605001177" target="_blank" rel="noopener noreferrer">Leer paper (ScienceDirect)</a>
 
 <div align="center">
 
