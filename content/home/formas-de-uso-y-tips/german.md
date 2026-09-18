@@ -1,6 +1,6 @@
 +++
 title = "Medicina Germánica y Agua de Mar"
-date = "2023-11-19"
+date = "2026-09-18"
 slug = "medicina-germanica-agua-mar"
 aliases = ["/germa"]
 author = "legar"
@@ -28,15 +28,31 @@ En el marco de la NMG, las enfermedades siguen dos fases (simpaticotonía y vago
 
 1. **Respuesta neuroendocrina al estrés agudo y trauma biológico:**
    *Análisis de cómo los choques de estrés severo alteran el eje neuroendocrino y la fisiología sistémica, base de los procesos de adaptación biológica.*
-   <a href="https://pubmed.ncbi.nlm.nih.gov/29879828/" target="_blank">Leer paper (PubMed)</a>
+   <a href="https://europepmc.org/article/MED/42134275" target="_blank" rel="noopener noreferrer">Leer paper (Europe PMC)</a>
 
 2. **Papel de los minerales en la reparación y regeneración de tejidos:**
    *Evaluación de cómo el magnesio, calcio y oligoelementos son cofactores indispensables en la proliferación celular y la matriz extracelular durante la fase de curación.*
-   <a href="https://pubmed.ncbi.nlm.nih.gov/28392463/" target="_blank">Leer paper (PubMed)</a>
+   <a href="https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1469-7580.1999.19530375.x" target="_blank" rel="noopener noreferrer">Leer paper (Journal of Anatomy)</a>
 
 3. **Minerales marinos y modulación del microbioma:**
    *Estudio sobre cómo el aporte de trazas minerales y soluciones isotónicas favorece la simbiosis microbiana y la restauración del equilibrio biológico en mucosas y tejidos.*
-   <a href="https://pubmed.ncbi.nlm.nih.gov/26214099/" target="_blank">Leer paper (PubMed)</a>
+   <a href="https://www.mdpi.com/1660-3397/16/6/216" target="_blank" rel="noopener noreferrer">Leer paper (Marine Drugs)</a>
+
+4. **Modulación de la respuesta inflamatoria por solución salina de origen marino:**
+   *Investigación sobre cómo una solución isotónica derivada del agua de mar reduce la expresión de citoquinas proinflamatorias (IL-8 y RANTES) en células epiteliales humanas, a través de la inhibición de NF-κB.*
+   <a href="https://pubmed.ncbi.nlm.nih.gov/12951051/" target="_blank" rel="noopener noreferrer">Leer paper (PubMed)</a>
+
+5. **Magnesio, estrés y eje HPA:**
+   *Estudio preclínico que demuestra que la deficiencia de magnesio induce ansiedad y desregulación del eje hipotálamo-hipófisis-adrenal (HPA), y que la suplementación con magnesio atenúa la hiperactividad de este eje.*
+   <a href="https://pubmed.ncbi.nlm.nih.gov/21820010/" target="_blank" rel="noopener noreferrer">Leer paper (PubMed)</a>
+
+6. **Oligoelementos y matriz extracelular:**
+   *Revisión que explora cómo los oligoelementos (zinc, cobre, manganeso) regulan la síntesis, degradación y reconstrucción del colágeno y otros componentes de la matriz extracelular durante la reparación de heridas.*
+   <a href="https://pubmed.ncbi.nlm.nih.gov/11393965/" target="_blank" rel="noopener noreferrer">Leer paper (PubMed)</a>
+
+7. **Plasma marino de Quinton: fundamentos históricos y bioquímicos:**
+   *Documento histórico que recopila los fundamentos de la terapia marina de René Quinton, incluyendo la demostración de la identidad entre el medio interno y el agua de mar isotónica, y los resultados clínicos de los Dispensarios Marinos.*
+   <a href="https://hidromed.org/hm/images/pdf/BSEHM%202003_18(2)77-79_Marco_Paya-F.pdf" target="_blank" rel="noopener noreferrer">Leer documento (Hidromed)</a>
 
 <div align="center">
 
