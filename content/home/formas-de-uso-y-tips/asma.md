@@ -13,6 +13,13 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/FOchuXL1eFs" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;"><iframe src="https://www.youtube.com/embed/nbwZJORo3yw" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="YouTube video"></iframe></div>Lo que NO existe:
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fgriseldamercedes.donatucci%2Fvideos%2F156195655701514%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe width="873" height="491" src="https://www.youtube.com/embed/FOchuXL1eFs" title="Asma: cómo ayuda el Agua de Mar?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="873" height="491" src="https://www.youtube.com/embed/oD1fgW5Pw-M" title="Testimonio de ASMA y agua de mar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 - **No hay ensayos clínicos controlados** que evalúen el agua de mar como monoterapia exclusiva para asma bronquial
 - **No hay estudios clínicos** sobre nebulización exclusiva con agua de mar natural para asma
 - La evidencia científica se concentra en **talasoterapia combinada** (agua de mar + clima marino + aerosoles + otros factores)
