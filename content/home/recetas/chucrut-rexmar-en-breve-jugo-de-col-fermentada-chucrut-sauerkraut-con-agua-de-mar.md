@@ -2,7 +2,7 @@
 title = "Chucrut Artesanal RexMar  Jugo de col fermentada (chucrut, sauerkraut) con agua de mar hipertónica RexMar"
 date = 2024-09-26
 author = "legar"
-aliases = ["/chucru"]
+aliases = ["/chuc"]
 
 [taxonomies]
 tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
@@ -48,7 +48,7 @@ Una flora intestinal equilibrada es fundamental para nuestro bienestar general. 
 - **Fatiga crónica:** La desintoxicación inadecuada y la inflamación crónica pueden provocar fatiga y debilidad generalizada.
 - **Problemas de piel:** La salud intestinal se refleja en la piel, por lo que problemas como el acné y la dermatitis pueden estar relacionados con un desequilibrio en la microbiota.
 
-**¿Por qué elegir la col fermentada casera?**
+**¿Por qué elegir la col fermentada casera RexMar?**
 
 La col fermentada comercial suele estar pasteurizada, proceso que elimina las bacterias beneficiosas. Para obtener todos los beneficios de este alimento, lo ideal es prepararla en casa o adquirirla en fermentaciones artesanales.
 
