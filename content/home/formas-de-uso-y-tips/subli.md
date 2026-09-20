@@ -100,6 +100,6 @@ Para profundizar en la farmacocinética, la anatomía y las tecnologías emergen
 
 <div align="center">
 
-[ir a Inicio](/)
+[Ver otros métodos alternativos a la inyección IV]/alteriv() - [ir a Inicio](/)
 
 </div>

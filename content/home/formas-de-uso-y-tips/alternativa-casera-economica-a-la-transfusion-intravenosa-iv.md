@@ -3,7 +3,7 @@ title = "Alternativa casera económica a la transfusión intravenosa IV"
 description = "Guía completa sobre Alternativa casera económica a la transfusión intravenosa IV - RexMar Agua de Mar"
 date = 2023-12-05
 author = "legar"
-aliases = ["/alternativa-casera-economica-a-la-transfusion-intravenosa-iv"]
+aliases = ["/alteriv"]
 
 [taxonomies]
 tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
@@ -82,6 +82,10 @@ Los baños de pies con agua de mar tienen muchos beneficios para la salud, como:
 **¡Disfruta de tu baño de pies con agua de mar!**
 
 ![](/wp-content/uploads/2024/02/mujer_bano_pies2-627x1024.jpg)
+
+# Vía Sublingual
+
+[Vía Sublingual]/(subli)
 
 <div align="center">
 
