@@ -20,6 +20,10 @@ La col fermentada es una fuente concentrada de nutrientes esenciales:
 - **Minerales:** Contiene hierro, calcio, fósforo y magnesio, contribuyendo a fortalecer huesos, dientes y músculos.
 - **Probióticos:** Millones de bacterias beneficiosas que equilibran la flora intestinal, mejorando la digestión y absorción de nutrientes.
 
+
+<img src="/images/chucrut_rexmar_beneficios.jpg" style="max-width:90%; height:auto; display:block; margin:1em auto;">
+<img src="/images/chucrut_beneficios_2.jpg" style="max-width:90%; height:auto; display:block; margin:1em auto;"> 
+
 ![](/wp-content/uploads/2024/11/photo_2024-11-10_18-41-33-1-768x1024.jpg)![](/wp-content/uploads/2024/11/photo_2024-11-10_18-41-26-768x1024.jpg)![](/wp-content/uploads/2024/11/photo_2024-11-10_18-41-19-768x1024.jpg)![](/wp-content/uploads/2024/11/photo_2024-11-10_18-40-57-768x1024.jpg)**Beneficios para la salud:**
 
 - **Salud intestinal:** Restaura la flora intestinal dañada por antibióticos o malos hábitos alimenticios, aliviando problemas como estreñimiento, diarrea y síndrome del intestino irritable.
