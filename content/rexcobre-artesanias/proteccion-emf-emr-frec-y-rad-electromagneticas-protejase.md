@@ -2,7 +2,7 @@
 title = "Protección EMF EMR Frec. y Rad. ElectroMagneticas. Protéjase !! Colgante Cuántico"
 date = 2022-10-24
 author = "legar"
-aliases = ["/proteccion-emf-emr-frec-y-rad-electromagneticas-protejase"]
+aliases = ["/cuantico"]
 excerpt = "Colgante Cuántico Protección EMF EMR Frec. y Rad. ElectroMagneticas. "
 
 [taxonomies]
