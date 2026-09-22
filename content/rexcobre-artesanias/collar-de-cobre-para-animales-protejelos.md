@@ -2,7 +2,7 @@
 title = "Collar de Cobre para Animales. Protéjelos !"
 date = 2022-12-17
 author = "legar"
-aliases = ["/collar-de-cobre-para-animales-protejelos"]
+aliases = ["/canimales"]
 +++
 
 Elimina Bacterias
