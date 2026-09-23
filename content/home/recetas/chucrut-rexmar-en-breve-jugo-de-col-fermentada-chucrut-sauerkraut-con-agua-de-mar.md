@@ -5,7 +5,7 @@ author = "legar"
 aliases = ["/chuc"]
 
 [taxonomies]
-tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
+tags = ["rexmar", "agua de mar", "Perú", "chucrut", "biología", "salud", "ciencia"]
 +++
 
 La Col Fermentada: Un Elixir de Salud para el Intestino y Más Allá
@@ -70,6 +70,6 @@ Incorporar la col fermentada a nuestra dieta es una inversión en nuestra salud 
 
 <div align="center">
 
-[ir a Inicio](/)
+[Información detallada del chucrut y fermentación](/chuc1) - [ir a Inicio](/)
 
 </div>

@@ -39,6 +39,6 @@ La infección por *Helicobacter pylori* provoca gastritis y úlceras pépticas. 
 
 <div align="center">
 
-[ir a Inicio](/)
+[Vease Chucrut](/chuc1) - [ir a Inicio](/)
 
 </div>
