@@ -38,6 +38,9 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 <script>
 Rumble("play", {"video":"v7czdz6","div":"rumble_v7czdz6"});</script>
 
+<iframe width="873" height="480" src="https://www.youtube.com/embed/-5__2mFB9KU" title="Como inyectarse 60 ml de agua de mar." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="873" height="491" src="https://www.youtube.com/embed/a2tapeIzgTU" title="Agua de mar hipertonica para mejorar el sistema nervioso central y bajar de peso." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 VIDEOS_AQUI
 
