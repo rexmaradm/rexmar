@@ -103,14 +103,6 @@ En las costas del Báltico y Rusia, la fermentación de hortalizas con sal marin
 ### Biohacking y Nutrición Ancestral
 En comunidades de biohacking, el kvass marino se promueve como un elixir depurativo del hígado y un optimizador mitocondrial debido a la sinergia de los nitratos de la remolacha con los iones de magnesio del agua de mar. No obstante, se debe consumir con moderación debido al elevado aporte de sodio, desaconsejado en personas con hipertensión o problemas renales.
 
-### Advertencia Crítica de Seguridad
-El agua de mar cruda recolectada directamente de playas puede contener patógenos peligrosos (como *Vibrio vulnificus*), virus y metales pesados. Para elaborar kvass de forma segura:
-1.  **Utilice únicamente agua de mar microfiltrada y esterilizada de grado alimentario.**
-2.  **Monitoree el pH:** El kvass debe alcanzar un pH inferior a 4.0 en las primeras 48-72 horas para asegurar la total inhibición de esporas de *Clostridium botulinum* y patógenos oportunistas como el hongo *Aspergillus niger*.
-
-> **Guía práctica para la seguridad en procesos de fermentación doméstica:**  
-> <a href="https://www.food.gov.uk/safety-harvesting/fermenting-food-and-drink" target="_blank" rel="noopener noreferrer">Food Standards Agency – Home Fermentation Guidelines</a>
-
 ---
 
 ## 6. Resumen y Conclusiones
