@@ -37,3 +37,6 @@ email = "rexmaradm@gmail.com"
 [extra.author.twitter]
 link = "https://twitter.com/Rexmar_adm"
 username = "Rexmar_adm"
+
+[markdown]
+external_links_target_blank = true
