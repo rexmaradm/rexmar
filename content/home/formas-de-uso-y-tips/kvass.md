@@ -16,6 +16,11 @@ El **kvass de remolacha** es una bebida fermentada tradicional de Europa del Est
 
 Esta variación no solo introduce un perfil mineral excepcionalmente rico (magnesio, calcio, potasio, yodo y oligoelementos), sino que somete al medio a una elevada presión osmótica. Este entorno selectivo reconfigura el microbioma del fermentado, favoreciendo la proliferación de microorganismos halotolerantes y potenciando su acción antimicrobiana.
 
+<iframe width="873" height="491" src="https://www.youtube.com/embed/FmQDH1TUOrk" title="Kvass de remolacha: fermento vivo que ama tu microbiota 🧠💗" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="315" height="576" src="https://www.youtube.com/embed/RnlkLkpy-V4" title="KVAS, BEBIDA FERMENTADA DE BETABE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 A continuación, analizamos las cepas predominantes en este ecosistema, los patógenos que logra inhibir y la evidencia científica real sobre su efectividad contra *Helicobacter pylori*.
 
 ---
