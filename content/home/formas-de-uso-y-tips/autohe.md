@@ -6,7 +6,7 @@ author = "legar"
 aliases = ["/autoh"]
 
 [taxonomies]
-tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
+tags = ["rexmar", "agua de mar", "Perú", "Autohemoterapia", "biología", "salud", "ciencia"]
 +++
 
 <img src="/images/autohemoterapia-agua-de-mar.jpg"
