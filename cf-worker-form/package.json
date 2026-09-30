@@ -9,14 +9,11 @@
   "keywords": [],
   "type": "commonjs",
   "devDependencies": {
-    "wrangler": "^4.125.0"
+    "wrangler": "^4.145.0"
   },
   "allowScripts": {
     "esbuild": true,
     "workerd": true,
     "sharp": true
-  },
- "devDependencies": {
-    "wrangler": "^3.x.x"
   }
 }
