@@ -12,7 +12,11 @@
     "wrangler": "^4.125.0"
   },
   "allowScripts": {
-    "esbuild@0.28.1": true,
-    "workerd@1.20260820.1": true
+    "esbuild": true,
+    "workerd": true,
+    "sharp": true
+  },
+ "devDependencies": {
+    "wrangler": "^3.x.x"
   }
 }

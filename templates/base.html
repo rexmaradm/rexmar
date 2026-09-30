@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Zola">   
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
     <link rel="stylesheet" href="{{ get_url(path='style.css', cachebust=true) }}">
     <link rel="sitemap" type="application/xml" href="{{ get_url(path='sitemap.xml') }}">
@@ -177,6 +178,7 @@ main {
         <p>Es deber del usuario investigar y llegar a sus propias conclusiones experimentando. Cualquier duda no deje de consultar a su Profesional de la salud o chamán de confianza.</p>
         <p><strong>Autorización:</strong> No necesita Registro Sanitario debido a que está acogido al <a rel="external" href="https://www.gob.pe/institucion/minsa/normas-legales/256030-004-2000-sa">D.S.: 004-2000-SA Art- 70</a></p>
     </div>
+    <p>&copy; {{ now() | date(format="%Y") }} Mi Sitio. Construido con <a href="https://www.getzola.org/">Zola</a>.</p>
 </footer>
     <script src="https://code.responsivevoice.org/responsivevoice.js?key=1byTn78k"></script>
     <script>
@@ -244,5 +246,8 @@ main {
         });
     </script>
     {% endif %}
+<!-- 
+  Sitio generado estáticamente con Zola (https://www.getzola.org/)
+-->
 </body>
 </html>
