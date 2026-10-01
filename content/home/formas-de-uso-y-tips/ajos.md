@@ -15,6 +15,13 @@ tags = ["rexmar", "agua de mar", "Perú", "fermentación", "probióticos", "ajo"
 
 El ajo (Allium sativum) se ha usado durante milenios como condimento, conservante y remedio natural. Cuando se **pelan los dientes y se someten a fermentación en agua de mar hipertónica** se genera un producto con:
 
+<iframe width="787" height="442" src="https://www.youtube.com/embed/rhh2eP2dbqc" title="Ajo en agua de mar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="315" height="576" src="https://www.youtube.com/embed/U7ZghsO2YLE" title="CONSERVA ajos en salmuera #conserva #salmuera #ajos #recetasfaciles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="315" height="576" src="https://www.youtube.com/embed/CJ9RYiGbF2E" title="&quot;¡Ajo mágico! 🧄✨ Aprende a fermentar fácil en casa 🏠&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 * **Un perfil mineral único** (Mg, Ca, K, I y oligoelementos) aportado por el agua de mar.  
 * **Una presión osmótica alta** (≈ 3,3 %–3,8 % NaCl) que selecciona solo microorganismos halotolerantes.  
 * **Un pH final bajo** (≈ 3,5 – 4,0) gracias a la producción de ácido láctico y ácido acético.  
