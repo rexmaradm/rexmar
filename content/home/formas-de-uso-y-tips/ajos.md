@@ -15,6 +15,14 @@ tags = ["rexmar", "agua de mar", "Perú", "fermentación", "probióticos", "ajo"
 
 El ajo (Allium sativum) se ha usado durante milenios como condimento, conservante y remedio natural. Cuando se **pelan los dientes y se someten a fermentación en agua de mar hipertónica** se genera un producto con:
 
+###  Ya Disponible!  [aquí](/contacto)
+
+![Ajos RexMar](/images/ajos.jpg)
+
+### Nota de RexMar: S‑Allyl‑cisteína (SAC) – un derivado de la alicina con alta capacidad antioxidante y anti‑inflamatoria; se conserva en el vinagre de [fermentación](#aliina)
+
+<iframe width="787" height="442" src="https://www.youtube.com/embed/TUBgMniMV2M" title="8 Dientes de Ajo. 1 Frasco. El Fermento Asiático Que Sustituyó Mis Antibióticos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="787" height="442" src="https://www.youtube.com/embed/rhh2eP2dbqc" title="Ajo en agua de mar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/U7ZghsO2YLE" title="CONSERVA ajos en salmuera #conserva #salmuera #ajos #recetasfaciles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -101,7 +109,7 @@ Este entorno da lugar a un **microbioma especializado** que, además de preserva
 
 ---
 
-## 4. Ración de compuestos bioactivos del ajo que potencian la acción antimicrobiana
+## 4. Ración de compuestos bioactivos del ajo que potencian la acción antimicrobiana {#aliina}
 
 1. **Alicina (C₆H₁₀OS₂)** – liberada tras el picado/triturado del ajo.  
    *Durante la fermentación, parte de la alicina se transforma en sulfóxidos y tiosulfinatos* que actúan como antibacterianos de amplio espectro.
