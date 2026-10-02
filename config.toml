@@ -27,6 +27,7 @@ menu = [
     {url = "/home/preguntas-frecuentes/", name = "Preguntas Frecuentes"},
     {url = "/rexcobre-artesanias/", name = "Rexcobre"},
     {url = "/distribuidores/", name = "Distribuidores"},
+    {url = "/productos/", name = "Productos"},
     {url = "/contacto/", name = "Contacto"},
 ]
 
