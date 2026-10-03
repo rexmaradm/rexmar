@@ -20,7 +20,7 @@ Completá el formulario y te responderemos a la brevedad.
   Motivo: 
   <select name="Motivo">
     <option value="Consulta">Consulta</option>
-    <option value="Contacto por Angela">Contacto por Angela</option>
+    <option value="Angela">Contacto por Angela</option>
     <option value="Soporte">Quiero ser distribuidor</option>
   </select><br>
   Mensaje: <textarea name="Mensaje" required></textarea><br>
