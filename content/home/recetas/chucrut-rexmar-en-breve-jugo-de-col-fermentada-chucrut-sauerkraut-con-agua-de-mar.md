@@ -70,6 +70,6 @@ Incorporar la col fermentada a nuestra dieta es una inversión en nuestra salud 
 
 <div align="center">
 
-[Información detallada del chucrut y fermentación](/chuc1) - [ir a Inicio](/)
+[Información detallada del chucrut y fermentación](/chuc1) - [duración de las cepas](/dinchu) - [ir a Inicio](/)
 
 </div>

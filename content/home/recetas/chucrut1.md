@@ -230,6 +230,6 @@ En foros y publicaciones de la comunidad de *fermentation* (ej. blogs de Sandor 
 
 <div align="center">
 
-[más sobre Chucrut](@/home/recetas/chucrut-rexmar-en-breve-jugo-de-col-fermentada-chucrut-sauerkraut-con-agua-de-mar.md) - [ir a Inicio](/)
+[más sobre Chucrut](@/home/recetas/chucrut-rexmar-en-breve-jugo-de-col-fermentada-chucrut-sauerkraut-con-agua-de-mar.md)  - [duración de las cepas](/dinchu) - [ir a Inicio](/)
 
 </div>
