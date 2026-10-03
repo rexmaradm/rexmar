@@ -1,0 +1,90 @@
+# Demo site config for the Volks-Typo theme.
+# When you USE this theme, put these keys in your own site's config.toml and set
+# `theme = "volks-typo"`. This file has no `theme` key because the theme's own
+# templates/sass/static live at the repo root (it builds itself as the demo).
+# base_url = "https://tisgoud.gitlab.io/zola-volks-typo-theme"
+base_url = "https://th.org.pe"
+#title = "Volks-Typo"
+title = "Rexmar Agua de Mar"
+default_language = "es"
+€ description = "A blog exploring the intersection of design, typography, and history"
+description = "Rexmar - Agua de Mar Perú."
+compile_sass = true
+build_search_index = true
+
+# Site-wide feed disabled; the blog section generates its own blog-only feed at
+# /blog/rss.xml.
+generate_feeds = false
+feed_filenames = ["rss.xml"]
+
+taxonomies = [
+  { name = "categories", feed = true, paginate_by = 10 },
+  { name = "tags", feed = true, paginate_by = 10 },
+]
+
+[markdown.highlighting]
+theme = "nord"
+
+[search]
+index_format = "elasticlunr_json"
+
+[extra]
+# Site title/description come from the top-level `title`/`description` keys above.
+# Favicon: defaults to the bundled favicon.svg; set to your own file in static/
+# (e.g. "/favicon.ico" or "/favicon.svg").
+# favicon = "/favicon.svg"
+
+# Header logo: omit to show the site title as text; set to an image in static/
+# (e.g. "/site-title.svg") to use a logo image instead.
+logo = "/site-title.svg"
+
+# Header repository button: set repo_url to show it (omit to hide it).
+# repo_icon picks a bundled icon (github | gitlab | codeberg | ...) or a custom
+# SVG path in static/ (e.g. "/icons/gitea.svg"). repo_label sets the button text.
+repo_url = "https://gitlab.com/tisgoud/zola-volks-typo-theme"
+repo_icon = "gitlab"
+# repo_label = "Star"
+
+# Main navigation — edit/add/reorder links here without touching theme files.
+# main_menu = [
+#  { name = "Home", url = "/" },
+#  { name = "Blog", url = "/blog" },
+#  { name = "Categories", url = "/categories" },
+#  { name = "About", url = "/about" },
+#]
+
+main_menu = [
+    {url = "/", name = "Inicio"},
+    {url = "/home/formas-de-uso-y-tips/", name = "Formas de Uso"},
+    {url = "/home/recetas/", name = "Recetas"},
+    {url = "/home/preguntas-frecuentes/", name = "Preguntas Frecuentes"},
+    {url = "/rexcobre-artesanias/", name = "Rexcobre"},
+    {url = "/distribuidores/", name = "Distribuidores"},
+    {url = "/productos/", name = "Productos"},
+    {url = "/contacto/", name = "Contacto"},
+]
+
+# Sidebar position on pages that show it: "left" (default) or "right".
+# A header button lets visitors show/hide the sidebar (remembered per browser).
+sidebar_position = "left"
+
+# Show each post's hero image (frontmatter [extra] image) as a cropped thumbnail
+# above the title in post listings (blog, categories, tags). Default true.
+list_images = true
+
+[extra.author]
+name = "legar"
+email = "rexmaradm@gmail.com"
+
+author_name = "Your Name"
+author_bio = "Writer, designer, and explorer of aesthetic tensions between past and present."
+# author_avatar = "/images/avatar.jpg"
+
+# Social links (footer, About author bio, Contact). Add/remove/reorder freely.
+# `icon` = a bundled icon in static/icons/ (github, gitlab, codeberg, x,
+# instagram, linkedin, mastodon, email, rss) or a custom path like "/icons/gitea.svg".
+social_links = [
+  { name = "GitLab", icon = "gitlab", url = "https://gitlab.com/tisgoud/zola-volks-typo-theme" },
+  { name = "Mastodon", icon = "mastodon", url = "https://fosstodon.org/@you" },
+  { name = "Email", icon = "email", url = "mailto:you@example.com" },
+]

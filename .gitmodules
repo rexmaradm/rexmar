@@ -1,3 +1,6 @@
 [submodule "themes/butler"]
 	path = themes/butler
 	url = https://github.com/shalzz/butler
+[submodule "themes/volks-typo"]
+	path = themes/volks-typo
+	url = https://gitlab.com/tisgoud/zola-volks-typo-theme.git
