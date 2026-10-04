@@ -56,6 +56,8 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 *1 Ajo encurtido en agua de mar 460gr* por pedido, si no hay hecho, se hace en el momento y se puede consumir en 2 semanas. [detalles:](https://th.org.pe/ajos)
 
+*1 Cebollas Fermentadas 460gr* por pedido, se hace en el momento y se puede consumir en 2 semanaa. [detalles](https://th.org.pe/cebo1)
+
 - Pulsera terapéutica de Cobre puro (1 cm ancho)   [detalles:](https://th.org.pe/pulseras)
 
 - Tobillera terapéutica de cobre puro (1 cm ancho) [detalles:](https://th.org.pe/pulseras)
