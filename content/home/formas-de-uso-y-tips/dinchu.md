@@ -13,7 +13,7 @@ tags = ["rexmar", "agua de mar", "Perú", "fermentacion", "microbiologia", "chuc
 # Dinámica Microbiana del Chucrut con Agua de Mar Hipertónica  
 ## Cepas predominantes, momentos de aparición y tiempo de supervivencia
 
-## Nota de RexMar, a pesar de todo lo que lea aquí le comento que estoy comiendo un chucrut que me quedó olvidado hace 2 añosa temperatura ambiente y está perfecto, sin rastro de moho, exquisito y funciona a las mil maravillas (testeado con 2 personas que sufren estreñimiento crónico, así que esmuy probable que el AdM preserve a los organismos, mucho más tiempo que el que dice debajo)
+#### Nota de RexMar, a pesar de todo lo que lea aquí le comento que estoy comiendo un chucrut que me quedó olvidado hace 2 años a temperatura ambiente y está perfecto, sin rastro de moho, exquisito y funciona a las mil maravillas (testeado con 2 personas que sufren estreñimiento crónico, así que es muy probable que el AdM preserve a los organismos, mucho más tiempo que el que dice debajo o que el AdM haya capturado las propiedades y por eso siga funcionando)
 
 El chucrut tradicional se elabora con sal de mesa (2‑3 % NaCl).  
 Cuando la sal se sustituye por **agua de mar hipertónica** (≈ 3.3‑3.8 % NaCl y una mezcla de Mg²⁺, Ca²⁺, K⁺, I⁻ y oligoelementos) el medio adquiere una **alta presión osmótica** (≈ 400‑650 mOsm · kg⁻¹).  
