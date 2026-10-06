@@ -171,3 +171,11 @@ article.preview p {
 a:visited {
     color: inherit;
 }
+
+h3.destacado {
+  font-weight: 700;
+  color: #c00;
+  background-color: #fff3cd;
+  padding: 0.25em 0.5em;
+  border-left: 4px solid #c00;
+}   

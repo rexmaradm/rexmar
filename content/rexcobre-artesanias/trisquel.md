@@ -22,7 +22,7 @@ Cuando el trisquel se elabora en **cobre**, el símbolo se enriquece con las pro
 
 ---
 
-### Ya disponible en RexCobre/RexMar el trisque de cobre puro.
+### Ya disponible en RexCobre/RexMar el trisquel de cobre puro. { .destacado }
 
 ![Trisque](/images/trisq.jpg)
 
