@@ -3,7 +3,7 @@ title = "Azufre y agua de mar: del legado histórico a la hidratación isotónic
 description = "Análisis científico‑histórico del sulfato marino y sus efectos biológicos. Protocolo práctico para el consumo de agua de mar isotónica e hipertónica."
 date = "2026-10-07"
 author = "legar"
-aliases = ["/"]
+aliases = ["/asuf"]
 
 [taxonomies]
 
