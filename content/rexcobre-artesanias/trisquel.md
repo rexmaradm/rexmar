@@ -26,6 +26,11 @@ Cuando el trisquel se elabora en **cobre**, el símbolo se enriquece con las pro
 
 ![Trisque](/images/trisq.jpg)
 
+<iframe width="787" height="442" src="https://www.youtube.com/embed/uokFoWl1DCM" title="🔺 EL TRISQUELION o TRISQUEL📜 a Través de la Historia: De los Celtas a la Actualidad." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="605" height="454" src="https://www.youtube.com/embed/lTq1n0QJeRM" title="Triskelion Energy Movement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>Este video fue grabado por Tony Gates, de Greenfield Naturals, utilizando equipos de visualización por descarga de gas (GDV). Muestra la energía que rodea a un trisquel de cobre y cómo dicha energía se desplaza en un movimiento espiral continuo.</p>
+
 <iframe width="315" height="576" src="https://www.youtube.com/embed/oGnjcQA-JI0" title="Trisquel , significado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/LkfOf2Domuw" title="Triskel de cobre para celular" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
