@@ -8,6 +8,10 @@ aliases = ["/trisq"]
 [taxonomies]
 
 tags = ["rexmar", "trisquel", "cobre", "esoterismo", "agua estructurada", "agua de mar", "Perú"]
+
+[extra]
+og_image = "https://www.th.org.pe./images/trisq.jpg"
+
 +++
 
 # 1. Introducción
@@ -148,6 +152,8 @@ EnergiaViva – “Trisquel y la resonancia Schumann”. https://energiaviva.es/
 Emoto Peace Project – “Water Crystals and Geometric Symbols”. http://www.emoto-peace-project.com/
 
 WiccaPedia – “Correspondences of Copper”. https://www.wiccapedia.org/wiki/Copper
+
+[img-ref]: /img/trisq.jpg "Trisquel disponible en RexMar"
 
 <div align="center">
 
