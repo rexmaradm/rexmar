@@ -12,6 +12,8 @@ tags = ["rexmar", "agua de mar", "Perú", "historia", "Francia", "Enrique III"
 
 ## 1. ¿Quién fue Enrique III de Francia?
 
+![Enrique III](/images/enri.jpg)
+
 |   |   |
 |---|---|
 | **Nombre completo** | Enrique III (también llamado Enrique I de Navarra antes de su ascenso) |
