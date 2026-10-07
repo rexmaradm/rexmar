@@ -14,6 +14,13 @@
         nav { margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; }
         nav a { color: #ffffff; text-decoration: none; margin: 5px 10px; padding: 8px 15px; background-color: #2563eb; border-radius: 5px; }
         nav a:hover { background-color: #3b82f6; }
+{% if page is defined and page.extra.og_image %}
+  <meta property="og:image" content="{{ get_url(path=page.extra.og_image) }}" />
+{% elif section is defined and section.extra.og_image %}
+  <meta property="og:image" content="{{ get_url(path=section.extra.og_image) }}" />
+{% elif config.extra.default_og_image %}
+  <meta property="og:image" content="{{ get_url(path=config.extra.default_og_image) }}" />
+{% endif %}
 main {
     max-width: 1200px;
     margin: 40px auto;

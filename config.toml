@@ -21,6 +21,7 @@ index_format = "fuse_json"
 [extra]
 description = "Rexmar - Agua de Mar Perú."
 keywords = "agua de mar, rexmar, hipertonica, peru,  cobre, bienestar"
+default_og_image = "https://www.th.org.pe/images/b10lt.jpg"
 
 menu = [
     {url = "/", name = "Inicio"},
