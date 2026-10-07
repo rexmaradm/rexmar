@@ -58,6 +58,8 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 *1 Cebollas Fermentadas 460gr* por pedido, se hace en el momento y se puede consumir en 2 semanas. [detalles](https://th.org.pe/cebo1)
 
+- Trisquel de cobre puro [detalles:](https://th.org.pe/trisq)
+
 - Pulsera terapéutica de Cobre puro (1 cm ancho)   [detalles:](https://th.org.pe/pulseras)
 
 - Tobillera terapéutica de cobre puro (1 cm ancho) [detalles:](https://th.org.pe/pulseras)
