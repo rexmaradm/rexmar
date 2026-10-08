@@ -8,6 +8,14 @@ aliases = ["/chuc"]
 tags = ["rexmar", "agua de mar", "Perú", "chucrut", "biología", "salud", "ciencia"]
 +++
 
+<div align="center">
+
+[Información detallada del chucrut y fermentación](/chuc1) - [duración de las cepas](/dinchu) - [ir a Inicio](/)
+
+</div>
+
+### Ya disponible en RexCobre/RexMar el Chucrut de col blanca y Morada. { .destacado }
+
 La Col Fermentada: Un Elixir de Salud para el Intestino y Más Allá
 
 La col fermentada, un probiótico natural de gran potencia, se destaca por sus múltiples beneficios para la salud. Al consumirla, estamos proporcionando a nuestro organismo un ejército de bacterias beneficiosas que restauran la flora intestinal y mejoran significativamente nuestra calidad de vida.
