@@ -18,7 +18,7 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 #### El agua de mar es gratis, los precios corresponden al servicio de: extracción profunda, movilizaciónes al puerto, envase, marinería y filtrado 
 
--. *Nuevo! Conversión de libros pdf a audiolibros. detalles: https://th.org.pe/sociales/al
+-. *Nuevo! Conversión de libros pdf a audiolibros. [detalles:](https://th.org.pe/sociales/al)
 
 *1 botella de 850 ml  lt. * Agua de Mar  *  (en 1 botella de 850 ml) [detalles:](https://th.org.pe/b850)
 
@@ -72,7 +72,8 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 Recojo es por Los Incas. Chorrillos
 
-Envios para botellas chicas puede ser por motodelivery . las entregas se realizan en un rango de 01:00 a 07:00 PM. 
+Envios para botellas chicas puede ser por motodelivery . Servicio Express con hora fija: tarifas segun APP Indrive/AE Express.. 
+Servicio estándar: los pedidos se pactan por la mañana y las entregas se realizan en un rango de 01:00 a 07:00 PM del mismo días. No se puede fijar un horario. Tarifas entre 10 y 15 según distancia. 
 
 Envios por carro sólo Lima Metropol. (a cotizar)
 
