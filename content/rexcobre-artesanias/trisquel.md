@@ -14,6 +14,26 @@ og_image = "https://www.th.org.pe./images/trisq.jpg"
 
 +++
 
+
+<div align="center">
+
+# El Trisquel / Triskel / Triskelium
+
+</div>
+
+### Resúmen: 
+
+> Estructura el agua
+>
+> Amuleto de suerte
+>
+> Amuleto de protección
+>
+> Protege de las EMF
+>
+> Amuleto de sanación
+
+
 # 1. Introducción
 
 El **trisquel** (también llamado *triskelion* o *tríada espiral*) es uno de los motivos más reconocibles de la cultura celta. Sus tres brazos curvos giran alrededor de un punto central y representan:
