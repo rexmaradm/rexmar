@@ -3,7 +3,7 @@ title = "Productos RexMar Agua de Mar Perú"
 description = "Productos RexMar Agua de Mar Perú"
 date = "2026-10-02"
 author = "legar"
-aliases = ["/productos"]
+aliases = ["/product"]
 
 [taxonomies]
 
