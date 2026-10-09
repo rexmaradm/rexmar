@@ -12,7 +12,7 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "fermentacion", "probioti
 
 # Kvass de Remolacha con Agua de Mar Hipertónica: Ecosistema Microbiano y Acción Antimicrobiana
 
-## [Yá disponible pídalo aquí](/contacto)
+### Ya disponible en RexMar el Kvass  [pídalo aquí](/contacto) { .destacado }
 
 El **kvass de remolacha** es una bebida fermentada tradicional de Europa del Este, venerada por sus propiedades reconstituyentes y digestivas. Tradicionalmente elaborado con agua dulce y sal común, una tendencia creciente en la fermentación artesanal y el biohacking propone sustituir estos ingredientes por **agua de mar hipertónica**. 
 

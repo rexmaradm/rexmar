@@ -1,6 +1,6 @@
 +++
 title = "Trisquel de cobre y el codo egipcio: historia, propiedades, orientación y usos para el agua y la sanación"
-description = "Guía completa para Zola SSG (Linux) sobre el símbolo celta Trisquel fabricado en cobre, la importancia del codo egipcio, la influencia de su orientación (arriba / abajo) y la forma correcta de llevarlo colgado en el pecho."
+description = " el símbolo celta Trisquel fabricado en cobre, la importancia del codo egipcio, la influencia de su orientación (arriba / abajo) y la forma correcta de llevarlo colgado en el pecho."
 date = "2026-10-09"
 author = "legar"
 aliases = ["/trisq1"]
@@ -26,8 +26,6 @@ El **trisquel** (también llamado *triskelion* o *tríada espiral*) es uno de lo
 Cuando el trisquel se fabrica en **cobre**, el símbolo adquiere propiedades físicas (conductividad, acción antibacteriana) y energéticas (resonancia con frecuencias ELF ≈ 7,83 Hz) que lo convierten en una herramienta útil tanto para **purificar y estructurar agua** como para **apoyar procesos de sanación**.
 
 En el ámbito esotérico contemporáneo el trisquel suele combinarse con el **codo egipcio** (un pequeño gancho o codo de cobre). Este elemento no solo sirve de anclaje mecánico, sino que también actúa como punto de acoplamiento energético que permite orientar la energía del símbolo de forma controlada.
-
-El artículo está estructurado en secciones autocontenidas y listo para copiarse directamente a un archivo `trisquel-cobre.md` dentro de un proyecto Zola.
 
 ---
 
