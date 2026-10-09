@@ -177,6 +177,6 @@ WiccaPedia – “Correspondences of Copper”. https://www.wiccapedia.org/wiki/
 
 <div align="center">
 
-[ir a Inicio](/)
+[Vease también]/(trisq1) - [ir a Inicio](/)
 
 </div>
