@@ -1,6 +1,6 @@
 +++
 title = "Trisquel de cobre y el codo egipcio: historia, propiedades, orientación y usos para el agua y la sanación"
-description = " el símbolo celta Trisquel fabricado en cobre, la importancia del codo egipcio, la influencia de su orientación (arriba / abajo) y la forma correcta de llevarlo colgado en el pecho."
+description = " el símbolo celta Trisquel fabricado en cobre, la importancia de la medida del codo egipcio, la influencia de su orientación (arriba / abajo) y la forma correcta de llevarlo colgado en el pecho."
 date = "2026-10-09"
 author = "legar"
 aliases = ["/trisq1"]
@@ -25,7 +25,7 @@ El **trisquel** (también llamado *triskelion* o *tríada espiral*) es uno de lo
 
 Cuando el trisquel se fabrica en **cobre**, el símbolo adquiere propiedades físicas (conductividad, acción antibacteriana) y energéticas (resonancia con frecuencias ELF ≈ 7,83 Hz) que lo convierten en una herramienta útil tanto para **purificar y estructurar agua** como para **apoyar procesos de sanación**.
 
-En el ámbito esotérico contemporáneo el trisquel suele combinarse con el **codo egipcio** (un pequeño gancho o codo de cobre). Este elemento no solo sirve de anclaje mecánico, sino que también actúa como punto de acoplamiento energético que permite orientar la energía del símbolo de forma controlada.
+En el ámbito esotérico contemporáneo el trisquel suele combinarse con la medida áurea del **codo egipcio** (un pequeño gancho o codo de cobre). Este elemento sirve  como punto de acoplamiento energético que permite orientar la energía del símbolo de forma controlada.
 
 ---
 
@@ -76,20 +76,16 @@ En el ámbito esotérico contemporáneo el trisquel suele combinarse con el **co
 
 En la joyería y en objetos rituales del Antiguo Egipto existía un **gancho curvo de cobre** (a veces llamado *codo*). Servía para:
 
-1. **Sujeción mecánica** de amuletos o colgantes sin perforar el metal.  
-2. **Punto de acoplamiento energético**: la curvatura crea un cambio de dirección de la corriente eléctrica que fluye por el cobre, generando micro‑vórtices útiles para la estructuración del agua y la resonancia corporal.  
-3. **Sincronía cultural** – El cobre era sagrado tanto para celtas como para egipcios; combinar ambos símbolos se interpreta como una fusión de “energía solar” (celtas) y “agua del Nilo” (egipcios).
+1. **Punto de acoplamiento energético**: crea un cambio de dirección de la corriente eléctrica que fluye por el cobre, generando micro‑vórtices útiles para la estructuración del agua y la resonancia corporal.  
+2. **Sincronía cultural** – El cobre era sagrado tanto para celtas como para egipcios; combinar ambos símbolos se interpreta como una fusión de “energía solar” (celtas) y “agua del Nilo” (egipcios).
 
 Ejemplo auténtico del museo Metropolitano de Nueva York:  
 > “Egyptian copper hook, ca. 1500 BCE”. <https://www.metmuseum.org/art/collection/search/547698>
 
 ## 4.2 Por qué es importante en el trisquel de cobre
 
-* **Anclaje energético** – El codo actúa como “nodo” donde la energía del trisquel se concentra y se dirige hacia el cuerpo o el líquido.  
-* **Optimización de longitud resonante** – Si el cable que forma el trisquel tiene una longitud basada en una fracción del **codo real egipcio** (≈ 52,4 cm), el conjunto vibra en frecuencias útiles (≈ 144 MHz) que se asocian a la estructuración del agua y al refuerzo inmunológico.  
-* **Versatilidad de orientación** – El codo permite colgar el trisquel en cualquier dirección sin que se desplace, facilitando el control de “arriba / abajo”.
-
----
+* **Anclaje energético** – actúa como “nodo” donde la energía del trisquel se concentra y se dirige hacia el cuerpo o el líquido.  
+* **Optimización de longitud resonante** – Como el cable que forma el trisquel tiene una longitud basada en el **codo real egipcio** (≈ 52,4 cm), el conjunto vibra en frecuencias útiles (≈ 144 MHz) que se asocian a la estructuración del agua y al refuerzo inmunológico.  
 
 # 5. Orientación del trisquel de cobre: ¿hacia arriba o hacia abajo?
 
@@ -162,12 +158,11 @@ Para **activación energética** (p.ej., antes de un ritual de solsticio) invert
 **Pasos de sujeción**
 
 1. **Cadena** – Use cuerda de algodón, cuero o una cadena de plata (evite hierro). Diámetro recomendado: 2‑3 mm.  
-2. **Anclaje con el codo** – El codo egipcio se abre y se cuelga alrededor del cuello; el gancho se asegura contra la piel.  
 3. **Posición del trisquel** – La pieza debe quedar **centrada** sobre el timo (aprox. 5 cm bajo la clavícula).  
 4. **Orientación** –  
-   * **Para protección y estabilización:** punta **hacia abajo** (levógiro).  
-   * **Para activación y elevación de la conciencia:** punta **hacia arriba** (dextrógiro).  
-5. **Contacto** – Deje que el cobre toque ligeramente la piel (no debe irritar). Se recomienda usar la pieza durante **máximo 8 h** al día y retirarla antes de dormir.  
+   * **Para protección y estabilización:**  **hacia abajo** (levógiro).  
+   * **Para activación y elevación de la conciencia:** **hacia arriba** (dextrógiro).  
+5. **Contacto** – Deje que el cobre toque ligeramente la piel (no debe irritar).  
 6. **Opcional aromático** – Aplique 3 µL de aceite esencial de lavanda sobre el punto de contacto para mayor sensación de bienestar (ver estudio de aromaterapia: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612440/>).
 
 ---

@@ -21,6 +21,8 @@ og_image = "https://www.th.org.pe./images/trisq.jpg"
 
 </div>
 
+[Vease también](/trisq1) - [ir a Inicio](/)
+
 ### Resúmen: 
 
 > Estructura el agua
@@ -177,6 +179,6 @@ WiccaPedia – “Correspondences of Copper”. https://www.wiccapedia.org/wiki/
 
 <div align="center">
 
-[Vease también]/(trisq1) - [ir a Inicio](/)
+[Vease también](/trisq1) - [ir a Inicio](/)
 
 </div>
