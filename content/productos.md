@@ -14,7 +14,7 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 [![](/wp-content/uploads/2023/10/logowhatsapp133.png)](https://api.whatsapp.com/send?phone=51904743809&text=Hola%2C%20me%20comunicaba%20por%20productos)
 
-#### El agua de mar (AdM) se extrae más allá de los 3 km. de distancia y a 11 mts. de profundidad (ver videos de extracción www.th.org.pe) sólo se hace un microfiltrado por gravedad en frio, en filtro cerámico de 0,2 micras, para evitar una remota posibilidad que pase algún patógeno terrestre. Es el mismo método que usaba el célebre René Quinton
+#### El agua de mar (AdM) se extrae más allá de los 3 km. de distancia y a 11 mts. de profundidad (ver videos de extracción [](www.th.org.pe) ) sólo se hace un microfiltrado por gravedad en frio, en filtro cerámico de 0,2 micras, para evitar una remota posibilidad que pase algún patógeno terrestre. Es el mismo método que usaba el célebre René Quinton
 
 #### El agua de mar es gratis, los precios corresponden al servicio de: extracción profunda, movilizaciónes al puerto, envase, marinería y filtrado 
 
