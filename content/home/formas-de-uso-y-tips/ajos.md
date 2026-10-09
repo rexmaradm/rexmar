@@ -15,7 +15,7 @@ tags = ["rexmar", "agua de mar", "Perú", "fermentación", "probióticos", "ajo"
 
 El ajo (Allium sativum) se ha usado durante milenios como condimento, conservante y remedio natural. Cuando se **pelan los dientes y se someten a fermentación en agua de mar hipertónica** se genera un producto con:
 
-###  Ya Disponible!  [aquí](/contacto)
+### Ya disponible en RexMar [aquí](/contacto)  { .destacado }
 
 ![Ajos RexMar](/images/ajos.jpg)
 
