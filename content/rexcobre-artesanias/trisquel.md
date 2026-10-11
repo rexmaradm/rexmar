@@ -48,9 +48,11 @@ Cuando el trisquel se elabora en **cobre**, el símbolo se enriquece con las pro
 
 ---
 
-### Ya disponible en RexCobre/RexMar el trisquel de cobre puro. { .destacado }
+### Ya disponible en RexCobre/RexMar el trisquel de cobre puro. versión Simple y versión Trenzada { .destacado }
 
-![Trisque](/images/trisq.jpg)
+![Trisquel ](/images/trisq.jpg)
+
+![Trisquel Trenzado](/images/trisq2.0.jpg)
 
 <iframe width="787" height="442" src="https://www.youtube.com/embed/uokFoWl1DCM" title="🔺 EL TRISQUELION o TRISQUEL📜 a Través de la Historia: De los Celtas a la Actualidad." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -175,7 +177,7 @@ Emoto Peace Project – “Water Crystals and Geometric Symbols”. http://www.e
 
 WiccaPedia – “Correspondences of Copper”. https://www.wiccapedia.org/wiki/Copper
 
-[img-ref]: /img/trisq.jpg "Trisquel disponible en RexMar"
+[img-ref]: /img/trisq2.0.jpg "Trisquel disponible en RexMar"
 
 <div align="center">
 
