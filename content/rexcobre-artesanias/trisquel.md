@@ -3,7 +3,7 @@ title = "Trisquel de Cobre: historia celta, propiedades, usos esotéricos y apli
 description = "Análisis completo del símbolo celta Trisquel fabricado en cobre, con referencias arqueológicas, datos científicos, usos rituales y guía práctica para estructurar y desinfectar agua."
 date = "2026-10-05"
 author = "legar"
-aliases = ["/trisq"]
+aliases = ["/t"]
 
 [taxonomies]
 
