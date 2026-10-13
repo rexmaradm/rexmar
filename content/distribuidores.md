@@ -100,7 +100,7 @@ Dirección: En el segundo piso del restaurante Pato Mandarín. Av. prol. Cesar V
 
 ## * Tarapoto
 
-**Energía Renovable Najia Garden EIR. Sr. Bruno Laborde**
+**Energía Renovable NAHIA GARDEN E.I.R.L.. Sr. Bruno Laborde**
 
 <img src="/images/wp.svg" alt="whatsapp" width="3%"></img>Teléfono:914 140 099
 
