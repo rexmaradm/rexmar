@@ -12,7 +12,7 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
 
 # Espiral carpiano de cobre usando cobre tensorial y la medida del codo real egipcio  
 
-### Ya disponible en RexMar el Kvass  [pídalo aquí](/contacto) { .destacado }
+### Ya disponible en RexMar/RexCobre el Espiral carpiano  [pídalo aquí](/contacto) { .destacado }
 
 <video controls width="66%">
   <source src="/images/espcarp1.mp4" type="video/mp4">
