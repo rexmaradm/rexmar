@@ -19,13 +19,18 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
   Tu navegador no soporta video HTML5.
 </video>
 
+![](/images/espcarp1.jpg)
+
+![](/images/espcarp2.jpg)
+
+![](/images/espcarp3.jpg)
+
 Una pequeña bobina de cobre que se coloca alrededor de la muñeca (carpo) para **aliviar tensiones, mejorar la microcirculación y aportar efectos antimicrobianos**.  
 El diseño combina:
 
 * **Cobre tensorial** – cobre de alta pureza tratado para obtener anisotropía mecánica (mayor flexibilidad sin perder resistencia).  
 * **Codo real egipcio** – unidad de medida milenaria (≈ 52,3 mm) que permite reproducir dimensiones “a mano” y confiere un atractivo histórico‑cultural al proyecto.
 
-El artículo está pensado para la comunidad *makers* que usa **Zola SSG** como generador estático; al final encontrarás los fragmentos de front‑matter y la sugerencia de configuración para publicar los archivos de diseño.
 
 ---
 
