@@ -19,6 +19,55 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
 # Anillo tensorial de cobre: fusión de la metrología egipcia y la metalurgia avanzada
 
 ---
+Explicación de la importancia de la torsión y qué efectos crea, elija la pista en su idioma si no le sale automático en español..
+
+<!-- 1. Contenedor donde se cargará el reproductor -->
+<div id="yt-player"></div>
+
+<!-- 2. Cargar la API de YouTube -->
+<script src="https://www.youtube.com/iframe_api"></script>
+
+<script>
+  var player;
+
+  // 3. Esta función se llama automáticamente cuando la API está lista
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('yt-player', {
+      height: '442',
+      width: '787',
+      videoId: 'MFDjNY3I55g',
+      playerVars: {
+        'hl': 'es', // Interfaz en español (opcional pero útil)
+        'origin': window.location.origin
+      },
+      events: {
+        'onReady': onPlayerReady
+      }
+    });
+  }
+
+  // 4. Se ejecuta cuando el reproductor ya cargó
+  function onPlayerReady(event) {
+    // Esperar un momento a que las pistas se carguen
+    setTimeout(function() {
+      if (player.getAvailableAudioTracks) {
+        var tracks = player.getAvailableAudioTracks();
+
+        // Recorrer las pistas y buscar la que sea 'es' (español)
+        for (var i = 0; i < tracks.length; i++) {
+          if (tracks[i].languageCode === 'es') {
+            player.setAudioTrack(tracks[i]);
+            console.log('Pista de audio en español seleccionada automáticamente.');
+            break;
+          }
+        }
+      }
+    }, 1000); // Pequeño retardo para asegurar que las pistas estén listas
+  }
+</script>
+
+
+
 video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/-xETHO2W3eE" title="Using a tensor ring to transmute EMFs👨🏻‍🌾 #emf #tensor #orgone #tensortech" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
