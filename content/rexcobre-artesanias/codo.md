@@ -1,6 +1,6 @@
 +++
-title = "Espiral carpiano de cobre con cobre tensorial y la medida del codo real egipcio"
-description = "Diseño, fabricación y fundamentos físico‑históricos de una espiral de cobre para terapia del carpo, basada en cobre tensorial y la unidad de medida egipcia del codo (cúbito real)."
+title = "sobre la medida del codo real egipcio"
+description = "sobre la unidad de medida egipcia del codo (cúbito real)."
 date = "2026-10-13"
 author = "legar"
 aliases = ["/codoe"]

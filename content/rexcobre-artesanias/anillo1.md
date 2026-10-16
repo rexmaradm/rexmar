@@ -12,9 +12,10 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
 
 # Anillo tensorial de cobre: fusión de la metrología egipcia y la metalurgia avanzada
 
-Este artículo muestra, paso a paso, cómo crear un **anillo de cobre tensorial** cuyo diseño está regido por la **medida del codo real egipcio** (≈ 52,3 mm).  
-
 ---
+video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
+
+<iframe width="315" height="576" src="https://www.youtube.com/embed/-xETHO2W3eE" title="Using a tensor ring to transmute EMFs👨🏻‍🌾 #emf #tensor #orgone #tensortech" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](/images/anillo1.jpg)
 
