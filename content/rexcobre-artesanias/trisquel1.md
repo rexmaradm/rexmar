@@ -12,7 +12,7 @@ tags = ["rexmar", "Cultura celta", "Geometría sagrada", "Cobre", "Purificación
 
 <div align="center">
 
-[Ver más sobre el Trisquel](/trisq) - [Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+[Ver más sobre el Trisquel](/t) - [Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>
 
