@@ -31,9 +31,9 @@ video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
 
 | Concepto                     | Valor | Comentario | Fuente |
 |-----------------------------|-------|------------|--------|
-| Codo real (Royal Cubit)     | **52,3 mm** ± 0,2 mm | Vara de medida estándar en el Antiguo Egipto | [Wikipedia (es)](https://es.wikipedia.org/wiki/C%C3%BAbito_(unidad_de_medida)) |
-| Cúbito completo (2 codos)   | 104,6 mm | Utilizado en arquitectura monumental | [World History Encyclopedia](https://www.worldhistory.org/Egyptian_Cubit/) |
-| Vara de medir egipcia       | 52,8 mm (medición láser moderna) | Confirmada en artefactos del siglo III a.C. | [Metropolitan Museum](https://www.metmuseum.org/toah/hd/egyc/hd_egyc.htm) |
+| Codo real (Royal Cubit)     | **52,3 cm** ± 0,2 mm | Vara de medida estándar en el Antiguo Egipto | [Wikipedia (es)](https://es.wikipedia.org/wiki/C%C3%BAbito_(unidad_de_medida)) |
+| Cúbito completo (2 codos)   | 104,6 cm | Utilizado en arquitectura monumental | [World History Encyclopedia](https://www.worldhistory.org/Egyptian_Cubit/) |
+| Vara de medir egipcia       | 52,8 cm (medición láser moderna) | Confirmada en artefactos del siglo III a.C. | [Metropolitan Museum](https://www.metmuseum.org/toah/hd/egyc/hd_egyc.htm) |
 
 **Por qué emplearla en joyería**
 

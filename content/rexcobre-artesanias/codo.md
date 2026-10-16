@@ -12,7 +12,7 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
 
 # Introducción  
 
-El **codo real egipcio** (también llamado *cúbito real*) es una unidad de longitud milenaria que mide **≈ 52,3 mm**. Utilizarla como módulo de diseño permite crear dispositivos “a mano” con una geometría que se adapta naturalmente a la anatomía humana. En este artículo se muestra cómo fabricar una **espiral carpiano** (bobina helicoidal) usando **cobre tensorial** y respetando el codo egipcio, y se explica cómo la longitud (en múltiplos de codos) afecta sus propiedades magnéticas, mecánicas y antibacterianas.
+El **codo real egipcio** (también llamado *cúbito real*) es una unidad de longitud milenaria que mide **≈ 52,3 cm**. Utilizarla como módulo de diseño permite crear dispositivos “a mano” con una geometría que se adapta naturalmente a la anatomía humana. En este artículo se muestra cómo fabricar una **espiral carpiano** (bobina helicoidal) usando **cobre tensorial** y respetando el codo egipcio, y se explica cómo la longitud (en múltiplos de codos) afecta sus propiedades magnéticas, mecánicas y antibacterianas.
 
 ![](/images/codoe.jpg)
 ![](/images/codoe2.jpg)
@@ -24,11 +24,11 @@ El **codo real egipcio** (también llamado *cúbito real*) es una unidad de long
 
 | Designación | Valor medio | Comentario |
 |-------------|------------|------------|
-| **Codo real (Royal Cubit)** | **52,3 mm** (± 0,2 mm) | Medido en la famosa *vara de cobre* de la dinastía III (≈ 2600 a.C.) y confirmado por escaneo láser moderno. |
-| Codo corto | ≈ 45 mm | Usado en arquitectura menor. |
-| Codo largo | ≈ 63 mm | Variante del Nuevo Imperio. |
-| Palma (1/7 codo) | ≈ 7,5 mm | Subdivisión práctica. |
-| Dedo (1/28 codo) | ≈ 1,9 mm | Subdivisión mínima. |
+| **Codo real (Royal Cubit)** | **52,3 cm** (± 0,2 mm) | Medido en la famosa *vara de cobre* de la dinastía III (≈ 2600 a.C.) y confirmado por escaneo láser moderno. |
+| Codo corto | ≈ 45 cm | Usado en arquitectura menor. |
+| Codo largo | ≈ 63 cm | Variante del Nuevo Imperio. |
+| Palma (1/7 codo) | ≈ 7,5 cm | Subdivisión práctica. |
+| Dedo (1/28 codo) | ≈ 1,9 cm | Subdivisión mínima. |
 
 **Fuentes**  
 
@@ -61,12 +61,12 @@ El **cobre tensorial** es cobre de alta pureza que ha sido sometido a un tratami
 
 ### 3.1 Parámetros básicos (expresados en “codos”)
 
-| Parámetro | Valor en codos | Valor en mm |
+| Parámetro | Valor en codos | Valor en cm |
 |-----------|----------------|-------------|
-| Diámetro interno (DI) | 0,6 codos | 31,38 mm |
-| Diámetro externo (DE) | 1,2 codos | 62,76 mm |
-| Paso entre vueltas (pitch) | 0,2 codos | 10,46 mm |
-| Longitud total del alambre (corte) | 2 codos | 104,6 mm |
+| Diámetro interno (DI) | 0,6 codos | 31,38 cm |
+| Diámetro externo (DE) | 1,2 codos | 62,76 cm |
+| Paso entre vueltas (pitch) | 0,2 codos | 10,46 cm |
+| Longitud total del alambre (corte) | 2 codos | 104,6 cm |
 | Número de vueltas (N) (con pitch = 0,2 codos) | 3,5 vueltas | — |
 
 > **Nota**: el número de vueltas se obtiene dividiendo la longitud del alambre entre la circunferencia media \(\pi (DI+DE)/2\). Con 2 codos de alambre y el paso indicado, se alcanzan **≈ 3,5 vueltas**, que generan una inductancia útil para terapia ELF (10‑100 Hz).
@@ -80,8 +80,8 @@ L \approx \frac{\mu_0 N^{2} A}{\ell_{\text{bobina}}}
 \]
 
 - \(\mu_0 = 4\pi \times 10^{-7}\; \mathrm{H·m^{-1}}\)  
-- \(A = \pi (D_\text{medio}/2)^{2}\) con \(D_\text{medio} = (DI+DE)/2 = 0,9\;codos = 47,07\;mm\)  
-- \(\ell_{\text{bobina}} \approx 2\;codos = 104,6\;mm\)  
+- \(A = \pi (D_\text{medio}/2)^{2}\) con \(D_\text{medio} = (DI+DE)/2 = 0,9\;codos = 47,07\;cm\)  
+- \(\ell_{\text{bobina}} \approx 2\;codos = 104,6\;cm\)  
 
 Resultado aproximado: **L ≈ 2 µH** (valor práctico para resonar con frecuencias de terapia de bajo nivel).
 
@@ -100,13 +100,13 @@ Con \(L_{\text{alambre}} = 0,1046\;m\) → **R ≈ 0,12 Ω**, una caída d
 
 ## 4. ¿Qué ocurre si se usan múltiplos del codo?  
 
-| Múltiplo | Longitud (mm) | Cambios principales |
+| Múltiplo | Longitud (cm) | Cambios principales |
 |----------|--------------|----------------------|
-| **0,5 codo** | 26,15 mm | Muy corta: 1‑2 vueltas, inductancia ≈ 0,5 µH, alta flexibilidad, menor superficie antimicrobiana. |
-| **1 codo** | 52,30 mm | Configuración estándar para muñeca: 1,5‑2 vueltas, L ≈ 0,8‑1 µH, cómoda. |
-| **1,5 codos** | 78,45 mm | 2,5‑3 vueltas → L ≈ 1,5‑2 µH; ligeramente más rígida. |
-| **2 codos** | 104,60 mm | 3,5‑4 vueltas → L ≈ 2‑2,5 µH, **dobla el campo magnético** para la misma corriente, **duplica la resistencia** y el peso. Ideal cuando se necesita mayor alcance magnético o más superficie para el efecto oligodinámico, pero pierde algo de comodidad. |
-| **3 codos** | 156,90 mm | 5‑6 vueltas → L ≈ 4‑5 µH; la espiral ya es volumosa, útil sólo para aplicaciones de “cuerpo completo” (cinturón, respaldo). |
+| **0,5 codo** | 26,15 cm | Muy corta: 1‑2 vueltas, inductancia ≈ 0,5 µH, alta flexibilidad, menor superficie antimicrobiana. |
+| **1 codo** | 52,30 cm | Configuración estándar para muñeca: 1,5‑2 vueltas, L ≈ 0,8‑1 µH, cómoda. |
+| **1,5 codos** | 78,45 cm | 2,5‑3 vueltas → L ≈ 1,5‑2 µH; ligeramente más rígida. |
+| **2 codos** | 104,60 cm | 3,5‑4 vueltas → L ≈ 2‑2,5 µH, **dobla el campo magnético** para la misma corriente, **duplica la resistencia** y el peso. Ideal cuando se necesita mayor alcance magnético o más superficie para el efecto oligodinámico, pero pierde algo de comodidad. |
+| **3 codos** | 156,90 cm | 5‑6 vueltas → L ≈ 4‑5 µH; la espiral ya es volumosa, útil sólo para aplicaciones de “cuerpo completo” (cinturón, respaldo). |
 
 ### 4.1 “Más poder” vs “más utilidad”  
 

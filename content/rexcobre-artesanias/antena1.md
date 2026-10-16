@@ -1,6 +1,6 @@
 +++
 title = "Antena tensorial de cobre con alambre AWG 18 y medida del doble codo egipcio"
-description = "antena tensorial de cobre tensorial AWG 18 basada en la unidad de medida egipcia del doble codo real (≈104,6 mm)."
+description = "antena tensorial de cobre tensorial AWG 18 basada en la unidad de medida egipcia del doble codo real (≈104,6 cm)."
 date = "2026-10-13"
 author = "legar"
 aliases = ["/ant1"]
@@ -21,7 +21,7 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 # Antena tensorial de cobre: fusionando metrología egipcia y tecnología moderna
 
 - **Cobre tensorial AWG 18**: alambre de cobre de alta pureza con propiedades anisotrópicas
-- **Medida del doble codo egipcio**: unidad de longitud milenaria (≈104,6 mm)
+- **Medida del doble codo egipcio**: unidad de longitud milenaria (≈104,6 cm)
 - **Diseño para radioaficionados**: frecuencia de 144 MHz (2m) con ganancia mejorada
 
 ---
@@ -34,13 +34,13 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 | Concepto | Valor | Fuente |
 |----------|-------|--------|
-| Codo real egipcio | 52,3 mm (±0,2 mm) | [Wikipedia (es)](https://es.wikipedia.org/wiki/C%C3%BAbito_(unidad_de_medida)) |
-| Doble codo egipcio | **104,6 mm** (2 codos) | [World History Encyclopedia](https://www.worldhistory.org/Egyptian_Cubit/) |
-| Vara de medir egipcia | 52,8 mm (medición moderna) | [Metropolitan Museum](https://www.metmuseum.org/toah/hd/egyc/hd_egyc.htm) |
+| Codo real egipcio | 52,3 cm (±0,2 mm) | [Wikipedia (es)](https://es.wikipedia.org/wiki/C%C3%BAbito_(unidad_de_medida)) |
+| Doble codo egipcio | **104,6 cm** (2 codos) | [World History Encyclopedia](https://www.worldhistory.org/Egyptian_Cubit/) |
+| Vara de medir egipcia | 52,8 cm (medición moderna) | [Metropolitan Museum](https://www.metmuseum.org/toah/hd/egyc/hd_egyc.htm) |
 
 **Aplicación en antenas**:
 - La longitud de onda de 144 MHz (2m) es ≈1,03 m (103 cm)
-- El doble codo (104,6 mm) está dentro del rango de longitudes de elemento dipolo
+- El doble codo (104,6 cm) está dentro del rango de longitudes de elemento dipolo
 - Permite construir antenas con precisión sin equipos de medición avanzados
 
 ---

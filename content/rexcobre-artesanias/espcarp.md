@@ -29,7 +29,7 @@ Una pequeña bobina de cobre que se coloca alrededor de la muñeca (carpo) para 
 El diseño combina:
 
 * **Cobre tensorial** – cobre de alta pureza tratado para obtener anisotropía mecánica (mayor flexibilidad sin perder resistencia).  
-* **Codo real egipcio** – unidad de medida milenaria (≈ 52,3 mm) que permite reproducir dimensiones “a mano” y confiere un atractivo histórico‑cultural al proyecto.
+* **Codo real egipcio** – unidad de medida milenaria (≈ 52,3 cm) que permite reproducir dimensiones “a mano” y confiere un atractivo histórico‑cultural al proyecto.
 
 ![](/images/codoe.jpg)
 ![](/images/codoe2.jpg)
@@ -41,38 +41,9 @@ El diseño combina:
 
 | Concepto | Valor aceptado | Fuente |
 |----------|----------------|--------|
-| **Codo real egipcio** (sub‑unidad del cúbito) | **52,3 mm** (≈ 2 pulgadas) | <https://es.wikipedia.org/wiki/C%C3%BAbito_(unidad_de_medida)> |
-| **Cúbito completo** | 52 mm × 2 ≈ 104,6 mm | <https://www.worldhistory.org/Egyptian_Cubit/> |
-| **Ejemplo arqueológico** – vara de medida de la dinastía III | 52,8 mm (medición láser moderna) | <https://www.metmuseum.org/toah/hd/egyc/hd_egyc.htm> |
-
-> **Por qué usarlo hoy**  
-> * La longitud está dentro del rango de la muñeca humana, lo que simplifica el dimensionado.  
-> * Su reproducibilidad con una regla “cubit” permite que cualquier taller fabrique piezas sin equipos de medida de alta precisión.  
-> * Añade valor simbólico y narrativo al producto final, algo muy apreciado en el mercado de bienestar y artesanía.
-
----
-
-## 2. Cobre tensorial: propiedades esenciales  
-
-| Propiedad | Valor típico | Fuente |
-|-----------|--------------|--------|
-| **Módulo de elasticidad (eje principal)** | 110 GPa | <https://doi.org/10.1016/j.matlet.2020.127341> |
-| **Conductividad eléctrica** | 97 % IACS | <https://doi.org/10.1016/j.jmst.2020.09.012> |
-| **Coeficiente de expansión térmica anisotrópico** | 16,5 µm·m⁻¹·K⁻¹ (eje 1) | <https://doi.org/10.1016/j.sna.2021.112519> |
-| **Efecto oligodinámico (antimicrobiano)** | Reducción > 99 % de *E. coli* en 2 h | <https://doi.org/10.3389/fmicb.2016.00105> |
-
-Estas características hacen que la espiral sea **flexible y cómoda** (para envolver la muñeca) y, a la vez, **capaz de generar campos electromagnéticos de muy baja frecuencia (ELF)** que pueden favorecer la microcirculación sin requerir energía externa.
-
----
-
-## 5. Evidencia científica del uso terapéutico
-
-| Área | Hallazgo | Fuente |
-|------|----------|--------|
-| Antimicrobiano (efecto oligodinámico) | Reducción > 99 % de *E. coli* y *S. aureus* en superficies de cobre puro. | [DOI](https://doi.org/10.3389/fmicb.2016.00105) |
-| Estimulación microcirculatoria por ELF | Campos ≤ 1 µT generados por bobinas de cobre mejoran el flujo sanguíneo periférico. | [DOI](https://doi.org/10.1080/03091902.2021.1915423) |
-| Alivio del síndrome del túnel carpiano | Terapia con bobinas de cobre (2 µH, 60 Hz) redujo la escala VAS de dolor de 6,2 → 2,8 en 4 semanas. | [DOI](https://doi.org/10.1186/s12906-020-03025-4) |
-| Campos magnéticos de bobinas de cobre | Modelado FEM muestra densidad máxima ≈ 0,8 µT a 3 cm del conductor, rango terapéutico seguro. | [DOI](https://doi.org/10.1016/j.jmm.2020.07.006) |
+| **Codo real egipcio** (sub‑unidad del cúbito) | **52,3 cm** (≈ 2 pulgadas) | <https://es.wikipedia.org/wiki/C%C3%BAbito_(unidad_de_medida)> |
+| **Cúbito completo** | 52 cm × 2 ≈ 104,6 cm | <https://www.worldhistory.org/Egyptian_Cubit/> |
+| **Ejemplo arqueológico** – vara de medida de la dinastía III | 52,8 cm.2020.07.006) |
 | Uso histórico del cobre en Egipto | Textos médicos del Nuevo Imperio describen vendas de cobre para heridas y "templos de curación". | [British Museum](https://www.britishmuseum.org/collection/object/Y_EA65) |   
 
 # 7. Conclusiones

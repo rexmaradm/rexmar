@@ -122,7 +122,7 @@ La geometría del trisquel es **dinámica**; el sentido en que se muestra la pun
 
 | Ítem | Cantidad | Comentario |
 |------|----------|------------|
-| Disco de cobre con trisquel + codo egipcio | 1 (≈ 30 mm de diámetro) | Fabricado según la sección 7. |
+| Disco de cobre con trisquel + codo egipcio | 1 (≈ 30 cm de diámetro) | Fabricado según la sección 7. |
 | Recipiente de vidrio (1 L) | 1 | Evita contaminación plástica. |
 | Luz solar directa o LED UV‑A 365 nm (0,5 W) | Opcional | Potencia la fotocatálisis. |
 | Agua de manantial o previamente filtrada (0,2 µm) | 1 L | Base limpia. |
@@ -137,7 +137,7 @@ La geometría del trisquel es **dinámica**; el sentido en que se muestra la pun
 
 **Resultados de campo** (CITA, Galicia, 2023)  
 - Reducción de coliformes > 99 %.  
-- Incremento de la zona de exclusión (EZ) en 0,4 mm respecto a agua sin tratar.  
+- Incremento de la zona de exclusión (EZ) en 0,4 cm respecto a agua sin tratar.  
 - Informe completo: <https://cita.es/informes/trisquel-cobre-perfil.pdf>
 
 > **Precaución:** No consumir el agua si el cobre residual supera 0,2 mg L⁻¹ (controlar con tiras de prueba).  
@@ -157,7 +157,7 @@ Para **activación energética** (p.ej., antes de un ritual de solsticio) invert
 
 **Pasos de sujeción**
 
-1. **Cadena** – Use cuerda de algodón, cuero o una cadena de plata (evite hierro). Diámetro recomendado: 2‑3 mm.  
+1. **Cadena** – Use cuerda de algodón, cuero o una cadena de plata (evite hierro). Diámetro recomendado: 2‑3 cm.  
 3. **Posición del trisquel** – La pieza debe quedar **centrada** sobre el timo (aprox. 5 cm bajo la clavícula).  
 4. **Orientación** –  
    * **Para protección y estabilización:**  **hacia abajo** (levógiro).  
