@@ -14,6 +14,11 @@ og_image = "https://www.th.org.pe./images/trisq.jpg"
 
 +++
 
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>
 
 <div align="center">
 
@@ -184,6 +189,6 @@ WiccaPedia – “Correspondences of Copper”. https://www.wiccapedia.org/wiki/
 
 <div align="center">
 
-[Vease también](/trisq1) - [ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>

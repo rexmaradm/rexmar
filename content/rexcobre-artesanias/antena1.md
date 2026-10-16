@@ -10,6 +10,12 @@ aliases = ["/ant1"]
 tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>
+
 <iframe width="315" height="576" src="https://www.youtube.com/embed/dYKpscmwNiU" title="te enseño los beneficios de tener una antena de cobré en tu casa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](/images/antena1.jpg)
@@ -72,9 +78,8 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 ---
 
-
 <div align="center">
 
-[ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>

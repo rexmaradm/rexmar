@@ -5,6 +5,12 @@ author = "legar"
 aliases = ["/canimales"]
 +++
 
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>
+
 Elimina Bacterias
 
 El Collar RexCobre elimina bacterias en poco tiempo, gracias a las partículas de cobre.
@@ -97,3 +103,9 @@ y sumado a estas importantes caracteristicas, estan las ya concidas hace cientos
 - Tiene el poder de fomentar el optimismo y la armonía.
 
 ![](/wp-content/uploads/2022/12/animales4-1.jpeg)![](/wp-content/uploads/2022/12/animales3-1.jpeg)![](/wp-content/uploads/2022/12/animales2-2.jpeg)![](/wp-content/uploads/2022/12/animales1-1.jpeg)![](/wp-content/uploads/2023/01/img_20230103_153256.jpg)![](/wp-content/uploads/2023/01/img_20230103_153241.jpg)![](/wp-content/uploads/2023/01/durmiendoquillainti.jpg)![](/wp-content/uploads/2023/01/img_20230103_153145.jpg)![](/wp-content/uploads/2023/01/img_20230103_153140.jpg)![](/wp-content/uploads/2023/01/img_20230103_153044.jpg)
+
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>

@@ -10,6 +10,12 @@ aliases = ["/pulseras"]
 tags = ["rexmar", "agua de mar", "Perú", "rexcobre", "pulseras", "protección", "biología", "salud", "ciencia"]
 +++
 
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>
+
 # Pulseras y tobilleras RexCobre
 
 Debajo hay mas fotos.
@@ -156,6 +162,6 @@ Usar una pulsera de cobre puede dejar un residuo verde en su piel. Esto es norma
 
 <div align="center">
 
-[ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>

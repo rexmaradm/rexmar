@@ -10,6 +10,12 @@ aliases = ["/espcarp"]
 tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egipcio", "espiral carpiano", "biología", "salud", "ciencia"]
 +++
 
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>
+
 # Espiral carpiano de cobre usando cobre tensorial y la medida del codo real egipcio  
 
 ### Ya disponible en RexMar/RexCobre el Espiral carpiano  [pídalo aquí](/contacto) { .destacado }
@@ -60,6 +66,6 @@ El diseño combina:
 
 <div align="center">
 
-[ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>

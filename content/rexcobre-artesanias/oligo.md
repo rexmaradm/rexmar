@@ -10,6 +10,12 @@ aliases = ["/oligo"]
 tags = ["rexmar", "agua de mar", "Perú", "cobre", "efecto oligodinamico", "biología", "salud", "ciencia"]
 +++
 
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>
+
 # El Efecto Oligodinámico del Cobre: Su Importancia en la Salud y la Tecnología
 
 El efecto oligodinámico del cobre es un fenómeno fascinante que describe la capacidad de este metal de inhibir el crecimiento de microorganismos, incluso en concentraciones extremadamente bajas. Este fenómeno, descubierto hace siglos, ha sido objeto de estudio y aplicación en diversos campos, desde la medicina hasta la tecnología.
@@ -63,6 +69,6 @@ El efecto oligodinámico del cobre es un fenómeno fascinante con aplicaciones e
 
 <div align="center">
 
-[ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>

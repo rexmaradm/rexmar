@@ -9,6 +9,12 @@ excerpt = "Colgante Cuántico Protección EMF EMR Frec. y Rad. ElectroMagneticas
 tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>
+
 Colgante Cuántico de Cristal de Cuarzo y Alambre de cobre. Protección contra Frecuencias y Radiaciones Electro Magnéticas EMF EMR, muy útil para personas hipersensibles a las mismas.
 
 Los tamaños de los cuarzos varían según disponibilidad, el tamaño mínimo de largo es 3 cm y el ancho/diámetro mínimo es 1 cm. Las fotos son de Colgantes Cuánticos hechos por mi, no son importados de países asiáticos. es cuarzo en bruto, natural (ralla el vidrio) y cobre puro sin esmaltar/barnizar. El cordel o cola de "rata" es de seda de 2mm de espesor.
@@ -51,6 +57,6 @@ Relacionada con el 4to. chakra, el chakra corazón,.
 
 <div align="center">
 
-[ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>

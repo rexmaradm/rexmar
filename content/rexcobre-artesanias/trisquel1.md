@@ -9,9 +9,10 @@ aliases = ["/trisq1"]
 
 tags = ["rexmar", "Cultura celta", "Geometría sagrada", "Cobre", "Purificación de agua", "Sanación", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
+
 <div align="center">
 
-[Ver más sobre el Trisquel](/trisq) - [ir a Inicio](/)
+[Ver más sobre el Trisquel](/trisq) - [Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>
 
@@ -202,6 +203,6 @@ Universidad de Porto – “Guía DIY de filtración solar doméstica”. https:
 
 <div align="center">
 
-[Ver más sobre el Trisquel](/trisq) - [ir a Inicio](/)
+[Ver más sobre el Trisquel](/trisq) - [Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>

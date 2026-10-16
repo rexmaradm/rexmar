@@ -7,6 +7,13 @@ aliases = ["/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-a-quemar-
 [taxonomies]
 tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
+
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>
+
 [](https://www.telemundo.com/shows/un-nuevo-dia/salud/bienvenida-la-fiebre-del-cobre-este-mineral-podria-ayudar-quemar-grasa-y-perder-peso-tmna1092746)
 
 El cobre tendría un rol clave para quemar grasa. Conoce los resultados de un estudio científico.
@@ -58,6 +65,6 @@ Fuente: <https://www.telemundo.com/shows/un-nuevo-dia/salud/bienvenida-la-fiebre
 
 <div align="center">
 
-[ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>

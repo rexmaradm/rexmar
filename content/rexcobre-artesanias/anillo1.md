@@ -10,6 +10,12 @@ aliases = ["/anillo1"]
 tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egipcio", "anillo", "biología", "salud", "ciencia"]
 +++
 
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>
+
 # Anillo tensorial de cobre: fusión de la metrología egipcia y la metalurgia avanzada
 
 ---
@@ -118,9 +124,8 @@ Thingiverse – Plantilla STL para anillo (codo egipcio): https://www.thingivers
 
 
 
-
 <div align="center">
 
-[ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>
