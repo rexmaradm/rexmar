@@ -14,6 +14,8 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
 
 El **codo real egipcio** (también llamado *cúbito real*) es una unidad de longitud milenaria que mide **≈ 52,3 mm**. Utilizarla como módulo de diseño permite crear dispositivos “a mano” con una geometría que se adapta naturalmente a la anatomía humana. En este artículo se muestra cómo fabricar una **espiral carpiano** (bobina helicoidal) usando **cobre tensorial** y respetando el codo egipcio, y se explica cómo la longitud (en múltiplos de codos) afecta sus propiedades magnéticas, mecánicas y antibacterianas.
 
+![](/images/codoe.jpg)
+
 ---
 
 ## 1. El codo real egipcio  

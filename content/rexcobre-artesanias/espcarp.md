@@ -31,6 +31,7 @@ El diseño combina:
 * **Cobre tensorial** – cobre de alta pureza tratado para obtener anisotropía mecánica (mayor flexibilidad sin perder resistencia).  
 * **Codo real egipcio** – unidad de medida milenaria (≈ 52,3 mm) que permite reproducir dimensiones “a mano” y confiere un atractivo histórico‑cultural al proyecto.
 
+![](/images/codoe.jpg)
 
 ---
 

@@ -20,8 +20,6 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 # Antena tensorial de cobre: fusionando metrología egipcia y tecnología moderna
 
-Este artículo presenta el diseño y construcción de una **antena tensorial de cobre tensorial AWG 18** basada en la **medida del doble codo real egipcio** (≈104,6 mm). Combina:
-
 - **Cobre tensorial AWG 18**: alambre de cobre de alta pureza con propiedades anisotrópicas
 - **Medida del doble codo egipcio**: unidad de longitud milenaria (≈104,6 mm)
 - **Diseño para radioaficionados**: frecuencia de 144 MHz (2m) con ganancia mejorada
@@ -29,6 +27,8 @@ Este artículo presenta el diseño y construcción de una **antena tensorial de 
 ---
 
 ## 1. Contexto histórico del doble codo egipcio
+
+![](/images/codoe.jpg)
 
 | Concepto | Valor | Fuente |
 |----------|-------|--------|

@@ -25,6 +25,8 @@ video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
 
 ## 1. El codo real egipcio – una unidad milenaria
 
+![](/images/codoe.jpg)
+
 | Concepto                     | Valor | Comentario | Fuente |
 |-----------------------------|-------|------------|--------|
 | Codo real (Royal Cubit)     | **52,3 mm** ± 0,2 mm | Vara de medida estándar en el Antiguo Egipto | [Wikipedia (es)](https://es.wikipedia.org/wiki/C%C3%BAbito_(unidad_de_medida)) |
