@@ -14,6 +14,8 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 
 ![](/images/codoe.jpg)
+![](/images/codoe2.jpg)
+![](/images/codoe3.jpg)
 
 <div align="center">
 

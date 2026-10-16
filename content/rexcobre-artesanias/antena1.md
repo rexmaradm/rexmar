@@ -29,6 +29,8 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 ## 1. Contexto histórico del doble codo egipcio
 
 ![](/images/codoe.jpg)
+![](/images/codoe2.jpg)
+![](/images/codoe3.jpg)
 
 | Concepto | Valor | Fuente |
 |----------|-------|--------|

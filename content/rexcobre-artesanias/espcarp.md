@@ -32,6 +32,8 @@ El diseño combina:
 * **Codo real egipcio** – unidad de medida milenaria (≈ 52,3 mm) que permite reproducir dimensiones “a mano” y confiere un atractivo histórico‑cultural al proyecto.
 
 ![](/images/codoe.jpg)
+![](/images/codoe2.jpg)
+![](/images/codoe3.jpg)
 
 ---
 

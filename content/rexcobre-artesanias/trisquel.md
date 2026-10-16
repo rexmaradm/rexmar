@@ -64,6 +64,8 @@ Cuando el trisquel se elabora en **cobre**, el símbolo se enriquece con las pro
 <iframe width="315" height="576" src="https://www.youtube.com/embed/LkfOf2Domuw" title="Triskel de cobre para celular" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](/images/codoe.jpg)
+![](/images/codoe2.jpg)
+![](/images/codoe3.jpg)
 
 # 2. Origen histórico y arqueológico
 

@@ -26,6 +26,8 @@ video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
 ## 1. El codo real egipcio – una unidad milenaria
 
 ![](/images/codoe.jpg)
+![](/images/codoe2.jpg)
+![](/images/codoe3.jpg)
 
 | Concepto                     | Valor | Comentario | Fuente |
 |-----------------------------|-------|------------|--------|
