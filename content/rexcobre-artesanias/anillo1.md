@@ -66,6 +66,7 @@ Explicación de la importancia de la torsión y qué efectos crea, elija la pist
   }
 </script>
 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/rzo-yDfiRdI" title="For EMF protection - Shungite or Tensor Ring?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
