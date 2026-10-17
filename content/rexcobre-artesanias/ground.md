@@ -21,6 +21,8 @@ tags = ["rexmar", "agua de mar", "Perú", "grounding", "earthing", "biología", 
 
 # 1. Introducción
 
+<iframe width="315" height="576" src="https://www.youtube.com/embed/Jrh-NAxdYRg" title="Why Does a Walk in the Forest Feel Different? #forestbathing #connectwithnature #grounding" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 El **grounding** o **earthing** consiste en colocar la piel en contacto directo con la superficie de la Tierra (hierba, tierra, arena, agua natural) o mediante dispositivos conductores conectados a una toma de tierra.  
 La hipótesis central es que la corteza terrestre actúa como un reservorio de electrones libres (carga negativa). Al “recargar” el cuerpo con esos electrones se neutralizan radicales libres, se estabiliza el potencial de membrana y, en teoría, se mejora la salud sistémica.
 

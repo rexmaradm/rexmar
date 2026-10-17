@@ -1,9 +1,9 @@
 +++
-title = ""
-description = ""
+title = " La tecnología de la torsión del anillo explicada por el propio inventor, Slim Spuling"
+description = " La tecnología de la torsión del anillo explicada por el propio inventor, Slim Spuling RexCobre"
 date = "2026-10-16"
 author = "legar"
-aliases = ["/"]
+aliases = ["/slim"]
 
 [taxonomies]
 
