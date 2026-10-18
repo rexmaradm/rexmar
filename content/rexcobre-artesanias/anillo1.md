@@ -73,6 +73,8 @@ video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/-xETHO2W3eE" title="Using a tensor ring to transmute EMFs👨🏻‍🌾 #emf #tensor #orgone #tensortech" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="1164" height="727" src="https://www.youtube.com/embed/lRG3VV2sPGI" title="Tensor Ring Placed on Electric Meter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![](/images/anillo1.jpg)
 
 ![](/images/anillo2.jpg)
