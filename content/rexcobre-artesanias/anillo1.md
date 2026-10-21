@@ -75,6 +75,10 @@ video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
 
 <iframe width="1164" height="727" src="https://www.youtube.com/embed/lRG3VV2sPGI" title="Tensor Ring Placed on Electric Meter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Los anillos deben ser exactamente circulares para funcionar?
+
+<iframe width="787" height="442" src="https://www.youtube.com/embed/7nc4GFQMQpI" title="Do Slim Spurling&#39;s Light-Life Rings Need to be Circular to Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![](/images/anillo1.jpg)
 
 ![](/images/anillo2.jpg)
