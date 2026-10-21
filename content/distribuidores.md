@@ -80,6 +80,13 @@ Dirección: Sta Luzmila, Av Universitaria 7034, Comas
 
 ---
 
+## * VMT Villa María del Triunfo
+
+<img src="/images/wp.svg" alt="whatsapp" width="3%"></img>Whatsapp: 997 152 114
+
+Ref: [Ubicación Google Maps](https://maps.app.goo.gl/erjc7KZa2ntP1pPv6)
+
+
 # La Libertad
 
 ## * Trujillo
