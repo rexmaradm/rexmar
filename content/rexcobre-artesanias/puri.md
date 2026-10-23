@@ -1,6 +1,6 @@
 +++
 title = "Espiral tensorial de cobre para la purificación y revitalización del agua"
-description = "Diseño, cálculos y guía de fabricación DIY de una espiral de cobre tensorial para la desinfección del agua mediante el efecto oligodinámico, lista para publicar con Zola SSG."
+description = "espiral de cobre tensorial para la desinfección del agua mediante el efecto oligodinámico"
 date = "2026-10-18"
 author = "legar"
 aliases = ["/puri"]
@@ -12,14 +12,17 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "purificac
 
 ### Ya disponible en RexMar/RexCobre [pídalo aquí](/contacto) { .destacado }
 
+#### Video demostración/explicación el cuarzo no está incluido. Ver debajo fotos reales del espiral tensorial con la medida del codo sagrado
+
 <iframe width="1164" height="727" src="https://www.youtube.com/embed/8VFEBXRHkhw" title="PURIFICAR AGUA CON UN HILO DE COBRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![](/images/puri1.jpg)
+![](/images/puri2.jpg)
+![](/images/puri3.jpg)
 
 # Espiral tensorial de cobre para la purificación y revitalización del agua
 
 La utilización del cobre para la desinfección del agua es una técnica milenaria que hoy encuentra un sólido respaldo en la metalurgia avanzada y la microbiología moderna. Al sumergir una **espiral de cobre tensorial** dentro de un depósito o jarra, se aprovecha el **efecto oligodinámico** del metal: la capacidad intrínseca de los iones de cobre para destruir bacterias, virus y microorganismos patógenos en concentraciones muy bajas, sin necesidad de recurrir a químicos agresivos o energía eléctrica externa.
-
-Este artículo detalla la base científica, los cálculos de diseño y un completo protocolo de fabricación DIY, formateado específicamente para ser integrado en un sitio web estático generado con **Zola SSG** bajo entornos Linux.
 
 ---
 
@@ -53,39 +56,6 @@ El **cobre tensorial** es un material de alta pureza sometido a un tratamiento t
 - Conductividad y tratamiento térmico: [Journal of Materials Science & Technology](https://doi.org/10.1016/j.jmst.2020.09.012)
 
 ---
-
-## 3. Diseño geométrico de la espiral
-
-Para optimizar el área de contacto con el líquido sin saturar el volumen de agua con iones, diseñamos una espiral de 5 vueltas con dimensiones idóneas para adaptarse a jarras o botellas estándar:
-
-* **Diámetro interno (ID):** 30 mm
-* **Diámetro externo (OD):** 60 mm
-* **Número de vueltas ($N$):** 5
-* **Paso entre espiras:** 10 mm (para asegurar flujo laminar y evitar zonas de estancamiento)
-
-### Cálculo de la longitud del alambre
-\[
-L = N \times \pi \times \frac{OD + ID}{2}
-\]
-\[
-L = 5 \times \pi \times \frac{60 + 30}{2} \approx 471\text{ mm}
-\]
-Se requiere cortar una pieza exacta de **471 mm** de alambre de cobre tensorial (calibre recomendado AWG 14 o AWG 16).
-
----
-
-## 4. Protocolo de fabricación DIY
-
-| Paso | Acción | Herramientas / Materiales | Referencia de apoyo |
-|------|--------|---------------------------|---------------------|
-| **1. Corte** | Medir y cortar el alambre de cobre tensorial a 471 mm exactos. | Cizalla de precisión o sierra de cinta | [Instructables](https://www.instructables.com/How-to-Cut-Copper-Wire-Accurately/) |
-| **2. Recocido** | Calentar a 400 °C durante 10 min y enfriar bruscamente en agua para fijar la estructura tensorial. | Soplete de gas o pequeño horno de cerámica | [JMST 2020](https://doi.org/10.1016/j.jmst.2020.09.012) |
-| **3. Modelado** | Enrollar el alambre alrededor de un mandril o guía cilíndrica manteniendo el paso de 10 mm. | Pinzas de punta redonda y molde impreso en 3D | [Thingiverse](https://www.thingiverse.com) |
-| **4. Limpieza** | Sumergir en una solución de vinagre blanco y bicarbonato para retirar impurezas y óxidos superficiales. | Vinagre, bicarbonato, cepillo de cerdas suaves | [Born for Life DIY](https://www.bornforlife.com/DIY-copper-polishing/) |
-| **5. Esterilización** | Enjuagar con alcohol isopropílico al 70% o agua destilada antes del primer uso. | Etanol o alcohol 70% | [CDC Guidelines](https://www.cdc.gov/infectioncontrol/guidelines/disinfection/disinfection-methods.html) |
-
----
-
 ## 5. Instrucciones de uso y mantenimiento
 
 1. **Inmersión:** Coloque la espiral desinfectada en el fondo de una jarra de vidrio o dispensador con capacidad de 1 a 2 litros de agua.
@@ -106,9 +76,8 @@ Se requiere cortar una pieza exacta de **471 mm** de alambre de cobre tensorial 
 
 * Instructables: How to Cut Copper Wire Accurately. Guía práctica https://www.instructables.com/
 
-
 <div align="center">
 
-[ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>
