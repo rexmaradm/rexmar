@@ -1,6 +1,6 @@
 +++
-title = " La tecnología de la torsión del anillo explicada por el propio inventor, Slim Spuling"
-description = " La tecnología de la torsión del anillo explicada por el propio inventor, Slim Spuling RexCobre"
+title = " La tecnología de la torsión del anillo explicada por el propio inventor, Slim Spurling"
+description = " La tecnología de la torsión del anillo explicada por el propio inventor, Slim Spurling RexCobre"
 date = "2026-10-16"
 author = "legar"
 aliases = ["/slim"]
@@ -16,7 +16,7 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 </div>
 
-# La tecnología de la torsión del anillo explicada por el propio inventor, Slim Spuling
+# La tecnología de la torsión del anillo explicada por el propio inventor, Slim Spurling
 
 <iframe width="605" height="454" src="https://www.youtube.com/embed/pqp1TfTJTa4" title="Tensor Rings and Cubit measurements explained by Slim Spurling." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
