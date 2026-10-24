@@ -53,11 +53,19 @@ Cuando el trisquel se elabora en **cobre**, el símbolo se enriquece con las pro
 
 ---
 
-### Ya disponible en RexCobre/RexMar el trisquel de cobre puro. versión Simple y versión Trenzada { .destacado }
+### Ya disponible en RexCobre/RexMar el trisquel de cobre puro. versión Simple 18  calibre/awg,  versión Trenzada  18 calibre/awg y versión 10 calibre/awg { .destacado }
 
 ![Trisquel ](/images/trisq.jpg)
 
 ![Trisquel Trenzado](/images/trisq2.0.jpg)
+
+![Trisquel 10 AWG](/images/tri10awg-1.jpg)
+
+![Trisquel 10 AWG](/images/tri10awg-2.jpg)
+
+![Trisquel 10 AWG](/images/tri10awg-3.jpg)
+
+![Trisquel 10 AWG](/images/tri10awg-4.jpg)
 
 <iframe width="787" height="442" src="https://www.youtube.com/embed/uokFoWl1DCM" title="🔺 EL TRISQUELION o TRISQUEL📜 a Través de la Historia: De los Celtas a la Actualidad." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
