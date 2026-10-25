@@ -1,5 +1,5 @@
 +++
-title = "Palito de cobre para tomar el pelo: fabricación con la medida del codo corto egipcio (10 AWG)"
+title = "Palito Egipcio de cobre para tomar el pelo: fabricación con la medida del codo corto egipcio (10 AWG)"
 description = "Guía completa — historia, física del cobre, medida egipcia de  palito de cabello con alambre 10 AWG. Incluye referencias científicas"
 date = "2026-10-24"
 author = "legar"
@@ -10,9 +10,20 @@ aliases = ["/palito"]
 tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 +++
 
+## Palito Egipcio terapeutico de cobre puro para el pelo
+
+### Ya disponible en RexMar/RexCobre [pídalo aquí](/contacto) { .destacado }
+
 ## Cómo se usa el palo para el pelo ejemplo de internet. 
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/1kGY2AteqvE" title="chopstick hair updo (wow she’s so Chinese)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![Palito Egipcio para pelo](/images/palito1.jpg)
+![Palito Egipcio para pelo](/images/palito2.jpg)
+![Palito Egipcio para pelo](/images/palito3.jpg)
+![Palito Egipcio para pelo](/images/palito4.jpg)
+![Palito Egipcio para pelo](/images/palito5.jpg)
+
 
 # Palito de cobre para tomar el pelo  
 _Un pequeño tubo de cobre que combina una antigua unidad de medida egipcia con las propiedades modernas del cobre._
