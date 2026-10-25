@@ -18,7 +18,7 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 #### El agua de mar es gratis, los precios corresponden al servicio de: extracción profunda, movilizaciónes al puerto, envase, marinería y filtrado 
 
--. *Nuevo! Conversión de libros pdf a audiolibros. [detalles:](https://th.org.pe/sociales/al)
+## Agua de Mar RexMar
 
 *1 botella de 850 ml  lt. * Agua de Mar  *  (en 1 botella de 850 ml) [detalles:](https://th.org.pe/b850)
 
@@ -46,7 +46,7 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 *Servicio de extracción de AdM profesional para su propio emprendimiento* [detalles:](https://th.org.pe/sociales/links/distribuidores1/servicio-de-extraccion-mayorista-de-adm-para-startups/)
 
-*1 Generador de ondas Schumann 7,83 Hz*  [detalles:](https://th.org.pe/home/formas-de-uso-y-tips/ondas-schumann-y-adm/)
+## Encurtidos/Fermentados
 
 *1 Chucrut artesanal Col _blanca_ 460gr*  por pedido, si no hay hecho, se hace en el momento y se puede consumir en 2 semanas. [detalles:](https://th.org.pe/chuc)
 
@@ -58,7 +58,21 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 *1 Cebollas Fermentadas 460gr* por pedido, se hace en el momento y se puede consumir en 2 semanas. [detalles](https://th.org.pe/cebo1)
 
-- Trisquel de cobre puro [detalles:](https://th.org.pe/trisq)
+## Cobre RexCobre
+
+- Trisquel tensorial de cobre puro calibre 18 AWG S/9 info: https://th.org.pe/t
+
+- Trisquel de cobre puro calibre 10 AWG S/18 info: https://th.org.pe/t
+
+- Anillo tensorial de cobre puro s/11 info: https://th.org.pe/anillo1
+
+- Antena tensorial de cobre puro s/18 info: https://th.org.pe/ant1
+
+- Espiral carpiano de cobre de cobre tensorial s/11 info: https://th.org.pe/espcarp
+
+_ Espiral tensorial de cobre para la purificación y revitalización del agua s/11 info: https://th.org.pe/puri
+
+- Palito Egipcio para el pelo s/15  info: https://th.org.pe/palito
 
 - Pulsera terapéutica de Cobre puro (1 cm ancho)   [detalles:](https://th.org.pe/pulseras)
 
@@ -69,6 +83,14 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 - *Collar Terapeutico de cobre puro para animales pequeños* [detalles:](https://th.org.pe/canimales) 
 
 - *Colgante Cuántico Proteccion EMF EMR de Cristal de Cuarzo y Alambre de cobre  [detalles:](https://th.org.pe/cuantico)
+
+##
+
+Varios
+
+* *Nuevo! Conversión de libros pdf a audiolibros. [detalles:](https://th.org.pe/sociales/al)
+
+*1 Generador de ondas Schumann 7,83 Hz*  [detalles:](https://th.org.pe/home/formas-de-uso-y-tips/ondas-schumann-y-adm/)
 
 Recojo es por Los Incas. Chorrillos
 
