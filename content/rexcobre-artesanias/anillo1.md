@@ -89,6 +89,8 @@ video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
 
 ![anillo calibre 18](/images/anillo3.jpg)
 
+<a name="paramag"></a>
+
 ### El paramagnetismo del cobre tensado amplifica la resonancia terrestre que estructura al agua
 
 ![](/images/paramag1.jpg)
