@@ -81,11 +81,22 @@ video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
 
 <iframe width="787" height="442" src="https://www.youtube.com/embed/7nc4GFQMQpI" title="Do Slim Spurling&#39;s Light-Life Rings Need to be Circular to Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![](/images/anillo1.jpg)
+![anillo calibre 10](/images/anillo10awg.jpg)
 
-![](/images/anillo2.jpg)
+![anillo calibre 18](/images/anillo1.jpg)
 
-![](/images/anillo3.jpg)
+![anillo calibre 18](/images/anillo2.jpg)
+
+![anillo calibre 18](/images/anillo3.jpg)
+
+### El paramagnetismo del cobre tensado amplifica la resonancia terrestre que estructura al agua
+
+![](/images/paramag1.jpg)
+
+### video completo, tiene subtitulos en español
+
+<iframe width="1155" height="480" src="https://www.youtube.com/embed/tIYAPZ4dK-k" title="Tensor Rings for water" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## 1. El codo real egipcio – una unidad milenaria
 
