@@ -31,7 +31,8 @@ El **codo real egipcio** (también llamado *cúbito real*) es una unidad de long
 | Designación | Valor medio | Comentario |
 |-------------|------------|------------|
 | **Codo real (Royal Cubit)** | **52,3 cm** (± 0,2 mm) | Medido en la famosa *vara de cobre* de la dinastía III (≈ 2600 a.C.) y confirmado por escaneo láser moderno. |
-| Codo corto | ≈ 45 cm | Usado en arquitectura menor. |
+| Codo Sagrado | ≈ 29,92 cm | Usado en arq. en gral.. |
+| Codo corto/Perdido | ≈ 45 cm | Usado en arquitectura menor. |
 | Codo largo | ≈ 63 cm | Variante del Nuevo Imperio. |
 | Palma (1/7 codo) | ≈ 7,5 cm | Subdivisión práctica. |
 | Dedo (1/28 codo) | ≈ 1,9 cm | Subdivisión mínima. |

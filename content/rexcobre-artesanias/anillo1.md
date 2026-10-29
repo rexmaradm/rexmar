@@ -1,6 +1,6 @@
 +++
 title = "Anillo tensorial de cobre con medida del codo real egipcio"
-description = "Diseño, cálculo y fabricación DIY de un anillo de cobre tensorial basado en la unidad de longitud egipcia del codo real."
+description = "anillo de cobre tensorial basado en la unidad de longitud egipcia del codo real."
 date = "2026-10-15"
 author = "legar"
 aliases = ["/anillo1"]
@@ -81,7 +81,28 @@ video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
 
 <iframe width="787" height="442" src="https://www.youtube.com/embed/7nc4GFQMQpI" title="Do Slim Spurling&#39;s Light-Life Rings Need to be Circular to Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![anillo calibre 10](/images/anillo10awg.jpg)
+### anillo codo Real
+
+![anillo calibre 10 codo Real](/images/anillo10awg.jpg)
+
+### anillo codo Real
+
+![anillo calibre 10 codo Real](/images/anillo10awgCR-1.jpg)
+
+### anillo codo Real
+
+![anillo calibre 10  codo Real](/images/anillo10awgCR-2.jpg)
+
+ ### anillo codo Real
+
+![anillo calibre 10  codo Real](/images/anillo10awgCR-3.jpg)
+
+ ### anillo codo Sagrado
+
+![anillo calibre 10 codo sagrado](/images/anillo10awgCS.jpg)
+
+### anillo codo Real
+
 
 ![anillo calibre 18](/images/anillo1.jpg)
 
