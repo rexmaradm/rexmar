@@ -9,7 +9,7 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 # para colaborar directamente con Solange, 
 
-## [Refugio de gatos con HIV de Solange](https://www.facebook.com/share/p/1CGmaSfZVm/)
+## [Refugio de gatos con HIV de Solange](https://www.facebook.com/profile.php?id=100090215647412)
 
 ## Donación para Solange Espinoza - 29/10/2023
 

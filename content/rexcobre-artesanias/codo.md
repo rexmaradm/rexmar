@@ -26,7 +26,7 @@ El **codo real egipcio** (también llamado *cúbito real*) es una unidad de long
 
 ---
 
-## 1. El codo real egipcio  
+## 1. El codo real egipcio medidas Egipcias 
 
 | Designación | Valor medio | Comentario |
 |-------------|------------|------------|
@@ -36,6 +36,21 @@ El **codo real egipcio** (también llamado *cúbito real*) es una unidad de long
 | Codo largo | ≈ 63 cm | Variante del Nuevo Imperio. |
 | Palma (1/7 codo) | ≈ 7,5 cm | Subdivisión práctica. |
 | Dedo (1/28 codo) | ≈ 1,9 cm | Subdivisión mínima. |
+
+## 2 Medidas adaptadas de Slim Spurling y Hans Becker
+
+ Slim Spurling y su colaborador, el científico Hans Becker, definieron las medidas basándose en una correspondencia teórica entre longitudes físicas (la circunferencia total del cable antes de unirse) y frecuencias sutiles medidas en megahercios (MHz)
+Éstas son las medidas a las que llegaron y con las que trabajamos en RexCobre/RexMar
+
+
+| Designación | Valor medio | Frecuencia MHz |
+|-------------|------------|------------|
+| ** Codo Sagrado (Sacred Cubit)**| **52,4 cm** (± 0,2 mm) | 144 MHz |
+| ** Codo Perdido (Lost / Nubian)**| **59,67 cm** (± 0,2 mm) | 177 MHz |
+| ** Codo de Empoderamiento (Empowerment)**| **73,3 cm** (± 0,2 mm) | 188 MHz |
+| ** Codo de Resonancia Terrestre**| **99,85 cm** (± 0,2 mm) | 333 MHz |
+| ** Codo Galáctico (Teotihuacán)**| **61,87 cm** (± 0,2 mm) | 144 MHz, 177 MHz, 188 MHz, 333 MHz y 764 MHz |
+
 
 **Fuentes**  
 
