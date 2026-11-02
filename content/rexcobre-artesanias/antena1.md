@@ -18,11 +18,21 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/dYKpscmwNiU" title="te enseño los beneficios de tener una antena de cobré en tu casa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Calibre 18 AWG torsionada
+
 ![](/images/antena1.jpg)
 
 ![](/images/antena2.jpg)
 
 ![](/images/antena3.jpg)
+
+### Calibre 10 AWG
+
+![](/images/antena4.jpg)
+
+![](/images/antena5.jpg)
+
+![](/images/antena6.jpg)
 
 # Antena tensorial de cobre: fusionando metrología egipcia y tecnología moderna
 
