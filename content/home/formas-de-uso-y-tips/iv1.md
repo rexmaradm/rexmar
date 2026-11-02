@@ -169,11 +169,6 @@ René Quinton (1847‑1925) postuló que el **agua de mar isotónica** replica e
 11. **Trace elements in human physiology** – *Front Nutr* 2020. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071227/  
 12. **Electrolyte management in critical care** – *Crit Care Med* 2019. https://pubmed.ncbi.nlm.nih.gov/31165303/  
 
---- 
-
-*Este artículo está pensado para su uso en un sitio creado con Zola SSG; las cabeceras de front‑matter ya están incluidas y el contenido está listo para copiar y publicar.*
-
-
 <div align="center">
 
 [ir a Inicio](/)

@@ -186,10 +186,6 @@ En comunidades de fermentación natural:
 5. **Compuestos bioactivos de la cebolla:**
    <a href="https://doi.org/10.1016/j.foodchem.2020.126926" target="_blank" rel="noopener noreferrer">Food Chemistry – Bioactive Compounds in Allium Vegetables (2020)</a>
 
----
-
-**Nota final:** Este artículo está diseñado para ser compilado con Zola SSG. Todos los enlaces usan `target="_blank"` y `rel="noopener noreferrer"` para abrirse en una nueva pestaña de forma segura. El formato Markdown se mantiene intacto para una correcta renderización en el sitio generado.
-
 <div align="center">
 
 [ir a Inicio](/)
