@@ -100,6 +100,7 @@ video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
  ### anillo codo Sagrado
 
 ![anillo calibre 10 codo sagrado](/images/anillo10awgCS.jpg)
+![anillo calibre 10 codo sagrado](/images/anillo10awgCS1.jpg)
 
 ### anillo codo Real
 

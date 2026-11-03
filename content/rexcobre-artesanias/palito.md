@@ -23,6 +23,7 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 ![Palito Egipcio para pelo](/images/palito3.jpg)
 ![Palito Egipcio para pelo](/images/palito4.jpg)
 ![Palito Egipcio para pelo](/images/palito5.jpg)
+![Palito Egipcio para pelo](/images/palito6.jpg)
 
 
 # Palito de cobre para tomar el pelo  
