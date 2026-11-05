@@ -14,6 +14,14 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 ### Ya disponible en RexMar/RexCobre [pídalo aquí](/contacto) { .destacado }
 
+### Resúmen de propiedades (más abajo explicado en detalle)
+
+- disipación de carga estática, puesta a tierra virtual
+- efecto antibacteriano 
+- una conexión simbólica con la geometría sagrada del Antiguo Egipto.
+- protección EMF
+
+
 ## Cómo se usa el palo para el pelo ejemplo de internet. 
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/1kGY2AteqvE" title="chopstick hair updo (wow she’s so Chinese)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

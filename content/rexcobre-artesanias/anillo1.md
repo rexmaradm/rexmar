@@ -19,6 +19,19 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
 # Anillo tensorial de cobre: fusión de la metrología egipcia y la metalurgia avanzada
 
 ---
+
+### Resúmen de propiedades (más abajo explicado en detalle)
+
+- amplifica la resonancia terrestre que estructura al agua (somos 70% agua)
+- Generación de campos ELF con corrientes mínimas (<50 hz) Mejora de microcirculación
+- Acción antimicrobial
+- Alivio del dolor articular
+- disipación de carga estática, puesta a tierra virtual
+- efecto antibacteriano
+- una conexión simbólica con la geometría sagrada del Antiguo Egipto.
+- protección EMF
+
+---
 Explicación de la importancia de la torsión y qué efectos crea, elija la pista en su idioma si no le sale automático en español..
 
 <!-- 1. Contenedor donde se cargará el reproductor -->
@@ -191,9 +204,9 @@ El anillo de de alambre  genera campos ELF útiles y una superficie antibacteria
 
 Wikipedia – Cúbito (unidad de medida): https://es.wikipedia.org/wiki/C%C3%BAbito_(unidad_de_medida)
 
-World History Encyclopedia – Egyptian Cubit: https://www.worldhistory.org/Egyptian_Cubit/
+World History Encyclopedia – Egyptian Cubit: https://www.worldhistory.org/trans/es/1-11685/arquitectura-del-antiguo-egipto/
 
-Metropolitan Museum – Egyptian Measuring Rods: https://www.metmuseum.org/toah/hd/egyc/hd_egyc.htm
+Metropolitan Museum – Egyptian Measuring Rods: https://www.metmuseum.org/art/collection/search/554519
 
 Materials Letters 2020 – Anisotropía mecánica del cobre: https://doi.org/10.1016/j.matlet.2020.127341
 
