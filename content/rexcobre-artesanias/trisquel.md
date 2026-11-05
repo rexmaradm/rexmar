@@ -28,18 +28,26 @@ og_image = "https://www.th.org.pe./images/trisq.jpg"
 
 [Vease también](/trisq1) - [ir a Inicio](/)
 
-### Resúmen: 
+- Estructura el agua
+- Amuleto de suerte
+- Amuleto de protección
+- Protege de las EMF
+- Amuleto de sanación
 
-> Estructura el agua
->
-> Amuleto de suerte
->
-> Amuleto de protección
->
-> Protege de las EMF
->
-> Amuleto de sanación
+### Resúmen de propiedades (más abajo explicado en detalle)
 
+- **Mejora el sueño**
+- amplifica la resonancia terrestre que **estructura al agua (somos 70% agua)**
+- Generación de campos ELF con corrientes mínimas (<50 hz) **Mejora de microcirculación**
+- **Acción antimicrobial**
+- Alivio del **dolor** articular
+- **disipación de carga estática**, puesta a tierra virtual
+- **efecto antibacteriano**
+- una conexión simbólica con la geometría sagrada del Antiguo Egipto.
+- **protección EMF**
+- Amuleto de **suerte**
+- Amuleto de **protección**
+- Amuleto de **sanación**
 
 # 1. Introducción
 

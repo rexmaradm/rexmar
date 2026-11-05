@@ -20,6 +20,18 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
 
 ### Ya disponible en RexMar/RexCobre el Espiral carpiano  [pídalo aquí](/contacto) { .destacado }
 
+### Resúmen de propiedades (más abajo explicado en detalle)
+
+- **Mejora el sueño**
+- amplifica la resonancia terrestre que **estructura al agua (somos 70% agua)**
+- Generación de campos ELF con corrientes mínimas (<50 hz) **Mejora de microcirculación**
+- **Acción antimicrobial**
+- Alivio del **dolor** articular
+- **disipación de carga estática**, puesta a tierra virtual
+- **efecto antibacteriano**
+- una conexión simbólica con la geometría sagrada del Antiguo Egipto.
+- **protección EMF**
+
 <video controls width="66%">
   <source src="/images/espcarp1.mp4" type="video/mp4">
   Tu navegador no soporta video HTML5.

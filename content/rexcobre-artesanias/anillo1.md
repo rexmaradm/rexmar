@@ -22,17 +22,18 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
 
 ### Resúmen de propiedades (más abajo explicado en detalle)
 
-- amplifica la resonancia terrestre que estructura al agua (somos 70% agua)
-- Generación de campos ELF con corrientes mínimas (<50 hz) Mejora de microcirculación
-- Acción antimicrobial
-- Alivio del dolor articular
-- disipación de carga estática, puesta a tierra virtual
-- efecto antibacteriano
+- **Mejora el sueño**
+- amplifica la resonancia terrestre que **estructura al agua (somos 70% agua)**
+- Generación de campos ELF con corrientes mínimas (<50 hz) **Mejora de microcirculación**
+- **Acción antimicrobial**
+- Alivio del **dolor** articular
+- **disipación de carga estática**, puesta a tierra virtual
+- **efecto antibacteriano**
 - una conexión simbólica con la geometría sagrada del Antiguo Egipto.
-- protección EMF
+- **protección EMF**
 
 ---
-Explicación de la importancia de la torsión y qué efectos crea, elija la pista en su idioma si no le sale automático en español..
+#### Explicación de la importancia de la torsión y qué efectos crea, elija la pista en su idioma si no le sale automático en español..
 
 <!-- 1. Contenedor donde se cargará el reproductor -->
 <div id="yt-player"></div>
