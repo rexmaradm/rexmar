@@ -33,6 +33,10 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 ![Palito Egipcio para pelo](/images/palito5.jpg)
 ![Palito Egipcio para pelo](/images/palito6.jpg)
 
+## Nuevo ! ahora palito egipcio para los más chicos ! {#chicos}
+
+![Palito Egipcio para pelo para niños](/images/palito7.jpg)
+
 
 # Palito de cobre para tomar el pelo  
 _Un pequeño tubo de cobre que combina una antigua unidad de medida egipcia con las propiedades modernas del cobre._
