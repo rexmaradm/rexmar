@@ -14,6 +14,8 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 [![](/wp-content/uploads/2023/10/logowhatsapp133.png)](https://api.whatsapp.com/send?phone=51904743809&text=Hola%2C%20me%20comunicaba%20por%20productos)
 
+@ Atención puede que ésta lista no esté actualizada
+
 #### El agua de mar (AdM) se extrae más allá de los 3 km. de distancia y a 11 mts. de profundidad (ver videos de extracción [](www.th.org.pe) ) sólo se hace un microfiltrado por gravedad en frio, en filtro cerámico de 0,2 micras, para evitar una remota posibilidad que pase algún patógeno terrestre. Es el mismo método que usaba el célebre René Quinton
 
 #### El agua de mar es gratis, los precios corresponden al servicio de: extracción profunda, movilizaciónes al puerto, envase, marinería y filtrado 
@@ -60,19 +62,24 @@ tags = ["rexmar", "agua de mar", "Perú", "biología", "salud", "ciencia"]
 
 ## Cobre RexCobre
 
-- Trisquel tensorial de cobre puro calibre 18 AWG S/9 info: https://th.org.pe/t
+- Trisquel tensorial de cobre puro calibre 18 AWG info: https://th.org.pe/t
 
-- Trisquel de cobre puro calibre 10 AWG S/18 info: https://th.org.pe/t
+- Trisquel de cobre puro calibre 10 AWG info: https://th.org.pe/t
 
-- Anillo tensorial de cobre puro s/11 info: https://th.org.pe/anillo1
+- Anillo tensorial de cobre puro info: https://th.org.pe/anillo1
 
-- Antena tensorial de cobre puro s/18 info: https://th.org.pe/ant1
+- Antena tensorial de cobre puro  info: https://th.org.pe/ant1
 
-- Espiral carpiano de cobre de cobre tensorial s/11 info: https://th.org.pe/espcarp
+- Espiral carpiano de cobre de cobre tensorial info: https://th.org.pe/espcarp
 
-_ Espiral tensorial de cobre para la purificación y revitalización del agua s/11 info: https://th.org.pe/puri
+_ Espiral tensorial de cobre para la purificación y revitalización del agua  info: https://th.org.pe/puri
 
-- Palito Egipcio para el pelo s/15  info: https://th.org.pe/palito
+- Palito Egipcio para el pelo   info: https://th.org.pe/palito
+
+- Palito Egipcio para el pelo oara niños   info: https://th.org.pe/palito#chicos
+
+
+- Brazalete Egipcio de cobre puro  calibre 10 AWG  info: https://th.org.pe/braza
 
 - Pulsera terapéutica de Cobre puro (1 cm ancho)   [detalles:](https://th.org.pe/pulseras)
 

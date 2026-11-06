@@ -26,7 +26,7 @@ tags = ["colofon", "colophon", "rexmar", "agua de mar", "Perú", "biología", "s
 
 ### WC   LabWC (actual)
 
-### Utilitarios del sistema timeshift  (actual)  nemo fm qtfm dolphin (actual)  nemo (actual) zellij (actual) xfce-panel  (actual)  notify-send  (actual) oh my zsh (actual) xterm  konsole (actual)
+### Utilitarios del sistema timeshift  (actual)  nemo fm qtfm dolphin caja (actual)  nemo (actual) zellij (actual) xfce-panel  (actual)  notify-send  (actual) oh my zsh (actual) xterm  konsole (actual)
 
 ### Utilidades en general gimp  (actual) vlc  (actual) localsend  (actual) mousepad  (actual) vi vim  (actual) qtpass  (actual) kdenlive (actual) openshot libreoffice  (actual) shotwell audacity  (actual) mpv  (actual) speech note  Subtitle composer  (actual)  Subtitulos de Gnome gaupol galculator kcalc (actual) clamav  (actual) clamtk kgpg  (actual) neovim ventoy  (actual)  Gparted  (actual) ffmpeg  (actual) yt-dlp  (actual) 
 
