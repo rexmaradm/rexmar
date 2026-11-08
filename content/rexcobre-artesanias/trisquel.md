@@ -75,6 +75,10 @@ Cuando el trisquel se elabora en **cobre**, el símbolo se enriquece con las pro
 
 ![Trisquel 10 AWG](/images/tri10awg-4.jpg)
 
+### nuevo trisquel de 14 AWG/calibre 
+
+![Trisquel 14 AWG](/images/tri14awg-1.jpg)
+
 <iframe width="787" height="442" src="https://www.youtube.com/embed/uokFoWl1DCM" title="🔺 EL TRISQUELION o TRISQUEL📜 a Través de la Historia: De los Celtas a la Actualidad." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="605" height="454" src="https://www.youtube.com/embed/lTq1n0QJeRM" title="Triskelion Energy Movement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
