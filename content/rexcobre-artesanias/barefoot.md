@@ -49,7 +49,7 @@ tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sag
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-16.jpg)
 
 
-## 4 . Listo !! el largo del alambre Egipcio llegará hasta el punto de acupuntura R1 que se supone es el mas receptivo de la puesta a tierra 
+## 4 . Listo !! el largo del alambre Egipcio llegará hasta muchos puntos de acupuntura quizás hasta el punto de  R1 (y varios más en el camino) que se supone es el mas receptivo de la puesta a tierra 
 
 <video controls width="66%">
   <source src="/images/atierrakit.mp4" type="video/mp4">
