@@ -10,7 +10,7 @@ aliases = ["/braza"]
 tags = ["rexmar", "agua de mar", "Perú", "cobre", "salud", "ciencia"]
 +++
 
-## Baralete Egipcio terapeutico de cobre puro
+## Brazalete Egipcio terapeutico de cobre puro
 
 ### Ya disponible en RexMar/RexCobre [pídalo aquí](/contacto) { .destacado }
 
@@ -52,8 +52,8 @@ Se trata de una herramienta manual, hecha con **alambre de cobre calibre 10 
 | Propiedad | Valor típico | Relevancia para el brazalete |
 |-----------|--------------|----------------------------|
 | Diámetro | 2.588 mm (≈ 0.102 in) | Proporciona la rigidez necesaria para sujetarse al brazo sin doblarse. |
-| Conductividad eléctrica | 58 MS · m⁻¹ (≈ 100 % IACS) | Permite que cualquier carga estática del cuero cabelludo se descargue de forma segura. |
-| Actividad antibacteriana | Reducción ≥ 99.9 % de *E. coli* y *S. aureus* en ≤ 2 h | Limita la proliferación de microorganismos en la superficie del palito. |
+| Conductividad eléctrica | 58 MS · m⁻¹ (≈ 100 % IACS) | Permite que cualquier carga estática se descargue de forma segura. |
+| Actividad antibacteriana | Reducción ≥ 99.9 % de *E. coli* y *S. aureus* en ≤ 2 h | Limita la proliferación de microorganismos en la superficie del brazalete. |
 
 **Fuentes científicas**  
 
@@ -80,7 +80,7 @@ Se trata de una herramienta manual, hecha con **alambre de cobre calibre 10 
 El cobre, al ser un excelente conductor, **actúa como una “antena de tierra”** pasiva: la carga fluye a través del alambre hacia el suelo y desaparece, reduciendo chispas que pueden dañar la cutícula capilar.
 
 ### 4.2. Reducción microbiana  
-La superficie de cobre elimina bacterias y hongos en < 2 h, lo que disminuye el riesgo de infecciones cruzadas entre clientes de peluquería o de irritaciones en el cuero cabelludo.
+La superficie de cobre elimina bacterias y hongos en < 2 h, lo que disminuye el riesgo de infecciones cruzadas 
 
 ### 4.3. Soporte mecánico estable  
 El diámetro de 10 AWG mantiene una rigidez suficiente para durar toda la vida, a la vez que permite una ligera flexión para adaptar la forma de su brazo.
