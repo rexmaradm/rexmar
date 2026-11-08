@@ -10,6 +10,12 @@ aliases = ["/tierra"]
 tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sagrada", "Perú", "biología", "salud", "ciencia"]
 +++
 
+<div align="center">
+
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+
+</div>
+
 # Kit de puesta a tierra Egipcio (DIY) (hágalo Ud. mismo) para zapatos/sandalias
 
 ## Qué incluye el kit?
@@ -117,7 +123,9 @@ Para quienes deseen explorar más sobre la filosofía del contacto con la tierra
 <iframe width="315" height="576" src="https://www.youtube.com/embed/7H7iY30TV5g" title="Do Grounding Shoes Actually Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div align="center">
 
+<div align="center">
 
-[ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
 
 </div>
+
