@@ -104,6 +104,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 </script>
 
+### Ya disponible en RexCobre/RexMar el [kit de puesta a tierra](/tierra) / grounding / earthing para el calzado { .destacado }
 
 Entrevista de Griselda Donatucci a RexMar Agua de Mar
 

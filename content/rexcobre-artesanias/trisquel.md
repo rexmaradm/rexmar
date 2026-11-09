@@ -61,7 +61,7 @@ Cuando el trisquel se elabora en **cobre**, el símbolo se enriquece con las pro
 
 ---
 
-### Ya disponible en RexCobre/RexMar el trisquel de cobre puro. versión Simple 18  calibre/awg,  versión Trenzada  18 calibre/awg y versión 10 calibre/awg { .destacado }
+### Ya disponible en RexCobre/RexMar el trisquel de cobre puro. versión Simple 18  calibre/awg,  versión Trenzada  18 calibre/awg y versión 10 y 14 calibre/awg { .destacado }
 
 ![Trisquel ](/images/trisq.jpg)
 

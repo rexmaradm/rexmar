@@ -28,7 +28,7 @@ tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sag
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-3.jpg)
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-8.jpg)
 
-# Instrucciones para colocarlo en su calzado
+# Instrucciones paso a paso para colocarlo en su calzado
 
 ## 1 - Haga con el clavo y un martillo un agujero en la parte posterior de su calzado, como puede ver en las fotos debajo
 
@@ -38,7 +38,7 @@ tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sag
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-6.jpg)
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-7.jpg)
 
-## 2 . Introduzca el alambre de cobre con la espiral hacia la tierra, como puede ver en la imágen debajo
+## 2 . Introduzca el alambre de cobre con la espiral hacia la tierra, como puede ver en las imágenes debajo
 
 
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-9.jpg)
@@ -46,8 +46,27 @@ tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sag
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-11.jpg)
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-12.jpg)
 
+## 3 . para la parte del pié 2 opciones: 
 
-## 3 . incline  el alambre de cobre hacia la punta del calzado, como puede ver en la imágen debajo
+
+## 3.1 (recomendada) . incline  el alambre de cobre hacia la punta del calzado, como puede ver en las imágenes debajo
+
+##    3.1.1  
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-17.jpg)
+
+##    3.1.2 con una pinza cualquiera empiece a enroscar como puede ver en las imágenes debajo
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-18.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-19.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-20.jpg)
+
+## Listo !!
+
+<video controls width="66%">
+  <source src="/images/atierrakit1.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+## 3.2 . si no se anima con la pinza, incline  el alambre de cobre hacia la punta del calzado, como puede ver en las imágenes debajo
 
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-13.jpg)
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-14.jpg)
@@ -55,14 +74,14 @@ tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sag
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-16.jpg)
 
 
-## 4 . Listo !! el largo del alambre Egipcio llegará hasta muchos puntos de acupuntura quizás hasta el punto de  R1 (y varios más en el camino) que se supone es el mas receptivo de la puesta a tierra 
+## 4 . Listo !! el largo del alambre Egipcio llegará hasta muchos puntos de acupuntura 
 
 <video controls width="66%">
   <source src="/images/atierrakit.mp4" type="video/mp4">
   Tu navegador no soporta video HTML5.
 </video>
 
-## 5 -  al sacar su pié sostenga el alambre para que no se trabe con la planta del pié o la media/soquete
+## 5 -  Si optó por dejar el alambre alargado, al sacar su pié sostenga el alambre para que no se trabe con la planta del pié o la media/soquete
 
 
 # Explicación de las bondades de la puesta a tierra, grounding o earthing
