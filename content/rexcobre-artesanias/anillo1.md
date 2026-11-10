@@ -80,17 +80,6 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
   }
 </script>
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/rzo-yDfiRdI" title="For EMF protection - Shungite or Tensor Ring?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="315" height="576" src="https://www.youtube.com/embed/xGOW_F0CLjo" title="Tensor rings and orgonite balancing the electromagnetic field" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-video a modo de ejemplo de usos,  no es propio. créditos al que lo hizo.
-
-<iframe width="315" height="576" src="https://www.youtube.com/embed/-xETHO2W3eE" title="Using a tensor ring to transmute EMFs👨🏻‍🌾 #emf #tensor #orgone #tensortech" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="1164" height="727" src="https://www.youtube.com/embed/lRG3VV2sPGI" title="Tensor Ring Placed on Electric Meter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ### Los anillos deben ser exactamente circulares para funcionar?
 
 <iframe width="787" height="442" src="https://www.youtube.com/embed/7nc4GFQMQpI" title="Do Slim Spurling&#39;s Light-Life Rings Need to be Circular to Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
