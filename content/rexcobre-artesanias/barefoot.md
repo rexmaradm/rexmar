@@ -30,8 +30,8 @@ tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sag
 
 # Instrucciones paso a paso para colocarlo en su calzado
 
-## 1 - Haga con el clavo y un martillo un agujero en la parte posterior de su calzado, como puede ver en las fotos debajo
-
+## 1 - Haga con el clavo incluido y un martillo un agujero en la parte posterior de su calzado, como puede ver en las fotos debajo
+       puede que necesite una pinza para sacar el clavo si quedó muy duro.
 
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-4.jpg)
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-5.jpg)
@@ -81,8 +81,8 @@ tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sag
   Tu navegador no soporta video HTML5.
 </video>
 
-## 5 -  Si optó por dejar el alambre alargado, al sacar su pié sostenga el alambre para que no se trabe con la planta del pié o la media/soquete
-
+## 5 -  Si optó por dejar el alambre alargado, al sacar su pié sostenga el alambre para que no se trabe con la planta del pié o la media/soquete.
+        Al estar ahora su pié a tierra, tenga las precuaciones similares a estar caminando descalzo.
 
 # Explicación de las bondades de la puesta a tierra, grounding o earthing
 
@@ -141,6 +141,44 @@ Para quienes deseen explorar más sobre la filosofía del contacto con la tierra
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/7H7iY30TV5g" title="Do Grounding Shoes Actually Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div align="center">
+
+# FAQs - Preguntas Frecuentes 
+
+# Preguntas Frecuentes sobre Calzado Grounding
+
+El calzado grounding (o earthing) está diseñado con materiales conductores en la suela para conectar eléctricamente el cuerpo con la carga de electrones de la Tierra. Su efectividad depende **exclusivamente** de la conductividad de la superficie sobre la que se camina.
+
+## 1. ¿En qué superficies funciona al 100%?
+El calzado grounding ofrece su máxima efectividad en superficies naturales conductoras que permiten el flujo de electrones:
+- **Césped o hierba** (especialmente si está húmedo o con rocío) [[29]].
+- **Tierra o suelo natural** sin cubrir [[23]].
+- **Arena mojada** (la arena seca es menos conductora) [[29]].
+- **Hormigón o concreto sin sellar** (el concreto sin tratamiento químico es altamente conductor) [[34]].
+- **Ladrillo o piedra natural sin tratar** en contacto directo con el suelo [[23]].
+
+## 2. ¿En qué superficies funciona en menor medida o de forma condicional?
+La conductividad en estos materiales depende de factores externos como la humedad ambiental o el grado de tratamiento del material:
+- **Madera exterior húmeda** (la madera seca es aislante, pero al mojarse puede conducir ligeramente) [[29]].
+- **Hormigón parcialmente sellado** o con barnices desgastados (la efectividad es irregular) [[34]].
+- **Piedra o adoquines con humedad superficial** (si están completamente secos, la conducción es mínima) [[29]].
+
+## 3. ¿En qué superficies NO funcionará?
+Estos materiales son aislantes eléctricos y bloquean por completo la conexión a tierra, anulando el efecto del calzado:
+- **Asfalto, alquitrán y tarmac** (derivados del petróleo, son aislantes) [[35]].
+- **Caucho, goma EVA y suelas sintéticas convencionales** [[30]].
+- **Baldosas, cerámica o porcelanato** (suelos interiores sellados) [[34]].
+- **Alfombras y moquetas** (actúan como barrera aislante) [[29]].
+- **Madera seca** (tarimas o decks interiores sin humedad) [[29]].
+- **Vinilo y suelos laminados** [[32]].
+
+## 4. ¿Cómo sé si una superficie es conductora?
+Regla práctica: si la superficie es un derivado del petróleo (asfalto, plástico, vinilo) o está sellada con barnices impermeables, **no es conductora**. Si es un material natural poroso que retiene humedad ambiental (tierra, césped, concreto sin pintar), **sí lo es** [[37]].
+
+## 5. Recomendaciones de uso y mantenimiento
+- **Limpieza:** Mantén la suela del calzado libre de barro seco, cera o residuos que puedan actuar como aislante. Límpiala con un paño húmedo [[28]].
+- **Uso urbano:** En ciudades, busca parches de césped, tierra o concreto sin sellar para obtener el beneficio. Caminar sobre asfalto con calzado grounding no produce efecto alguno [[32]].
+- **Verificación:** Puedes usar un multímetro para medir la resistencia entre tu piel y el suelo; un valor bajo (idealmente < 100 kΩ) indica una conexión efectiva [[28]].
+
 
 <div align="center">
 
