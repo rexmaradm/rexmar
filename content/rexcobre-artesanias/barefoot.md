@@ -20,13 +20,12 @@ tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sag
 
 ## Qué incluye el kit?
 
-- 2 alambres calibre 14 AWG con espiral Egipcia en un lado (lado de tierra), cortados a la medida del antiguo Codo Sagrado Egipcio.
+- 2 alambres calibre 14 AWG tensionados (tecnología de Slim Spuring) con espiral Egipcia en un lado (lado de tierra), cortados a la medida del antiguo Codo Sagrado Egipcio.
 - 1 clavo acero para hacer los agujeros
 
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-1.jpg)
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-2.jpg)
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-3.jpg)
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-8.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-21.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-22.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-23.jpg)
 
 # Instrucciones paso a paso para colocarlo en su calzado
 
@@ -41,10 +40,9 @@ tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sag
 ## 2 . Introduzca el alambre de cobre con la espiral hacia la tierra, como puede ver en las imágenes debajo
 
 
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-9.jpg)
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-10.jpg)
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-11.jpg)
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-12.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-24.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-25.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-26.jpg)
 
 ## 3 . para la parte del pié 2 opciones: 
 
@@ -52,12 +50,12 @@ tags = ["rexmar", "grounding", "biohacking", "salud holística", "geometría sag
 ## 3.1 (recomendada) . incline  el alambre de cobre hacia la punta del calzado, como puede ver en las imágenes debajo
 
 ##    3.1.1  
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-17.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-27.jpg)
 
 ##    3.1.2 con una pinza cualquiera empiece a enroscar como puede ver en las imágenes debajo
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-18.jpg)
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-19.jpg)
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-20.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-28.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-29.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-30.jpg)
 
 ## Listo !!
 
