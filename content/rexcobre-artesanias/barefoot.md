@@ -16,7 +16,7 @@ tags = ["rexmar", "grounding", "biohacking", "slim-spurling", "geometría-sagrad
 
 </div>
 
-# Kit de puesta a tierra Egipcio (DIY) (hágalo Ud. mismo) para zapatos/sandalias
+# Kit de puesta a tierra Egipcio (DIY) (hágalo Ud. mismo) para cualquier calzado
 
 ## Qué incluye el kit?
 
@@ -72,7 +72,7 @@ tags = ["rexmar", "grounding", "biohacking", "slim-spurling", "geometría-sagrad
 ![Puesta a tierra calibre 14 AWG](/images/atierrakit-16.jpg)
 
 
-## 4 . Listo !! el largo del alambre Egipcio llegará hasta muchos puntos de acupuntura 
+## 4 . Listo !! 
 
 <video controls width="66%">
   <source src="/images/atierrakit.mp4" type="video/mp4">
@@ -83,6 +83,10 @@ tags = ["rexmar", "grounding", "biohacking", "slim-spurling", "geometría-sagrad
         Al estar ahora su pié a tierra, tenga las precuaciones similares a estar caminando descalzo.
 
 # El grounding /earthing explicado, aunando la tecnología del códo egipcio y el cobre tensionado de Slim Spurling
+
+### La importnacia de estar conectado a tierra, si no sale en español, haga click en la ruedita  (arriba a la derecha del video) y allí elija la pista en español
+
+<iframe width="764" height="430" src="https://www.youtube.com/embed/E46eaoM0i_o" title="Earthing and Grounding Science: Measuring Body Voltage &amp; ELF EMF Effects on The Human Body" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 En el ecosistema urbano moderno, la desconexión eléctrica con la Tierra es casi total. El uso de suelas de caucho, asfalto y la exposición constante a campos electromagnéticos artificiales (EMF) nos han aislado de la carga negativa natural del planeta. Esta "desconexión" se ha relacionado con un aumento en la inflamación crónica y el estrés oxidativo.
 
@@ -145,9 +149,12 @@ Integrar la tecnología de **Slim Spurling** con las dimensiones del **Codo Sagr
 * [Earthing Institute](https://earthinginstitute.net/) (Fundamentos del Earthing).
 * [Wikipedia - Royal Cubit](https://en.wikipedia.org/wiki/Royal_cubit) (Información histórica sobre la medida egipcia).
 
+### 2 tipos distintos de prueba con un multitester 
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/7H7iY30TV5g" title="Do Grounding Shoes Actually Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div align="center">
+
+<iframe width="315" height="576" src="https://www.youtube.com/embed/qw6SkqxhYr4" title="Grounding Your Body And How To Measure // DC Voltage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # FAQs - Preguntas Frecuentes {#faq}
 
