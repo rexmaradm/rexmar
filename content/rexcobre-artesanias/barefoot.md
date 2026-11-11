@@ -18,6 +18,10 @@ tags = ["rexmar", "grounding", "biohacking", "slim-spurling", "geometría-sagrad
 
 # Kit de puesta a tierra Egipcio (DIY) (hágalo Ud. mismo) para cualquier calzado
 
+### Beneficios de estar a tierra (grounding o Earthing)
+
+<iframe width="315" height="576" src="https://www.youtube.com/embed/b3DhX5fuXjw" title="7 beneficios del Earthing o Grounding #earthing #grounding #naturaleza #drdanisubi #youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Qué incluye el kit?
 
 - 2 alambres calibre 14 AWG tensionados (tecnología de Slim Spuring) con espiral Egipcia en un lado (lado de tierra), cortados a la medida del antiguo Codo Sagrado Egipcio.
