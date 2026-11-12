@@ -36,9 +36,8 @@ Rumble("play", {"video":"v7g178k","div":"rumble_v7g178k"});</script>
 - 2 alambres calibre 14 AWG tensionados (tecnología de Slim Spuring) con espiral Egipcia en un lado (lado de tierra), cortados a la medida del antiguo Codo Sagrado Egipcio.
 - 1 clavo acero para hacer los agujeros
 
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-21.jpg)
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-22.jpg)
-![Puesta a tierra calibre 14 AWG](/images/atierrakit-23.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-1.jpg)
+![Puesta a tierra calibre 14 AWG](/images/atierrakit-2.jpg)
 
 # Instrucciones paso a paso para colocarlo en su calzado
 
