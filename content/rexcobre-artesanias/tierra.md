@@ -12,7 +12,7 @@ tags = ["rexmar", "grounding", "biohacking", "slim-spurling", "geometría-sagrad
 
 <div align="center">
 
-[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [Ver más info sobre tierra/grounding/earthing](/tierra1) - [ir a Inicio](/)
 
 </div>
 
