@@ -31,6 +31,8 @@ Rumble("play", {"video":"v7g178k","div":"rumble_v7g178k"});</script>
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/b3DhX5fuXjw" title="7 beneficios del Earthing o Grounding #earthing #grounding #naturaleza #drdanisubi #youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="764" height="430" src="https://www.youtube.com/embed/o5uNPJjGKnM" title="Beneficios del GROUNDING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Qué incluye el kit?
 
 - 2 alambres calibre 14 AWG tensionados (tecnología de Slim Spuring) con espiral Egipcia en un lado (lado de tierra), cortados a la medida del antiguo Codo Sagrado Egipcio.
