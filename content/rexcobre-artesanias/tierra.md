@@ -29,6 +29,12 @@ Rumble("play", {"video":"v7g178k","div":"rumble_v7g178k"});</script>
 
 ### Beneficios de estar a tierra (grounding o Earthing)
 
+## Video de la sangre antes y después del grounding
+
+<iframe width="764" height="430" src="https://www.youtube.com/embed/bacFHqBh7a8?start=650&end=664" title="Beneficios del Grounding/Earthing Versión corta en español" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 <iframe width="315" height="576" src="https://www.youtube.com/embed/b3DhX5fuXjw" title="7 beneficios del Earthing o Grounding #earthing #grounding #naturaleza #drdanisubi #youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="764" height="430" src="https://www.youtube.com/embed/o5uNPJjGKnM" title="Beneficios del GROUNDING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -99,6 +105,12 @@ Rumble("play", {"video":"v7g178k","div":"rumble_v7g178k"});</script>
 # El grounding /earthing explicado, aunando la tecnología del códo egipcio y el cobre tensionado de Slim Spurling
 
 ### La importnacia de estar conectado a tierra, si no sale en español, haga click en la ruedita  (arriba a la derecha del video) y allí elija la pista en español
+
+## Porqué el Grounding alcaliniza el organismo?
+
+### A mayor voltaje negativo (puesta a tierra/ grounding) mayor PH, como puede ver en la tabla debajo
+
+![voltaje y PH](/images/PH-Volt.png)
 
 <iframe width="764" height="430" src="https://www.youtube.com/embed/E46eaoM0i_o" title="Earthing and Grounding Science: Measuring Body Voltage &amp; ELF EMF Effects on The Human Body" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

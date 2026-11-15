@@ -20,6 +20,12 @@ tags = ["rexmar", "grounding", "biohacking", "slim-spurling", "geometría-sagrad
 ### Si no lo ve en español, haga clik en la ruedita o los 3 puntitos y elija la pista en español o los subtítulos
 ### Los que muestran pantalla negra es porque hay que verlos en Youtube, haga click en el logo de Youtube
 
+<iframe width="764" height="430" src="https://www.youtube.com/embed/9gWVoBge-6M" title="Scientific Reasons Why Earthing &amp; Grounding Heals, Explained Simply by a Physician &amp; Neuroscientist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="764" height="430" src="https://www.youtube.com/embed/FFio155APgU" title="Grounding Rewires Your Body in 3 Minutes with ELECTRIC Results | TUH #008" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="764" height="430" src="https://www.youtube.com/embed/bacFHqBh7a8" title="Beneficios del Grounding/Earthing Versión corta en español" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="764" height="430" src="https://www.youtube.com/embed/S25956TKciQ" title="Unlocking the POWER of EARTHING &amp; GROUNDING with Dr. Gaetan Chevalier" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="315" height="576" src="https://www.youtube.com/embed/sHEL_sw7VCU" title="How To Test Grounding Shoes Using Your Body Voltage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
