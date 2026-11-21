@@ -16,9 +16,11 @@ tags = ["rexmar", "agua de mar", "Perú", "cobre", "cobre tensorial", "codo egip
 
 </div>
 
-# Anillo tensorial de cobre: fusión de la metrología egipcia y la metalurgia avanzada
+# Anillo tensorial de cobre: fusión de la metrología egipcia y la metalurgia avanzada {#ani}
 
 ---
+
+### Testimonios [Click aquí](#tes) { .destacado }
 
 ### Resúmen de propiedades (más abajo explicado en detalle)
 
@@ -223,10 +225,13 @@ CDC – Guía de desinfección de superficies: https://www.cdc.gov/infectioncont
 
 Thingiverse – Plantilla STL para anillo (codo egipcio): https://www.thingiverse.com/thing:2189113
 
+## Testimonios del uso del anillo tensorial {#tes}
+
+### CB
 
 
 <div align="center">
 
-[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir a Inicio](/)
+[Ver más prod. de Cobre](/rexcobre-artesanias/) - [ir arriba](#ani)  - [ir a Inicio](/)
 
 </div>
