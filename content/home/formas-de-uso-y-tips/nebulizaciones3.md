@@ -118,7 +118,7 @@ Los centros de talasoterapia generan una niebla de sales marinas (1‑5 µm) q
 
 | Paso | Acción |
 |------|--------|
-| 1. **Seleccionar nebulizador** | Preferir nebulizador de compresor o de malla *mesh* (no ultrasónico, pues el calor puede afectar algunos minerales). |
+| 1. **Seleccionar nebulizador** | Preferir nebulizador de compresor o de malla *mesh* (no ultrasónico, pues el calor puede afectar algunos minerales/plancton). |
 | 2. **Higiene** | Lavar cazoleta y mascarilla con agua tibia y jabón neutro; enjuagar bien y secar al aire. |
 | 3. **Temperatura del líquido** | Calentar el agua de mar a **≈ 37 °C** (temperatura corporal) para evitar irritación por frío. |
 | 4. **Carga** | Verter 3‑5 ml de la solución elegida en la cazoleta. No mezclar con otros fármacos salvo indicación médica. |
